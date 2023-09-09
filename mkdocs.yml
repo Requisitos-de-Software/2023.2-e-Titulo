@@ -5,10 +5,22 @@ repo_name: 2023.2-Grupo04
 site_name: Nome do App escolhido para o Projeto
 nav:
   - Início: index.md
+  - Apresentação:
+    - Apresentação Teste: apresentacoes/apresentacaoTeste.md
+  - Atas:
+    - Ata Teste: atas/ataTeste.md
+  - Planejamento:
+    - Planejamento Teste: planejamento/planejamentoTeste.md
 
+plugins:
+  - search:
+      lang:
+        - pt
+        - en
 
 theme:
   name: material
+  language: pt-BR
   palette:
     - scheme: deep purple
       primary: grey
