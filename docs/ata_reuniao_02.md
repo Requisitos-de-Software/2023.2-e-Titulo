@@ -38,7 +38,6 @@
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 
 * **Hora da Próxima Reunião:** 
-* **Pauta da Próxima Reunião:**
 ---
 
 ## Histórico de versões
