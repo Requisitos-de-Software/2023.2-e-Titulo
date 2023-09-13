@@ -7,12 +7,12 @@
 
   
 ## Participantes
-* 
-* 
-*
-*
-*
-*
+* [Esther Sena Martins](https://github.com/esmsena)
+* [João Victor Costa de Andrade](https://github.com/jvcostta)
+* [Maria Eduarda Barbosa Santos](https://github.com/Madu01)
+* [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)
+* [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)
+* [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
 * Tópico 1
