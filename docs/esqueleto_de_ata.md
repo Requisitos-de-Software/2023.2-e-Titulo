@@ -1,9 +1,9 @@
 # Ata da Reunião
 
 ## Data e Hora
-| Data          | Hora    | 
-|---------------|---------|
-| xx/xx/2023    | xx:xx   |
+| Data          | Hora    | Local |
+|---------------|---------|-------|
+| xx/xx/2023    | xx:xx   | Local |
 
   
 ## Participantes
@@ -33,9 +33,16 @@
 | Ação 2      | Responsável     | xx/xx/2023           |
 | Ação 3      | Responsável     | xx/xx/2023           |
 
+## Link da gravação
+*
+
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 
 * **Hora da Próxima Reunião:** 
 * **Pauta da Próxima Reunião:**
 ---
 
+## Histórico de versões
+| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
+|--------|------------|-----------------------------|---------------|-------------|
+| 1.0    | 13/09/2023 | Criação do esqueleto de ata | @Maryyscreuza |             |
