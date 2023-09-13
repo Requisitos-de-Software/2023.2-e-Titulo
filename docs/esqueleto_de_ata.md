@@ -37,9 +37,8 @@
 *
 
 ## Próxima Reunião
-* **Data da Próxima Reunião:** 
-* **Hora da Próxima Reunião:** 
-* **Pauta da Próxima Reunião:**
+* **Data da Próxima Reunião:** xx/xx/2023
+* **Hora da Próxima Reunião:** xx:xx
 ---
 
 ## Histórico de versões
