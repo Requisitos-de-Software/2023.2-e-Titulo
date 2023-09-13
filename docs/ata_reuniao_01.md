@@ -1,9 +1,9 @@
 # Ata da Reunião - 06/09/2023 - Reunião 1
 
 ## Data e Hora
-| Data          | Hora    | Local |
-|---------------|---------|-------|
-| 06/09/2023    | 20:00   | Local |
+| Data          | Hora    | Local       |
+|---------------|---------|-------------|
+| 06/09/2023    | 20:00   | Google Meet |
 
   
 ## Participantes
@@ -34,7 +34,7 @@
 | Ação 3      | Responsável     | xx/xx/2023           |
 
 ## Link da gravação
-*
+* https://youtu.be/euIYHMQXNaU
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 13/09/2023
