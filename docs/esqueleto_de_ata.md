@@ -45,4 +45,4 @@
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Criação do esqueleto de ata | @Maryyscreuza |             |
+| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |             |
