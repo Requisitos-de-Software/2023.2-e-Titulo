@@ -8,11 +8,11 @@
   
 ## Participantes
 * [Esther Sena Martins](https://github.com/esmsena) 
-* João Victor Costa de Andrade
-* Maria Eduarda Barbosa Santos 
-* Maria Eduarda dos Santos Marques 
-* Mariiana Siqueira Neris
-* Mateus Orlando Medeiros Ribeiro
+* [João Victor Costa de Andrade](https://github.com/jvcostta)
+* [Maria Eduarda Barbosa Santos](https://github.com/Madu01) 
+* [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)
+* [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)
+* [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
 * Issues da semana
@@ -30,11 +30,12 @@
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
-| Issues      | Responsável     | 12/09/2023           |
-| Conograma   | Responsável     | 12/09/2023           |
-| Esqueleto dos Artefatos | Responsável     | 12/09/2023          |
-| GitPages   | Responsável     | 12/09/2023          |
-| Definição de Metodologias  | Responsável     | 12/09/2023          |
+| Issues      | [Esther Sena Martins ](https://github.com/esmsena)   | 12/09/2023           |
+| Conograma   | [Maria Eduarda dos Santos Marques](https://github.com/EduardaSMarques)   | 12/09/2023           |
+| Esqueleto dos Artefatos | [Maria Eduarda dos Santos Marques](https://github.com/EduardaSMarques) e [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 12/09/2023          |
+| Esqueleto da Ata do Projeto | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)| 12/09/2023          |
+| GitPages   | [João Victor Costa de Andrade](https://github.com/jvcostta) e [Mateus Orlando Medeiros Ribeiro ](https://github.com/MateusPy) | 12/09/2023          |
+| Definição de Metodologias  | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 12/09/2023          |
 
 ## Link da gravação
 * https://youtu.be/euIYHMQXNaU
@@ -47,4 +48,4 @@
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Ata da primeira reunião     |               |             |
+| 1.0    | 13/09/2023 | Ata da primeira reunião     |  [Esther Sena Martins](https://github.com/esmsena)   |             |
