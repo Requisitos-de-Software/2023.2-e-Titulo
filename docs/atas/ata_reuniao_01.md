@@ -15,10 +15,14 @@
 * Mateus Orlando Medeiros Ribeiro
 
 ## Tópicos Discutidos
-* Tópico 1
-  - Detalhes do tópico 1
-* Tópico 2
-  - Detalhes do tópico 2
+* Issues
+  - foi descidido quais atividades cada um ficaria responsável
+* Definição de metodologia
+  - foi descidido que usariamos a metodologia de SCRUM-Adapitável
+* GitPages
+  - abordamos o proposito do gitpages
+* Esqueleto da ata para artefatos
+* Conograma
 
 ## Decisões Tomadas
 * Decisão 1
