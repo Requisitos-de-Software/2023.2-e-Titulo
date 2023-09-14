@@ -15,19 +15,17 @@
 * Mateus Orlando Medeiros Ribeiro
 
 ## Tópicos Discutidos
-* Issues
+* Issues da semana
 * Definição de metodologia
-  - foi descidido que usariamos a metodologia de SCRUM-Adapitável
 * GitPages
-  - abordamos o proposito do gitpages
 * Esqueleto da ata para artefatos
 * Conograma
 
 ## Decisões Tomadas
-* Decisão 1
-  - foi descidido quais atividades cada um ficaria responsável
-* Decisão 2
-  - - foi descidido que usariamos a metodologia de SCRUM-Adapitável
+* Issues
+  - foi descidido quais atividades cada um ficaria responsável.
+* Metodologia
+  - foi descidido que usariamos a metodologia de SCRUM-Adapitável.
 
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
