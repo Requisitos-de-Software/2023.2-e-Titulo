@@ -7,7 +7,7 @@
 
   
 ## Participantes
-* Esther Sena Martins 
+* [Esther Sena Martins](https://github.com/esmsena) 
 * João Victor Costa de Andrade
 * Maria Eduarda Barbosa Santos 
 * Maria Eduarda dos Santos Marques 
