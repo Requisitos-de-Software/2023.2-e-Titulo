@@ -46,7 +46,9 @@ Essas definições podem sofrer alterações futuras.
 As políticas servem para definir regras com o objetivo de manter a organização do desenvolvimento
 
 ### política de issue
-As issues é onde serão colocado as atividades a serem feitas durante cada sprint. Ela seguira este modelo
+As issues é onde que será colocadas as atividades a serem feitas durante cada sprint. 
+
+A estrutura a ser seguida ao criar uma issue:
 
 ```
 # Descrição
@@ -68,33 +70,69 @@ As issues é onde serão colocado as atividades a serem feitas durante cada spri
     Se precisar informar algo a mais utilize esse espaço. 
 ```
 
+### política de commit
+As descrições das alterações devem ser feitas seguindo um padrão, indicando a issue resolvida e a funcionalidade (ou correção) adicionada.
+
+Utilize tags para definir o propósito do commit:
+* `ADD` : Quando adicionar alguma coisa nova no projeto   
+* `DEL` : Caso seja relacionado a remoção de algo
+* `UPDATE` : Quando atualizar algum documento ou algo 
+
+Ex:
+
+`git commit -m " [tag] (Issue #x) : mensagem descritiva" `
+
 ### política de Branch
 A divisão das branches tem o intuito de melhorar a dinâmica e a organização do fluxo de trabalho no GitHub. A criação dessa divisão foi inspirada no [Git Flow](https://leanpub.com/git-flow/read).
 
-Utilizaremos 3 tipos de branches
+Utilizaremos 3 tipos de branches:
 
 #### main
 
-Ela é a principal branch, é onde que vai estar os documentos estável em nível de produção. 
+Ela é a principal branch, é onde que vai estar os documentos estáveis em nível de produção. 
 
 #### develop
-É a branch onde as feature vão mergar, ela contem os documentos ou informações que podem está instáveis. 
+
+É a branch onde as feature vão mergar, ela contém os documentos ou informações que podem está instáveis. 
 
 #### feature
 
 São branches que serão criadas a partir da branch develop para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na develop seguindo a restrição de estar estável, caso ocorra instabilidade terá que abrir uma nova branch chamada fix para corrigir algum problema e logo após mesclar de volta a feature.
 
+###### O padrão a ser seguido para nomear uma feature: 
+`feature-nomeDaNovaBranch` 
+
 ### política do Pull request
+O pull request é onde serão feitas as revisões do que foi feito, deverá ter um revisor que irá aceitar ou não o pull request. Para caso o revisor encontrar algum problema, ele mesmo irá corrigir e avisar o responsável que fez alterações.
 
-# Bibliografia
+A estrutura a ser seguida ao criar um Pull request:
 
-# Referência
+```
+    ## Descrição 
 
-# Histórico de Versões
+    Descrever de forma objetiva e coerente o que foi feito
 
+    ## Tarefas realizadas
+
+    - [ ] Tarefa
+
+    - [ ] Tarefa
+
+    ## Resolve 
+
+    Issues que foram resolvidas com o pull request
+
+    ## Critérios de aceitação
+
+    - [ ] O Pull Request deve ser revisado e aceito
+```
+
+## Bibliografia
+> PEREIRA Paulo; TORREÃO Paula; MARÇAL Ana. Entendendo Scrum para Gerenciar Projetos de Forma Ágil. MundoPM, 2007. Disponível em: https://d1wqtxts1xzle7.cloudfront.net/49393858/EntendendoScrumparaGerenciarProjetosdeFormaAgil-libre.pdf?1475741991=&response-content-disposition=inline%3B+filename%3DEntendendo_Scrum_para_Gerenciar_Projetos.pdf&Expires=1694639672&Signature=WvZeA2J4NVoTgddZl8hQHX-6eix~poH8BhEUBmJ1o8H-8VKfizN7CpEOIGS2i1PLHjqKl5OsoN7kRdlu0DUVnE~Ey3XVVk-fGccHVnTETOBa~m5Tf59CSVX2N3AISWAg7UOBL~C-muBHuPj-oJUmmgo88ckl736j9HgjePbqgRyOQVpC9sgysyUMmo4cCusaEOMMXIYE3qE709wrXXuJfXYmS-GPdP3e1jgau1oQSG~OyJluVy9gVG99G9hwX-0L9Jd~i8J4PLJZZ5p~oD30702fQleBNeSCliyAxi9UJydZB5NnhNQ3BEF8sGR7B8ao1WB6co1LtSyLcINFpeBuPg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. Acesso em: 12/09/2023.  
 
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 12/09/2023  | início da criação dos tópicos da introdução | Maria Barbosa | -- |
+| `0.2`  | 12/09/2023  | atualização e adicionamento de novo tópico | Maria Barbosa | -- |
