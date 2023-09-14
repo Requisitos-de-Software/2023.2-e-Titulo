@@ -30,9 +30,9 @@
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
-| Ação 1      | Responsável     | xx/xx/2023           |
-| Ação 2      | Responsável     | xx/xx/2023           |
-| Ação 3      | Responsável     | xx/xx/2023           |
+| Issues      | Responsável     | 12/09/2023           |
+| Conograma   | Responsável     | 12/09/2023           |
+| Esqueleto da Ata do Projeto     | Responsável     | 12/09/2023          |
 
 ## Link da gravação
 * https://youtu.be/euIYHMQXNaU
