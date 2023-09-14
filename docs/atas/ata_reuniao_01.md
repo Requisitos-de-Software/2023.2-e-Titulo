@@ -16,7 +16,6 @@
 
 ## Tópicos Discutidos
 * Issues
-  - foi descidido quais atividades cada um ficaria responsável
 * Definição de metodologia
   - foi descidido que usariamos a metodologia de SCRUM-Adapitável
 * GitPages
@@ -26,9 +25,9 @@
 
 ## Decisões Tomadas
 * Decisão 1
-  - Detalhes da decisão 1
+  - foi descidido quais atividades cada um ficaria responsável
 * Decisão 2
-  - Detalhes da decisão 2
+  - - foi descidido que usariamos a metodologia de SCRUM-Adapitável
 
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
