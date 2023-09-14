@@ -7,12 +7,12 @@
 
   
 ## Participantes
-* 
-* 
-*
-*
-*
-*
+* Esther Sena Martins 
+* João Victor Costa de Andrade
+* Maria Eduarda Barbosa Santos 
+* Maria Eduarda dos Santos Marques 
+* Mariiana Siqueira Neris
+* Mateus Orlando Medeiros Ribeiro
 
 ## Tópicos Discutidos
 * Tópico 1
