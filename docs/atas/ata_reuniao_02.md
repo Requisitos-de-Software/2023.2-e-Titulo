@@ -40,7 +40,7 @@
 | Algumas definições de artefatos e metodologia | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 20/09/2023 |
 
 ## Link da gravação
-*
+* https://youtu.be/eK9Zo9e1Y7M
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 18/09/2023
