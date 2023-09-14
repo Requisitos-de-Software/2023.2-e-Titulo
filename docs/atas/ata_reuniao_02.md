@@ -10,36 +10,47 @@
 * [Esther Sena Martins](https://github.com/esmsena)
 * [João Victor Costa de Andrade](https://github.com/jvcostta)
 * [Maria Eduarda Barbosa Santos](https://github.com/Madu01)
+* [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)
 * [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)
 * [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
-* Tópico 1
-  - Detalhes do tópico 1
-* Tópico 2
-  - Detalhes do tópico 2
+* Aplicativo a ser escolhido
+* O que fizemos até agora no projeto
+* O que falta para a primeira entrega
+* Revisão das issues feitas até o momento
+* Responsáveis pelas atividades e revisões dos cronogramas
+* Ferramentas do projeto
 
 ## Decisões Tomadas
-* Decisão 1
-  - Detalhes da decisão 1
-* Decisão 2
-  - Detalhes da decisão 2
+* Aplicativo escolhido: e-título
+* Ferramentas
+  - GitHub
+  - Teams
+  - WhatsApp
+  - VSCode
+  - MKDocs
+  - Outros a decidir
+* Atualização do GitPages vai ser feito pelo João e Mateus, de acordo com o dia decidido das issues.
 
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
-| Ação 1      | Responsável     | xx/xx/2023           |
-| Ação 2      | Responsável     | xx/xx/2023           |
-| Ação 3      | Responsável     | xx/xx/2023           |
+| Decisão dos cronogramas específicos | [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)     | 20/09/2023 |
+| Algumas definições de artefatos e metodologia | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 20/09/2023 |
 
 ## Link da gravação
 *
 
 ## Próxima Reunião
-* **Data da Próxima Reunião:** 
-* **Hora da Próxima Reunião:** 
+* **Data da Próxima Reunião:** 18/09/2023
+* **Hora da Próxima Reunião:** 19:30
 ---
 
+## Histórico de versões
+| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
+|--------|------------|-----------------------------|---------------|-------------|
+| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)       |
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
