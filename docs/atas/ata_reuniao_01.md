@@ -32,7 +32,9 @@
 |-------------|-----------------|----------------------|
 | Issues      | Responsável     | 12/09/2023           |
 | Conograma   | Responsável     | 12/09/2023           |
-| Esqueleto da Ata do Projeto     | Responsável     | 12/09/2023          |
+| Esqueleto dos Artefatos | Responsável     | 12/09/2023          |
+| GitPages   | Responsável     | 12/09/2023          |
+| Definição de Metodologias  | Responsável     | 12/09/2023          |
 
 ## Link da gravação
 * https://youtu.be/euIYHMQXNaU
