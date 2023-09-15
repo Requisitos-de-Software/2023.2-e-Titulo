@@ -22,7 +22,16 @@ Para instalar o E-Título, siga os passos abaixo:
 4. Após a conclusão do download, abra o aplicativo.
 
 ## Configuração
-[Explicação passo a passo sobre como configurar o aplicativo após a instalação, incluindo a criação de uma conta, se aplicável.]
+Após a instalação, siga estas etapas para configurar o E-Título:
+
+1. Ao abrir o aplicativo, você  deverá preencher os campos “Nome do eleitor”, “Data de nascimento”, “Número de inscrição (título de eleitor)”, “Nome da mãe” e “Nome do pai”.
+2. Após fornecer as informações necessárias, vai no campo “Tipo de documento” — Selecione “Título de eleitor”;.
+3. Depois, o app vai gerar três campos de perguntas referentes aos seus dados cadastrais para confirmar sua identidade. Caso erre algum, será gerado outro campo com perguntas diferentes das que você errou.
+4. A seguir você poderá criar uma senha de acesso para garantir a segurança dos seus dados.
+5. Uma vez configurado, você terá acesso às funcionalidades completas do E-Título.
+
+   Para o eleitor que ainda não fez o cadastro biométrico, é necessário apresentar um documento oficial com foto sempre que for utilizar o título digital.
+
 
 ## Uso
 [Instruções detalhadas sobre como usar as principais funcionalidades do E-Título, incluindo capturas de tela e exemplos.]
