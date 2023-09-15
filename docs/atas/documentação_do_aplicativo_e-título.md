@@ -92,27 +92,26 @@ Se você encontrar algum problema ao usar o E-Título, aqui estão algumas dicas
 
 - Verifique se você está usando a versão mais recente do aplicativo.
 - Certifique-se de que sua conexão com a internet está funcionando corretamente.
-- Caso encontre erros ou problemas técnicos, entre em contato com nosso suporte pelo e-mail [suporte@etitulo.com.br].
+- Caso encontre erros ou problemas técnicos, entre em contato com nosso suporte pelo e-mail [Email_de_suporte](8800@tse.jus.br).
 
 ## Requisitos de Sistema
-O E-Título é compatível com dispositivos Android (versão 5.0 ou superior) e iOS (versão 10.0 ou superior).
+O E-Título é compatível com dispositivos Android (versão 6.0 ou superior) e iOS.
 
 ## Compatibilidade de Dispositivos
 O E-Título é compatível com a maioria dos dispositivos Android e iOS. No entanto, dispositivos muito antigos podem não ser suportados.
 
 ## Referências
-- [Site Oficial do E-Título](https://www.etitulo.com.br)
-- [Fórum de Suporte do E-Título](https://forum.etitulo.com.br)
+- [Site Oficial do E-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo)
+- [Fórum de Suporte do E-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo/perguntas-frequentes-faq)
 
 ## Contribuições
-Se você deseja contribuir para o desenvolvimento do E-Título, sinta-se à vontade para abrir um problema (issue) ou enviar uma solicitação de pull (pull request) em nosso repositório no GitHub.
+No presente momento não estamos recebendo contribuições
 
 ## Licença
-Este aplicativo é distribuído sob a licença [Licença MIT](https://opensource.org/licenses/MIT).
+Este aplicativo é distribuído e desenvolvido pelo Tribunal Superior Eleitoral (TSE), de acordo com as disposições da [Resolução TSE N° 23.659,26 de Outubro de 2012](https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-659-de-26-de-outubro-de-2021).
 
 ## Contato
-Para entrar em contato com a equipe do E-Título, você pode enviar um e-mail para [contato@etitulo.com.br] ou seguir-nos nas redes sociais (links disponíveis no site oficial).
+Para entrar em contato com a equipe do E-Título, você pode enviar um  [email](8800@tse.jus.br) ou acessar o [site](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
 
 ---
 
-[Lembre-se de manter esta documentação atualizada à medida que o projeto evolui.]
