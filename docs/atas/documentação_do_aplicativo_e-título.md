@@ -14,7 +14,12 @@ O e-Título não apenas mantém as funcionalidades de fornecimento de certidões
 - **Espaço de Armazenamento:** Mínimo de 100 MB.
 
 ## Instalação
-[Instruções detalhadas sobre como instalar o aplicativo E-Título em diferentes plataformas, como Android e iOS.]
+Para instalar o E-Título, siga os passos abaixo:
+
+1. Acesse a loja de aplicativos do seu dispositivo (Google Play Store para Android ou App Store para iOS).
+2. Pesquise por "E-Título" na barra de pesquisa.
+3. Clique em "Baixar" ou "Instalar".
+4. Após a conclusão do download, abra o aplicativo.
 
 ## Configuração
 [Explicação passo a passo sobre como configurar o aplicativo após a instalação, incluindo a criação de uma conta, se aplicável.]
