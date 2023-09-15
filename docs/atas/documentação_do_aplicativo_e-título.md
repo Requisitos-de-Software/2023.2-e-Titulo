@@ -9,7 +9,9 @@ O e-Título não apenas mantém as funcionalidades de fornecimento de certidões
 
 
 ## Requisitos
-[Liste os requisitos mínimos para usar o E-Título, como sistema operacional, dispositivo, espaço de armazenamento, conexão com a internet, etc.]
+- **Sistema Operacional:** O e-Título está disponível para download na App Store e na Play Store. O aplicativo não é compatível com a plataforma Windows 10 Mobile, está disponível apenas para Android (6.0 e versões mais recentes) e IOS.
+- **Conexão à Internet:** Recomendada para atualização de informações em tempo real.
+- **Espaço de Armazenamento:** Mínimo de 100 MB.
 
 ## Instalação
 [Instruções detalhadas sobre como instalar o aplicativo E-Título em diferentes plataformas, como Android e iOS.]
