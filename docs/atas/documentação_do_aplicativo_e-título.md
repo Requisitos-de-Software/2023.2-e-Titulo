@@ -113,5 +113,12 @@ Este aplicativo é distribuído e desenvolvido pelo Tribunal Superior Eleitoral 
 ## Contato
 Para entrar em contato com a equipe do E-Título, você pode enviar um  [email](8800@tse.jus.br) ou acessar o [site](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
 
+## Histórico de Versões
+
+| Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
+| ------ | ----------- | ----------- | --------- | ----------- |
+| `0.1`  | 15/09/2023  | início da criação da estrutura do documento | Esther Sena | -- |
+| `0.2`  | 15/09/2023  | atualização e adicionamento de novos tópicos e atualizações de informações | Esther Sena | -- |
+
 ---
 
