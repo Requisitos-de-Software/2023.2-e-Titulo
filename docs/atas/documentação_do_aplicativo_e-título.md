@@ -34,28 +34,84 @@ Após a instalação, siga estas etapas para configurar o E-Título:
 
 
 ## Uso
-[Instruções detalhadas sobre como usar as principais funcionalidades do E-Título, incluindo capturas de tela e exemplos.]
+
+O aplicativo E-Título oferece diversas funcionalidades para facilitar a sua experiência eleitoral. Abaixo estão algumas das principais funcionalidades e como utilizá-las:
+
+### Apresentação de Justificativa Eleitoral
+
+- Para apresentar uma justificativa eleitoral através do aplicativo E-Título, siga os passos abaixo:
+  1. Abra o aplicativo e vá para a seção "Apresentar Justificativa Eleitoral".
+  2. Siga as instruções fornecidas para preencher o motivo da justificativa e outros detalhes necessários.
+  3. Após o preenchimento correto, submeta a justificativa eleitoral pelo aplicativo.
+
+### Consulta ao Histórico de Justificativas Eleitorais
+
+- Para consultar o histórico de suas justificativas eleitorais, siga estes passos:
+  1. Acesse a seção "Histórico de Justificativas Eleitorais" no aplicativo.
+  2. Informe os dados necessários, como o ano da eleição ou outras informações de identificação, conforme solicitado.
+  3. O aplicativo exibirá um histórico completo de suas justificativas eleitorais anteriores.
+
+### Consulta ao Local de Votação
+
+- Para verificar o local de votação onde você deve comparecer nas eleições, siga as instruções abaixo:
+  1. Acesse a seção "Consulta ao Local de Votação" no aplicativo.
+  2. Insira seus dados pessoais conforme solicitado, como número do título de eleitor ou CPF.
+  3. O aplicativo exibirá o endereço e as informações relevantes do seu local de votação.
+
+### Consulta aos Locais de Justificativa
+
+- Caso precise encontrar um local para justificar seu voto, siga estas etapas:
+  1. Vá para a seção "Consulta aos Locais de Justificativa" no aplicativo.
+  2. Insira os detalhes necessários, como seu local atual ou município.
+  3. O aplicativo apresentará uma lista de locais de justificativa disponíveis em sua região.
+
+### Emissão de Certidão de Quitação e de Crimes Eleitorais
+
+- Para emitir uma certidão de quitação eleitoral ou de crimes eleitorais, siga os passos abaixo:
+  1. Acesse a seção "Emissão de Certidões" no aplicativo.
+  2. Informe os dados solicitados, como o número do título de eleitor ou CPF.
+  3. O aplicativo gerará a certidão selecionada, que pode ser salva ou compartilhada conforme necessário.
+
+### Geração do Título Eleitoral em Formato PDF para Impressão
+
+- Se você precisa de uma cópia impressa do seu título eleitoral, o aplicativo oferece essa opção:
+  1. Vá para a seção "Geração do Título Eleitoral em PDF" no aplicativo.
+  2. Siga as instruções fornecidas para gerar o arquivo em PDF do seu título eleitoral.
+  3. O arquivo PDF pode ser impresso ou salvo para uso posterior.
+
+### Pagamento de Eventuais Débitos Eleitorais
+
+- Caso tenha débitos eleitorais a serem pagos, o aplicativo oferece opções de pagamento conveniente:
+  1. Acesse a seção "Pagamento de Débitos Eleitorais" no aplicativo.
+  2. Escolha a opção de pagamento, seja por Pix ou através da emissão de boleto, e siga as instruções para quitar seus débitos eleitorais.
+
+O aplicativo E-Título foi projetado para simplificar o processo eleitoral e fornecer todas essas funcionalidades de maneira fácil e acessível. Lembre-se de manter seu aplicativo atualizado para aproveitar ao máximo esses recursos e garantir uma experiência eleitoral tranquila.
 
 ## Solução de Problemas
-[Instruções para solucionar problemas comuns que os usuários possam encontrar ao usar o aplicativo, juntamente com as respostas para perguntas frequentes.]
+Se você encontrar algum problema ao usar o E-Título, aqui estão algumas dicas para solucioná-los:
+
+- Verifique se você está usando a versão mais recente do aplicativo.
+- Certifique-se de que sua conexão com a internet está funcionando corretamente.
+- Caso encontre erros ou problemas técnicos, entre em contato com nosso suporte pelo e-mail [suporte@etitulo.com.br].
 
 ## Requisitos de Sistema
-[Liste os requisitos de sistema recomendados e informações sobre a compatibilidade com dispositivos específicos.]
+O E-Título é compatível com dispositivos Android (versão 5.0 ou superior) e iOS (versão 10.0 ou superior).
 
 ## Compatibilidade de Dispositivos
-[Informações sobre quais dispositivos são suportados pelo aplicativo E-Título e qualquer limitação de compatibilidade.]
+O E-Título é compatível com a maioria dos dispositivos Android e iOS. No entanto, dispositivos muito antigos podem não ser suportados.
 
 ## Referências
-[Links para recursos adicionais, como a página oficial do aplicativo, fóruns de suporte e outros recursos úteis.]
+- [Site Oficial do E-Título](https://www.etitulo.com.br)
+- [Fórum de Suporte do E-Título](https://forum.etitulo.com.br)
 
 ## Contribuições
-[Instruções sobre como os desenvolvedores podem contribuir para o projeto, como abrir problemas (issues) ou enviar solicitações de pull (pull requests).]
+Se você deseja contribuir para o desenvolvimento do E-Título, sinta-se à vontade para abrir um problema (issue) ou enviar uma solicitação de pull (pull request) em nosso repositório no GitHub.
 
 ## Licença
-[Declare a licença sob a qual o aplicativo E-Título é distribuído.]
+Este aplicativo é distribuído sob a licença [Licença MIT](https://opensource.org/licenses/MIT).
 
 ## Contato
-[Forneça informações de contato para os desenvolvedores ou equipe de suporte, como endereço de e-mail ou links para redes sociais.]
+Para entrar em contato com a equipe do E-Título, você pode enviar um e-mail para [contato@etitulo.com.br] ou seguir-nos nas redes sociais (links disponíveis no site oficial).
 
 ---
 
