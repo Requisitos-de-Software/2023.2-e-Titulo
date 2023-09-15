@@ -118,7 +118,7 @@ Para entrar em contato com a equipe do E-Título, você pode enviar um  [email](
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 15/09/2023  | início da criação da estrutura do documento | [Esther Sena ](https://github.com/esmsena)| -- |
-| `0.2`  | 15/09/2023  | atualização e adicionamento de novos tópicos e atualizações de informações | [Esther Sena ](https://github.com/esmsena)https://github.com/esmsena | -- |
+| `0.2`  | 15/09/2023  | atualização e adicionamento de novos tópicos e atualizações de informações | [Esther Sena ](https://github.com/esmsena)| -- |
 
 ---
 
