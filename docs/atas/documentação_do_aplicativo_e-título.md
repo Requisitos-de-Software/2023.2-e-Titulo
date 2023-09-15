@@ -1,7 +1,12 @@
 # Documentação do Aplicativo E-Título
 
 ## Visão Geral
-[Descrição breve do aplicativo, seu propósito e sua importância.]
+O e-Título é um aplicativo móvel que oferece uma versão digital do título de eleitor, proporcionando um acesso rápido e conveniente às informações cadastradas na Justiça Eleitoral. Com o e-Título, os eleitores podem facilmente consultar informações como zona eleitoral, situação cadastral, obter certidões de quitação eleitoral e de crimes eleitorais, tudo isso sem a necessidade de lembrar o número do título de eleitor.
+
+Uma das inovações do aplicativo é a possibilidade de se cadastrar como mesário voluntário, tornando-se parte ativa no processo eleitoral. Além disso, o aplicativo agora é acessível para pessoas com deficiência visual, tornando-o inclusivo e acessível a um público mais amplo.
+
+O e-Título não apenas mantém as funcionalidades de fornecimento de certidões eleitorais, mas também introduz recursos adicionais, como a proteção dos dados por senha, a capacidade de verificar débitos eleitorais e a opção de registro como mesário voluntário. Com essas inovações, o e-Título se tornou uma ferramenta ainda mais poderosa para facilitar a participação cívica e eleitoral dos cidadãos.
+
 
 ## Requisitos
 [Liste os requisitos mínimos para usar o E-Título, como sistema operacional, dispositivo, espaço de armazenamento, conexão com a internet, etc.]
