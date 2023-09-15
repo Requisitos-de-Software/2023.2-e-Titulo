@@ -6,10 +6,9 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 site_name: e-Título
 nav:
   - Início: index.md
-  - Apresentação:
-    - Apresentação Teste: apresentacoes/apresentacaoTeste.md
   - Atas:
-    - Ata Teste: atas/ataTeste.md
+    - Ata 01: atas/ata_reuniao_01.md
+    - Ata 02: atas/ata_reuniao_02.md
   - Planejamento:
     - Planejamento Teste: planejamento/planejamentoTeste.md
 

@@ -1,5 +1,9 @@
 # e-Título - Grupo 4
 
+<div align="center">
+<img src="docs/imgs/img.logo.jpg" aly="VLC_logo" style="width: 300px">
+</div>
+
 ## Introdução
 Este repositório visa analisar o aplicativo do [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US), além de registrar os artefatos produzidos ao longo do semestre para fins de estudos na disciplina de Requisitos de Software da FGA-UnB.
 
@@ -19,3 +23,8 @@ O aplicativo e-Título permite a obtenção do título eleitoral em via digital.
     <td align="center"><a href="https://github.com/MateusPy"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98001933?s=400&u=960f90db65022ae3b93ddda74dc0b1d451dedac0&v=4" width="100px;" alt=""/><br /><sub><b>Mateus Orlando</b></sub></a><br />
   </tr>
 </table>
+
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 15/09/2023 | `1.0`  | Versão inicial de documento | [Mateus Orlando](https://github.com/MateusPy) | 15/09/2023 | [João Victor Costa](https://github.com/jvcostta) |
