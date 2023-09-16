@@ -21,7 +21,7 @@
 
 ## Decisões Tomadas
 * Issues
-  - foi descidido quais atividades cada um ficaria responsável.
+  - foi decidido quais atividades cada um ficaria responsável.
 * Metodologia
   - foi descidido que usariamos a metodologia de SCRUM-Adaptável.
 
