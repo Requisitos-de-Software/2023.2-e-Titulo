@@ -23,7 +23,7 @@
 * Issues
   - foi descidido quais atividades cada um ficaria responsável.
 * Metodologia
-  - foi descidido que usariamos a metodologia de SCRUM-Adapitável.
+  - foi descidido que usariamos a metodologia de SCRUM-Adaptável.
 
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
