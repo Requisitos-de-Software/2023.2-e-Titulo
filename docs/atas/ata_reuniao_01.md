@@ -11,8 +11,6 @@
 * [João Victor Costa de Andrade](https://github.com/jvcostta)
 * [Maria Eduarda Barbosa Santos](https://github.com/Madu01) 
 * [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)
-* [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)
-* [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
 * Issues da semana
@@ -48,4 +46,4 @@
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Ata da primeira reunião     |  [Esther Sena Martins](https://github.com/esmsena)   |             |
+| 1.0    | 13/09/2023 | Ata da primeira reunião     |  [Esther Sena Martins](https://github.com/esmsena)   |  [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)           |
