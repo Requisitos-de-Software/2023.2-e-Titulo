@@ -24,4 +24,4 @@ Tabela 1: Legenda do Rich Picture(Fonte: NERIS, Mariiana. 2023).
 # Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 18/09/2023 | Criação do RichPicture | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |         |
+| 1.0    | 18/09/2023 | Criação do RichPicture | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
