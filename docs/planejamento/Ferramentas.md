@@ -2,27 +2,29 @@
 
 ## Introdução
 
-A seguir, está a lista de ferramentas que o grupo, de maneira consensual, decidiu utilizar, de modo a facilitar o desenvolvimento dos objetivos do projeto da disciplina de Requisitos de Software.
+A seguir,na Tabela 1, está a lista de ferramentas que o grupo, de maneira consensual, decidiu utilizar, de modo a facilitar o desenvolvimento dos objetivos do projeto da disciplina de Requisitos de Software.
+
+## Motivação e Objetivo
+
+Os objetivos e motivações que levaram à utilização de ferramentas no desenvolvimento do projeto, foi visando otimizar o processo, melhorar a qualidade do trabalho, aumentar a colaboração, facilitar a comunicação e permitir uma gestão mais eficaz, resultando em um projeto bem-sucedido e eficiente.
 
 ## Ferramentas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
-
 |                                                                                                                      Logo      |        Ferramenta         |                             Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
-|                  ![Logo do GitHub](../assets/ferramentas/github.png){: style="height:100px;width:100px"}                  |          GitHub           | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="anchor_1" href="#FRM1">^1^</a> |
-|              ![Logo do Microsoft Teams](../assets/ferramentas/teams.png){: style="height:87px;width:100px"}               |           Teams           |         Realização de reuniões e gravação das entregas.<a id="anchor_2" href="#FRM2">^2^</a>          |
-|                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png){: style="height:85px;width:85px"}                 |         WhatsApp          |             Utilizado para a comunicação entre os integrantes do grupo.<a id="anchor_6" href="#FRM6">^6^</a>             |
-|             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png){: style="height:85px;width:85px"}             |    Visual Studio Code     |                  Criação dos arquivos de documentação.<a id="anchor_5" href="#FRM5">^5^</a>                  |
-|                                    ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                    |          MkDocs           |                  Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^4^</a>                  |
-|                 ![Logo do YouTube](../assets/ferramentas/youtube.png){: style="height:56px;width:250px"}                  |          YouTube          |                    Hospedagem das reuniões e entregas da disciplina.<a id="anchor_7" href="#FRM7">^7^</a>                    |
-|             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}              |     Google Planilhas      |      Criação de planilhas de planejamento como heatmap.<a id="anchor_8" href="#FRM8">^8^</a>       |
+|                  ![Logo do GitHub](../assets/ferramentas/github.png)                 |          GitHub           | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="anchor_1" href="#FRM1"></a> |
+|              ![Logo do Microsoft Teams](../assets/ferramentas/teams.png)               |           Teams           |         Realização de reuniões e gravação das entregas.<a id="anchor_2" href="#FRM2"></a>          |
+|                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png)                 |         WhatsApp          |             Utilizado para a comunicação entre os integrantes do grupo.<a id="anchor_6" href="#FRM6"></a>             |
+|             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png)           |    Visual Studio Code     |                  Criação dos arquivos de documentação.<a id="anchor_5" href="#FRM5"></a>                  |
+|                                    ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                    |          MkDocs           |                  Criação das páginas de documentação.<a id="anchor_4" href="#FRM4"></a>                  |
+|                 ![Logo do YouTube](../assets/ferramentas/youtube.png)                |          YouTube          |                    Hospedagem das reuniões e entregas da disciplina.<a id="anchor_7" href="#FRM7"></a>                    |
+|             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png)             |     Google Planilhas      |      Criação de planilhas de planejamento como heatmap.<a id="anchor_8" href="#FRM8"></a>       |
 
 
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>  <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-## Referências Bibliograficas
+## Bibliografia
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acessado em: 18 de set. de 2023.
 >
