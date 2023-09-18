@@ -8,12 +8,12 @@ Imagem 1: Rich Picture (Fonte: NERIS, Mariiana. 2023).
 # Legenda
 |Ícones | Componentes | Comentários     |
 |-------|-------------|-----------------|
-| ![Usuário](docs/planejamento/img/usuario.jpg) | Ator      | O usuário do sistema. |
-| ![Aplicativos Externos](docs/planejamento/img/appsexternos.jpg) | Ator      | Aplicativos externos |
-| ![Operações](docs/planejamento/img/operacoes.jpg) | Operações      | Especificam o que o sistema faz. Cada operação é executada por um ator ou por outra operação. |
-| ![Armazenamento de dados](docs/planejamento/img/dados.jpg)| Dados      | Os armazenamentos de dados são essencialmente as tabelas do seu banco de dados ou arquivos do sistema. Também é necessário mostrar o tipo de dados que contêm. |
-| ![Fluxo](docs/planejamento/img/fluxo.jpg)| Fluxo     | SAs setas mostram a direção do fluxo de dados (ou informações) entre atores, armazenamentos de dados e operações. As setas podem cruzar os limites do sistema. |
-| ![Limite](docs/planejamento/img/limite.jpg)| LImite      | O limite do sistema identifica as operações pelas quais você é responsável (ou seja, sua área de responsabilidade), o que significa que seu sistema deve realizar tudo o que está dentro do limite do sistema e você pode ignorar o que está lá fora. |
+| ![Usuário](docs/../img/usuario.jpg) | Ator      | O usuário do sistema. |
+| ![Aplicativos Externos](docs/../img/appsexternos.jpg) | Ator      | Aplicativos externos |
+| ![Operações](docs/../img/operacoes.jpg) | Operações      | Especificam o que o sistema faz. Cada operação é executada por um ator ou por outra operação. |
+| ![Armazenamento de dados](docs/../img/dados.jpg)| Dados      | Os armazenamentos de dados são essencialmente as tabelas do seu banco de dados ou arquivos do sistema. Também é necessário mostrar o tipo de dados que contêm. |
+| ![Fluxo](docs/../img/fluxo.jpg)| Fluxo     | SAs setas mostram a direção do fluxo de dados (ou informações) entre atores, armazenamentos de dados e operações. As setas podem cruzar os limites do sistema. |
+| ![Limite](docs/../img/limite.jpg)| LImite      | O limite do sistema identifica as operações pelas quais você é responsável (ou seja, sua área de responsabilidade), o que significa que seu sistema deve realizar tudo o que está dentro do limite do sistema e você pode ignorar o que está lá fora. |
 Tabela 1: Legenda do Rich Picture(Fonte: NERIS, Mariiana. 2023).
 
 # Referências Bibliográficas
