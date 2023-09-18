@@ -2,7 +2,7 @@
 O e-título é um aplicativo para obtenção da via digital do título de eleitor. Ele permite o acesso rápido e fácil às suas informações junto à Justiça Eleitoral, tais como: título de eleitor digital, situação eleitoral e local de votação.
 
 # RichPicture
-![RichPicture](../docs/planejamento/img/RichPicture.jpg)
+![RichPicture](docs/../img/RichPicture.jpg)
 Imagem 1: Rich Picture (Fonte: NERIS, Mariiana. 2023).
 
 # Legenda
