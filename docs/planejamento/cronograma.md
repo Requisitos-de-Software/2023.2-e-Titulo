@@ -111,8 +111,8 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 09/09/2023  | Abertura do documento  | [Maria Marques ](https://github.com/EduardaSMarques) |[Esther Sena](https://github.com/esmsena)|
-| `0.2`  | 11/09/2023  | Correções na introdução  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `0.3`  | 13/09/2023  | Elaboração do cronograma geral e de algumas etapas do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `0.4`  | 15/09/2023  | Finalização do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `0.5`  | 16/09/2023  | Correções do documento, foi excluido tópicos que não precisava| [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `1.0`  | 09/09/2023  | Abertura do documento  | [Maria Marques ](https://github.com/EduardaSMarques) |[Esther Sena](https://github.com/esmsena)|
+| `2.0`  | 11/09/2023  | Correções na introdução  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `3.0`  | 13/09/2023  | Elaboração do cronograma geral e de algumas etapas do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `4.0`  | 15/09/2023  | Finalização do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `5.0`  | 16/09/2023  | Correções do documento, foi excluido tópicos que não precisava| [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
