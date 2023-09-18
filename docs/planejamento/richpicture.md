@@ -14,6 +14,7 @@ Imagem 1: Rich Picture (Fonte: NERIS, Mariiana. 2023).
 | ![Armazenamento de dados](docs/../img/dados.png)| Dados      | Os armazenamentos de dados são essencialmente as tabelas do seu banco de dados ou arquivos do sistema. Também é necessário mostrar o tipo de dados que contêm. |
 | ![Fluxo](docs/../img/fluxo.png)| Fluxo     | SAs setas mostram a direção do fluxo de dados (ou informações) entre atores, armazenamentos de dados e operações. As setas podem cruzar os limites do sistema. |
 | ![Limite](docs/../img/limite.png)| Limite      | O limite do sistema identifica as operações pelas quais você é responsável (ou seja, sua área de responsabilidade), o que significa que seu sistema deve realizar tudo o que está dentro do limite do sistema e você pode ignorar o que está lá fora. |
+
 Tabela 1: Legenda do Rich Picture(Fonte: NERIS, Mariiana. 2023).
 
 # Referências Bibliográficas
