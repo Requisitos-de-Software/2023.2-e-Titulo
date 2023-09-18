@@ -8,7 +8,7 @@ Imagem 1: Rich Picture (Fonte: NERIS, Mariiana. 2023).
 # Legenda
 |Ícones | Componentes | Comentários     |
 |-------|-------------|-----------------|
-| ![Usuário](docs/../img/usuario.jpg) | Ator      | O usuário do sistema. |
+| ![Usuário](../planejamento/img/usuario.jpg) | Ator      | O usuário do sistema. |
 | ![Aplicativos Externos](docs/../img/appsexternos.jpg) | Ator      | Aplicativos externos |
 | ![Operações](docs/../img/operacoes.jpg) | Operações      | Especificam o que o sistema faz. Cada operação é executada por um ator ou por outra operação. |
 | ![Armazenamento de dados](docs/../img/dados.jpg)| Dados      | Os armazenamentos de dados são essencialmente as tabelas do seu banco de dados ou arquivos do sistema. Também é necessário mostrar o tipo de dados que contêm. |
