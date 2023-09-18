@@ -9,7 +9,7 @@ Imagem 1: Rich Picture (Fonte: NERIS, Mariiana. 2023).
 |Ícones | Componentes | Comentários     |
 |-------|-------------|-----------------|
 | ![Usuário](docs/../img/usuario.png) | Ator      | O usuário do sistema. |
-| ![Aplicativos Externos](docs/../img/appsexternos.png) | Ator      | Aplicativos externos |
+| ![Aplicativos Externos](docs/../img/appsexternos.png) | Ator      | Aplicativos externos. |
 | ![Operações](docs/../img/operacoes.png) | Operações      | Especificam o que o sistema faz. Cada operação é executada por um ator ou por outra operação. |
 | ![Armazenamento de dados](docs/../img/dados.png)| Dados      | Os armazenamentos de dados são essencialmente as tabelas do seu banco de dados ou arquivos do sistema. Também é necessário mostrar o tipo de dados que contêm. |
 | ![Fluxo](docs/../img/fluxo.png)| Fluxo     | SAs setas mostram a direção do fluxo de dados (ou informações) entre atores, armazenamentos de dados e operações. As setas podem cruzar os limites do sistema. |
