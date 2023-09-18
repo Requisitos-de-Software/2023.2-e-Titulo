@@ -46,4 +46,4 @@ A seguir, está a lista de ferramentas que o grupo, de maneira consensual, decid
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 18/09/2023 |            Criação da página de ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | []() |
+|  `1.0`  | 18/09/2023 |            Criação da página de ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
