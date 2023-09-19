@@ -33,7 +33,7 @@
 Tabela 1: Ações pendentes (Fonte: NERIS, Mariiana 2023).
 
 ## Link da gravação
-* 
+* https://youtu.be/WvsyOBC7cSE
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 19/09/2023
