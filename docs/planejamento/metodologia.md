@@ -45,7 +45,7 @@ Essas definições podem sofrer alterações futuras.
 ## Padrão no artefato
 Foi definido um padrão a ser seguido para os membros do trabalho quando forem desenvolver algum artefato, o intuito é manter uma consistência no projeto. 
 
-Esse padrão contém a estrutura do artefato já pré montada para o integrante copiá-la e realizar a sua tarefa, porém dependendo do artefato o realizador dela pode fazer modificações nesse padrão apenas em seu próprio artefato, por haver a chance de ter características diferenciadas. essa estrutura está disponível em [EsqueletoDeArtefatos](https://github.com/Requisitos-de-Software/2023.2-E-Titulo/blob/feature-metodologia/esqueletoArtefatos).
+Esse padrão contém a estrutura do artefato já pré montada para o integrante copiá-la e realizar a sua tarefa, porém dependendo do artefato o realizador dela pode fazer modificações nesse padrão apenas em seu próprio artefato, por haver a chance de ter características diferenciadas. essa estrutura está disponível em [EsqueletoDeArtefatos](/docs/planejamento/esqueletoArtefatos).
 
 ### Padrão em citar
 Será utilizado as normas da ABNT para as citações nas bibliografias e referências, assim como nas figuras, diagramas e tabelas, entre outros.
