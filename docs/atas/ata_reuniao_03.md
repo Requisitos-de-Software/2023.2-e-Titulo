@@ -26,11 +26,13 @@
 * Ordem da apresentação
   
 ## Ações Pendentes
+Tabela 1: Ações pendentes
+
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
 | Problema com a git pages | [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy) | 19/09/2023 |
 
-Tabela 1: Ações pendentes (Fonte: NERIS, Mariiana 2023).
+Fonte: NERIS, Mariiana 2023.
 
 ## Link da gravação
 * https://youtu.be/WvsyOBC7cSE
