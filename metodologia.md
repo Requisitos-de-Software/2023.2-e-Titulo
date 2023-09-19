@@ -10,20 +10,20 @@ A motivação da escolha do Scrum adaptável é a facilidade que a equipe tem de
 O scrum é uma série de atividades que propiciam um progresso contínuo em um desenvolvimento de projeto, sendo objetivo, definindo papéis e fases. Os papéis mais comuns do scrum são o Product Owner, ScrumMaster e o Scrum Team. As fases do scrum, primeiro começa com uma reunião de planejamento (Sprint Planning Meeting) depois a execução da sprint com reuniões diárias rápidas (Daily), após terminar a sprint realizar uma reunião de revisão (Sprint Review) e em seguida reunião de retrospectiva (Sprint Retrospective).
 
 ### Fases
-Reunião de planejamento: É realizada antes da cada sprint, é decidido o que será realizado dentro da sprint que está por vir, antes dessa reunião é desenvolvido o Product Backlog que contém uma lista de itens priorizados que incluem tudo o que precisa ser realizado. 
+**Reunião de planejamento:** É realizada antes da cada sprint, é decidido o que será realizado dentro da sprint que está por vir, antes dessa reunião é desenvolvido o Product Backlog que contém uma lista de itens priorizados que incluem tudo o que precisa ser realizado. 
 
-Execução da sprint: A sprint é ciclos com atividades, cada um com duração de 2 a 4 semanas, a sua execução é a realização das atividades.
+**Execução da sprint:** A sprint é ciclos com atividades, cada um com duração de 2 a 4 semanas, a sua execução é a realização das atividades.
 
-Reunião de revisão: é demonstrado o que foi feito na Sprint e valida se o objetivo foi concluído. 
+**Reunião de revisão:** é demonstrado o que foi feito na Sprint e valida se o objetivo foi concluído. 
 
-Reunião de retrospectiva: é relatado as lições aprendidas com o intuito de melhorar o time, produto e o desenvolvimento para a próxima sprint. 
+**Reunião de retrospectiva:** é relatado as lições aprendidas com o intuito de melhorar o time, produto e o desenvolvimento para a próxima sprint. 
 
 ### Papéis e suas responsabilidades
-Scrum Master: Administra a equipe, garantindo que esteja produtiva e seguindo com os objetivos e atividades. 
+**Scrum Master:** Administra a equipe, garantindo que esteja produtiva e seguindo com os objetivos e atividades. 
 
-Product Owner: O que mais conhece o produto, priorizando os itens de Product Backlog.
+**Product Owner:** O que mais conhece o produto, priorizando os itens de Product Backlog.
 
-Scrum Team: Realizam as atividades definidas em cada sprint.
+**Scrum Team:** Realizam as atividades definidas em cada sprint.
 
 ## Sprint adaptada
 Como já foi apresentado o que é o scrum, agora será apresentado o que vamos utilizar dessa metodologia no projeto.
@@ -32,7 +32,7 @@ Como já foi apresentado o que é o scrum, agora será apresentado o que vamos u
 
 Será usado apenas a Reunião de planejamento e Execução da sprint, a Reunião de retrospectiva será inserida na de planejamento para ganharmos mais tempo. Não vamos usar a daily por não acharmos eficiente para o nosso caso.
 
-Foi feito um Roadmap com os integrantes para definir qual dia seria possível fazer as Reuniões de planejamento, o dia definido foi todas as quartas de cada semana a partir das 20h até 21h, o intuito da reunião é ter 15 minutos de duração.
+Foi feito um Roadmap com os integrantes para definir qual dia seria possível fazer as Reuniões de planejamento, o dia definido foi todas as quartas de cada semana a partir das 20h até 21h, o intuito da reunião é ter 15 minutos de duração. O Roadmap está disponível em (LinkParaRoadmap)[].
 
 ### Responsáveis para cada papel
 
@@ -41,6 +41,23 @@ O Scrum Master e Product Owner não terá no projeto, pois a equipe não sentiu 
 Scrum Team: todos os 6 integrantes presentes no projeto.
 
 Essas definições podem sofrer alterações futuras.
+
+## Padrão no artefato
+Foi definido um padrão a ser seguido para os membros do trabalho quando forem desenvolver algum artefato, o intuito é manter uma consistência no projeto. 
+
+Esse padrão contém a estrutura do artefato já pré montada para o integrante copiá-la e realizar a sua tarefa, porém dependendo do artefato o realizador dela pode fazer modificações nesse padrão apenas em seu próprio artefato, por haver a chance de ter características diferenciadas. essa estrutura está disponível em [EsqueletoDeArtefatos](https://github.com/Requisitos-de-Software/2023.2-E-Titulo/blob/feature-metodologia/esqueletoArtefatos).
+
+### Padrão em citar
+Será utilizado as normas da ABNT para as citações nas bibliografias e referências, assim como nas figuras, diagramas e tabelas, entre outros.
+
+Exemplo ao Fazer citação em figuras, diagramas e tabelas:
+
+```
+Figura 1 - nome descritivo referente a figura
+(colocar a figura aqui!)
+Fonte: citar a fonte.
+```
+Observando o exemplo logo acima, é preciso que mude a palavra Figura de acordo com qual for usar, se é diagrama ou tabelas.
 
 ## Políticas 
 As políticas servem para definir regras com o objetivo de manter a organização do desenvolvimento
@@ -80,7 +97,9 @@ Utilize tags para definir o propósito do commit:
 
 Ex:
 
-`git commit -m " [tag] (Issue #x) : mensagem descritiva" `
+``` 
+git commit -m "[tag] (Issue #x) : mensagem descritiva"
+```
 
 ### política de Branch
 A divisão das branches tem o intuito de melhorar a dinâmica e a organização do fluxo de trabalho no GitHub. A criação dessa divisão foi inspirada no [Git Flow](https://leanpub.com/git-flow/read).
@@ -136,3 +155,4 @@ A estrutura a ser seguida ao criar um Pull request:
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 12/09/2023  | início da criação dos tópicos da introdução | Maria Barbosa | -- |
 | `0.2`  | 12/09/2023  | atualização e adicionamento de novo tópico | Maria Barbosa | -- |
+| `0.3`  | 12/09/2023  | atualização no documento, adicionamento de padrões | Maria Barbosa | -- |
