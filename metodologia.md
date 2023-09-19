@@ -104,19 +104,15 @@ git commit -m "[tag] (Issue #x) : mensagem descritiva"
 ### política de Branch
 A divisão das branches tem o intuito de melhorar a dinâmica e a organização do fluxo de trabalho no GitHub. A criação dessa divisão foi inspirada no [Git Flow](https://leanpub.com/git-flow/read).
 
-Utilizaremos 3 tipos de branches:
+Utilizaremos 2 tipos de branches:
 
 #### main
 
-Ela é a principal branch, é onde que vai estar os documentos estáveis em nível de produção. 
-
-#### develop
-
-É a branch onde as feature vão mergar, ela contém os documentos ou informações que podem está instáveis. 
+Ela é a principal branch, é onde que vai estar os documentos em nível de produção. 
 
 #### feature
 
-São branches que serão criadas a partir da branch develop para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na develop seguindo a restrição de estar estável, caso ocorra instabilidade terá que abrir uma nova branch chamada fix para corrigir algum problema e logo após mesclar de volta a feature.
+São branches que serão criadas a partir da branch main para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na main e logo em seguida deverá ser excluída para não acumular branches não utilizadas.
 
 ###### O padrão a ser seguido para nomear uma feature: 
 `feature-nomeDaNovaBranch` 
@@ -147,7 +143,9 @@ A estrutura a ser seguida ao criar um Pull request:
 ```
 
 ## Bibliografia
-> PEREIRA Paulo; TORREÃO Paula; MARÇAL Ana. Entendendo Scrum para Gerenciar Projetos de Forma Ágil. MundoPM, 2007. Disponível em: https://d1wqtxts1xzle7.cloudfront.net/49393858/EntendendoScrumparaGerenciarProjetosdeFormaAgil-libre.pdf?1475741991=&response-content-disposition=inline%3B+filename%3DEntendendo_Scrum_para_Gerenciar_Projetos.pdf&Expires=1694639672&Signature=WvZeA2J4NVoTgddZl8hQHX-6eix~poH8BhEUBmJ1o8H-8VKfizN7CpEOIGS2i1PLHjqKl5OsoN7kRdlu0DUVnE~Ey3XVVk-fGccHVnTETOBa~m5Tf59CSVX2N3AISWAg7UOBL~C-muBHuPj-oJUmmgo88ckl736j9HgjePbqgRyOQVpC9sgysyUMmo4cCusaEOMMXIYE3qE709wrXXuJfXYmS-GPdP3e1jgau1oQSG~OyJluVy9gVG99G9hwX-0L9Jd~i8J4PLJZZ5p~oD30702fQleBNeSCliyAxi9UJydZB5NnhNQ3BEF8sGR7B8ao1WB6co1LtSyLcINFpeBuPg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. Acesso em: 12/09/2023.  
+> PEREIRA Paulo; TORREÃO Paula; MARÇAL Ana. Entendendo Scrum para Gerenciar Projetos de Forma Ágil. MundoPM, 2007. Disponível em: https://d1wqtxts1xzle7.cloudfront.net/49393858/EntendendoScrumparaGerenciarProjetosdeFormaAgil-libre.pdf?1475741991=&response-content-disposition=inline%3B+filename%3DEntendendo_Scrum_para_Gerenciar_Projetos.pdf&Expires=1694639672&Signature=WvZeA2J4NVoTgddZl8hQHX-6eix~poH8BhEUBmJ1o8H-8VKfizN7CpEOIGS2i1PLHjqKl5OsoN7kRdlu0DUVnE~Ey3XVVk-fGccHVnTETOBa~m5Tf59CSVX2N3AISWAg7UOBL~C-muBHuPj-oJUmmgo88ckl736j9HgjePbqgRyOQVpC9sgysyUMmo4cCusaEOMMXIYE3qE709wrXXuJfXYmS-GPdP3e1jgau1oQSG~OyJluVy9gVG99G9hwX-0L9Jd~i8J4PLJZZ5p~oD30702fQleBNeSCliyAxi9UJydZB5NnhNQ3BEF8sGR7B8ao1WB6co1LtSyLcINFpeBuPg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. Acesso em: 12 de setembro de 2023.
+
+> 2021.2-Sigaa-Plus. GitHub. Disponível em: https://github.com/Madu01/2021.2-Sigaa-Plus/blob/main/docs/CONTRIBUTING.md. Acesso em: 12 de setembro de 2023.  
 
 ## Histórico de Versões
 
