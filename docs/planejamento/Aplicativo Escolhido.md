@@ -44,5 +44,5 @@ O termo está disponível em [Documentação do Aplicativo E-Título](/docs/E-ti
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 17/10/2023  | adição de conteúdo  | Maria Eduarda Barbosa | Maria Marques |
-| `0.2`  | 18/10/2023  | Atualização no conteúdo  | Maria Eduarda Barbosa | Maria Marques |
+| `0.1`  | 17/10/2023  | adição de conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `0.2`  | 18/10/2023  | Atualização no conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
