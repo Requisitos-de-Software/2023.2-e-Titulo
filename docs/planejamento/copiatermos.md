@@ -186,22 +186,11 @@ Política de Privacidade.
 
 12.3. Ao utilizar o aplicativo, o usuário concorda e aceita integralmente as disposições deste Termo de Uso e Política de Privacidade.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Fonte: [https://www.tse.jus.br/transparencia-e-prestacao-de-contas/politica-de-privacidade-e-termos-de-uso](https://www.tse.jus.br/transparencia-e-prestacao-de-contas/politica-de-privacidade-e-termos-de-uso)
 
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 18/09/2023  | copiando termos de uso | [João Costa ](https://github.com/jvcostta)|[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `0.2`  | 19/09/2023  | adicionando fonte | [João Costa ](https://github.com/jvcostta)|[Mariiana Siqueira](https://github.com/Maryyscreuza) |
