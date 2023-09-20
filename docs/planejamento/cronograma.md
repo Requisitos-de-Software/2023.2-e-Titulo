@@ -7,6 +7,8 @@ Este documento apresenta dois cronogramas essenciais para a gestão e organizaç
 Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforços, garantindo uma experiência de aprendizado mais proveitosa e alinhada com os objetivos estabelecidos para a disciplina. Ambos os cronogramas foram elaborados com base nas diretrizes estabelecidas no plano de ensino, visando proporcionar uma estrutura sólida e coerente para o desenvolvimento das atividades acadêmicas ao longo do semestre letivo.
 
 ## Cronograma Geral
+Tabela 1: Cronograma geral
+
 |  Entrega |   Atividade   | Descrição da atividade | Data da entrega |  Data da apresentação |  
 |  --- |  --- |  --- |  --- |  --- | 
 |  1 |    Planejamento    |  Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, App selecionado para o projeto da disciplina, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina, Ferramentas do projeto, cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação), Rich Picture    |  20/09  |  21/09  | 
@@ -18,11 +20,14 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 |  6  |    Pós-Rastreabilidade     |    Gerência II     |       20/11      |   21/11  | 
 | 7  |   apresentação do projeto final     |     Entrega de todos os artefatos     |      06/12       |  07/12 à 19/12   | 
 
-**Tabela 1: Cronograma geral,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ## Cronograma Detalhado
 
 ### Entrega 1
+
+Tabela 2: Cronograma detalhado da entrega 1
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Planejamento do projeto  |  06/09  |  13/09  | 18/09 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
@@ -36,9 +41,12 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 | Metodologia |  06/09  | 17/09   |  18/09  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy)   |
 | Gravação da apresentação | 18/09 | 18/09   |  19/09 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-**Tabela 2: Cronograma detalhado da entrega 1,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 2
+
+Tabela 3: Cronograma detalhado da entrega 2
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- | ---| --- | 
 | Perfil do Usuário  | 21/09 |  30/09 |  01/10  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
@@ -46,9 +54,12 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 | Técnicas de priorização | 21/09 |  30/09 |  01/10    | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01)  |
 | Gravação da apresentação |  02/10  |  02/10  |  03/10  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 3: Cronograma detalhado da entrega 2,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 3
+
+Tabela 4: Cronograma detalhado da entrega 3
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 |  Cenários | 05/10   |  21/10  |  22/10  |   [João Victor](https://github.com/jvcostta)  |  [Mateus Orlando](https://github.com/MateusPy)  |
@@ -57,9 +68,12 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 | Especificação suplementar | 05/10   | 21/10    | 22/10    | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 | Gravação da apresentação |  23/10  |  23/10  |  24/10  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 4: Cronograma detalhado da entrega 3,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 4
+
+Tabela 5: Cronograma detalhado da entrega 4
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Histórias de usuário |  26/10  |  02/11  |  03/11  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
@@ -67,39 +81,48 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 | NFR Framework  |   26/10  |  02/11  |  03/11   |   [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
 | Gravação da apresentação |  04/11  |  04/11  |  05/11  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 5: Cronograma detalhado da entrega 4,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 5.1
+
+Tabela 6: Cronograma detalhado da entrega 5.1
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
-| Vertificação e Validação |  07/11  |   10/11 |  11/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+| Verificação e Validação |  07/11  |   10/11 |  11/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Gravação da apresentação |  11/11  |  11/11  |  11/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 6: Cronograma detalhado da entrega 5.1,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 5.2
+
+Tabela 7: Cronograma detalhado da entrega 5.2
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
-| Vertificação e Validação |  21/11  |  26/11  |  27/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+| Verificação e Validação |  21/11  |  26/11  |  27/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Gravação da apresentação |  27/11  |  27/11  |  28/11  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 7: Cronograma detalhado da entrega 5.2,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 6
+
+Tabela 8: Cronograma detalhado da entrega 6
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Pós-Rastreabilidade - Gerência II | 14/11   |  17/11  |  18/11  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Gravação da apresentação |  18/11  |  18/11  |  19/11  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-**Tabela 8: Cronograma detalhado da entrega 6,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ### Entrega 7
+Tabela 9: Cronograma detalhado da entrega 7
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Entrega do projeto final |  30/11  |  03/12  |  04/12  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 | Gravação da apresentação |  04/12  |  04/12  |  05/12  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
-**Tabela 9: Cronograma detalhado da entrega 7,(Fonte: Maria Marques, 2023)**
+Fonte: Maria Marques, 2023
 
 ## Bibliografia
 
@@ -111,8 +134,8 @@ Ao seguir esses cronogramas, os estudantes poderão otimizar seu tempo e esforç
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `1.0`  | 09/09/2023  | Abertura do documento  | [Maria Marques ](https://github.com/EduardaSMarques) |[Esther Sena](https://github.com/esmsena)|
-| `2.0`  | 11/09/2023  | Correções na introdução  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `3.0`  | 13/09/2023  | Elaboração do cronograma geral e de algumas etapas do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `4.0`  | 15/09/2023  | Finalização do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
-| `5.0`  | 16/09/2023  | Correções do documento, foi excluido tópicos que não precisava| [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `0.1`  | 09/09/2023  | Abertura do documento  | [Maria Marques ](https://github.com/EduardaSMarques) |[Esther Sena](https://github.com/esmsena)|
+| `0.2`  | 11/09/2023  | Correções na introdução  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `0.3`  | 13/09/2023  | Elaboração do cronograma geral e de algumas etapas do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `0.4`  | 15/09/2023  | Finalização do cronograma detalhado  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
+| `0.5`  | 18/09/2023  | Correções do documento| [Maria Marques ](https://github.com/EduardaSMarques)  |[Esther Sena](https://github.com/esmsena)|
