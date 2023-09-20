@@ -32,7 +32,7 @@ Tabela 1: Ações pendentes
 Fonte: cronograma; MARQUES, Maria 2023.
 
 ## Link da gravação
-* 
+*  [https://youtu.be/-l3R1Hto4R0](https://youtu.be/-l3R1Hto4R0)
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 27/09/2023
