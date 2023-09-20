@@ -38,7 +38,7 @@ Fonte: NERIS, Mariiana 2023.
 * [https://youtu.be/WvsyOBC7cSE](https://youtu.be/WvsyOBC7cSE)
 
 ## Próxima Reunião
-* **Data da Próxima Reunião:** 19/09/2023
+* **Data da Próxima Reunião:** 20/09/2023
 * **Hora da Próxima Reunião:** 20:00
 ---
 
