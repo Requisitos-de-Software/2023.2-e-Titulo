@@ -4,9 +4,12 @@
  Essa página tem como principal objetivo armazenar o vídeo de apresentação da primeira entrega, no qual se encontra no link a seguir.
 
 ## Vídeo
-[Clique aqui](https://youtu.be/JplfG9uCSrc)
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/JplfG9uCSrc)
 
-<iframe width="711" height="400" src="https://youtu.be/JplfG9uCSrc" title="Apresentação Entrega 1 E-titulo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JplfG9uCSrc?si=R1oKoNhcFy9ya8Jy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
+
 
 ## Critérios de entrega
 |       Artefatos       | detalhes              | concluido |
