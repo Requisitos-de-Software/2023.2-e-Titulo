@@ -6,17 +6,20 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 site_name: e-Título
 nav:
   - Início: index.md
-  - e-Título: E-titulo/Documentação_e-titulo.md
+  - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
-  - Planejamento: 
+    - Ata 03: atas/ata_reuniao_03.md
+  - Planejamento:
+    - Escolha do Aplicativo: planejamento/aplicativoEscolhido.md
+    - Termos de Uso: planejamento/copiatermos.md
+    - HeatMap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/Ferramentas.md
+    - Ferramentas: planejamento/ferramentas.md
     - Metodologia: planejamento/metodologia.md
     - Pré-Rastreabilidade: 
       - Rich Picture: planejamento/richpicture.md
-    - Termos de Uso: planejamento/copiatermos.md
 
 
 plugins:

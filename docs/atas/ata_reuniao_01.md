@@ -36,7 +36,7 @@
 | Definição de Metodologias  | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 12/09/2023          |
 
 ## Link da gravação
-* https://youtu.be/euIYHMQXNaU
+* [https://youtu.be/euIYHMQXNaU](https://youtu.be/euIYHMQXNaU)
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 13/09/2023
