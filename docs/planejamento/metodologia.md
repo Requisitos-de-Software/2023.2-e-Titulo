@@ -32,7 +32,7 @@ Como já foi apresentado o que é o scrum, agora será apresentado o que vamos u
 
 Será usado apenas a Reunião de planejamento e Execução da sprint, a Reunião de retrospectiva será inserida na de planejamento para ganharmos mais tempo. Não vamos usar a daily por não acharmos eficiente para o nosso caso.
 
-Foi feito um Roadmap com os integrantes para definir qual dia seria possível fazer as Reuniões de planejamento, o dia definido foi todas as quartas de cada semana a partir das 20h até 21h, o intuito da reunião é ter 15 minutos de duração. O Roadmap está disponível em (LinkParaRoadmap)[].
+Foi feito um Roadmap com os integrantes para definir qual dia seria possível fazer as Reuniões de planejamento, o dia definido foi todas as quartas de cada semana a partir das 20h até 21h, o intuito da reunião é ter 15 minutos de duração. O Roadmap está disponível em [LinkParaRoadmap](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/planejamento/heatmap.md).
 
 ### Responsáveis para cada papel
 
@@ -45,7 +45,7 @@ Essas definições podem sofrer alterações futuras.
 ## Padrão no artefato
 Foi definido um padrão a ser seguido para os membros do trabalho quando forem desenvolver algum artefato, o intuito é manter uma consistência no projeto. 
 
-Esse padrão contém a estrutura do artefato já pré montada para o integrante copiá-la e realizar a sua tarefa, porém dependendo do artefato o realizador dela pode fazer modificações nesse padrão apenas em seu próprio artefato, por haver a chance de ter características diferenciadas. essa estrutura está disponível em [EsqueletoDeArtefatos](/docs/planejamento/esqueletoArtefatos).
+Esse padrão contém a estrutura do artefato já pré montada para o integrante copiá-la e realizar a sua tarefa, porém dependendo do artefato o realizador dela pode fazer modificações nesse padrão apenas em seu próprio artefato, por haver a chance de ter características diferenciadas. essa estrutura está disponível em [EsqueletoDeArtefatos](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/planejamento/esqueletoArtefatos).
 
 ### Padrão em citar
 Será utilizado as normas da ABNT para as citações nas bibliografias e referências, assim como nas figuras, diagramas e tabelas, entre outros.
