@@ -31,7 +31,7 @@ Durante a reunião da escolha, o aplicativo escolhido foi E-Titulo, Os motivos f
 ## Termo do aplicativo
 Antes de escolher o aplicativo, foi realizado uma vistoria em seus termos de privacidade e uso, essa documentação do termo foi passada para um arquivo com o objetivo de guardar como comprovante para caso do mesmo mudar e não permitir mais engenharia reversa, portanto o documento salvo é a prova de que estamos permitidos a realizar o projeto com base no aplicativo E-Titulo. 
 
-O termo está disponível em [Documentação do Aplicativo E-Título](/docs/E-titulo/Documentação_e-titulo.md)
+O termo está disponível em [Cópia_do_Aplicativo_E-Título](/docs/E-titulo/Documentação_e-titulo.md). 
 
 ## Bibliografia
 
