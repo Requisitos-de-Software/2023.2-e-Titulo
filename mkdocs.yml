@@ -11,7 +11,8 @@ nav:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
     - Ata 03: atas/ata_reuniao_03.md
-  - Apresentações: apresentacoes/apresentacao01.md
+  - Apresentações: 
+    - Apresentação 01: apresentacoes/apresentacao01.md
   - Planejamento:
     - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
     - Termos de Uso: planejamento/copiatermos.md
