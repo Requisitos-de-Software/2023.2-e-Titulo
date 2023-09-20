@@ -14,10 +14,10 @@
 * [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
-* Tarefas para a próxima issue
+* Tarefas para a próxima issue listadas de acordo com o cronograma
   
 ## Decisões Tomadas
-* Para quem cada tarefa vai ser atribuída
+* Para quem cada tarefa foi atribuída
   
 ## Ações Pendentes
 Tabela 1: Ações pendentes
