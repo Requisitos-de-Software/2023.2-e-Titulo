@@ -46,3 +46,4 @@ O termo está disponível em [Cópia_do_Aplicativo_E-Título](/docs/E-titulo/Doc
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 17/10/2023  | adição de conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
 | `0.2`  | 18/10/2023  | Atualização no conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `0.3`  | 20/10/2023  | ajuste na tabela  | [João Costa](https://github.com/jvcostta) | [João Costa](https://github.com/jvcostta) |
