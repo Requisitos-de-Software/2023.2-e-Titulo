@@ -11,7 +11,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/apresentacoes/apresentacaoTeste/</loc>
+         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/apresentacoes/apresentacao01/</loc>
          <lastmod>2023-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,6 +27,11 @@
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/atas/ata_reuniao_03/</loc>
+         <lastmod>2023-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/atas/ata_reuniao_04/</loc>
          <lastmod>2023-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -28,9 +28,11 @@ plugins:
       lang:
         - pt
         - en
+
 theme:
   name: material
   language: pt-BR
+  logo: imgs/img.logo.jpg
   palette:
     - scheme: deep purple
       primary: grey
