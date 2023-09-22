@@ -2,32 +2,37 @@
 Um heatmap é um gráfico que usa cores para mostrar a intensidade e distribuição de valores em uma matriz. Cores variam de acordo com os valores, ajudando a identificar padrões facilmente em dados. É amplamente usado em análise de dados, geografia, web e medicina para visualização rápida de informações.
 
 # HeatMap Segunda-feira
+### Imagem 1: HeatMap_Segunda-Feira
 ![HeatMap-Segunda](docs/../img/heatmapsegunda.png)
-Imagem 1: HeatMap_Segunda-Feira (Fonte: SENA, Esther 2023).
+Fonte: SENA, Esther 2023.
 
 ---
 
 # HeatMap Terça-feira
+### Imagem 2: HeatMap_Terça-Feira
 ![HeatMap-Terça](docs/../img/heatmapterca.png)
-Imagem 2: HeatMap_Terça-Feira (Fonte: SENA, Esther 2023).
+Fonte: SENA, Esther 2023.
 
 ---
 
 # HeatMap Quarta-feira
+### Imagem 3: HeatMap_Quarta-Feira
 ![HeatMap-Quarta](docs/../img/heatmapquarta.png)
-Imagem 3: HeatMap_Quarta-Feira (Fonte: SENA, Esther 2023).
+Fonte: SENA, Esther 2023.
 
 ---
 
 # HeatMap Quinta-feira
+### Imagem 4: HeatMap_Quinta-Feira
 ![HeatMap-Quinta](docs/../img/heatmapquinta.png)
-Imagem 4: HeatMap_Quinta-Feira (Fonte: SENA, Esther 2023).
+Fonte: SENA, Esther 2023.
 
 ---
 
 # HeatMap Sexta-feira
+### Imagem 5: HeatMap_Sexta-Feira 
 ![HeatMap-Sexta](docs/../img/heatmapsexta.png)
-Imagem 5: HeatMap_Sexta-Feira (Fonte: SENA, Esther 2023).
+Fonte: SENA, Esther 2023.
 
 
 # Bibliografia
