@@ -14,11 +14,11 @@ nav:
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
   - Planejamento:
-    - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
+    - Escolha do Aplicativo: planejamento/aplicativoEscolhido.md
     - Termos de Uso: planejamento/copiatermos.md
     - HeatMap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/Ferramentas.md
+    - Ferramentas: planejamento/ferramentas.md
     - Metodologia: planejamento/metodologia.md
     - Rich Picture: planejamento/richpicture.md
 
@@ -33,14 +33,15 @@ theme:
   name: material
   language: pt-BR
   logo: imgs/img.logo.jpg
+  favicon: imgs/img.logo.jpg
   palette:
     - scheme: deep purple
-      primary: grey
+      primary: yellow
       toggle:
         icon: material/circle-half-full
         name: noturno
     - scheme: slate
-      primary: black
+      primary: blue
       toggle:
         icon: material/circle-half-full
         name: claro  
