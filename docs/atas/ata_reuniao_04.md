@@ -43,3 +43,4 @@ Fonte: cronograma; MARQUES, Maria 2023.
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
 | 1.0    | 20/09/2023 | Criação da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
+| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  [Esther Sena Martins](https://github.com/esmsena)  |
