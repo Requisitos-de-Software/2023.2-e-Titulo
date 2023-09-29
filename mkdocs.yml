@@ -4,6 +4,7 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 
 
 site_name: e-Título
+
 nav:
   - Início: index.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
@@ -23,6 +24,7 @@ nav:
     - Rich Picture: planejamento/richpicture.md
 
 
+
 plugins:
   - search:
       lang:
@@ -33,14 +35,26 @@ theme:
   name: material
   language: pt-BR
   logo: imgs/img.logo.jpg
+  favicon: imgs/img.logo.jpg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
   palette:
-    - scheme: deep purple
-      primary: grey
+    - scheme: default
+      primary: yellow
       toggle:
         icon: material/circle-half-full
         name: noturno
     - scheme: slate
-      primary: black
+      primary: blue
       toggle:
         icon: material/circle-half-full
         name: claro  
