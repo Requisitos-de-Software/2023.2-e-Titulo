@@ -47,3 +47,4 @@
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
 | 1.0    | 13/09/2023 | Ata da primeira reunião     |  [Esther Sena Martins](https://github.com/esmsena)   |  [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)           |
+| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  [Esther Sena Martins](https://github.com/esmsena)  |
