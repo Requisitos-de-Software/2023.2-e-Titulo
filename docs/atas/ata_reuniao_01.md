@@ -1,9 +1,9 @@
 # Ata da Reunião - 06/09/2023 - Reunião 1
 
 ## Data e Hora
-| Data          | Hora    | Local       |
-|---------------|---------|-------------|
-| 06/09/2023    | 20:00   | Google Meet |
+| Data          | Hora de início | Hora de fim | Local        |
+|---------------|----------------|-------------|--------------|
+|  06/09/2023   |      20:34     |    21:00    | Google Meet  |
 
   
 ## Participantes
