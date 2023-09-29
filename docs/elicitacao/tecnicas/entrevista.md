@@ -42,7 +42,7 @@ Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é
 | Where    | Onde     |
 | How      | Como     |
 | How much | Quanto   |
-
+| which    | Qual     |
 </center>
 
 <div style="text-align: center">
@@ -54,12 +54,12 @@ Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é
 | Tipo          | Perguntas                                                                                                                                            |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How(Como):    | 1. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?<br> |
-| whitch (Qual):| 2. Quais funcionalidades específicas do aplicativo e-Título você considera mais úteis e por quê? Existem áreas em que o aplicativo poderia ser mais útil para você?    |
+| which (Qual):| 2. Quais funcionalidades específicas do aplicativo e-Título você considera mais úteis e por quê? Existem áreas em que o aplicativo poderia ser mais útil para você?    |
 | When(Quando): | 3. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles?                                             |
-| whitch (Qual):  | 4. Em relação à segurança e privacidade dos seus dados pessoais no aplicativo, quais são suas preocupações ou sugestões para melhorias?                       |
+| which (Qual):  | 4. Em relação à segurança e privacidade dos seus dados pessoais no aplicativo, quais são suas preocupações ou sugestões para melhorias?                       |
 | How(Como):  | 5. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?                                                                   |
 | How(Como):| 6. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis?                                                           |
-| How(Como): whitch (Qual):   | 7. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais?|
+| What (O quê):   | 7. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais?|
 
 <div style="text-align: center">
    <p> Tabela 2: Perguntas realizadas na entrevista (Fonte: Autor, 2023).</p>
