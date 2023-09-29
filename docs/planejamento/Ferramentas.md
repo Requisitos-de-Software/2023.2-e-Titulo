@@ -14,12 +14,13 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
 |                  ![Logo do GitHub](../assets/ferramentas/github.png)                 |          GitHub           | Organizar e armazenar os artefatos produzidos para o projeto ao longo do semestre.<a id="anchor_1" href="#FRM1"></a> |
 |              ![Logo do Microsoft Teams](../assets/ferramentas/teams.png)               |           Teams           |         Realização de reuniões e gravação das entregas.<a id="anchor_2" href="#FRM2"></a>          |
-|                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png)                 |         WhatsApp          |             Utilizado para a comunicação entre os integrantes do grupo.<a id="anchor_6" href="#FRM6"></a>             |
-|             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png)           |    Visual Studio Code     |                  Criação dos arquivos de documentação.<a id="anchor_5" href="#FRM5"></a>                  |
+|             ![Logo do Figma](../assets/ferramentas/figma.png)             |     Figma      |      Criação dos protótipos. <a id="anchor_3" href="#FRM3"></a>       |
 |                                    ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                    |          MkDocs           |                  Criação das páginas de documentação.<a id="anchor_4" href="#FRM4"></a>                  |
+|             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png)           |    Visual Studio Code     |                  Criação dos arquivos de documentação.<a id="anchor_5" href="#FRM5"></a>                  |
+|                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png)                 |         WhatsApp          |             Utilizado para a comunicação entre os integrantes do grupo.<a id="anchor_6" href="#FRM6"></a>             |
 |                 ![Logo do YouTube](../assets/ferramentas/youtube.png)                |          YouTube          |                    Hospedagem das reuniões e entregas da disciplina.<a id="anchor_7" href="#FRM7"></a>                    |
 |             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png)             |     Google Planilhas      |      Criação de planilhas de planejamento como heatmap.<a id="anchor_8" href="#FRM8"></a>       |
-
+|             ![Logo do Lucidchart](../assets/ferramentas/lucid.png)             |     Lucidchart      |      Criação de diagramas.<a id="anchor_9" href="#FRM9"></a>       |
 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>  <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -42,6 +43,8 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 >
 > <a id="FRM8" href="#anchor_8">8.</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acessado em: 18 de set. de 2023.
 >
+> <a id="FRM9" href="#anchor_9">9.</a> Lucidchart. Disponível em: [https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433234360&km_CPC_TargetID=aud-812368091438:kwd-33511936169&km_CPC_Country=1001541&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=CjwKCAjw69moBhBgEiwAUFCx2Jjo3tQopIxpIPZSz3GvjoGYwqpHQ9b-xUg4Dl7vRiMbL2Lg_TADzRoCwocQAvD_BwE](). Acessado em: 29 de set. de 2023.
+>
 
 
 ## Histórico de Versões
@@ -49,3 +52,4 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 18/09/2023 |            Criação da página de ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
+|  `1.1`  | 29/09/2023 |            Adiçãod de mais ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
