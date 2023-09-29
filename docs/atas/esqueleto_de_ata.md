@@ -1,9 +1,9 @@
 # Ata da Reunião
 
 ## Data e Hora
-| Data          | Hora    | Local |
-|---------------|---------|-------|
-| xx/xx/2023    | xx:xx   | Local |
+| Data          | Hora de início | Hora de fim | Local |
+|---------------|----------------|-------------|-------|
+|  xx/xx/2023   |      xx:xx     |    xx:xx    | Local |
 
   
 ## Participantes
@@ -44,4 +44,5 @@
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | Todos           |
+| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | Todos |
+| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | Todos |
