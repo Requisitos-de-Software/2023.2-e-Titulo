@@ -1,9 +1,9 @@
 # Ata da Reunião - 20/09/2023 - Reunião 4
 
 ## Data e Hora
-| Data          | Hora   | Local |
-|---------------|--------|-------|
-| 20/09/2023    | 20:00  | Teams |
+| Data          | Hora de início | Hora de fim | Local |
+|---------------|----------------|-------------|-------|
+|  20/09/2023   |      20:00     |    20:05    | Teams |
 
   
 ## Participantes
@@ -42,4 +42,4 @@ Fonte: cronograma; MARQUES, Maria 2023.
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
+| 1.0    | 20/09/2023 | Criação da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
