@@ -29,7 +29,7 @@ Fonte: Autoria Própria.
 
 ## Palavras-chave usadas na sessão de Brainstorming
 
-<font size="3"><p style="text-align: center">Tabela X: Palavras-chave.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Palavras-chave.</p></font>
 
 <center>
 
@@ -51,7 +51,7 @@ Fonte: Autoria Própria.
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela X: Participantes.</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Participantes.</p></font>
 
 <center>
 
@@ -84,19 +84,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Apresentar-se apto a exercer o voto, solicitar pedido de justificativa de ausência</td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
-            <td>Maria</td>
+            <td>2. Acessar o título de eleitor, acessar ao Título de eleitor, mostrar a zona eleitoral </td>
+            <td>Maria Eduarda dos Santos</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Acesso a localização do local de votação, emitir certidões, como quitação eleitoral. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Emitir o título e acessá-lo, verificar o local de votação, notificar o eleitor acerca das informações da eleição </td>
             <td>Matheus</td>
          </tr>
       </tbody>
