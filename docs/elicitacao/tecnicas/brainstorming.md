@@ -330,19 +330,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Ele leva ao site do TSE e lá você atualiza seus dados. Ao clicar em "mais opções", estando logado no app, existe uma funcionalidade que permite trocar de senha</td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2.  Tem uma opção de "esqueci minha senha", e ao clicar eles pedem o seu email e nele é enviado os passos para redefinir a senha. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Tem um "esqueci minha senha", onde ao clicar, você responde umas perguntas de dado pessoais e assim é levado a tela de recadastramento. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4.  Clicar no botão abaixo do login e preencher um formulário com os dados pessoais. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -365,19 +365,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Sim, fornece, porém é solicitada a autorização do usuário para que os lembretes/notificações sejam enviados. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2.  Sim, possui. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3.  Sim, na aba de notificação. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Sim, existe essa funcionalidade no aplicativo. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -400,19 +400,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Ajuda o usuário a não esquecer de levar os documentos físicos, porém correm o risco de acabar a bateria do seu dispositivo eletrônico. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Praticidade. Não precisa ficar com o documento físico em mãos e tem todas as informações dele em mãos e é mais difícil de perder</td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3.  Facilidade do eleitor levar o título, já que hoje em dia dificilmente não se leva celular para os lugares. Em caso de perca do documento físico há a vantagem de só levar o celular. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Evita que o usuário esqueça, facilita a leitura, que é feita através de um QR code. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -435,19 +435,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Contribui com a leitura de dados feita por qr code, impossibilitando o erro humano no momento da leitura de um documento físico. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Contribui para que mais pessoas tenha acesso as urnas e incentiva que mais jovens possam se interessar pela votação, pelo app ser mais prático.  </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Como a leitura do título online é feita por QR Code, há maior rapidez na hora de votar. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Com o título digital, as chances de alguém tentar se passar por outro indivíduo, é menor e torna eficiente a leitura do título e aumenta a eficiência de chegada ao local de votação, por parte do eleitor.</td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -470,19 +470,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Dentro do app não possui nenhuma opção direta para feedbacks ou reportagem de problemas, apenas uma área de perguntas frequentes. Porém dentro do app tem um link que direciona o usuário para o site do TSE no qual o mesmo possui essa possibilidade de relatar feedbacks e problemas.</td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Não possui nenhuma funcionalidade para reporte de problemas no app, para relatar algum problema precisa entrar em contato com a ouvidoria do TSE.  </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Não há uma funcionalidade para reportar erros ou dar feedback sobre o aplicativo, mas tem uma aba de "Perguntas e respostas" e no aplicativo, onde constam as perguntas mais frequentes. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Possui, no aplicativo, a opção de perguntas frequentes, além de permitir tirar suas próprias dúvidas. Essa opção se encontra no menu lateral do aplicativo.</td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -505,19 +505,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Não possui nada que inclua diferentes grupos. apenas o público comum, alfabetizado, sem deficiencia visual, auditiva ou algum tipo de doença cognitiva. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Não possui nenhuma medida. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Não possui. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4.  - Não encontrei nenhuma medida. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -540,19 +540,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Em seu lançamento, 2017, foi sim algo inovador que ajudou muitos eleitores, Ate hoje ainda auxilia, porém existem pontos de melhoria. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Não, tem muitos outros aplicativos com a mesma proposta, acredito que o app só seja prático. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3.  Atualmente não o considero inovador. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Em alguns pontos,  sim. O fato de não usar o papel é bastante inovador. No entanto, o aplicativo é muito restrito e possui uma usabilidade não tão boa. A ausência de medidas de acessibilidade, por exemplo, é uma questão antiquada. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -605,5 +605,6 @@ Legenda das Tabelas x e x:
 | 1.0 | 26/09/2023 | Motagenm de estrutura | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 27/09/2023 | Adicionando perguntas e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.2 | 29/09/2023 | Adicionando uma pergunta e o conteúdo em Motivação e Objetivo, alterando introdução, metodologia e funções, inserindo o miro  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
-| 1.3 | 27/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.3 | 29/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.4 | 30/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 
