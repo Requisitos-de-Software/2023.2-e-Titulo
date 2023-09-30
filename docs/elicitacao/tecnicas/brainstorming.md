@@ -120,19 +120,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Apresentar documentos de forma eletrônica e visualizar locais de votação mais próximo do usuário. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2.  Praticidade. É de fácil acesso </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Poder acessar o título de eleitor a qualquer momento. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4.Facilita o acesso ao título, notifica alertando sobre novidades e conseguir ver o mapa com a distância dele ao local de votação.</td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -155,19 +155,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. De forma eficaz e ágil o app tira do usuário a necessidade de carregar consigo vários documentos impressos no dia da votação. Faz com que o usuário não tenha a necessidade de pesquisar os locais onde votar, pois o app ja os fornece</td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. É uma forma fácil de te todas as informações do título de eleitor na palma da mão. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Evita ter que levar o título de eleitor no dia da votação. Facilita o acesso a localização do local de votação. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Ele tenta evitar o deslocamento do eleitor até um cartório eleitoral para acessar suas informações(título, local de votação, etc.) </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -190,19 +190,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Ser alfabetizado (ler e escrever), documento de identificação: rg, cnh entre outros'. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Ter acesso á internet, possuir um celular, ter mais de 16. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Celular, ter mais de 16 anos, CPF e cadastro no site do título de eleitor, acesso a internet. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Acesso à internet, aparelho celular e documentação (Identidade, CPF, dentre outros). </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -225,19 +225,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Coleta de dados pessoais e documentação, coleta de biometria ou reconhecimento facial para facilitar o login, concordancia com os termos de uso. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Fazer o login com o cpf e uma senha ou com a biometria do celular. Para cadastrar precisa ter um rg e cpf. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. Entrar com CPF e senha e concordar com os termos de uso do APP. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. Preenchimento dos dados pessoais, inserção do título de eleitor, caso não tenha, solicita-se virtualmente no TRE. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -260,19 +260,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Login deve ser feito com senha criada pelo usuário, biometria ou reconhecimento facial. O app fornece um termo de uso no qual informa o sigilo dos dados pessoais do usuário nos quais nao serão divulgados e usados, apenas, para fins documentais</td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Não é possível fazer dois logins ao mesmo tempo, precisar possuir um cpf, tem a  opção de apagar todos seus dados do aplicativo. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. O login é feito com CPF e senha. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4. É exigido, ao entrar no aplicativo, uma autenticação que exige o preenchimento de alguns dados pessoais.</td>
             <td>Matheus</td>
          </tr>
       </tbody>
@@ -295,19 +295,19 @@ Fonte: Autoria Própria.
       </thead>
       <tbody>
            <tr>
-            <td>1. ---------</td>
+            <td>1. Atualmente existe uma funcionalidade que permite visualizar a autenticidade dos documentos pessoais, porém o app se encontra em manutenção e não é possível usa-la. </td>
             <td>João</td>
          </tr>
          <tr>
-            <td>2.  --------- </td>
+            <td>2. Nunca vi essa opção no app, mas acredito que deve estar disponível durante as eleições ou que talvez precise ir presencialmente em um cartório atualizar os dados. </td>
             <td>Maria</td>
          </tr>
          <tr>
-            <td>3.  ---------</td>
+            <td>3. No aplicativo não há essa função. </td>
             <td>Mariiana</td>
          </tr>
          <tr>
-            <td>4.  ---------</td>
+            <td>4.  Ele leva ao site do TSE e lá você atualiza seus dados. </td>
             <td>Matheus</td>
          </tr>
       </tbody>
