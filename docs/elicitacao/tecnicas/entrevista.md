@@ -7,10 +7,7 @@ Utilizamos a técnica de entrevista[¹](#referencias-bibliograficas) com objetiv
 ## Metodologia
 
 A entrevista ocorreu de forma virtual no dia --/--/2023, via Teams, 
-realizada remotamente. Os entrevistados são profissionais da área de TI e 
-atuam no Ministério da Justiça-DF e são relevantes e adequados para o 
-projeto do aplicativo Simplenote devido à sua experiência na área de TI e ao
-seu conhecimento sobre os requisitos e regulamentos do setor governamental. 
+realizada remotamente. Os entrevistados são --------------
 
 Durante a entrevista, foi utilizado principalmente perguntas abertas para 
 permitir que os entrevistados expressassem livremente suas opiniões, 
@@ -264,4 +261,4 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
-
+| 1.0 | 26/09/2023 | Motagenm de estrutura | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
