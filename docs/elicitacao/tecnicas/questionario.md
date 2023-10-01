@@ -2,6 +2,8 @@
 
 ## Introdução
 
+A utilização de questionários é uma abordagem na obtenção de requisitos, envolvendo a formulação de perguntas com o propósito de reunir dados sobre as necessidades e expectativas das partes envolvidas em relação a um sistema ou processo. Esta metodologia destaca-se por sua agilidade e eficácia na coleta tanto de informações quantitativas quanto qualitativas de um amplo espectro de indivíduos.
+
 ## Metodologia
 
 
@@ -66,3 +68,4 @@ Legenda:
 
 | Versão | Data       | Descrição         | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
