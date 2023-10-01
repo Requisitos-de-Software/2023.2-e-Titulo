@@ -22,7 +22,7 @@ Sobre as funções para a reunião, o participante irá resolver as atividades p
 
 Imagem 1 - Apresentação do miro
 
-![imagem_miro](../assets/imgMiro.png)
+![imagem_miro](../../../docs/assets/imgMiro.png)
 
 Fonte: Autoria Própria.
 
@@ -596,7 +596,13 @@ Legenda das Tabelas x e x:
 
 
 ## Bibliografia
+https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming
 
+https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming
+
+https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf
+
+https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
 
 ## Histórico de Versões
 
@@ -607,4 +613,5 @@ Legenda das Tabelas x e x:
 | 1.2 | 29/09/2023 | Adicionando uma pergunta e o conteúdo em Motivação e Objetivo, alterando introdução, metodologia e funções, inserindo o miro  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.3 | 29/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.4 | 30/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 
