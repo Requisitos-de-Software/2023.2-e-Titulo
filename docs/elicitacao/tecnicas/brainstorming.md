@@ -629,6 +629,7 @@ https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisito
 | 1.1 | 27/09/2023 | Adicionando perguntas e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.2 | 29/09/2023 | Adicionando uma pergunta e o conteúdo em Motivação e Objetivo, alterando introdução, metodologia e funções, inserindo o miro  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.3 | 29/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.4 | 30/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.4 | 29/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
+| 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 
