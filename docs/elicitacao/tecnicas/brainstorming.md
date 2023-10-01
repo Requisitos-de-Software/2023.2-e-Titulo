@@ -572,37 +572,44 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 - RNFx: Requisito Não-Funcional nºx
 - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-<font size="3"><p style="text-align: center">**Tabela 17:** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 1 - requisitos funcionais** </p></font>
 
 <center>
 
 | <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS1                                            | Apresentação de Aptidão para Voto                                                  | RF1    |          |
-| BS2                                            | Acesso ao Título de Eleitor e Zona Eleitoral                                       | RF2    |          |
-| BS3                                            | Localização do Local de Votação e Emissão de Certidões                             | RF3    |          |
-| BS4                                            | Emissão do Título, Verificação do Local de Votação e Notificações                  | RF4    |          |
+| BS1                                            |               | RF1    |          |
+| BS2                                            | No aplicativo deve ser possível realizar o cadastro do usuário                     | RF2    |          |
+| BS3                                            | Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF3    |          |
+| BS4                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo                 | RF4    |          |
+| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título               | RF4    |          | 
+| BS3                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação                             | RF3    |          |
+| BS4                                            | No aplicativo deve possível o usuário receber notificações                 | RF4    |          |
+| BS4                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso                 | RF4    |          | 
+| BS4                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso                 | RF4    |          | 
+| BS4                                            | No aplicativo deve ser possível o usuário trocar a senha               | RF4    |          |
+| BS4                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha               | RF4    |          | 
+| BS4                                            | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE            | RF4    |          | 
+| BS4                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo             | RF4    |          | 
+| BS4                                            | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo           | RF4    |          | 
+
 
 </center>
 
 <font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 18:** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 2 - requisitos não funcionais ** </p></font>
 
 <center>
 
 | <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
-| BSNF1                                          | Requisitos Técnicos: Ser alfabetizado, possuir documentos de identificação, idade mínima | RNF1   |          |
-| BSNF2                                          | Processo de Registro no Aplicativo: Coleta de dados pessoais, biometria ou reconhecimento facial, concordância com termos de uso | RNF2   |          |
-| BSNF3                                          | Medidas de Segurança: Login com senha, biometria ou reconhecimento facial, termos de uso, prevenção de logins simultâneos | RNF3   |          |
-| BSNF4                                          | Atualização de Informações Pessoais: Atualização de informações pessoais no site do TSE | RNF4   |          |
-| BSNF5                                          | Recuperação de Senha ou PIN: Recuperação por meio do site do TSE, opção de "esqueci minha senha" com e-mail ou perguntas pessoais | RNF5   |          |
-| BSNF6                                          | Lembrete ou Notificação sobre Datas Importantes: Oferecimento de lembretes/notificações com autorização do usuário | RNF6   |          |
-| BSNF7                                          | Vantagens em Comparação com Título de Eleitor em Papel: Evitar esquecimento, praticidade, facilidade de leitura por QR Code | RNF7   |          |
-| BSNF8                                          | Contribuição para Transparência e Eficiência das Eleições: Leitura por QR Code, acesso facilitado às urnas, incentivo à participação | RNF8   |          |
-| BSNF9                                          | Relato de Problemas ou Feedback: Feedbacks e relato de problemas por meio do site do TSE | RNF9   |          |
-| BSNF10                                         | Medidas de Acessibilidade: Ausência de medidas de acessibilidade | RNF10  |          |
+| BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |          |
+| BSNF8                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições | RNF8   |          |
+| BSNF8                                          |  O aplicativo deve ser confiável para o usuário | RNF8   |          |
+| BSNF8                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF8   |          |
+| BSNF8                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF8   |          |
+
 
 </center>
 
@@ -632,4 +639,4 @@ https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisito
 | 1.4 | 29/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-
+| 1.7 | 01/09/2023 | modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
