@@ -562,35 +562,52 @@ Fonte: Autoria Própria.
    </div>
 </details>
 
-## Requisitos elicitados
+### Requisitos Elicitados
 
-Após a sessão de brainstorming, foi possível fazer a elicitação dos requisitos funcionais listados na Tabela x e os requisitos não funcionais listados na Tabela x.
+Após a sessão de brainstorming, foi possível fazer a elicitação dos requisitos funcionais listados na Tabela 17 e os requisitos não funcionais listados na Tabela 18.
 
-Legenda das Tabelas x e x:
+**Legenda das Tabelas x e x:**
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
 - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-<font size="3"><p style="text-align: center">Tabela x: </p></font>
+<font size="3"><p style="text-align: center">**Tabela 17:** </p></font>
 
 <center>
 
-| <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                                          | Código | Implementado |
+| <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
+| BS1                                            | Apresentação de Aptidão para Voto                                                  | RF1    |          |
+| BS2                                            | Acesso ao Título de Eleitor e Zona Eleitoral                                       | RF2    |          |
+| BS3                                            | Localização do Local de Votação e Emissão de Certidões                             | RF3    |          |
+| BS4                                            | Emissão do Título, Verificação do Local de Votação e Notificações                  | RF4    |          |
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
 
-<font size="3"><p style="text-align: center">Tabela X: </p></font>
+<font size="3"><p style="text-align: center">**Tabela 18:** </p></font>
 
 <center>
 
-| <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                 | Código | Implementado |
-| ----------------------------------------------- | ------------------------------------------------------------------------- | ------ | :------: |
+| <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
+| ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
+| BSNF1                                          | Requisitos Técnicos: Ser alfabetizado, possuir documentos de identificação, idade mínima | RNF1   |          |
+| BSNF2                                          | Processo de Registro no Aplicativo: Coleta de dados pessoais, biometria ou reconhecimento facial, concordância com termos de uso | RNF2   |          |
+| BSNF3                                          | Medidas de Segurança: Login com senha, biometria ou reconhecimento facial, termos de uso, prevenção de logins simultâneos | RNF3   |          |
+| BSNF4                                          | Atualização de Informações Pessoais: Atualização de informações pessoais no site do TSE | RNF4   |          |
+| BSNF5                                          | Recuperação de Senha ou PIN: Recuperação por meio do site do TSE, opção de "esqueci minha senha" com e-mail ou perguntas pessoais | RNF5   |          |
+| BSNF6                                          | Lembrete ou Notificação sobre Datas Importantes: Oferecimento de lembretes/notificações com autorização do usuário | RNF6   |          |
+| BSNF7                                          | Vantagens em Comparação com Título de Eleitor em Papel: Evitar esquecimento, praticidade, facilidade de leitura por QR Code | RNF7   |          |
+| BSNF8                                          | Contribuição para Transparência e Eficiência das Eleições: Leitura por QR Code, acesso facilitado às urnas, incentivo à participação | RNF8   |          |
+| BSNF9                                          | Relato de Problemas ou Feedback: Feedbacks e relato de problemas por meio do site do TSE | RNF9   |          |
+| BSNF10                                         | Medidas de Acessibilidade: Ausência de medidas de acessibilidade | RNF10  |          |
 
 </center>
+
+<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
+
 
 ## Referências Bibliográficas
 
