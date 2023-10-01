@@ -19,7 +19,7 @@ Essa página apresenta os resultados da análise dos dados que o grupo coletou p
 
 ### Pessoas que nunca utilizaram o aplicativo
 
-Enunciadas nas figuras X e X, essas perguntas tinham o objetivo de entender porque os usuário optam por não utilizar o aplicativo da Bilheteria Digital e se eles usam algum concorrente.
+Enunciadas nas figuras X e X, essas perguntas tinham o objetivo de entender porque os usuário optam por não utilizar o aplicativo da e-Titulo.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 12 do questionário.</p></font>
