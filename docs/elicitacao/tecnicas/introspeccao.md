@@ -101,7 +101,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 </p>
 
 ### Com a emissão do título eleitoral
-
+<details>
    <p> Tabela 3 - respostas do com a emissão do título eleitoral </p> 
    <summary>Respostas</summary>
    <table>
@@ -138,7 +138,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 </p>
 
 ### Com a localização selecionada
-
+<details>
 <p> Tabela 4 - respostas do com a localização selecionada </p> 
    <summary>Respostas</summary>
    <table>
@@ -175,7 +175,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 </p>
 
 ### Com a notificação selecionada
-
+<details>
 <p> Tabela 5 - respostas do com a notificação selecionada </p> 
    <summary>Respostas</summary>
    <table>
