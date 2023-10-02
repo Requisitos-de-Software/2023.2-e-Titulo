@@ -110,6 +110,64 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 <p style=" text-align: justify">
 </p>
 
+### Com a localização selecionada
+<details>
+   <summary>Respostas</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Respostas</th>
+            <th>Participantes</th>
+         </tr>
+      </thead>
+      <tbody>
+           <tr>
+            <td>1. digite aqui </td>
+            <td>Esther Sena</td>
+         </tr>
+         <tr>
+            <td>1. digite aqui </td>
+            <td>Maria Eduarda Barbosa</td>
+         </tr>
+         </tr>
+      </tbody>
+   </table>
+   <div style="text-align: center">
+      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+   </div>
+</details>
+<p style=" text-align: justify">
+</p>
+
+### Com a notificação selecionada
+<details>
+   <summary>Respostas</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Respostas</th>
+            <th>Participantes</th>
+         </tr>
+      </thead>
+      <tbody>
+           <tr>
+            <td>1. digite aqui </td>
+            <td>Esther Sena</td>
+         </tr>
+         <tr>
+            <td>1. digite aqui </td>
+            <td>Maria Eduarda Barbosa</td>
+         </tr>
+         </tr>
+      </tbody>
+   </table>
+   <div style="text-align: center">
+      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+   </div>
+</details>
+<p style=" text-align: justify">
+</p>
+
 ### Com o mais opções selecionado no contexto de certidões
 <details>
    <summary>Respostas</summary>
