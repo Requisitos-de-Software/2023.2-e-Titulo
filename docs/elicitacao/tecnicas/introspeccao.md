@@ -466,7 +466,9 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 <p>Fonte: Nome </p>
 </div>
 
-## Referências
+## Referências Bibliográficas
+
+https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/ 
 
 
 
