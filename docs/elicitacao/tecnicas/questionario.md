@@ -22,7 +22,7 @@ Essa página apresenta os resultados da análise dos dados que o grupo coletou p
 Enunciadas nas figuras X e X, essas perguntas tinham o objetivo de entender porque os usuário optam por não utilizar o aplicativo da e-Titulo.
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº 12 do questionário.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº X do questionário.</p></font>
 <iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src=""></iframe>
 <figcaption><font size="3">Fonte: Autores</font></figcaption>
 </figure>
