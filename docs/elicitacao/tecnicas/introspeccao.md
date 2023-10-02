@@ -324,7 +324,12 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td> No contexto de outras opções.   
+               
+- Devem ser mostrado um botão para selecionar Imprimir Titulo Eleitoral.
+- Devem ser mostrado um botão para selecionar Debitos eleitorais.
+- Devem ser mostrado um botão para selecionar Autenticidade de documentos. <br>
+  </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
@@ -353,7 +358,13 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>No contexto de ajuda.   
+               
+- Devem ser mostrado um botão para selecionar Perguntas e Respostas.
+- Devem ser mostrado um botão para selecionar Tutorial QR Code.
+- Devem ser mostrado um botão para selecionar Sobre e-Titulo.
+- Devem ser mostrado um botão para selecionar Termos de Uso. <br>
+</td>
             <td>Esther Sena</td>
          </tr>
          <tr>
@@ -382,7 +393,12 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>No contexto de segurança.   
+               
+- Devem ser mostrado um botão para selecionar Trocar de Senha.
+- Devem ser mostrado um botão para selecionar Desbloquear com Biometría Digital.
+- Devem ser mostrado um botão para selecionar Sair do app. <br>
+</td>
             <td>Esther Sena</td>
          </tr>
          <tr>
@@ -411,7 +427,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>No contexto de apagar dados.   
+               
+- Devem ser mostrado um botão para selecionar Apagar Dados do e-Titulo. <br>
+</td>
             <td>Esther Sena</td>
          </tr>
          <tr>
