@@ -38,7 +38,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td>
-               1. digite aqui <br>
+               Ao ter acesso ao aplicativo.
+               
+- Deve ser possível realizar cadastro com CPF, nome da mãe, nome do pai e senha.
+- Deve ser possível realizar login com CPF/Titulo e senha.
+- Deve ser possível o usuário cadastrar sua biometria. <br>
             </td>
             <td>Esther Sena</td>
          </tr>
@@ -75,7 +79,14 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td>
-               1. digite aqui <br>
+                Ao fazer login .
+               
+- Devem ser apresentados os dados do titular.
+- Deve ser apresentado uma opção para ir ao site.
+- Deve ser apresentado uma opção para ir a noticias de fato ou fake.
+- Deve ser apresentado um botão para realizar a consulta do local de votação.
+- Deve ser apresentado um botão para mostrar notificações.
+- Deve ser apresentado um botão para mostrar mais opções. <br>
             </td>
             <td>Esther Sena</td>
          </tr>
@@ -114,7 +125,17 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td>
-               1. digite aqui <br>
+              Com a emissão do titulo.
+               
+- Deve ter Dados Pessoais.
+- Deve ter Número do Título Eleitoral.
+- Deve ter Zona Eleitoral e Seção.
+- Deve ter Local de Votação.
+- Deve ter Documentação Necessária.
+- Deve ter Instruções de Votação.
+- Deve ter Acesso ao e-Título.
+- Deve ter Canais de Atendimento.
+- Deve ter Importância do Voto. <br>
             </td>
             <td>Esther Sena</td>
          </tr>
@@ -151,7 +172,13 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td>
-               1. digite aqui <br>
+              Com a localização selecionada.
+               
+- Deve ter Endereço Completo.
+- Deve ter Número da Seção Eleitoral.
+- Deve ter Mapa.
+- Deve ter Zona Eleitoral.
+- Deve ter Verificação de Dados. <br>
             </td>
             <td>Esther Sena</td>
          </tr>
@@ -188,7 +215,14 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td>
-               1. digite aqui <br>
+              Com a notificação selecionada.
+            
+- Deve ter Notificação de Atualizações Eleitorais.
+- Deve ter Lembretes de Votação.
+- Deve ter Mudanças no Local de Votação.
+- Deve ter Documentação Necessária.
+- Deve ter Informações sobre Candidatos.
+- Deve ter Comunicados Oficiais.<br>
             </td>
             <td>Esther Sena</td>
          </tr>
@@ -223,7 +257,12 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td> No contexto de certidões
+            
+- Devem ser mostrado um botão para selecionar Quitação Eleitoral.
+- Devem ser mostrado um botão para selecionar Nada Consta criminal Eleitoral.
+- Devem ser mostrado um botão para selecionar Declaração de Trabalho Eleitoral.<br>
+   </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
@@ -252,7 +291,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>No contexto de justificativa.   
+               
+- Devem ser mostrado um botão para selecionar Justificativa de Ausência.
+- Devem ser mostrado um botão para selecionar Justificativa presencial. <br>
+</td>
             <td>Esther Sena</td>
          </tr>
          <tr>
