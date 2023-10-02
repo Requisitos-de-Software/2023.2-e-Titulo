@@ -11,7 +11,7 @@ O objetivo dele é descobrir os requisitos funcionais e não funcionais de forma
 
 ## Metodologia
 
-Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa foi cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionar os requisitos elicitados e informa se eles estão ou não presentes no e-título. 
+Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. 
 
 Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbosa utilizou ... e a esther usou.....
 
@@ -25,6 +25,8 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 ### Acesso ao aplicativo
 
 <details>
+   
+   <p> Tabela 1 - respostas do acesso ao aplicativo </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -35,18 +37,24 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. digite aqui <br>
+            </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. O primeiro acesso do usuário no aplicativo deve ser o cadastro, com o uso de dados pessoais como senha, endereço, CPF e RG. <br>
+               3. Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. <br> 
+               2. O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. <br> 
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -54,6 +62,8 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o login realizado através dos dados cadastrais
 <details>
+   
+   <p> Tabela 2 - respostas do com o login realizado através dos dados cadastrais </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -64,25 +74,35 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. digite aqui <br>
+            </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. Deve ser possível o usuário vizualizar a localização da votação. <br>
+               2. Deve ser possível o usuário vizualizar seu documento do título eleiroral. <br> 
+               3. O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. <br>
+               4. O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. <br>
+               5. O usuário deve conseguir fazer alterações em seus dados cadastrais. <br>
+               6. O aplicativo deve ter a opção de sair/logoff disponível para o usuário. <br>
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
 </p>
 
 ### Com a emissão do título eleitoral
-<details>
+
+   <p> Tabela 3 - respostas do com a emissão do título eleitoral </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -93,25 +113,33 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. digite aqui <br>
+            </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. <br>
+               2. Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. <br> 
+               3. O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. <br>
+               4. O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. <br>
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
 </p>
 
 ### Com a localização selecionada
-<details>
+
+<p> Tabela 4 - respostas do com a localização selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -122,25 +150,33 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. digite aqui <br>
+            </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
+               2. Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
+               3. O usuário deve conseguir escolher o local de partida. <br>
+               4. O aplicativo deve permitir que o usuário altere o local de partida.<br>
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
 </p>
 
 ### Com a notificação selecionada
-<details>
+
+<p> Tabela 5 - respostas do com a notificação selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -151,18 +187,25 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </thead>
       <tbody>
            <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. digite aqui <br>
+            </td>
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+               1. Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
+               2. Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
+               3. O usuário deve conseguir escolher o local de partida. <br>
+               4. O aplicativo deve permitir que o usuário altere o local de partida.<br>
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -367,9 +410,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 > ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 26/09/2023 | Motagenm de estrutura e introdução do metodo | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-|
-| 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-|
+| Versão | Data       | Descrição          | Autor(es)                 | Revisor(es)                      |
+| ------ | ---------- | -------------------| --------------------------| -------------------------------- |
+| 1.0 | 26/09/2023 | Motagenm de estrutura e introdução do metodo | [Esther Sena](https://github.com/esmsena) | -- |
+| 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Maria Barbosa](https://github.com/Madu01)  | -- |
