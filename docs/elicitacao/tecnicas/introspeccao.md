@@ -48,9 +48,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
          </tr>
          <tr>
             <td>
-               1. O primeiro acesso do usuário no aplicativo deve ser o cadastro, com o uso de dados pessoais como senha, endereço, CPF e RG. <br>
-               3. Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. <br> 
-               2. O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. <br> 
+            Ao ter acesso ao aplicativo.
+- O primeiro acesso do usuário no aplicativo deve ser o cadastro, com o uso de dados pessoais como senha, endereço, CPF e RG. <br>
+- Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. <br> 
+- O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. <br> 
             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
@@ -92,12 +93,13 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
          </tr>
          <tr>
             <td>
-               1. Deve ser possível o usuário vizualizar a localização da votação. <br>
-               2. Deve ser possível o usuário vizualizar seu documento do título eleiroral. <br> 
-               3. O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. <br>
-               4. O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. <br>
-               5. O usuário deve conseguir fazer alterações em seus dados cadastrais. <br>
-               6. O aplicativo deve ter a opção de sair/logoff disponível para o usuário. <br>
+             Ao fazer login .
+- Deve ser possível o usuário vizualizar a localização da votação. <br>
+- Deve ser possível o usuário vizualizar seu documento do título eleiroral. <br> 
+- O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. <br>
+- O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. <br>
+- O usuário deve conseguir fazer alterações em seus dados cadastrais. <br>
+- O aplicativo deve ter a opção de sair/logoff disponível para o usuário. <br>
             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
@@ -141,10 +143,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
          </tr>
          <tr>
             <td>
-               1. Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. <br>
-               2. Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. <br> 
-               3. O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. <br>
-               4. O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. <br>
+            Com a emissão do titulo.
+- Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. <br>
+- Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. <br> 
+- O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. <br>
+- O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. <br>
             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
@@ -184,10 +187,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
          </tr>
          <tr>
             <td>
-               1. Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
-               2. Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
-               3. O usuário deve conseguir escolher o local de partida. <br>
-               4. O aplicativo deve permitir que o usuário altere o local de partida.<br>
+            Com a localização selecionada.
+- Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
+- Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
+- O usuário deve conseguir escolher o local de partida. <br>
+- O aplicativo deve permitir que o usuário altere o local de partida.<br>
             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
@@ -228,10 +232,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
          </tr>
          <tr>
             <td>
-               1. Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
-               2. Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
-               3. O usuário deve conseguir escolher o local de partida. <br>
-               4. O aplicativo deve permitir que o usuário altere o local de partida.<br>
+- Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. <br>
+- Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. <br> 
+- O usuário deve conseguir escolher o local de partida. <br>
+- O aplicativo deve permitir que o usuário altere o local de partida.<br>
             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
