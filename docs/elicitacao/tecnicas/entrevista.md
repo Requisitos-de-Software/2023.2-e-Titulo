@@ -115,12 +115,12 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
         <td> Solteiro </td>
     </tr>
     <tr>
-        <td style="vertical-align: middle; text-align: center"> <b> -- </b></td>
-        <td style="vertical-align: middle; text-align: center"> --  </td>
+        <td style="vertical-align: middle; text-align: center"> <b> Anthony Tavares </b></td>
+        <td style="vertical-align: middle; text-align: center"> 23 </td>
         <td> Masculino </td>
-        <td> -- </td>
-        <td> --  </td>
-        <td> -- </td>
+        <td> Ensino superior em andamento  </td>
+        <td> Estudante, artista na área da musica e animador de festa </td>
+        <td> Solteiro </td>
     </tr>
   
 </table>
@@ -300,6 +300,8 @@ Fonte: Autoria própria.
 
 > [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023.
 > https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/
+> [2]Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 27 setembro de 2023.
+
 
 
 ### Histórico de versão
