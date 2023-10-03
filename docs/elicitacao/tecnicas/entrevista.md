@@ -2,34 +2,31 @@
 
 ## Introdução
 
-Utilizamos a técnica de entrevista[¹](#referencias-bibliograficas) com objetivo realizar entrevistas com usuários do aplicativo para elicitar seus requisitos. A entrevista é uma técnica de elicitação muito útil, pois permite que o entrevistador obtenha informações detalhadas e específicas sobre os requisitos do software diretamente dos stakeholders. Além disso, a entrevista pode ajudar a estabelecer um relacionamento de confiança com os stakeholders, o que pode ser benéfico para o sucesso do projeto a longo prazo.
+Neste artefato será abordado a técnica de entrevista que é muito importante no decobrimento de informações detalhadas dos requisitos de software diretamente dos stakeholders. 
 
 ## Metodologia
 
-A entrevista ocorreu de forma virtual no dia --/--/2023, via Teams, 
-realizada remotamente. Os entrevistados são --------------
+A entrevista foi realizada de forma estruturada, que é baseada em perguntas já pré-definidas, permitindo a análise do nível de entendimento de um stakeholder a respeito de uma pergunta. Na entrevista foi utilizado perguntas abertas permitindo que os entrevistados respondam de forma livre, demonstrando suas opiniões, experiências e sugestões, e consequentimente contribuindo para o desenvolvimento do projeto. 
 
-Durante a entrevista, foi utilizado principalmente perguntas abertas para 
-permitir que os entrevistados expressassem livremente suas opiniões, 
-experiências e sugestões. Suas opiniões e insights podem contribuir 
-significativamente para o desenvolvimento de um aplicativo robusto, seguro e 
-que atenda às necessidades dos usuários. 
+As gravações das entrevistas podem serem visualizadas no links -------
+ e ----------------- ou no final deste artefato, o cronograma da entrevista pode ser conferida na tabela 1:
 
-A gravação da entrevista pode ser conferida no links -------
- e -----------------, o cronograma da entrevista e termo
-de consentimento pode ser conferida no Toggle abaixo:
+Tabela 1 -  cronograma das entrevistas
+ 
+| Identificador da entrevista | Entrevistadores | data | horário | Entrevistado | Local |
+| ----------- | -------- | -------- | -------- | -------- | ----- |
+| Entrevista 1 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:00 | Raphael mendes | Pelo Teams |
+| Entrevista 2 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:40 | -- | Pelo Teams |
 
-<details>
-   <summary>Cronograma da entrevista e Termo de Consentimento</summary>
-      <iframe src="" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
-</details>
+Fonte: Autoria própria, 2023.
 
-<br.>
 
-Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é uma técnica de gerenciamento de projetos que ajuda a garantir que todos os aspectos relevantes de uma tarefa ou projeto sejam considerados e planejados de maneira adequada. A técnica 5W2H[²](#referencias-bibliograficas) consiste basicamente em responder 7 perguntas simples para identificar e planejar os principais aspectos de uma tarefa ou projeto. São elas:
+Para desenvolver as perguntas nas entrevistas, foi utilizado a metodologia 5W2H que é uma técnica que ajuda no gerenciamento de um projeto, guiando na descoberta de informações importantes de uma tarefa ou projeto, a descoberta é realizada por meio da responsta de 7 perguntas presentes na tabela 2. 
 
 <center>
-
+ 
+Tabela 2 -  Acrônimos da técnica 5W2H
+ 
 | Acrônimo | Pergunta |
 | -------- | -------- |
 | What     | O quê    |
@@ -40,259 +37,62 @@ Foi utilizada a metodologia 5W2H (Tabela 1)[²](#referencias-bibliograficas), é
 | How      | Como     |
 | How much | Quanto   |
 
+Fonte: Autoria própria, 2023.
+
 </center>
 
-<div style="text-align: center">
-<p> Tabela 1: Acrônimos da técnica 5W2H (Fonte: Autor, 2023).</p>
-</div>
-
 ## Perguntas feitas na entrevista utilizando a técnica 5W2H:
-<details>
-   
-   <p> Tabela 2 - Perguntas para o aplicatiivo </p> 
-   <summary>Perguntas </summary>
-   <table>
-      <thead>
- <tr>
-            <th>Respostas</th>
-            <th>Participantes</th>
-         </tr>
-      </thead>
-      <tbody>
-       <tr>
-            <td>
- What (O quê):
-            </td>
-            <td>
-             
-- Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? 
-           </td>
-           </tr>
-           <tr>
-            <td>
-Why (Por quê):
-            </td>
-            <td>
-- Por que você acha que as funcionalidades específicas do e-Título são mais úteis, e em que situações elas se destacam para você?
-            </td>
-            </tr>
-            <tr>
-            <td>
-Who (Quem ):
-            </td>
-            <td>
-- Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião?
-            </td>
-            </tr>
-            <tr>
-            <td>
- When (Quando):
-            </td>
-            <td>
-- Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles?
-           </td>
-            </tr>
-             <tr>
-            <td>
- Where (Onde):
-            </td>
-            <td>
-- Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
-           </tr>     
-           <tr>
-            <td>
- How(Como):
-            </td>
-            <td>
-- Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
-- Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?
-- Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis?
-            </td>
-            </tr>
-            <tr>
-            <td>
-How Much (Quanto):
-            </td>
-            <td>
-- Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral?
-- Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral?
-            </td>
-            </tr>
-         </tr>
-      </tbody>
-   </table>
-   <div style="text-align: center">
-      <p> Tabela 2: Perguntas realizadas na entrevista (Fonte: Autor, 2023).</p>
-   </div>
-</details>
-<p style=" text-align: justify">
-</p>
 
+Tabela 3 -  Perguntas para entrevista
 
-## Respostas feitas na entrevista utilizando a técnica 5W2H:
+| Tipo          | Perguntas       |
+| ------------- | --------------- |
+| What (O quê): | 1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? |
+| Why (Por quê): | 2. Existem funcionalidades específicas do e-Título que você acha úteis, se sim, quais são e o por quê? |
+| Who (Quem): | 3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião?|
+| When (Quando): | 4. Quando você percebeu a necessidade de utilizar o aplicativo e-Título em sua rotina? |
+| Where (Onde): | 5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? |
+| How(Como): | 6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral? <br> 7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?<br> 8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis?<br> 9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? <br>|
+| How Much (Quanto): | 10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral?<br> 11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? |
 
-<details>
-   <summary>Respostas entrevistado 1</summary>
-   <table>
-      <thead>
-         <tr>
-            <th>Questões</th>
-            <th>Respostas</th>
-         </tr>
-      </thead>
-      <tbody>
-           <tr>
-            <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>2. Por que você acha que as funcionalidades específicas do e-Título são mais úteis, e em que situações elas se destacam para você?  </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>4.Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
-</td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
-            <td>""</td>
-         </tr>
-        <tr>
-            <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
-            <td>""</td>
-         </tr>
-        <tr>
-            <td>9. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>10. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
-            <td>""</td>
-         </tr>
-      </tbody>
-   </table>
-    <div style="text-align: center">
-      <p> Tabela 2: Perguntas realizadas na entrevista 1 (Fonte: Autor, 2023).</p>
-   </div>
-</details>
-<p style=" text-align: justify">
-</p>
-    
-   </div>
-</details>
-<details>
-   <summary>Respostas entrevistado 2</summary>
-   <table>
-      <thead>
-                    <tr>
-            <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>2. Por que você acha que as funcionalidades específicas do e-Título são mais úteis, e em que situações elas se destacam para você?  </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>4. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
-</td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
-            <td>""</td>
-         </tr>
-        <tr>
-            <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
-            <td>""</td>
-         </tr>
-        <tr>
-            <td>9. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
-            <td>""</td>
-         </tr>
-         <tr>
-            <td>10. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
-            <td>""</td>
-         </tr>
-      </tbody>
-   </table>
-    <div style="text-align: center">
-      <p> Tabela 3: Perguntas realizadas na entrevista 2 (Fonte: Autor, 2023).</p>
-   </div>
-</details>
-<p style=" text-align: justify">
-</p>
-    
-   </div>
-</details>
-<details> 
- 
-   <summary>Roteiro da entrevista:</summary>
-   <!DOCTYPE html>
-   <html>
-      <head>
-         <title>Entrevista e-Titulo</title>
-      </head>
-      <body>
-         <p>Apresentação do Termo de Consentimento...</p>
-         <p>Início da gravação...</p><br>
-         <h1>Introdução</h1>
-         <p>Fulano : Olá, meu nome é --------------
-         <h2>Perguntas</h2>
-         <p>Maria Eduarda: Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </p>
-         <p>Entrevistado: …</p>
-         <p>Maria Eduarda: Por que você acha que as funcionalidades específicas do e-Título são mais úteis, e em que situações elas se destacam para você? </p>
-         <p>Entrevistado: …</p>
-         <p>Maria Eduarda Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </p>
-         <p>Entrevistado: ...</p>
-         <p>Maria Eduarda: Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </p>
-         <p>Entrevistado: ...</p>
-         <p>Maria Eduarda: Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </p>
-         <p>Entrevistado: …</p>
-         <p>Esther Sena: Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?</p>
-         <p>Entrevistado: …</p>
-         <p>Esther Sena:: Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</p>
-         <p>Entrevistado: …</p>
-         <p>Esther Sena:: Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </p>
-         <p>Entrevistado: …</p>
-         <p>Esther Sena:: Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </p>
-         <p>Entrevistado: …</p>
-         <p>Esther Sena:: Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral?</p>
-         <p>Entrevistado: …</p>
-         <h2>Encerramento</h2>
-         <p>Entrevistador: Muito obrigada por participar da entrevista e pelas suas respostas. Suas respostas foram muito valiosas para o nosso trabalho e com certeza contribuirão para o aprimoramento do e-Titulo. Encerramos aqui a entrevista. Tenha um ótimo dia!</p>
-</details>
-#
+Fonte: Autoria própria, 2023.
+
+Não utilizamos todos os tipos de perguntas da técnica 5W2H, por não haver necessidades, e também pela questão estratégica já que se tivesse muitas perguntas poderia ser desmotivador e cansativo para o entrevistado.
+
+## Roteiro da entrevista
+### Materiais utilizados
+
+- slides para a apresentação do que seria abordado na entrevista, disponível em: [slides_das_Entrevistas](https://docs.google.com/presentation/d/1lXQJmgnvNMa29jeW2HJk28_xzU0LQPYKZs1U3Idy7WU/edit?usp=sharing).
+- Um documento sobre o termo de consentimento para os entrevistados ficarem cientes do que aconteceria. O termo do consentimento esta disponível em: [Termo_de_Consentimento](https://docs.google.com/document/d/1X8JlKUz4l4yJMvbbIkUYxzHZ9hTqb5NGfTCk1WdR_18/edit?usp=sharing).
+
+### Primeira Etapa: Apresentações iniciais
+Bem no início da gravação os entrevistadores devem se apresentar ao entrevistado e explicar o que seria feito na entrevista, isso utilizando o primeiro slide, pois nele contém os dois passos o primeiro é a leitura do termo e o segundo é responder as 11 perguntas ppresentes na Tabela 3. 
+
+### Segunda Etapa: Leitura do termo de consentimento
+Um dos entrevistadores pede para o entrevistado ler o termo de consentimento em voz alta, caso esteja de acordo ele responderia que sim, mas caso não estivesse, os dados demográficos não seriam coletados para o entrevistado em específico.
+
+### Terceira Etapa: Execução das perguntas
+A entrevistadora Maria Eduarda Barbosa começa a fazer as perguntas de 1 até 5 em que estão presentes na tabela 3 deste artefato.
+A entrevistadora Esther Sena, realizará as perguntas de 6 até 11 em que também estão presentes na tabela 3 deste artefato.
+
+conforme forem fazendo as perguntas, deve ser respeitado as respostas dos entrevistados.
+
+### Última Etapa: Encerramento
+Os entrevistadores devem informar que a entrevista encerrou e agradecer os entrevistados por participarem.
+
+### Após a conclusão das entrevistas
+As entrevistadoras devem assistir os vídeos e anotarem as respostas deles nas tabelas das perguntas realizadas nas entrevistas presentes no tópico "Respostas coletadas na entrevista utilizando a técnica 5W2H" neste artefato. 
+
+Logo após realizam a elicitação de requisitos com base nos dados obtidos.
 
 ## Dados Demográficos
 
-Como abordado no termo de consentimento os entrevistados não se sentiram confortáveis oferecer informações completas sobre seus dados, portanto, segue os Dados demográficos que foram possíveis de obter.
+Conforme foi abordado no termo de consentimento, A tabela demonstra os dados demográficos obtidos. Os quais servirão para a compreenção do tipo de usuário que participou da entrevista.
 
 <table>
+     <p>
+        Tabela 4 - Dados demográficos dos entrevistados.
+    </p>
     <tr>
         <th style="text-align: center" colspan=6>
             <h2>Dados demográficos dos entrevistados</h2>
@@ -307,39 +107,164 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
         <td style="text-align: center"> <b> Estado Civil </b></td>
     </tr>
     <tr>
-        <td style="vertical-align: middle; text-align: center"> <b> ---------- </b></td>
-        <td style="vertical-align: middle; text-align: center"> ----------  </td>
-        <td> ---------- </td>
-        <td> ----------  </td>
-        <td> ----------  </td>
-        <td> ----------  </td>
+        <td style="vertical-align: middle; text-align: center"> <b> Raphael Mendes </b></td>
+        <td style="vertical-align: middle; text-align: center"> 20  </td>
+        <td> Masculino </td>
+        <td> Ensino superior em andamento </td>
+        <td> Estudante  </td>
+        <td> Solteiro </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: middle; text-align: center"> <b> -- </b></td>
+        <td style="vertical-align: middle; text-align: center"> --  </td>
+        <td> Masculino </td>
+        <td> -- </td>
+        <td> --  </td>
+        <td> -- </td>
     </tr>
   
 </table>
 
-<div style="text-align: center">
-    <p>
-        Tabela 5: Dados demográficos dos entrevistados (Fonte: autor, 2023).
-    </p>
-</div>
+<p> Fonte: Autoria própria, 2023. </p>
+
+
+## Respostas coletadas na entrevista utilizando a técnica 5W2H:
+
+<details>
+ <p> Tabela 5: Perguntas realizadas na entrevista 1 </p>
+   <summary>Respostas entrevistado 1</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Questões</th>
+            <th>Respostas</th>
+         </tr>
+      </thead>
+      <tbody>
+           <tr>
+            <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>2. Existem funcionalidades específicas do e-Título que você acha úteis, se sim, quais são e o por quê?  </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
+            <td>""</td>
+         </tr>
+          <tr>
+            <td>4. Quando você percebeu a necessidade de utilizar o aplicativo e-Título em sua rotina? </td>
+            <td>""</td>
+         <tr>
+            <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
+</td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
+            <td>""</td>
+         </tr>
+        <tr>
+            <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
+            <td>""</td>
+         </tr>
+        <tr>
+            <td>10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
+            <td>""</td>
+         </tr>
+      </tbody>
+   </table>
+    <div style="text-align: center">
+      <p>Fonte: Autoria própria, 2023.</p>
+   </div>
+</details>
+<p style=" text-align: justify">
+</p>
+
+
+ <details>
+ <p> Tabela 6: Perguntas realizadas na entrevista 1 </p>
+   <summary>Respostas entrevistado 1</summary>
+   <table>
+      <thead>
+         <tr>
+            <th>Questões</th>
+            <th>Respostas</th>
+         </tr>
+      </thead>
+      <tbody>
+           <tr>
+            <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>2. Existem funcionalidades específicas do e-Título que você acha úteis, se sim, quais são e o por quê?  </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
+            <td>""</td>
+         </tr>
+          <tr>
+            <td>4. Quando você percebeu a necessidade de utilizar o aplicativo e-Título em sua rotina? </td>
+            <td>""</td>
+         <tr>
+            <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
+</td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
+            <td>""</td>
+         </tr>
+        <tr>
+            <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
+            <td>""</td>
+         </tr>
+        <tr>
+            <td>10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
+            <td>""</td>
+         </tr>
+         <tr>
+            <td>11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
+            <td>""</td>
+         </tr>
+      </tbody>
+   </table>
+    <div style="text-align: center">
+      <p>Fonte: Autoria própria, 2023.</p>
+   </div>
+</details>
+    
 
 ## Entrevista 1:
 
-     Data: 
-     Local: Teams
-
 <iframe width="560" height="315" src="--------" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br> Vídeo 1: Entrevista 1. <br> Fonte: Autor (2023).
 
 ## Entrevista 2:
 
-     Data: 
-     Local: Teams
-
 <iframe width="560" height="315" src="------------" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-     
-<br> Vídeo 2: Entrevista 2. <br> Fonte: Autor (2023).
 
 ## Requisitos elicitados
 
@@ -348,11 +273,24 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 - ENT: Entrevista
 - RF: Requisito funcional
 - RNF: Requisito não funcional
+- Na coluna de Implementado, informa se o requisito em específico está implementado (presente) ou não no aplicativo
 
-| Identificador | Requisito                                                                                                                                                                | Tipo |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| ENT01         | ----------------------------------------------------------------------------------------                                                                                 | ---- |
+Tabela - requisitos funcionais
 
+| ID | Descrição   | Código | Implementado |
+| -- | --- | -- | --- |
+| -- | --- | -- | --- |
+
+Fonte: Autoria própria.
+
+
+Tabela - requisitos não funcionais
+
+| ID | Descrição   | Código | Implementado |
+| -- | --- | -- | --- |
+| -- | --- | -- | --- |
+
+Fonte: Autoria própria.
 
 <div style="text-align: center">
 <p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
@@ -361,6 +299,7 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 # Referências Bibliograficas
 
 > [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023.
+> https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/
 
 
 ### Histórico de versão
@@ -368,4 +307,5 @@ Como abordado no termo de consentimento os entrevistados não se sentiram confor
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
 | 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---- |
+| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo enos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
