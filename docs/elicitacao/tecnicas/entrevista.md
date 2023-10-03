@@ -119,7 +119,7 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
         <td style="vertical-align: middle; text-align: center"> 23 </td>
         <td> Masculino </td>
         <td> Ensino superior em andamento  </td>
-        <td> Estudante, artista na área da musica e animador de festa </td>
+        <td> Estudante, Artista na área da musica e Animador de festa </td>
         <td> Solteiro </td>
     </tr>
   
@@ -298,8 +298,8 @@ Fonte: Autoria própria.
 
 # Referências Bibliograficas
 
-> [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023.
-> https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/
+> [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
+> https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/ </br>
 > [2]Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 27 setembro de 2023.
 
 
