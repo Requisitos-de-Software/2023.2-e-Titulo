@@ -15,8 +15,8 @@ Tabela 1 -  cronograma das entrevistas
  
 | Identificador da entrevista | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- |
-| Entrevista 1 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:00 | Raphael mendes | Pelo Teams |
-| Entrevista 2 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:40 | -- | Pelo Teams |
+| Entrevista 1 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:00 | Raphael Mendes | Pelo Teams |
+| Entrevista 2 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:40 | Anthony Tavares | Pelo Teams |
 
 Fonte: Autoria própria, 2023.
 
