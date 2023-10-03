@@ -55,7 +55,7 @@ Não há ressarcimento financeiro, mas a participação é voluntária e sem cus
 
 ### Consentimento Livre e Esclarecido
 
-Ao concordar em participar, você manifesta seu consentimento livre e esclarecido para a pesquisa. Declaro ter recebido uma cópia deste termo.
+Ao concordar em participar, você manifesta seu consentimento livre e esclarecido para a pesquisa. 
 
 **Nome do Participante**:
 
@@ -70,4 +70,8 @@ Ao concordar em participar, você manifesta seu consentimento livre e esclarecid
 Para questões relativas à pesquisa ou para se retirar, entre em contato via e-mail: esthersena.jd@gmail.com ou telefone: 61 993622066.
 
 
+## Histórico de Versões
 
+| Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
+| ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| 1.0 | 26/09/2023 | Criação do Termo de consentimento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
