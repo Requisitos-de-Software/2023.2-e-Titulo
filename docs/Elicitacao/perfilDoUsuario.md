@@ -96,4 +96,5 @@ Por fim, temos a última pergunta do questionário, onde podemos ver que a maior
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 27/04/2023 | Criação da introdução e da metodologia.                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
+| `1.0`  | 27/09/2023 | Criação da introdução e da metodologia.                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
+| `2.0`  | 02/10/2023 | Adicionando resultados do questionário                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
