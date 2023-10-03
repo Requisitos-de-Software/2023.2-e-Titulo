@@ -578,20 +578,20 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS1                                            |               | RF1    |          |
-| BS2                                            | No aplicativo deve ser possível realizar o cadastro do usuário                     | RF2    |          |
-| BS3                                            | Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF3    |          |
-| BS4                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo                 | RF4    |          |
-| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título               | RF4    |          | 
-| BS3                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação                             | RF3    |          |
-| BS4                                            | No aplicativo deve possível o usuário receber notificações                 | RF4    |          |
-| BS4                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso                 | RF4    |          | 
-| BS4                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso                 | RF4    |          | 
-| BS4                                            | No aplicativo deve ser possível o usuário trocar a senha               | RF4    |          |
-| BS4                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha               | RF4    |          | 
-| BS4                                            | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE            | RF4    |          | 
-| BS4                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo             | RF4    |          | 
-| BS4                                            | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo           | RF4    |          | 
+| BS1                                            |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |          |
+| BS2                                            |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |          |
+| BS3                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |          |
+| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |          |
+| BS5                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |          | 
+| BS6                                            | No aplicativo deve possível o usuário receber notificações        | RF6    |          |
+| BS7                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |          |
+| BS8                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |          | 
+| BS9                                            | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |          | 
+| BS10                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |          |
+| BS11                                           | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |          | 
+| BS12                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |          | 
+| BS13                                           | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |          | 
+
 
 
 </center>
