@@ -236,19 +236,19 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
          </tr>
         <tr>
             <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
-            <td>""</td>
+            <td>"Não tive necessidade."</td>
          </tr>
          <tr>
             <td>9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
-            <td>""</td>
+            <td>"Para fazer o cadastro tive um pouco de dificuldade, pois os dados que tem que inserir são vários. "</td>
          </tr>
         <tr>
             <td>10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
-            <td>""</td>
+            <td>"Influencia bastante, pois com uma maior acessibilidade ao titulo, mais pessoas votarão por ter esse acesso."</td>
          </tr>
          <tr>
             <td>11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
-            <td>""</td>
+            <td>"Acredito que bastante! E até penso que adicionar mais funções como; apuração de votos, candidato eleito, etc.. ajudaria a deixar mais otimizado do que já é!!  "</td>
          </tr>
       </tbody>
    </table>
@@ -311,3 +311,4 @@ Fonte: Autoria própria.
 | 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---- |
 | 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo enos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
+| 1.1 | 01/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | ---- |
