@@ -196,8 +196,8 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
 
 
  <details>
- <p> Tabela 6: Perguntas realizadas na entrevista 1 </p>
-   <summary>Respostas entrevistado 1</summary>
+ <p> Tabela 6: Perguntas realizadas na entrevista 2 </p>
+   <summary>Respostas entrevistado 2</summary>
    <table>
       <thead>
          <tr>
@@ -208,31 +208,31 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
       <tbody>
            <tr>
             <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
-            <td>""</td>
+            <td>"Não acredito que fosse nescessário adicionar nenhuma funcinalidade a´te o momento. Gosto do aplicativo em geral."</td>
          </tr>
          <tr>
             <td>2. Existem funcionalidades específicas do e-Título que você acha úteis, se sim, quais são e o por quê?  </td>
-            <td>""</td>
+            <td>"Utilizar o aplicativo no dia da eleição ou no dia a dia é mais prático que guardar o titulo de eleitor como papel."</td>
          </tr>
          <tr>
             <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
-            <td>""</td>
+            <td>"Os eleitores, pois ter acesso ao aplicativo beneficia o eleitores principalmente no dia da votação, com um exemplo em caso de perca."</td>
          </tr>
           <tr>
             <td>4. Quando você percebeu a necessidade de utilizar o aplicativo e-Título em sua rotina? </td>
-            <td>""</td>
+            <td>"Durante a rotina ainda não obtive nescessidade de usar o aplicativo, somente durante a campanha eleitoral."</td>
          <tr>
             <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
-            <td>""</td>
+            <td>"Na questão de segurança eu me senti seguro, e não penso em nenhuma melhoria para fazer."</td>
          </tr>
          <tr>
             <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
 </td>
-            <td>""</td>
+            <td>"Não tive nenhuma busca além do acesso do meu titulo no aplicativo, então minha experiência foi completa e boa. "</td>
          </tr>
          <tr>
             <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
-            <td>""</td>
+            <td>"Eu achei bem claro mas a parte de naveção eu achei bem ultrapassada principalmente pelo quesito de mandar para sites externos para se obter os resultados esperados."</td>
          </tr>
         <tr>
             <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
