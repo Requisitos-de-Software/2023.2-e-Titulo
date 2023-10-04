@@ -622,13 +622,11 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 
 ## Bibliografia
-https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming
+> Técnicas de Elicitação de Requisitos Acesso em: 12 de setembro de 2023. https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 27 de setembro de 2023.
 
-https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming
+> EDUARDO, Carlos. Engenharia de Requisitos. https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf Acesso em: 27 de setembro de 2023.
 
-https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf
-
-https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf
+> SERRANO, Milene. https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf Acesso em: 30 de setembro de 2023.
 
 ## Histórico de Versões
 
