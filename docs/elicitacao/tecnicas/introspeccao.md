@@ -263,7 +263,6 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       <tbody>
            <tr>
             <td> No contexto de certidões
-            
 - Devem ser mostrado um botão para selecionar Quitação Eleitoral.
 - Devem ser mostrado um botão para selecionar Nada Consta criminal Eleitoral.
 - Devem ser mostrado um botão para selecionar Declaração de Trabalho Eleitoral.<br>
@@ -271,7 +270,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td> 
+- O usuário deve conseguir vizualizar os dados documentais.
+- O usuário deve conseguir vizualizar as informações da quitação eleitoral.
+- O usuário deve conseguir vizualizar dados referentes ao criminal eleitoral. <br>
+             </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -305,7 +308,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+- O usuário deve conseguir informar a sua justificativa no aplicativo.
+- O usuário deve realizar download da comprovação de sua justificativa.
+- O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê. <br>
+         </td>      
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -340,7 +347,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+- O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.
+- Devem ser mostrado ao usuário as autenticidades de seus documento.
+- deve ser permitido a leitura do qr code do título eleitoral. <br>   
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -376,7 +387,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+- Deve permitir que o usuário visualiza tutoriais a respeito de seus documentos.
+- O aplicativo deve permitir que o usuário envie dúvidas. <br>
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -411,7 +425,11 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+- O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.
+- Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.
+- O usuário deve poder alterar seus dados pessoais.
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -444,7 +462,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
             <td>Esther Sena</td>
          </tr>
          <tr>
-            <td>1. digite aqui </td>
+            <td>
+- Deve ser possível o usuário apagar seus dados pessoais.
+- Deve ser possível o usuário ver o histórico de dados apagados.
+            </td>
             <td>Maria Eduarda Barbosa</td>
          </tr>
          </tr>
@@ -519,3 +540,4 @@ https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/int
 | ------ | ---------- | -------------------| --------------------------| -------------------------------- |
 | 1.0 | 26/09/2023 | Motagenm de estrutura e introdução do metodo | [Esther Sena](https://github.com/esmsena) | -- |
 | 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Maria Barbosa](https://github.com/Madu01)  | -- |
+| 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | -- |
