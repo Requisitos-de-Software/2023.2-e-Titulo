@@ -315,7 +315,7 @@ Fonte: Autoria própria, 2023.
 # Bibliografia
 
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
-> https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/ </br>
+> Simplenote. <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
 > Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 27 setembro de 2023.
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de Outubro de 2023.
 
