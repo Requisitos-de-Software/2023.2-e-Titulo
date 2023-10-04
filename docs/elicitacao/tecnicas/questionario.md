@@ -8,6 +8,12 @@ Os questionários emergem como uma ferramenta essencial na fase inicial da elici
 
 A metodologia iniciou-se com a contextualização do projeto e a definição clara de seus objetivos, identificando os stakeholders envolvidos para se obter um questionário com o intuitor de conhecer o perfil de usuário do aplicativo e-Titulo. Em seguida, desenvolve-se um questionário estruturado com 2 partes, uma que foi apenas para os que já utilizaram o aplicativo possuindo apenas 5 questões rápidas e simples, e a segunda parte é apenas para os que nunca usaram com apenas 3 questões. A implementação do questionário foi feita por meio online, usando o aplicativo google-forms e foi liberado durante os dias 01/10/2023 até 03/10/2023 e obteve XX respostas durante esse tempo. Os resultados foram analisados, categorizados e interpretados, culminando em um relatório final detalhado. A conclusão do processo envolveu a sumarização dos requisitos identificados e considerações finais, proporcionando uma abordagem abrangente e iterativa para a coleta eficaz de requisitos por meio de questionários.
 
+## Motivação e objetivo 
+
+A motivação por trás do uso de questionários na elicitação de requisitos reside na necessidade de coletar informações de forma estruturada e eficiente. Os questionários são especialmente úteis quando se deseja obter dados de um grande número de pessoas ou stakeholders de maneira consistente. Além disso, eles podem ser distribuídos de forma a permitir a participação de indivíduos geograficamente dispersos.
+
+O objetivo principal dos questionários na elicitação de requisitos é obter uma visão abrangente das necessidades, expectativas e restrições dos stakeholders envolvidos no projeto. Isso pode incluir usuários finais, clientes, desenvolvedores, entre outros. Através das respostas coletadas, os analistas podem identificar padrões, prioridades e conflitos nos requisitos.
+
 ## Resultados
 
 O questionário obteve XX respostas no período em que ficou disponível (entre XX/XX/XXXX) e apresentava XX perguntas, divididas em dois fluxos, a depender da resposta da pergunta da figura x : um de pessoas que nunca utilizaram o aplicativo e outro de quem já o utilizou.
@@ -84,3 +90,4 @@ Fonte: Autoria própria, 2023.
 | 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | --- |
+| 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
