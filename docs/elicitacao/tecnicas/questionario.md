@@ -12,11 +12,7 @@ A metodologia iniciou-se com a contextualização do projeto e a definição cla
 
 O questionário obteve XX respostas no período em que ficou disponível (entre XX/XX/XXXX) e apresentava XX perguntas, divididas em dois fluxos, a depender da resposta da pergunta da figura x : um de pessoas que nunca utilizaram o aplicativo e outro de quem já o utilizou.
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Pergunta nº 1 do questionário.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src=""></iframe>
-<figcaption><font size="3">Fonte: Autores</font></figcaption>
-</figure>
+### Pessoas que utilizaram o aplicativo
 
 ### Pessoas que nunca utilizaram o aplicativo
 
@@ -28,39 +24,54 @@ Enunciadas nas figuras X e X, essas perguntas tinham o objetivo de entender porq
 <figcaption><font size="3">Fonte: Autores</font></figcaption>
 </figure>
 
+## Análise dos resultados
+
+Foi percebido que a maioria das pessoas que responderam já utilizaram o aplicativo, logo os dados coletados são de suma maioria do publico alvo, ou seja as pessoas que estamos mais interessados para a coleta de dados, apenas uma pessoa nunca utilizou, por não saber que existia tal aplicativo e mesmo após ler sobre como é o app, não se interessou em ter. 
+
+A funcionalidade mais utilizada é a visualização dos dados do título eleitoral, e um mencionou que utiliza para verificar a localização da votação. Na funcionalidade da biometria praticamente metade dos participantes já utilizou, o restante não ou não sabia que havia tal função. As dificuldades encontradas foram mínimas, sendo apenas na etapa de fazer o login. As funcionalidades que tem navegaçaõ obrigatoria para o exterior do aplicativo como acesso a outro app ou para o site do TSE, maioria votaram que não acham conveniente.
+
+Na questão da segurança, um pouco mais da petade diz que acham seguro, porém os que não acharam dizia que a etapa de login pode ser facilmente fraudada.
+
+Contudo, é notório que o aplicativo possui aplicações que agradam os usuários mas ah presença de problemas como nas funcionalidades de navegabilidade, no login e na parte de biometria.
 
 ## Requisitos Elicitados
 
-Nas Tabelas X e X estão disponibilizados os requisitos funcionais e não funcionais elicitados por meio do questionário realizado com os usuários do aplicativo. Esses requisitos foram coletados e categorizados para melhor compreensão e análise dos envolvidos no projeto. Através desse resultado, será possível realizar a priorização de requisitos do aplicativo.
+As tabelas 1 e 2, são os requisitos obtidos apartir das respostas e análise das perguntas presentes no questionário.
 
-Legenda:
+### Legenda
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- Qx: Requisito nºx elicitado pelo questionário
+- Qx: Requisito funcionais nºx elicitado pelo Questionário
+- QNx: Requisito não funcionais nºx elicitado pelo Questionário
+- Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
 ### Requisitos Funcionais
 
-<figure markdown>
-<font size="3"><p style="text-align: center">Tabela X: Requisitos Funcionais.</p></font>
+Tabela 1 - Requisitos Funcionais
 
-| Tipo | Descrição                                                                            | <a id="anchor_Q" style="visibility: hidden"></a>ID | Implementado |
-| ---- | ------------------------------------------------------------------------------------ | -------------------------------------------------- | ------------ |
+|  ID  |  Descrição  | Código | Implementado |  
+| ------ | ------- | ---------| --------- |
+|  Q1 | O usuário deve poder visualizar a localização do local de votação |  RF1 | Sim |
+|  Q2 | O usuário deve poder escolher a forma de realizar o login |  RF2 | Sim |
+|  Q3 | O usuário deve poder realizar o login com a biometria |  RF3 | Sim |
+|  Q4 | O usuário deve poder realizar o login com o CPF e senha |  RF4 | Sim |
+|  Q5 | O usuário deve conseguir visualizar os dados do título eleitoral |  RF5 | Sim |
+
+Fonte: Autoria própria, 2023.
 
 
-<figcaption><font size="3">Fonte: Autores</font></figcaption>
-</figure>
+### Requisitos Não-Funcionais
 
-### Requisitos Não Funcionais
+Tabela 2 - Requisitos Não Funcionais
 
-<figure markdown>
-<font size="3"><p style="text-align: center">Tabela X: Requisitos Não Funcionais.</p></font>
+|  ID  |  Descrição  | Código | Implementado |  
+| ------ | ------- | ---------| --------- |
+| QN1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
+| QN2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
+| QN3 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | RNF3 | Não |
 
-| Tipo  | Descrição                                                                                      | <a id="anchor_QNF" style="visibility: hidden"></a>ID | Implementado |
-| ----- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
-
-<figcaption><font size="3">Fonte: Autores</font></figcaption>
-</figure>
+Fonte: Autoria própria, 2023.
 
 ## Bibliografia
 
@@ -71,3 +82,4 @@ Legenda:
 | ------ | ---------- | ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | --- |
