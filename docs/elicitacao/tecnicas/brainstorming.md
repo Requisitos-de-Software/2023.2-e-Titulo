@@ -605,10 +605,10 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
 | BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |          |
-| BSNF8                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições | RNF8   |          |
-| BSNF8                                          |  O aplicativo deve ser confiável para o usuário | RNF8   |          |
-| BSNF8                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF8   |          |
-| BSNF8                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF8   |          |
+| BSNF2                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições | RNF2   |          |
+| BSNF3                                          |  O aplicativo deve ser confiável para o usuário | RNF3   |          |
+| BSNF4                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |          |
+| BSNF5                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |          |
 
 
 </center>
@@ -640,3 +640,4 @@ https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisito
 | 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.7 | 01/09/2023 | modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
+| 1.8 | 03/09/2023 | correção nos requisitos não funcionais | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
