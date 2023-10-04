@@ -84,9 +84,9 @@ Fonte: Autoria própria, 2023.
 
 ## Bibliografia
 
-https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/
+> Lichess. Disponivel em: <https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>.  Acesso em: 26 setembro de 2023. </br>
 
-https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling
+> VLC Media Player. Disponivel em: <https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling>. Acesso em: 02 de outubro de 2023.
 
 ## Histórico de versão
 | Versão |    Data    |                            Descrição                            |      Autor       |              Revisor              |
