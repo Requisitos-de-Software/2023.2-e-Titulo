@@ -4,9 +4,15 @@
 
 Neste artefato será abordado a técnica de entrevista que é muito importante no decobrimento de informações detalhadas dos requisitos de software diretamente dos stakeholders. 
 
+## Motivação e Objetivo
+
+A motivação para utilizarmos a entrevista, é que com ela é possível coletar informações com mais chances de não serem falsas, com mais possibilidade de perguntas serem respondidas, também abrange uma visão ampla do aplicativo, além de ser uma técnica mais eficaz em comparação com a maioria no caso de técnicas de elicitação.   
+
+O objetivo em utilizar essa técnica no projeto é elicitar requisitos funcionais e não funcionais com base nos resultados obtidos nas entrevistas.
+
 ## Metodologia
 
-A entrevista foi realizada de forma estruturada, que é baseada em perguntas já pré-definidas, permitindo a análise do nível de entendimento de um stakeholder a respeito de uma pergunta. Na entrevista foi utilizado perguntas abertas permitindo que os entrevistados respondam de forma livre, demonstrando suas opiniões, experiências e sugestões, e consequentimente contribuindo para o desenvolvimento do projeto. 
+A entrevista foi realizada de forma estruturada, que é baseada em perguntas já pré-definidas presentes na tabela 3, permitindo a análise do nível de entendimento de um stakeholder a respeito de uma pergunta. Na entrevista foi utilizado perguntas abertas permitindo que os entrevistados respondam de forma livre, demonstrando suas opiniões, experiências e sugestões, e consequentimente contribuindo para o desenvolvimento do projeto. 
 
 As gravações das entrevistas podem serem visualizadas no links -------
  e ----------------- ou no final deste artefato, o cronograma da entrevista pode ser conferida na tabela 1:
@@ -75,19 +81,19 @@ Um dos entrevistadores pede para o entrevistado ler o termo de consentimento em 
 A entrevistadora Maria Eduarda Barbosa começa a fazer as perguntas de 1 até 5 em que estão presentes na tabela 3 deste artefato.
 A entrevistadora Esther Sena, realizará as perguntas de 6 até 11 em que também estão presentes na tabela 3 deste artefato.
 
-conforme forem fazendo as perguntas, deve ser respeitado as respostas dos entrevistados.
+conforme forem fazendo as perguntas, deve ser respeitado as respostas dos entrevistados além de ir mostrando as perguntas pelo slide para o entrevistado ir acompanhando.
 
 ### Última Etapa: Encerramento
 Os entrevistadores devem informar que a entrevista encerrou e agradecer os entrevistados por participarem.
 
 ### Após a conclusão das entrevistas
-As entrevistadoras devem assistir os vídeos e anotarem as respostas deles nas tabelas das perguntas realizadas nas entrevistas presentes no tópico "Respostas coletadas na entrevista utilizando a técnica 5W2H" neste artefato. 
+As entrevistadoras devem assistir os vídeos e anotarem as respostas deles nas tabelas 5 e 6 das perguntas realizadas nas entrevistas presentes no tópico "Respostas coletadas na entrevista utilizando a técnica 5W2H" neste artefato. 
 
-Logo após realizam a elicitação de requisitos com base nos dados obtidos.
+Logo após realizam a elicitação de requisitos presentes nas tabelas 7 e 8 com base nos dados obtidos na entrevista.
 
 ## Dados Demográficos
 
-Conforme foi abordado no termo de consentimento, A tabela demonstra os dados demográficos obtidos. Os quais servirão para a compreenção do tipo de usuário que participou da entrevista.
+Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados demográficos obtidos. Os quais servirão para a compreenção do tipo de usuário que participou da entrevista.
 
 <table>
      <p>
@@ -143,47 +149,47 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
       <tbody>
            <tr>
             <td>1. Considerando os recursos futuros, que funcionalidades ou melhorias você gostaria de ver no aplicativo e-Título para torná-lo ainda mais útil para suas necessidades eleitorais? </td>
-            <td>""</td>
+            <td>" Com a nessecidade eleitoral está tudo tranquilo utilizando o aplicativo, mas estou com problema de acessibilidade porque coloquei a minha biometria para entrar no aplicativo e ele não aceita. "</td>
          </tr>
          <tr>
             <td>2. Existem funcionalidades específicas do e-Título que você acha úteis, se sim, quais são e o por quê?  </td>
-            <td>""</td>
+            <td>"Eu acho útil a de quitação eleitoral porque acho que não é fácil de encontrar isso e pelo aplicativo facilita, a localização do local de voto também, mas confesso que os outros não utilizo muito com exceção dos principais como os dados do título eleitoral."</td>
          </tr>
          <tr>
             <td>3. Quem são os principais beneficiários das funcionalidades do e-Título, na sua opinião? </td>
-            <td>""</td>
+            <td>"Acho que são os cidadão brasileiros que tem maior acessibilidade na hora de votar e no acesso as informações, principalmente quando alguém pede comprovações referentes a algum curso ou orgão, alguma coisa que precisa da quitação eleitoral. "</td>
          </tr>
           <tr>
             <td>4. Quando você percebeu a necessidade de utilizar o aplicativo e-Título em sua rotina? </td>
-            <td>""</td>
+            <td>" Quando estava chegando as eleições e eu não tinha a mínima ideia de onde eu iria votar e ai eu lembro que eu precisava dos documentos e baixei o aplicativo."</td>
          <tr>
             <td>5. Onde você vê espaço para melhorias na segurança e privacidade dos seus dados pessoais no e-Título? </td>
-            <td>""</td>
+            <td>"O aplicativo não fala muito onde usa ele e poderia ser mais claro com termo de uso, deixar o termo mais acessível."</td>
          </tr>
          <tr>
             <td>6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral?
 </td>
-            <td>""</td>
+            <td>"O aplicativo eu achei ele bem bom, eu esperava que fosse ruim sinceramente, mas o design dele estava muito melhor do que eu imaginei e a primeira coisa que ele mostrava um número, o seu nome as horas que você tem que votar e nisso acho que ele ajuda muito também tem as outras opções, tem um outro botão que mostra se você quitou ou não a sua situação eleitoral."</td>
          </tr>
          <tr>
             <td>7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?</td>
-            <td>""</td>
+            <td>"Ele é de fácil navegação, não polui tendo muitas opções."</td>
          </tr>
         <tr>
             <td>8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis? </td>
-            <td>""</td>
+            <td>"Nunca cheguei a usar o suporte do aplicativo, mas perguntei para minha mãe que tem bem mais experiência e ela dizia que ele é fácil de usar mas nem sempre intuitivo como o número que aparece logo quando loga no aplicativo, tem outras partes que não funciona direito."</td>
          </tr>
          <tr>
             <td>9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? </td>
-            <td>""</td>
+            <td>"Já tive dificuldade em entender o número que aparece quando loga no aplicativo, também diversas vezes fiquei estressado com a parte de biometria, principalmente na pandemia que não dava pra tirar e ninguem explicou que não dava. Outro problema que tive foi em relação a senha, que tinha esquecido e mudei ela, ai coloquei a biometria digital ai ele não apareceu."</td>
          </tr>
         <tr>
             <td>10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral? </td>
-            <td>""</td>
+            <td>"Eu acho que o e-título ajuda muito com a parte de localização e disponnibilização de documentos e as vezes a pessoa nem sabe que existe o documento e não sabe onde tirar e pelo aplicativo é fácil"</td>
          </tr>
          <tr>
             <td>11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? </td>
-            <td>""</td>
+            <td>"Eu acho que ele tem muito potencial, percebo que o governo está sempre fazendo aplicavistos e isso é legal porque as pessoas entendem mais sobre as informações que elas podem utilizar e acho que nem todos os países tem uma acessibilidade digital grande como o brasil."</td>
          </tr>
       </tbody>
    </table>
@@ -270,38 +276,48 @@ Conforme foi abordado no termo de consentimento, A tabela demonstra os dados dem
 
 ### Legenda
 
-- ENT: Entrevista
-- RF: Requisito funcional
-- RNF: Requisito não funcional
-- Na coluna de Implementado, informa se o requisito em específico está implementado (presente) ou não no aplicativo
+- ENTx: Entrevista nºx
+- RFx: Requisito funcional nºx
+- RNFx: Requisito não funcional nºx
+- Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
-Tabela - requisitos funcionais
-
-| ID | Descrição   | Código | Implementado |
-| -- | --- | -- | --- |
-| -- | --- | -- | --- |
-
-Fonte: Autoria própria.
-
-
-Tabela - requisitos não funcionais
+Tabela 7 - requisitos funcionais
 
 | ID | Descrição   | Código | Implementado |
 | -- | --- | -- | --- |
+| ENT1 | Deve ser possível o usuário realizar o cadastro no aplicativo | RF1 | Sim |
+| ENT2 | O usuário deve conseguir logar com a biometria digital no aplicativo | RF2 | Sim |
+| ENT3 | O usuário deve poder conseguir visualizar os dados de seu título eleitoral | RF3 | Sim |
+| ENT4 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | RF4 | Sim |
+| ENT5 | No aplicativo deve ser possível que o usuário visualize a sua situação da quitação eleitoral | RF5 | -- |
+| ENT6 | O aplicativo deve disponibilizar a localização do local da votação para o usuário | RF6 | Sim |
+| ENT7 | O aplicativo deve notificar o horário da votação para o usuário | RF7 | Não |
+| ENT8 | Deve ser possível o usuário acompanhar a apuração de votos | RF8 | Não |
+| ENT9 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | RF9 | Não |
+
+
+Fonte: Autoria própria, 2023.
+
+
+Tabela 8 - requisitos não funcionais
+
+| ID | Descrição   | Código | Implementado |
 | -- | --- | -- | --- |
+| ENT1 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | RNF1 | Não |
+| ENT2 | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados | RNF2 | Sim |
+| ENT3 | A navegação do aplicativo não deve ser  poluída, como excesso de informações que podem confundir os usuários | RNF3 | Sim |
+| ENT4 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | RNF4 | Sim |
+| ENT5 | O aplicativo deve oferecer suporte ao usuário | RNF5 | Sim |
 
-Fonte: Autoria própria.
+Fonte: Autoria própria, 2023.
 
-<div style="text-align: center">
-<p> Tabela 5: Requisitos elicitados por meio da entrevista (Fonte: Autor, 2023).</p>
-</div>
 
-# Referências Bibliograficas
+# Bibliografia
 
-> [1] Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
+> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
 > https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/ </br>
-> [2]Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 27 setembro de 2023.
-
+> Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 27 setembro de 2023.
+> https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista
 
 
 ### Histórico de versão
@@ -310,5 +326,6 @@ Fonte: Autoria própria.
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
 | 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---- |
-| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo enos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
-| 1.1 | 01/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | ---- |
+| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
+| 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | ---- |
+| 1.4 | 03/10/2023 | adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | ---- |
