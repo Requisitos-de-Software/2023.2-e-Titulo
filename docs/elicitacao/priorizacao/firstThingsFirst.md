@@ -51,8 +51,9 @@ Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 Link para a gravação:
 
 ## Referencia
-> [1] WIEGER, Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em .[link]..(https://www.processimpact.com/articles/prioritizing.pdf). Acesso em: 02 de out 2023.
-> 2023.1-VLC, First Things First. 01 mai 2023. Disponível em .[link]..(https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/elicitacao/first_things_first.md). Acesso em: 04 de out 2023.
+> [1] WIEGER, Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em [link](https://www.processimpact.com/articles/prioritizing.pdf). Acesso em: 02 de out 2023.
+
+> 2023.1-VLC, First Things First. 01 mai 2023. Disponível em [link](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/elicitacao/first_things_first.md). Acesso em: 04 de out 2023.
 
 ## Histórico de Versões
 
