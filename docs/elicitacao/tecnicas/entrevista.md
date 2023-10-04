@@ -303,11 +303,11 @@ Tabela 8 - requisitos não funcionais
 
 | ID | Descrição   | Código | Implementado |
 | -- | --- | -- | --- |
-| ENT1 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | RNF1 | Não |
-| ENT2 | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados | RNF2 | Sim |
-| ENT3 | A navegação do aplicativo não deve ser  poluída, como excesso de informações que podem confundir os usuários | RNF3 | Sim |
-| ENT4 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | RNF4 | Sim |
-| ENT5 | O aplicativo deve oferecer suporte ao usuário | RNF5 | Sim |
+| ENTNF1 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | RNF1 | Não |
+| ENTNF2 | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados | RNF2 | Sim |
+| ENTNF3 | A navegação do aplicativo não deve ser  poluída, como excesso de informações que podem confundir os usuários | RNF3 | Sim |
+| ENTNF4 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | RNF4 | Sim |
+| ENTNF5 | O aplicativo deve oferecer suporte ao usuário | RNF5 | Sim |
 
 Fonte: Autoria própria, 2023.
 
