@@ -92,8 +92,9 @@ Após examinar as respostas, foi elaborado um perfil de usuário para o aplicati
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 27/09/2023 | Criação da introdução e da metodologia.                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
-| `2.0`  | 02/10/2023 | Adicionando resultados do questionário                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
-| `3.0`  | 03/10/2023 | Adicionando resultados do questionário                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | []()   |
+| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
+| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `1.0`  | 27/09/2023 | Criação da introdução e da metodologia.                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `2.0`  | 02/10/2023 | Adicionando resultados do questionário                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| `3.0`  | 03/10/2023 | Adicionando resultados do questionário                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `4.0`  | 04/10/2023 | Atualizando histórico de versão                  | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
