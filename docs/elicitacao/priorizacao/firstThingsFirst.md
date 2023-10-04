@@ -11,9 +11,9 @@ A motivação de se usar a técnica First Things First, deve-se ao fato de que a
 
 A técnica de priorização first things first (FTF) tem como objetivo apresentar em forma de tabela os riscos, custos, benefícios e a penalidade relativa de cada requisito elicitado para o projeto, estabelecendo uma ordem de prioridade de implementação. A seguir, são explicados os passos fundamentais para a elaboração dessa técnica, encontrados no livro na Referência[1]:
 
-Passo 1: Liste todos os requisitos, funcionalidades ou casos de uso que você deseja priorizar em uma planilha; Todos os itens devem estar no mesmo nível de abstração. Se certas funcionalidades estiverem logicamente relacionadas (ou seja, você só implementaria a funcionalidade B se a funcionalidade A também estivesse incluída), inclua apenas a funcionalidade principal na análise. 
+Passo 1: Listar todos os requisitos, funcionalidades ou casos de uso que você deseja priorizar em uma planilha;
 
-Passo 2: Estime o benefício relativo que cada funcionalidade oferece ao cliente ou ao negócio em uma escala de 1 a 9, sendo 1 indicando muito pouco benefício e 9 sendo o benefício máximo possível. 
+Passo 2: Estimar o benefício relativo que cada funcionalidade oferece ao cliente ou ao negócio em uma escala de 1 a 9, sendo 1 indicando muito pouco benefício e 9 sendo o benefício máximo possível. 
 
 Passo 3: Estime a penalização relativa que o cliente ou o negócio sofreria se a funcionalidade não fosse incluída. Novamente, use uma escala de 1 a 9, onde 1 significa essencialmente nenhuma penalização e 9 indica uma desvantagem muito séria.
 
@@ -21,31 +21,42 @@ Passo 4: A coluna "Valor Total" é a soma do benefício relativo e da penalizaç
 
 Passo 5: Estime o custo relativo de implementar cada funcionalidade, novamente em uma escala de 1 a 9. A planilha calculará a porcentagem do custo total para cada funcionalidade. 
 
-Passo 6: Os desenvolvedores estimam o grau relativo de risco técnico ou outro risco associado a cada funcionalidade em uma escala de 1 a 9. Uma estimativa de 1 significa que você pode programá-la facilmente, enquanto 9 indica preocupações sérias quanto à viabilidade, disponibilidade de pessoal com a experiência necessária ou uso de ferramentas e tecnologias não comprovadas ou não familiares. A planilha calculará a porcentagem do risco total que vem de cada funcionalidade.
+Passo 6: Os desenvolvedores estimam o grau relativo de risco técnico ou outro risco associado a cada funcionalidade em uma escala de 1 a 9. planilha calculará a porcentagem do risco total que vem de cada funcionalidade.
 
-Passo 7: Uma vez que você insere as estimativas na planilha, ela calcula um número de prioridade para cada funcionalidade. A fórmula para a coluna de Prioridade é: prioridade = valor % / (custo % * peso do custo + risco % * peso do risco).
+Passo 7: Calcular um número de prioridade para cada funcionalidade. A fórmula para a coluna de Prioridade é: prioridade = valor % / (custo % * peso do custo + risco % * peso do risco).
 
-Passo 8: Ordene a lista de funcionalidades em ordem decrescente de prioridade calculada. As funcionalidades no topo da lista têm o equilíbrio mais favorável entre valor, custo e risco e, portanto, devem ter maior prioridade de implementação.
+Passo 8: Ordenar a lista de funcionalidades em ordem decrescente de prioridade calculada. 
+
+Para o passo 2 e passo 3 gravamos uma reunião na qual a [Mariiana Siqueira](https://github.com/Maryyscreuza) foi a gerente e utilizamos a persona Maria Andrade, interpretada por [Esther Sena](https://github.com/esmsena) como representante dos clientes, para a obtenção de respostas. Para o passo 5 e o passo 6 a gerente se reuniu com a representante dos desenvolvedores [Maria Eduarda Marques](https://github.com/EduardaSMarques) para montagem, porém não pôde ser gravado. Por fim, novamente foram reunidas [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Maria Eduarda Marques](https://github.com/EduardaSMarques) para o total preenchimento da tabela.
 
 ## Resultados 
+A Figura 1 contém a priorização dos requisitos elicitados utilizando o FTF. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.
+
+### Legenda:
+
+* BS: Requisitos de Brainstorming
+* BSNF: Requisitos não-funcionais de Brainstorming
+* ENT: Requisitos de Entrevista
+* ENTNF: Requisitos não-funcionais de Entrevista
+* INT: Requisitos de Introspecção
+* INTNF: Requisitos não-funcionais de Introspecção
+
+Figura 1: Priorização de requisitos utilizando a técnica First Things First.
 
 Link https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0
 
-## Bibliografia
+Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 
->
-> 
+## Gravação
+Link para a gravação:
 
 ## Referencia
-
-
 > [1] WIEGER, Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em .[link]..(https://www.processimpact.com/articles/prioritizing.pdf). Acesso em: 02 de out 2023.
-
-> 
+> 2023.1-VLC, First Things First. 01 mai 2023. Disponível em .[link]..(https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/elicitacao/first_things_first.md). Acesso em: 04 de out 2023.
 
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 02/10/2023  | Realização da intro. , metologia e uma das técnicas  | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
-
+| `1.0`  | 02/10/2023  | Realização da intro. , metologia e uma das técnicas  | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
+| `1.1`  | 04/10/2023  | Edição de metodologia, adicionando a gravação | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
