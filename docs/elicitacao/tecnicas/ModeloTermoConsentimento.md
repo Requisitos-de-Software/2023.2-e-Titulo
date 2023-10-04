@@ -69,6 +69,9 @@ Ao concordar em participar, você manifesta seu consentimento livre e esclarecid
 
 Para questões relativas à pesquisa ou para se retirar, entre em contato via e-mail: esthersena.jd@gmail.com ou telefone: 61 993622066.
 
+## Bibliografia
+> Modelo de Termo de Consentimento Livre e Esclarecido. https://www.rosana.unesp.br/Home/pesquisa/orientacoesemanual/modelo-termo-de-consentimento-livre-e-esclarecido.docx Acesso em: 26 de setembro de 2023.
+
 
 ## Histórico de Versões
 
