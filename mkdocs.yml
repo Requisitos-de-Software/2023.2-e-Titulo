@@ -4,7 +4,6 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 
 
 site_name: e-Título
-
 nav:
   - Início: index.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
@@ -15,11 +14,11 @@ nav:
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
   - Planejamento:
-    - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
+    - Escolha do Aplicativo: planejamento/aplicativoEscolhido.md
     - Termos de Uso: planejamento/copiatermos.md
     - HeatMap: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/Ferramentas.md
+    - Ferramentas: planejamento/ferramentas.md
     - Metodologia: planejamento/metodologia.md
     - Rich Picture: planejamento/richpicture.md
 
@@ -36,19 +35,8 @@ theme:
   language: pt-BR
   logo: imgs/img.logo.jpg
   favicon: imgs/img.logo.jpg
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-
   palette:
-    - scheme: default
+    - scheme: deep purple
       primary: yellow
       toggle:
         icon: material/circle-half-full
