@@ -6,6 +6,12 @@
 
 ## Motivação e Objetivo
 
+A motivação por trás do uso do storytelling reside na capacidade inata das pessoas de se conectarem com histórias. Desde os primórdios da humanidade, as histórias têm sido uma maneira fundamental de transmitir conhecimento, valores e experiências. Quando ouvimos uma história, nossa atenção é capturada, e somos levados a um nível emocional mais profundo. Isso cria uma conexão mais forte e duradoura entre a mensagem e o público.
+
+O objetivo do storytelling é tornar as mensagens mais impactantes, memoráveis e compreensíveis. Alguns objetivos específicos são: engajamento, memorização, identificação, transmissão de valores e mensagens, simplicidade e clareza.
+
+Ao usar storytelling, você transforma suas mensagens em experiências, criando uma ligação mais profunda e duradoura com seu público. Essa técnica é valiosa em uma variedade de contextos, desde apresentações de negócios até educação e marketing.
+
 ## Metodologia
 
 
@@ -41,3 +47,4 @@
 | Versão |    Data    |                            Descrição                            |      Autor       |              Revisor              |
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
 | 1.0 | 26/09/2023 | Motagenm de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
