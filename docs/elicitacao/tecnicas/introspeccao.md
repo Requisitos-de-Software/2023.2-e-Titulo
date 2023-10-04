@@ -548,11 +548,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ## Referências Bibliográficas
 
-Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
+< Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
 
 
-
-> ## Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição          | Autor(es)                 | Revisor(es)                      |
 | ------ | ---------- | -------------------| --------------------------| -------------------------------- |
