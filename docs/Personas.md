@@ -20,24 +20,24 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 
 |Persona Primária|Felipe Augusto|
 | :--:|:--:|
-| **Foto**:| ![](../assets/Personas/FelipeAugusto.jpeg) <p>Figura 1: Felipe Augusto                                                                                                                                                      |
+| **Foto**:| ![](../docs/assets/ferramentas/Personas/felipe.jpeg) <p>Figura 1: Felipe Augusto                                                                                                                                                      |
 | **Nome**:| Felipe Augusto.                                                                                                                                                                                                             |                                                                                                                                                                                                        |
 | **Características**:| Homem, 22 anos,  graduando em Administração e estagiário em um corretora de imóveis.                                                                                                                             |
 | **Habilidades e Experiências**:| Conhecimento básico de vendas e gestão de empresas.                                                                                                                                                   |
 | **Relacionamento**:| Equipe de vendas da imobiliária, familiares e amigos da época de colégio.                                                                                                                                         |
 | **Objetivo**:| Ele é determinado, focado e persistente. Almeja passar em algum concurso público na área bancária.                                                                                                                      |
 | **Expectativa**:| Como Felipe está focado na construção de uma carreira sólida e próspera, ele não liga muito para o período eleitoral e apenas entra no aplicativo para acessar o local de votação no período das eleições.           |
-| **Requisitos**:| Ao chegar o período eleitoral, Felipe entra no e-Título e verifica o seu local de votação.                                                                                                                            |                                                                                                                     
+| **Requisitos**:| Ao chegar o período eleitoral, Felipe entra no e-Título e verifica o seu local de votação e apresentar-se apto para excercer o eleitorado ativo.                                                                                                                            |                                                                                                                     
 | **Tarefas**:| Ir para a Faculdade na parte da manhã, almoçar, trabalhar na parte da tarde até o fim do horário comercial, ir para academia, malhar, voltar para casa jantar e usar as redes sociais até dormir.                        |                                                                                                                                                                                                           
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta).</p>
 
-<p style="text-align: center"><b>Tabela 2</b> - Persona Secundária XXXXX</p>
+<p style="text-align: center"><b>Tabela 2</b> - Persona Secundária Diego Carvalho</p>
 
 
 |Persona Primária|Diego Carvalho|
 | :--:|:--:|
-| **Foto**:| ![](../assets/Personas/FelipeAugusto.jpeg) <p>Figura 2: Diego Carvalho                                                                                                                                                      |
+| **Foto**:| ![](../docs/assets/ferramentas/Personas/diego.jpeg) <p>Figura 2: Diego Carvalho                                                                                                                                                      |
 | **Nome**:| Diego Carvalho.                                                                                                                                                                                                             |                                                                                                                                                                                                        |
 | **Características**:| Homem, 36 anos,  formado em direito na UFMG e servidor do TSE(Tribunal Superior Eleitoral).                                                                                                                             |
 | **Habilidades e Experiências**:| Conhecimento avançado sobre constituição, poder executivo e legislativo. Perfil de liderança.                                                                                                                                                   |
@@ -45,7 +45,7 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 | **Objetivo**:| Ele é muito inteligente e pensa no futuro. Deseja instruir seus filhos para seguirem o mesmo caminho, pois seus conhecimentos facilitariam o trajeto.                                                                                                                    |
 | **Expectativa**:| Diego trabalha no TSE e está o tempo inteiro utilizando dados relacionados a votação. Portanto, está constantemente verificando os documentos emitidos pela Justiça Eleitoral.         |
 | **Requisitos**:| Durante a semana no trabalho, Diego entra no e-Título e verifica diversos documentos emitidos.                                                                                                                            |                                                                                                                     
-| **Tarefas**:|  |                                                                                                                                                                                                           
+| **Tarefas**:|  | Pela manhã gosta de olhar como anda seus investimentos na bolsa de valores e após o almoço trabalha 7 horas, apenas em dias úteis no periodo da tarde. Quando chega em casa a noite gosta de ter um tempo com a família, assistindo series, filmes ou cozinhando.                                                                                                                                                                                                          
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta).</p>
 
@@ -56,9 +56,9 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 
 |Persona Secundária|Maria Andrade|
 | :--:|:--:|
-| **Foto**:| ![](../assets/Personas/FelipeAugusto.jpeg) <p>Figura 3: Maria Andrade.                                                                                                                                                                                                                        |
+| **Foto**:| ![](../docs/assets/ferramentas/Personas/maria.jpeg) <p>Figura 3: Maria Andrade.                                                                                                                                                                                                                        |
 | **Nome**:| Maria Andrade.                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                        |
-| **Características**:| Mulher, 47 anos, pós-graduada em letras e professora na rede pública                                                                                                                                                                                                               |
+| **Características**:| Mulher, 45 anos, pós-graduada em letras e professora na rede pública                                                                                                                                                                                                               |
 | **Habilidades e Experiências**:| Conhecimento avançado em português e grande repertório sobre literatura brasileira                                                                                                                                                                                      |
 | **Relacionamento**:| viuva, filhos, netos, irmãos e primos.                                                                                                                                                                                                                                              |
 | **Objetivo**:| Ela ja contribuiu bastante para o estado com seu conhecimento. Sonha em se aposentar e viajar bastrante.                                                                                                                                                                                  |
@@ -72,16 +72,31 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 
 |antiPersona|Enzo Rodrigues|
 | :--:|:--:|
-| **Foto**:| ![](../assets/Personas/FelipeAugusto.jpeg) <p>Figura 3: Enzo Rodrigues.                                                                                                                                                                                                                        |
+| **Foto**:| ![](../docs/assets/ferramentas/Personas/enzo.jpeg) <p>Figura 3: Enzo Rodrigues.                                                                                                                                                                                                                        |
 | **Nome**:| Enzo Rodrigues.                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                        |
-| **Características**:| Homem, 16 anos, estudante do ensino fundamental.                                                                                                                                                                                                             |
+| **Características**:| Homem, 14 anos, estudante do ensino fundamental.                                                                                                                                                                                                             |
 | **Habilidades e Experiências**:| Conhecimentos sobre futebol e videogames.                                                                                                                                                                                      |
 | **Relacionamento**:| Pais, primos, amigos da escola e do condomínio.                                                                                                                                                                                                                                              |
 | **Objetivo**:| Ambicioso, habilidoso e confiante, seu sonho é se tornar atacante do real madrid, clube de futebol espanhol.                                                                                                                                                                                  |
 | **Expectativa**:| No Brasil, a lei permite o direito ao voto a todo cidadão alfabetizado, nascido no país ou naturalizado, com idade entre 18 e 70 anos, no qual é obrigado a votar. O voto é facultativo para jovens com 16 e 17 anos,  pessoas com mais de 70 anos e analfabetos. Portanto, vai usar o aplicativo pra apresentar-se apto a execer o eleitorado ativo.     |
-| **Requisitos**:| Ao chegar o período eleitoral, Maria entra no e-Título e com ajuda de conhecidos emite o documento para impressão.                                                                                                                                                                      |                                                                                                                     
+| **Requisitos**:| Devido sua idade, é impossibilitado de fazer login no aplicativo.                                                                                                                                                               |                                                                                                                     
 | **Tarefas**:| Acorda as 5 horas, prepara o café para alguns netos, lê o jornal do dia até as 8 horas. Em sequencia prepara o almoço e enquanto não fica pronto faz outras tarefas domesticas. Durante a tarde assite a novela, faz outra refeição, toma banho e antes de dormir lê seu livro do mês      |                                                                                                                                                                                                           
 
 <font size="3"><p style="text-align: center">Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta).</p>
 
----
+## Conclusão
+
+Para melhor orientação na fase de elicitação de requisitos, foram definidas três personas como os principais usuários do sistema, às quais daremos nossa atenção principal. Além disso, também criamos uma antipersona para entender quem não é um usuário do sistema. A decisão de limitar o número de personas a três foi baseada na observação das necessidades dos usuários em relação ao aplicativo "e-título". Sobre esse assunto, as necessidades estavam se tornando cada vez mais semelhantes, já que o maior propósito do aplicativo é permitir que o usuário apresente-se apto para exercer o eleitorado ativo e consulte os locais de votação. 
+
+## Referências
+> Personas. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas>. Acesso em: 04/10/2023 out. 2023.
+
+> This Person Does Not Exist.  Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 04/10/2023 out. 2023.
+
+
+## Histórico de Versões
+
+| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
+| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
+|  `1.0`  | 02/10/2023 |            Criação do documento de personas.            | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) |                                                        |
+|  `2.0`  | 29/09/2023 |            Adição de informações das personas.            | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) |                                                      |
