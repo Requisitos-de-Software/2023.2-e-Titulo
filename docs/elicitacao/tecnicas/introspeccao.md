@@ -251,6 +251,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de certidões
 <details>
+   <p> Tabela 6 - respostas do com contexto de certidões selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -277,7 +278,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -285,6 +286,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de justificativa
 <details>
+      <p> Tabela 7 - respostas do com contexto de justificativa selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -310,7 +312,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -318,6 +320,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de outras opções
 <details>
+         <p> Tabela 8 - respostas do com contexto de outras opções selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -344,7 +347,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -352,6 +355,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de ajuda
 <details>
+            <p> Tabela 9 - respostas do com contexto de ajuda selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -379,7 +383,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -387,6 +391,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de segurança
 <details>
+          <p> Tabela 10 - respostas do com contexto de segurança selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -413,7 +418,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -421,6 +426,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 ### Com o mais opções selecionado no contexto de apagar dados
 <details>
+             <p> Tabela 11 - respostas do com contexto de apagar dados selecionada </p> 
    <summary>Respostas</summary>
    <table>
       <thead>
@@ -445,7 +451,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 1: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Fonte: Autoria própria, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -455,21 +461,52 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 **Legenda**:
 
-* INT: Introspecção
-* RF: Requisito Funcional
+* INTx: Introspecção nºx
+* RFx: Requisito Funcional nºx
+* RNFx: Requisito não funcional nºx
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos elicitados</p>
 </div>
 
-| ID | Descrição | Tipo |
+| ID | Descrição | Código |
 |----|:---------:|------|
-
+| INT1 |No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG| RF1 |
+| INT2 |Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro.| RF2 |
+| INT3 |O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado.| RF3 |
+| INT4 |Deve ser possível o usuário vizualizar a localização da votação.| RF4 |
+| INT5 |Deve ser possível o usuário vizualizar seu documento do título eleiroral.| RF5 |
+| INT6 |O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes.| RF6 |
+| INT7 |O aplicativo deve ter a opção de sair/logoff disponível para o usuário.| RF7 |
+| INT8 |O usuário deve conseguir fazer alterações em seus dados cadastrais.| RF8 |
+| INT9 |Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo.| RF9 |
+| INT10 |Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo.| RF10 |
+| INT11 |O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral.| RF11 |
+| INT12 |Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo.| RF12 |
+| INT13 |Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo.| RF13 |
+| INT14 |O usuário deve conseguir escolher o local de partida.| RF14 |
+| INT15 |O usuário deve conseguir escolher visualizar sobre as documentações nescessárias.| RF15 |
+| INT16 |:---------:| RF16 |
+| INT17 |:---------:| RF17 |
+| INT18 |:---------:| RF18 |
+| INT19 |:---------:| RF19 |
+| INT20 |:---------:| RF20 |
+| INT21|:---------:| RF21 |
 
 <div style="text-align: center">
-<p>Fonte: Nome </p>
+<p> Fonte: Autor, 2023.</p>
 </div>
 
+| ID | Descrição | Código |
+|----|:---------:|------|
+| INT1 |O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários.| RNF1 |
+| INT1 |O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.| RNF1 |
+| INT1 |O aplicativo deve permitir que o usuário altere o local de partida.| RNF1 |
+| INT1 |O aplicativo deve notificar sobre atualizações eleitorais.| RNF1 |
+| INT1 |O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | RNF1 |
+| INT1 |O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários| RNF1 |
+| INT1 |:---------:| RNF1 |
+| INT1 |:---------:| RNF1 |
 ## Referências Bibliográficas
 
 https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/ 
