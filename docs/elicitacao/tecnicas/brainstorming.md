@@ -570,7 +570,9 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- BSx: Requisito nºx elicitado pelo Brainstorming.
+- BSx: Requisito funcionais nºx elicitado pelo Brainstorming
+- BSNx: Requisito não funcionais nºx elicitado pelo Brainstorming
+- Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
 <font size="3"><p style="text-align: center">**Tabela 1 - requisitos funcionais** </p></font>
 
@@ -578,19 +580,19 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS1                                            |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |          |
-| BS2                                            |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |          |
-| BS3                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |          |
-| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |          |
-| BS5                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |          | 
-| BS6                                            | No aplicativo deve possível o usuário receber notificações        | RF6    |          |
-| BS7                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |          |
-| BS8                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |          | 
-| BS9                                            | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |          | 
-| BS10                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |          |
-| BS11                                           | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |          | 
-| BS12                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |          | 
-| BS13                                           | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |          | 
+| BS1                                            |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
+| BS2                                            |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
+| BS3                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |     Sim     |
+| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |   Sim       |
+| BS5                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |     Sim     | 
+| BS6                                            | No aplicativo deve possível o usuário receber notificações        | RF6    |    Sim      |
+| BS7                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |    Sim      |
+| BS8                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |    Sim      | 
+| BS9                                            | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |      Sim    | 
+| BS10                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |    Sim      |
+| BS11                                           | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |   Sim       | 
+| BS12                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |    Sim      | 
+| BS13                                           | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
 
 
 
@@ -604,11 +606,11 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
-| BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |          |
-| BSNF2                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições | RNF2   |          |
-| BSNF3                                          |  O aplicativo deve ser confiável para o usuário | RNF3   |          |
-| BSNF4                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |          |
-| BSNF5                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |          |
+| BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |     Sim     |
+| BSNF2                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários | RNF2   |   Não       |
+| BSNF3                                          |  O aplicativo deve ser confiável para o usuário | RNF3   |    Sim      |
+| BSNF4                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |      Sim    |
+| BSNF5                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |     Sim     |
 
 
 </center>
@@ -640,4 +642,4 @@ https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisito
 | 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.7 | 01/09/2023 | modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
-| 1.8 | 03/09/2023 | correção nos requisitos não funcionais | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
+| 1.8 | 03/09/2023 | correção nos requisitos não funcionais e adicionando se os reuisitos foram ou não implementados | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
