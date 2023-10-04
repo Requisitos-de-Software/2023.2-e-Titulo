@@ -9,6 +9,9 @@ Este documento tem como objetivo apresentar uma análise detalhada das mudanças
 Ao criar um documento detalhado sobre um cronograma executado e suas mudanças, o principal objetivo era documentar de forma precisa e transparente o progresso e as adaptações ao planejamento original. A motivação por trás dessa iniciativa residia na necessidade de manter um registro claro e organizado das mudanças que ocorreram ao longo da execução do projeto.
 
 ## Entrega 1
+
+A tabela 1 detalha as modificações e o que se manteve do cronograma planejado.
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
 | Planejamento do projeto  |  06/09  |  17/09  | 18/09 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
@@ -26,12 +29,13 @@ Ao criar um documento detalhado sobre um cronograma executado e suas mudanças, 
 **Tabela 1: Cronograma executado da entrega 1,(Fonte: Maria Marques, 2023)**
 
 ## Entrega 2
+
+A tabela 2 detalha as modificações e o que se manteve do cronograma planejado.
+
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- | ---| --- | 
 | Perfil do Usuário  | 28/09 |  01/09 |  01/10  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
-
 | Persona |  24/09 |  30/09 |  01/10   | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)   | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
-
 | Técnicas de elicitação: Brainstorm |  24/09 |  30/09 |  01/10   | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)   |
 | Técnicas de elicitação: Entrevista  |  02/10 |  03/10 |  03/10   | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)   |
 | Técnicas de elicitação: Introspecção |  26/09 |  03/10 |  03/10   | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)   |
