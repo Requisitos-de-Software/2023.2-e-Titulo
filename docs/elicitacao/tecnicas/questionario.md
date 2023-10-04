@@ -75,6 +75,7 @@ Fonte: Autoria própria, 2023.
 
 ## Bibliografia
 
+> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de Outubro de 2023.</br>
 
 ## Histórico de Versões
 
