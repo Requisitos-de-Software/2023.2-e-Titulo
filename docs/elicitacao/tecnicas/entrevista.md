@@ -14,8 +14,7 @@ O objetivo em utilizar essa técnica no projeto é elicitar requisitos funcionai
 
 A entrevista foi realizada de forma estruturada, que é baseada em perguntas já pré-definidas presentes na tabela 3, permitindo a análise do nível de entendimento de um stakeholder a respeito de uma pergunta. Na entrevista foi utilizado perguntas abertas permitindo que os entrevistados respondam de forma livre, demonstrando suas opiniões, experiências e sugestões, e consequentimente contribuindo para o desenvolvimento do projeto. 
 
-As gravações das entrevistas podem serem visualizadas no links -------
- e ----------------- ou no final deste artefato, o cronograma da entrevista pode ser conferida na tabela 1:
+As gravações das entrevistas podem serem visualizadas nos links [entrevista 1](https://youtu.be/WXOG8QaRswY) e [entrevista 2 ](https://youtu.be/Plv7-4JBWgo) ou no final deste artefato, o cronograma da entrevista pode ser conferida na tabela 1:
 
 Tabela 1 -  cronograma das entrevistas
  
@@ -320,7 +319,7 @@ Fonte: Autoria própria, 2023.
 
 > Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
 
-> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de Outubro de 2023.</br>
+> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de outubro de 2023.</br>
 
 
 ### Histórico de versão
@@ -331,4 +330,4 @@ Fonte: Autoria própria, 2023.
 | 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---- |
 | 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
 | 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | ---- |
-| 1.4 | 03/10/2023 | adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | ---- |
+| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | ---- |
