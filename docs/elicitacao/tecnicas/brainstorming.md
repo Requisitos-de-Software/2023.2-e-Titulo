@@ -47,7 +47,7 @@ Fonte: Autoria Própria.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: Autoria própria, 2023. </p></font>
 
 ## Participantes
 
@@ -67,7 +67,7 @@ Fonte: Autoria Própria.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: </p></font>
+<font size="3"><p style="text-align: center">Fonte: Autoria própria, 2023.</p></font>
 
 ## Perguntas / Respostas
 
@@ -566,7 +566,7 @@ Fonte: Autoria Própria.
 
 Após a sessão de brainstorming, foi possível fazer a elicitação dos requisitos funcionais listados na Tabela 17 e os requisitos não funcionais listados na Tabela 18.
 
-**Legenda das Tabelas x e x:**
+**Legenda das Tabelas 17 e 18:**
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
@@ -574,7 +574,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 - BSNx: Requisito não funcionais nºx elicitado pelo Brainstorming
 - Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
-<font size="3"><p style="text-align: center">**Tabela 1 - requisitos funcionais** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 17 - requisitos funcionais** </p></font>
 
 <center>
 
@@ -600,7 +600,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 <font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 2 - requisitos não funcionais ** </p></font>
+<font size="3"><p style="text-align: center">**Tabela 18 - requisitos não funcionais** </p></font>
 
 <center>
 
@@ -632,12 +632,12 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 26/09/2023 | Motagenm de estrutura | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.0 | 26/09/2023 | Motagem de estrutura | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.1 | 27/09/2023 | Adicionando perguntas e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.2 | 29/09/2023 | Adicionando uma pergunta e o conteúdo em Motivação e Objetivo, alterando introdução, metodologia e funções, inserindo o miro  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.3 | 29/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.4 | 29/09/2023 | Adicionando respostas no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
 | 1.5 | 29/09/2023 | Adicionando bibliografia e corrigindo imagem  | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.7 | 01/09/2023 | modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
-| 1.8 | 03/09/2023 | correção nos requisitos não funcionais e adicionando se os reuisitos foram ou não implementados | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
+| 1.7 | 01/09/2023 | Modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
+| 1.8 | 03/09/2023 | Correção nos requisitos não funcionais e adicionando se os reuisitos foram ou não implementados | [Maria Barbosa](https://github.com/Madu01) | ---------------------------------------------- |
