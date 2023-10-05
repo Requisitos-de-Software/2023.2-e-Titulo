@@ -493,7 +493,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 * RNFx: Requisito não funcional nºx
 
 <div style="text-align: center">
-<p>Tabela 1: Requisitos elicitados</p>
+<p>Tabela 12: Requisitos Funcionais </p>
 </div>
 
 | ID | Descrição | Código |
@@ -527,6 +527,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 <p> Fonte: Autor, 2023.</p>
 </div>
 
+<div style="text-align: center">
+<p>Tabela 13: Requisitos Não Funcionais</p>
+</div>
+
 | ID | Descrição | Código |
 |----|:---------:|------|
 | INT1 |O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários.| RNF1 |
@@ -545,6 +549,10 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INT14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF14 |
 | INT15 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF15 |
 | INT16 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF1 |
+
+<div style="text-align: center">
+<p> Fonte: Autor, 2023.</p>
+</div>
 
 ## Referências Bibliográficas
 
