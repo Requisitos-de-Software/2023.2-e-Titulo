@@ -21,8 +21,20 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Metodologia: planejamento/metodologia.md
     - Rich Picture: planejamento/richpicture.md
-  - Elcitação:
-    - Perfil do Usuário: Elicitacao/perfilDoUsuario.md
+  - Elicitação:
+    - Técnicas de Elicitação:
+      - Perfil do Usuário: Elicitacao/perfilDoUsuario.md
+      - Personas: Elicitacao/Personas.md
+      - Brainstorming: Elicitação/tecnicas/brainstorming.md
+      - Entrevista: Elicitação/tecnicas/entrevista.md
+      - Instropecção: Elicitação/tecnicas/instropeccao.md
+      - Termo de Consentimento: Elicitação/tecnicas/ModeloTermoConsentimento.md
+      - Questionário: Elicitação/tecnicas/questionario.md
+      - Storytelling: Elicitação/tecnicas/storytelling.md
+    - Técnicas de Priorização:
+      - $100: Elicitação/priorizacao/$100.md
+      - First Things First: Elicitação/priorizacao/firstThingsFirst.md
+      - Three Level Scale: Elicitação/priorizacao/threeLevelScale
 
 
 
