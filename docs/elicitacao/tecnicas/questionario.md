@@ -22,7 +22,7 @@ as respostas dos que já utilizaram estão presentes nas imagens de 2 até 6, e 
 
 Imagem 1 - print da primeira pergunta
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img1_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img1_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
@@ -30,31 +30,31 @@ Fonte: Autoria Própria, 2023.
 
 Imagem 2 - print da primeira pergunta para os que usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img2_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img2_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 3 - print da segunda pergunta para os que usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img3_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img3_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 4 - print da terceira pergunta para os que usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img4_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img4_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 5 - print da quarta pergunta para os que usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img5_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img5_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 6 - print da quinta pergunta para os que usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img6_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img6_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
@@ -62,19 +62,19 @@ Fonte: Autoria Própria, 2023.
 
 Imagem 7 - print da primeira pergunta para os que não usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img7_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img7_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 8 - print da segunda pergunta para os que não usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img8_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img8_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 
 Imagem 9 - print da terceira pergunta para os que não usam o aplicativo
 
-![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img9_questionario.png)
+![imagem_q1](../../../assets/perguntasQuestTecnica/img9_questionario.png)
 
 Fonte: Autoria Própria, 2023.
 

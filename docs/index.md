@@ -1,6 +1,6 @@
 # e-Título
 
-<p align="center" > <font>Figura 1: Logo do e-Título</font> <br><img style="border: 2px solid white; border-radius: 30%" src="imgs/img.logo.jpg" width = 40%></p>
+<p align="center" > <font>Figura 1: Logo do e-Título</font> <br><img style="border: 2px solid white; border-radius: 30%" src="elicitacao/imgs/img.logo.jpg" width = 40%></p>
 <p align="center" > <font>Fonte: <a href="https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR&gl=US">e-Título</a></font> <br></p>
 
 Esta página possui o objetivo de armazenar a documentação dos artefatos estudados e desenvolvidos no decorrer do segundo semestre de 2023 na disciplina de Requisitos de Software ministrada pelo professor André Barros da Universidade de Brasília(UNB).

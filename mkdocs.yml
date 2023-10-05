@@ -11,30 +11,34 @@ nav:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
     - Ata 03: atas/ata_reuniao_03.md
+    - Ata 04: atas/ata_reuniao_04.md
+    - Ata 05: atas/ata_reuniao_05.md
+    - Ata 06: atas/ata_reuniao_06.md
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
   - Planejamento:
-    - Escolha do Aplicativo: planejamento/aplicativoEscolhido.md
+    - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
     - Termos de Uso: planejamento/copiatermos.md
     - HeatMap: planejamento/heatmap.md
-    - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/ferramentas.md
+    - Cronograma Planejado: planejamento/cronogramaPlanejado.md
+    - Cornograma Executado: planejamento/CronogramaExecutado.md
+    - Ferramentas: planejamento/Ferramentas.md
     - Metodologia: planejamento/metodologia.md
     - Rich Picture: planejamento/richpicture.md
   - Elicitação:
     - Técnicas de Elicitação:
-      - Perfil do Usuário: Elicitacao/perfilDoUsuario.md
-      - Personas: Elicitacao/Personas.md
-      - Brainstorming: Elicitação/tecnicas/brainstorming.md
-      - Entrevista: Elicitação/tecnicas/entrevista.md
-      - Instropecção: Elicitação/tecnicas/instropeccao.md
-      - Termo de Consentimento: Elicitação/tecnicas/ModeloTermoConsentimento.md
-      - Questionário: Elicitação/tecnicas/questionario.md
-      - Storytelling: Elicitação/tecnicas/storytelling.md
+      - Perfil do Usuário: elicitacao/perfilDoUsuario.md
+      - Personas: elicitacao/Personas.md
+      - Brainstorming: elicitacao/tecnicas/brainstorming.md
+      - Entrevista: elicitacao/tecnicas/entrevista.md
+      - Instropecção: elicitacao/tecnicas/introspeccao.md
+      - Termo de Consentimento: elicitacao/tecnicas/ModeloTermoConsentimento.md
+      - Questionário: elicitacao/tecnicas/questionario.md
+      - Storytelling: elicitacao/tecnicas/storytelling.md
     - Técnicas de Priorização:
-      - $100: Elicitação/priorizacao/$100.md
-      - First Things First: Elicitação/priorizacao/firstThingsFirst.md
-      - Three Level Scale: Elicitação/priorizacao/threeLevelScale
+      - $100: elicitacao/priorizacao/$100.md
+      - First Things First: elicitacao/priorizacao/firstThingsFirst.md
+      - Three Level Scale: elicitacao/priorizacao/threeLevelScale.md
 
 
 
@@ -46,9 +50,19 @@ plugins:
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.tabs.link
+    - content.code.annotation
+    - toc.integrate
+    - content.tabs.link
+    - content.code.copy
+    - search.suggest
+    - search.highlight
   language: pt-BR
-  logo: imgs/img.logo.jpg
-  favicon: imgs/img.logo.jpg
+  logo: elicitacao/imgs/img.logo.jpg
+  favicon: elicitacao/imgs/img.logo.jpg
   palette:
     - scheme: deep purple
       primary: yellow
