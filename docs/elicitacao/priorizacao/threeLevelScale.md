@@ -15,7 +15,7 @@ combinações possíveis, que você pode usar para definir uma escala de priorid
 
 Figura 1: Técnica Three Level Scale.
 
-![Figura1](docs/../priorizacao/tls1.png)
+![Figura1](../imgs/tls1.png)
 
 Fonte: WIEGER, Karl E. 
 
@@ -43,14 +43,14 @@ Link para planilha: https://docs.google.com/spreadsheets/d/1JE-OPyLhUI5HI7It0TaM
 
 Figura 2: Priorazação de requisitos, pela técnica Three Level Scale.
 
-![Figura2](docs/../priorizacao/tls.png)
+![Figura2](../imgs/tls.png)
 
 Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 
 ## Gravação
 
 Abaixo é onde se encontra a gravação da técnica.
-[tls](https://youtu.be/EA3MoZ_IdB0)
+[Link](https://youtu.be/EA3MoZ_IdB0)
 
 ## Bibliografia
 

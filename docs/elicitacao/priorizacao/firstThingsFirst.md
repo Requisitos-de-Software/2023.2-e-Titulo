@@ -52,7 +52,7 @@ Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 ## Gravação
 
 Abaixo é onde se encontra a gravação da técnica.
-[tft](https://youtu.be/H8lFp5S03gk)
+[Link](https://youtu.be/H8lFp5S03gk)
 
 ## Referencia
 
