@@ -1,12 +1,13 @@
-# Ata da Reunião - 20/09/2023 - Reunião 4
+# Ata da Reunião - 29/09/2023 - Reunião 5
 
 ## Data e Hora
 | Data          | Hora de início | Hora de fim | Local |
 |---------------|----------------|-------------|-------|
-|  20/09/2023   |      20:00     |    20:05    | Teams |
+| 29/09/2023    |      10:30     |    10:38    | Teams |
 
   
 ## Participantes
+* [Esther Sena Martins](https://github.com/esmsena)
 * [João Victor Costa de Andrade](https://github.com/jvcostta)
 * [Maria Eduarda Barbosa Santos](https://github.com/Madu01)
 * [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)
@@ -14,10 +15,14 @@
 * [Mateus Orlando Medeiros Ribeiro](https://github.com/MateusPy)
 
 ## Tópicos Discutidos
-* Tarefas para a próxima issue listadas de acordo com o cronograma
+* Tarefas já realizadas
+* Perfil do usuário
+* Técnicas de elicitação que serão utilizadas
+* Técnicas de priorização que serão utilizadas
   
 ## Decisões Tomadas
-* Para quem cada tarefa foi atribuída
+* Técnica de elicitação: Brainstorm, questionário, entrevista e prototipação
+* Técnicas de priorização: First thing first, three level scale e $100
   
 ## Ações Pendentes
 Tabela 1: Ações pendentes
@@ -32,15 +37,14 @@ Tabela 1: Ações pendentes
 Fonte: cronograma; MARQUES, Maria 2023.
 
 ## Link da gravação
-*  [https://youtu.be/-l3R1Hto4R0](https://youtu.be/-l3R1Hto4R0)
+*  https://youtu.be/TRVH1qp5T4o
 
 ## Próxima Reunião
-* **Data da Próxima Reunião:** 27/09/2023
-* **Hora da Próxima Reunião:** 20:00
+* **Data da Próxima Reunião:** 30/09/2023 (Gravação do brainstorm)
+* **Hora da Próxima Reunião:** 08:00
 ---
 
 ## Histórico de versões
-| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
-|--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 20/09/2023 | Criação da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
-| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  [Esther Sena Martins](https://github.com/esmsena)  |
+| Versão | Data       | Descrição               | Autor(es)     | Revisor(es) |
+|--------|------------|-------------------------|---------------|-------------|
+| 1.0    | 29/09/2023 | Criação da documentação | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [João Victor Costa de Andrade](https://github.com/jvcostta) |

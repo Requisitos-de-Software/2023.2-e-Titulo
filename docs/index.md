@@ -26,3 +26,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 1.0 | 12/09/2023 | Criação da GitHub pages | [Mateus Orlando](https://github.com/MateusPy) | Todos
 1.1 | 15/09/2023 | Modificações no layout e Artefatos | [Mateus Orlando](https://github.com/MateusPy) | [João Costa ](https://github.com/jvcostta)
 1.2 | 19/09/2023 | Adição da Logo e do texto introdutótio | [Mateus Orlando](https://github.com/MateusPy) | [João Costa ](https://github.com/jvcostta)
+1.3 | 28/09/2023 | Alterações na parte visual da GitHub pages | [Mateus Orlando](https://github.com/MateusPy) | [João Costa ](https://github.com/jvcostta)

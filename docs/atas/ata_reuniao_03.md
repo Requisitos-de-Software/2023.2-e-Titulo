@@ -1,9 +1,9 @@
 # Ata da Reunião - 18/09/2023 - Reunião 3
 
 ## Data e Hora
-| Data          | Hora   | Local |
-|---------------|--------|-------|
-| 18/09/2023    | 21:00  | Teams |
+| Data          | Hora de início | Hora de fim | Local |
+|---------------|----------------|-------------|-------|
+|  18/09/2023   |      21:05     |    21:18    | Teams |
 
   
 ## Participantes
@@ -45,4 +45,5 @@ Fonte: NERIS, Mariiana 2023.
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
-| 1.0    | 13/09/2023 | Criação do esqueleto de ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques) |
+| 1.0    | 18/09/2023 | Criação da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques) |
+| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  [Esther Sena Martins](https://github.com/esmsena)  |

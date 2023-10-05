@@ -1,9 +1,9 @@
 # Ata da Reunião - 06/09/2023 - Reunião 1
 
 ## Data e Hora
-| Data          | Hora    | Local       |
-|---------------|---------|-------------|
-| 06/09/2023    | 20:00   | Google Meet |
+| Data          | Hora de início | Hora de fim | Local        |
+|---------------|----------------|-------------|--------------|
+|  06/09/2023   |      20:34     |    21:00    | Google Meet  |
 
   
 ## Participantes
@@ -47,3 +47,4 @@
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|-----------------------------|---------------|-------------|
 | 1.0    | 13/09/2023 | Ata da primeira reunião     |  [Esther Sena Martins](https://github.com/esmsena)   |  [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)           |
+| 1.1    | 29/09/2023 | Adição do horário de fim da ata | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  [Esther Sena Martins](https://github.com/esmsena)  |
