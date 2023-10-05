@@ -50,9 +50,12 @@ Figura 1: Priorização de requisitos utilizando a técnica First Things First.
 Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 
 ## Gravação
-Link para a gravação:
+
+Abaixo é onde se encontra a gravação da técnica.
+[tft](https://youtu.be/H8lFp5S03gk)
 
 ## Referencia
+
 > [1] WIEGER, Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em https://www.processimpact.com/articles/prioritizing.pdf. Acesso em: 02 de out 2023.
 
 > 2023.1-VLC, First Things First. 01 mai 2023. Disponível em https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/elicitacao/first_things_first.md. Acesso em: 04 de out 2023.
