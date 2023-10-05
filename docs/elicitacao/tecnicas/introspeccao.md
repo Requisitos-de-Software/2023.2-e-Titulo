@@ -13,7 +13,7 @@ O objetivo dele é descobrir os requisitos funcionais e não funcionais de forma
 
 Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. 
 
-Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbosa utilizou ... e a esther usou.....
+Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbosa utilizou o celular Mototola g(9) play e a esther usou o celular Mototola g(30), ambas as duas no sistema android.
 
 
 <p style=" text-align: justify">
@@ -563,7 +563,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 | Versão | Data       | Descrição          | Autor(es)                 | Revisor(es)                      |
 | ------ | ---------- | -------------------| --------------------------| -------------------------------- |
-| 1.0 | 26/09/2023 | Motagenm de estrutura e introdução do metodo | [Esther Sena](https://github.com/esmsena) | -- |
-| 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Maria Barbosa](https://github.com/Madu01)  | -- |
-| 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | -- |
-| 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | -- |
+| 1.0 | 26/09/2023 | Motagenm de estrutura e introdução do metodo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
+| 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
+| 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |

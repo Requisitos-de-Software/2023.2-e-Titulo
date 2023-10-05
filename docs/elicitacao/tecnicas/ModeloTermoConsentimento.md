@@ -77,4 +77,4 @@ Para questões relativas à pesquisa ou para se retirar, entre em contato via e-
 
 | Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 26/09/2023 | Criação do Termo de consentimento | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.0 | 26/09/2023 | Criação do Termo de consentimento | [Esther Sena](https://github.com/esmsena) | Maria Marques |

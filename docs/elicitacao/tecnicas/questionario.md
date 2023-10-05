@@ -16,19 +16,67 @@ A metodologia iniciou-se com a contextualização do projeto e a definição cla
 
 ## Resultados
 
-O questionário obteve XX respostas no período em que ficou disponível (entre XX/XX/XXXX) e apresentava XX perguntas, divididas em dois fluxos, a depender da resposta da pergunta da figura x : um de pessoas que nunca utilizaram o aplicativo e outro de quem já o utilizou.
+O questionário obteve 10 pessoas que responderam as questões e apresentava 5 perguntas para os que já usaram o aplicativo e-título, 3 perguntas para os que nunca usaram, ou seja, foi divididas em dois fluxos, a depender da resposta da pergunta da Imagem 1 um de pessoas que nunca utilizaram o aplicativo e outro de quem já o utilizou.
+
+as respostas dos que já utilizaram estão presentes nas imagens de 2 até 6, e as que nunca usaram é da imagem 7 até 9.
+
+Imagem 1 - print da primeira pergunta
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img1_questionario.png)
+
+Fonte: Autoria Própria, 2023.
 
 ### Pessoas que utilizaram o aplicativo
 
+Imagem 2 - print da primeira pergunta para os que usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img2_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 3 - print da segunda pergunta para os que usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img3_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 4 - print da terceira pergunta para os que usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img4_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 5 - print da quarta pergunta para os que usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img5_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 6 - print da quinta pergunta para os que usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img6_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
 ### Pessoas que nunca utilizaram o aplicativo
 
-Enunciadas nas figuras X e X, essas perguntas tinham o objetivo de entender porque os usuário optam por não utilizar o aplicativo da e-Titulo.
+Imagem 7 - print da primeira pergunta para os que não usam o aplicativo
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - Pergunta nº X do questionário.</p></font>
-<iframe style="border:3px solid red" width="648" height="401" seamless frameborder="0" scrolling="no" src=""></iframe>
-<figcaption><font size="3">Fonte: Autores</font></figcaption>
-</figure>
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img7_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 8 - print da segunda pergunta para os que não usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img8_questionario.png)
+
+Fonte: Autoria Própria, 2023.
+
+Imagem 9 - print da terceira pergunta para os que não usam o aplicativo
+
+![imagem_q1](../../../docs/assets/perguntasQuestTecnica/img9_questionario.png)
+
+Fonte: Autoria Própria, 2023.
 
 ## Análise dos resultados
 
@@ -87,7 +135,8 @@ Fonte: Autoria própria, 2023.
 
 | Versão | Data       | Descrição         | Autor(es)                                                                                     | Revisor(es)                                      |
 | ------ | ---------- | ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | --- |
-| 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
+| 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.4 | 04/09/2023 | Adicionando conteúdos no tópico e subtópicos de Resultados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
