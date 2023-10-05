@@ -45,7 +45,7 @@ Link para planilha: https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAY
 
 Figura 1: Priorização de requisitos utilizando a técnica First Things First.
 
-![Tabela first things first](docs/../elicitacao/firstTF.png)
+![Tabela first things first](docs/elicitacao/firstTF.png)
 
 Fonte: Planilhas; SIQUEIRA, Mariiana e MARQUES, Maria Eduarda 2023.
 
