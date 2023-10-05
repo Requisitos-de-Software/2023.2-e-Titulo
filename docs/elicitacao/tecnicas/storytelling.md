@@ -91,6 +91,6 @@ Fonte: Autoria própria, 2023.
 ## Histórico de versão
 | Versão |    Data    |                            Descrição                            |      Autor       |              Revisor              |
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
-| 1.0 | 26/09/2023 | Motagenm de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | -- |
-| 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | -- |
-| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | --- |
+| 1.0 | 26/09/2023 | Motagenm de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |

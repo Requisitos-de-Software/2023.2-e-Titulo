@@ -265,11 +265,11 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
 
 ## Entrevista 1:
 
-<iframe width="560" height="315" src="--------" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Plv7-4JBWgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Entrevista 2:
 
-<iframe width="560" height="315" src="------------" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/WXOG8QaRswY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Requisitos elicitados
 
@@ -326,8 +326,8 @@ Fonte: Autoria própria, 2023.
 
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
-| 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | ---------------------------------------------- |
-| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | ---- |
-| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | ---- |
-| 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | ---- |
-| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | ---- |
+| 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
