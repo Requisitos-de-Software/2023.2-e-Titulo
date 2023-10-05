@@ -1,7 +1,7 @@
 # e-Título - Grupo 4
 
 <div align="center">
-<img src="docs/elicitacao/imgs/img.logo.jpg" aly="VLC_logo" style="width: 180px">
+<img src="docs/elicitacao/imgs/img.logo.jpg" aly="VLC_logo" style="width: 280px">
 </div>
 
 ## Introdução
