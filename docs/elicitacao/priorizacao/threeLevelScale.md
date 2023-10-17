@@ -17,7 +17,7 @@ Figura 1: Técnica Three Level Scale.
 
 ![Figura1](../imgs/tls1.png)
 
-Fonte: WIEGER, Karl E. 
+Fonte: Adaptado do livro do WIEGER. 
 
 * Alta Prioridade: Os clientes precisam dele na próxima entrega.Se você puder esperar para implementar um requisito em uma entrega
 posterior sem consequências adversas, então ele não será de alta prioridade de acordo com esta definição.
