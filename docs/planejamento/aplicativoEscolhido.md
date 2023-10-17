@@ -10,9 +10,10 @@ O objetivo da escolha é usar o aplicativo e seu respectivo Rich Picture como ba
 A dinâmica consistiu em cada integrante do grupo realizar um Rich Picture inicial conforme o aplicativo que escolheram de forma individual, após terem feito, haveria uma reunião para a decisão final do aplicativo a ser utilizado no projeto. Foram apresentados 6 Rich Pictures com seu respectivo responsavel que a realizou, os quais estão presentes na Tabela 1.
 
 Tabela 1 - Aplicativos analisados com o Rich Picture.
+
 | Nome do responsável | 	Nome do aplicativo	| Rich Picture   | 
 | ------------------- | ----------------------- | -------------- |
-|     Esther Sena     |        Tembici  | [Rich Picture](https://drive.google.com/file/d/1ywR0d75_UONiOim0TLdyykJE5jqp1uLv/view?usp=sharing)  | 
+|     Esther Sena     |   Tembici  | [Rich Picture](https://drive.google.com/file/d/1ywR0d75_UONiOim0TLdyykJE5jqp1uLv/view?usp=sharing)  | 
 | João Victor | Sinesp  | [Rich Picture](https://drive.google.com/file/d/1lmO24WBUlPh35bsE2RiOaKR0xbZg2NpJ/view?usp=sharing)  |
 | Maria Eduarda Barbosa | Calculadora do cidadão  | [Rich Picture](https://drive.google.com/file/d/1IbqqSPAmK7Jb6gc5ezyy4yzSDMQY4LSc/view?usp=sharing)  | 
 | Mateus Orlando | Pessoa Física  | [Rich Picture](https://drive.google.com/file/d/1mp2tWxssYKroTqK5axV32xscFzTen045/view?usp=sharing)  |  
