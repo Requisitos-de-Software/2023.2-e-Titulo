@@ -9,11 +9,35 @@ Léxico é um modelo de requisitos e busca descrever os símbolos de uma linguag
 
 - Em cada símbolo contém um ou mais impactos.
 
-Esse modelo ajuda a identificar, a analisar, compreender e classificar os termos e palavras-chave usados na documentação de requisitos, agregando para uma comunicação mais eficaz entre as partes envolvidas no desenvolvimento de software.
+Existe também as regras por tipo os quais são: Objeto, verbo e estado. Para uma melhor explicação dessa regra observe a Tabela 1. Esse modelo ajuda a identificar, a analisar, compreender e classificar os termos e palavras-chave usados na documentação de requisitos, agregando para uma comunicação mais eficaz entre as partes envolvidas no desenvolvimento de software.
 
 ## Motivação e Objetivo
 
 ## Metodologia
+A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as por tipo para cada símbolo definido preenchendo as informações nas tabelas. Os símbolos definidos foram: 
+Usuário, Aparelho, Entrar, Visualizar documento, Visualizar local, Notificar, Ajuda, Emitir certificado, Aplicativo está aberto e Desbloqueio com biometria está ativado.
+
+A explicação da regra por tipo está explicado na tabela 1.
+
+Tabela 1 - Explicação da regra por tipo com a regra geral.
+
+| **tipo** <br> (sujeito) | **Noção** <br> (quem é o sujeito) | **Impacto** <br> (quais ações executa) |
+| -------- | --------- | ----------- |
+| VERBO |  ||
+| OBJETO |||
+| ESTADO |||
+
+Fonte: SERRANO Milene e SERRANO Maurício.
+
+
+
+### Usuário
+### Aparelho
+### Entrar
+### Visualizar documento
+### Visualizar local
+
+### Notificar
 
 Tabela 1 - exemplo
 
@@ -26,8 +50,60 @@ Tabela 1 - exemplo
 
 Fonte: Autria própria, 2023.
 
-## Bibliografia
+### Ajuda
 
+Tabela 1 - exemplo
+
+| **identificador do léxico** | **descrição** |
+| --------------------------- | ------------- |
+| Noção | |
+| Classificação | |
+| Impacto(s) | |
+| Sinônimo(s) | |
+
+Fonte: Autria própria, 2023.
+
+### Emitir certificado
+
+Tabela 1 - exemplo
+
+| **identificador do léxico** | **descrição** |
+| --------------------------- | ------------- |
+| Noção | |
+| Classificação | |
+| Impacto(s) | |
+| Sinônimo(s) | |
+
+Fonte: Autria própria, 2023.
+
+### Aplicativo está aberto
+
+Tabela 1 - exemplo
+
+| **identificador do léxico** | **descrição** |
+| --------------------------- | ------------- |
+| Noção | |
+| Classificação | |
+| Impacto(s) | |
+| Sinônimo(s) | |
+
+Fonte: Autria própria, 2023.
+
+### Desbloqueio com biometria está ativado
+
+Tabela 1 - exemplo
+
+| **identificador do léxico** | **descrição** |
+| --------------------------- | ------------- |
+| Noção | |
+| Classificação | |
+| Impacto(s) | |
+| Sinônimo(s) | |
+
+Fonte: Autria própria, 2023.
+
+
+## Bibliografia
 
 > 2022.2-MEI. GitHub. Disponível em: https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/. Acesso em: 18 de outubro de 2023.
 
