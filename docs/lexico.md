@@ -14,22 +14,38 @@ Existe também as regras por tipo os quais são: Objeto, verbo e estado. Para um
 ## Motivação e Objetivo
 
 ## Metodologia
-A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as por tipo para cada símbolo definido preenchendo as informações nas tabelas. Os símbolos definidos foram: 
+
+A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as regras por tipo para cada símbolo definido preenchendo as informações em tabelas. Os símbolos definidos foram: 
 Usuário, Aparelho, Entrar, Visualizar documento, Visualizar local, Notificar, Ajuda, Emitir certificado, Aplicativo está aberto e Desbloqueio com biometria está ativado.
 
-A explicação da regra por tipo está explicado na tabela 1.
+A explicação da regra por tipo está na tabela 1, conforme a regra geral. Para cada tabela de um símbolo seguira as informações da tabela 1.
+
+#### identificador do léxico:
+
+O identificador do léxico tem a estrutura **Lxx** no qual os x são números.
 
 Tabela 1 - Explicação da regra por tipo com a regra geral.
 
-| **tipo** <br> (sujeito) | **Noção** <br> (quem é o sujeito) | **Impacto** <br> (quais ações executa) |
+| **tipo** <br> (sujeito) | **Noção** <br> (quem é o sujeito?) | **Impacto** <br> (quais ações executa?) |
 | -------- | --------- | ----------- |
-| VERBO |  ||
-| OBJETO |||
-| ESTADO |||
+| VERBO | Quem realiza, quando acontece e quais os procedimentos | Quais os reflexos da ação no ambiente e quais os novos estados decorrentes |
+| OBJETO | Definir o objeto e identificar outros objetos com os quais se relaciona | Ações que podem ser aplicadas ao objeto |
+| ESTADO | O que significa e quais ações levaram a esse estado | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve |
 
 Fonte: SERRANO Milene e SERRANO Maurício.
 
+Tabela 2 - Modelo de tabela para os léxicos
 
+| **identificador do léxico** | **descrição** |
+| --------------------------- | ------------- |
+| Noção | São as noções do léxico conforme o tipo ( VERBO/OBJETO/ESTADO ) presente na tabela 1 |
+| Classificação | é o tipo usado no símbolo ( VERBO/OBJETO/ESTADO ) |
+| Impacto(s) | São os impactos do léxico conforme o tipo ( VERBO/OBJETO/ESTADO ) presente na tabela 1 |
+| Sinônimo(s) | são os sinônimos do símbolo |
+
+Fonte: Maria eduarda Barbosa, 2023.
+
+## Léxicos definidos
 
 ### Usuário
 ### Aparelho
@@ -39,68 +55,68 @@ Fonte: SERRANO Milene e SERRANO Maurício.
 
 ### Notificar
 
-Tabela 1 - exemplo
+Tabela 8 - exemplo
 
-| **identificador do léxico** | **descrição** |
+| **L06** | **descrição** |
 | --------------------------- | ------------- |
 | Noção | |
 | Classificação | |
 | Impacto(s) | |
 | Sinônimo(s) | |
 
-Fonte: Autria própria, 2023.
+Fonte: Maria eduarda Barbosa, 2023.
 
 ### Ajuda
 
-Tabela 1 - exemplo
+Tabela 9 - exemplo
 
-| **identificador do léxico** | **descrição** |
+| **L07** | **descrição** |
 | --------------------------- | ------------- |
 | Noção | |
 | Classificação | |
 | Impacto(s) | |
 | Sinônimo(s) | |
 
-Fonte: Autria própria, 2023.
+Fonte: Maria eduarda Barbosa, 2023.
 
 ### Emitir certificado
 
-Tabela 1 - exemplo
+Tabela 10 - exemplo
 
-| **identificador do léxico** | **descrição** |
+| **L08** | **descrição** |
 | --------------------------- | ------------- |
 | Noção | |
 | Classificação | |
 | Impacto(s) | |
 | Sinônimo(s) | |
 
-Fonte: Autria própria, 2023.
+Fonte: Maria eduarda Barbosa, 2023.
 
 ### Aplicativo está aberto
 
-Tabela 1 - exemplo
+Tabela 11 - exemplo
 
-| **identificador do léxico** | **descrição** |
+| **L09** | **descrição** |
 | --------------------------- | ------------- |
 | Noção | |
 | Classificação | |
 | Impacto(s) | |
 | Sinônimo(s) | |
 
-Fonte: Autria própria, 2023.
+Fonte: Maria eduarda Barbosa, 2023.
 
 ### Desbloqueio com biometria está ativado
 
-Tabela 1 - exemplo
+Tabela 12 - exemplo
 
-| **identificador do léxico** | **descrição** |
+| **L10** | **descrição** |
 | --------------------------- | ------------- |
 | Noção | |
 | Classificação | |
 | Impacto(s) | |
 | Sinônimo(s) | |
 
-Fonte: Autria própria, 2023.
+Fonte: Maria eduarda Barbosa, 2023.
 
 
 ## Bibliografia
@@ -123,3 +139,4 @@ Fonte: Autria própria, 2023.
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `0.1`  | 17/10/2023  |  Criação da estrutura do artefato e tabela exemplo | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.2`  | 18/10/2023  |  Criação do conteúdo do tópico introdução | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `0.3`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
