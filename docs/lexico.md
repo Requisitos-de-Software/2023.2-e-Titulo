@@ -47,73 +47,87 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 ## Léxicos definidos
 
-### Usuário
-### Aparelho
-### Entrar
-### Visualizar documento
-### Visualizar local
+### L01: Usuário
+### L02: Aparelho
+### L03: Entrar
+### L04: Visualizar documento
+### L05: Visualizar local
 
-### Notificação
+### L06: Notificação
+
+Neste léxico as funcionalidades apresentados são o aplicativo notifica o horário da votação para o usuário, o usuario visualiza a notificação e deve ser possível o usuário receber a notificação ( [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. 
 
 Tabela 8 - exemplo
 
 | **L06** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O [usuário]() recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O [usuário]() seleciona a funcionalidade []() para poder visualizar as notificações  |
+| Noção | O [usuário](#l01:-usuario) recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O [usuário](#l01:-usuario) seleciona as funcionalidades [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) para poder visualizar as notificações  |
 | Classificação | Verbo |
-| Impacto(s) | A funcionalidade [usuário]() é utilizada |
+| Impacto(s) | As funcionalidades [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) são utilizadas |
 | Sinônimo(s) | Comunicar, informar e transmitir |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
-### Ajuda
+### L07: Ajuda
+
+O sétimo léxico utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a utilidade do aplicativo ( [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. 
 
 Tabela 9 - exemplo
 
 | **L07** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O aplicativo oferece a ajuda para o [usuário]() quando o [usuário]() seleciona a funcionalidade []() ou a []() <br> A funcionalidade []() é acessada pelo [usuário]() quando a funcionalidade []() não está selecionada <br> É acessado pelo [usuário]() a funcionalidade []() e a []()  não estará selecionada |
+| Noção | O aplicativo oferece a ajuda para o [usuário](#l01:-usuario) quando o [usuário](#l01:-usuario) seleciona a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ou a [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) <br> A funcionalidade [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) é acessada pelo [usuário](#l01:-usuario) quando a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) não está selecionada <br> É acessado pelo [usuário](#l01:-usuario) a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e a [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados)  não estará selecionada |
 | Classificação | Verbo |
-| Impacto(s) | O [usuário]() visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade []() <br> O [usuário]() visualiza termo de uso presente no aplicativo quando acessar a funcionalidade []() |
+| Impacto(s) | O [usuário](#l01:-usuario) visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) <br> O [usuário](#l01:-usuario) visualiza termo de uso presente no aplicativo quando acessar a funcionalidade [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) |
 | Sinônimo(s) |  Amparo e auxílio |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
-### Emitir certificado
+### L08: Emitir certificado
+
+A funcionalidade usada nesse léxico é  vizualizar as informações da quitação eleitoral ( [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ) em que está implementado no aplicativo.
 
 Tabela 10 - exemplo
 
 | **L08** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O [usuário]() emite o cetificado quando acessa a funcionalidade []() <br> O [usuário]() vai para o menu inferior e seleciona a função []() |
+| Noção | O [usuário](#l01:-usuario) emite o cetificado quando acessa a funcionalidade [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) <br> O [usuário](#l01:-usuario) vai para o menu inferior e seleciona a função [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) |
 | Classificação | Verbo |
-| Impacto(s) | O [usuário]() visualiza o documento emitido pela função []() |
+| Impacto(s) | O [usuário](#l01:-usuario) visualiza o documento emitido pela função []() |
 | Sinônimo(s) | Enviar, lançar, quitamento e remitir |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
-### Aplicativo está aberto
+### L09: Aplicativo está aberto
+
+No léxico L09 as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ), ambos são implementados.
+
+#### Funcionalidades
+
+Para acessar todas as funcionalidades presentes podem serem acessadas na pasta de [técnicas](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main/docs/elicitacao/tecnicas).
 
 Tabela 11 - exemplo
 
 | **L09** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O aplicativo encontra-se em uso por um [usuário]() <br> Acontece quando o [usuário]() faz um login bem sucedido no aplicativo |
+| Noção | O aplicativo encontra-se em uso por um [usuário](#l01:-usuario) Acontece quando o [usuário](#l01:-usuario) faz um login bem sucedido no aplicativo |
 | Classificação | Estado |
-| Impacto(s) | Quando o [usuário]() [Entra]() no aplicativo todas as funcionalidades presentes as quais são []() podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o [usuário]() sai do aplicativo realizando a desconexão(logoff): ESTADO - Apricativo está desligado |
-| Sinônimo(s) | Acesso |
+| Impacto(s) | Quando o [usuário](#l01:-usuario) [entra](#l03:-entrar) no aplicativo por meio do [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) todas as [funcionalidades](#funcionalidades) presentes podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o [usuário](#l01:-usuario) sai do aplicativo realizando a funcionalidade [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados): ESTADO - Apricativo está desligado  e funcionalidades não disponíveis |
+| Sinônimo(s) | Acesso e desconexão |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
-### Desbloqueio com biometria está ativado
+### L10: Desbloqueio com biometria está ativado
+
+Nesse léxico a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) ).
 
 Tabela 12 - exemplo
 
 | **L10** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O desbloqueio com biometria encontra-se em uso por um [usuário]() <br> Ocorre quando o [usuário]() seleciona a opção de ativar biometria, exercendo a função []() |
+| Noção | O desbloqueio com biometria encontra-se em uso por um [usuário](#l01:-usuario) <br> Ocorre quando o [usuário](#l01:-usuario) seleciona a opção de ativar biometria, exercendo a função [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) |
 | Classificação | Estado |
-| Impacto(s) | Quando o [usuário]() desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
+| Impacto(s) | Quando o [usuário](#l01:-usuario) desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
 | Sinônimo(s) | Liberado e despertar |
 
 Fonte: Maria eduarda Barbosa, 2023.
@@ -141,3 +155,4 @@ Fonte: Maria eduarda Barbosa, 2023.
 | `0.2`  | 18/10/2023  |  Criação do conteúdo do tópico introdução | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.3`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.4`  | 18/10/2023  |  Adicionando conteúdo nas tabelas dos léxicos L06 até L10 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `0.5`  | 19/10/2023  |  Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
