@@ -16,7 +16,7 @@ Existe também as regras por tipo os quais são: Objeto, verbo e estado. Para um
 ## Metodologia
 
 A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as regras por tipo para cada símbolo definido preenchendo as informações em tabelas. Os símbolos definidos foram: 
-Usuário, Aparelho, Entrar, Visualizar documento, Visualizar local, Notificar, Ajuda, Emitir certificado, Aplicativo está aberto e Desbloqueio com biometria está ativado.
+Usuário, Aparelho, Entrar, Visualizar documento, Visualizar local, Notificação, Ajuda, Emitir certificado, Aplicativo está aberto e Desbloqueio com biometria está ativado.
 
 A explicação da regra por tipo está na tabela 1, conforme a regra geral. Para cada tabela de um símbolo seguira as informações da tabela 1.
 
@@ -53,16 +53,16 @@ Fonte: Maria eduarda Barbosa, 2023.
 ### Visualizar documento
 ### Visualizar local
 
-### Notificar
+### Notificação
 
 Tabela 8 - exemplo
 
 | **L06** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | |
-| Classificação | |
-| Impacto(s) | |
-| Sinônimo(s) | |
+| Noção | O [usuário]() recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O [usuário]() seleciona a funcionalidade []() para poder visualizar as notificações  |
+| Classificação | Verbo |
+| Impacto(s) | A funcionalidade [usuário]() é utilizada |
+| Sinônimo(s) | Comunicar, informar e transmitir |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
@@ -72,10 +72,10 @@ Tabela 9 - exemplo
 
 | **L07** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | |
-| Classificação | |
-| Impacto(s) | |
-| Sinônimo(s) | |
+| Noção | O aplicativo oferece a ajuda para o [usuário]() quando o [usuário]() seleciona a funcionalidade []() ou a []() <br> A funcionalidade []() é acessada pelo [usuário]() quando a funcionalidade []() não está selecionada <br> É acessado pelo [usuário]() a funcionalidade []() e a []()  não estará selecionada |
+| Classificação | Verbo |
+| Impacto(s) | O [usuário]() visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade []() <br> O [usuário]() visualiza termo de uso presente no aplicativo quando acessar a funcionalidade []() |
+| Sinônimo(s) |  Amparo e auxílio |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
@@ -85,10 +85,10 @@ Tabela 10 - exemplo
 
 | **L08** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | |
-| Classificação | |
-| Impacto(s) | |
-| Sinônimo(s) | |
+| Noção | O [usuário]() emite o cetificado quando acessa a funcionalidade []() <br> O [usuário]() vai para o menu inferior e seleciona a função []() |
+| Classificação | Verbo |
+| Impacto(s) | O [usuário]() visualiza o documento emitido pela função []() |
+| Sinônimo(s) | Enviar, lançar, quitamento e remitir |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
@@ -98,10 +98,10 @@ Tabela 11 - exemplo
 
 | **L09** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | |
-| Classificação | |
-| Impacto(s) | |
-| Sinônimo(s) | |
+| Noção | O aplicativo encontra-se em uso por um [usuário]() <br> Acontece quando o [usuário]() faz um login bem sucedido no aplicativo |
+| Classificação | Estado |
+| Impacto(s) | Quando o [usuário]() [Entra]() no aplicativo todas as funcionalidades presentes as quais são []() podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o [usuário]() sai do aplicativo realizando a desconexão(logoff): ESTADO - Apricativo está desligado |
+| Sinônimo(s) | Acesso |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
@@ -111,10 +111,10 @@ Tabela 12 - exemplo
 
 | **L10** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | |
-| Classificação | |
-| Impacto(s) | |
-| Sinônimo(s) | |
+| Noção | O desbloqueio com biometria encontra-se em uso por um [usuário]() <br> Ocorre quando o [usuário]() seleciona a opção de ativar biometria, exercendo a função []() |
+| Classificação | Estado |
+| Impacto(s) | Quando o [usuário]() desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
+| Sinônimo(s) | Liberado e despertar |
 
 Fonte: Maria eduarda Barbosa, 2023.
 
@@ -140,3 +140,4 @@ Fonte: Maria eduarda Barbosa, 2023.
 | `0.1`  | 17/10/2023  |  Criação da estrutura do artefato e tabela exemplo | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.2`  | 18/10/2023  |  Criação do conteúdo do tópico introdução | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.3`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `0.4`  | 18/10/2023  |  Adicionando conteúdo nas tabelas dos léxicos L06 até L10 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
