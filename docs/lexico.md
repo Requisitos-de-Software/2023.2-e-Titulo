@@ -13,6 +13,8 @@ Existe também as regras por tipo os quais são: Objeto, verbo e estado. Para um
 
 ## Motivação e Objetivo
 
+A principais motivações e objetivos que levaram a equipe a utilizar léxico é devido que p léxico é uma ferramenta crucial para promover a clareza, a precisão e a compreensão mútua em projetos de desenvolvimento de software. Ao utilizar um vocabulário padronizado e bem definido, as organizações podem melhorar a qualidade do software, reduzir riscos e garantir que o produto final atenda às expectativas dos clientes e das partes interessadas.
+
 ## Metodologia
 
 A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as regras por tipo para cada símbolo definido preenchendo as informações em tabelas. Os símbolos definidos foram: 
@@ -156,3 +158,4 @@ Fonte: Maria eduarda Barbosa, 2023.
 | `0.3`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.4`  | 18/10/2023  |  Adicionando conteúdo nas tabelas dos léxicos L06 até L10 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.5`  | 19/10/2023  |  Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `0.6` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
