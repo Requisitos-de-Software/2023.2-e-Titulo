@@ -130,7 +130,7 @@ Fonte: Maria eduarda Marques, 2023.
 
 ### L06: Notificação
 
-Neste léxico as funcionalidades apresentados são o aplicativo notifica o horário da votação para o usuário, o usuario visualiza a notificação e deve ser possível o usuário receber a notificação ( [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. 
+Neste léxico(tabela 8) as funcionalidades apresentados são o aplicativo notifica o horário da votação para o usuário, o usuario visualiza a notificação e deve ser possível o usuário receber a notificação ( [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. 
 
 Tabela 8 - exemplo
 
@@ -145,7 +145,7 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 ### L07: Ajuda
 
-O sétimo léxico utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a utilidade do aplicativo ( [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. 
+O sétimo léxico(tabela 9) utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a utilidade do aplicativo ( [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. 
 
 Tabela 9 - exemplo
 
@@ -160,7 +160,7 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 ### L08: Emitir certificado
 
-A funcionalidade usada nesse léxico é  vizualizar as informações da quitação eleitoral ( [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ) em que está implementado no aplicativo.
+A funcionalidade usada nesse léxico(tabela 10) é  vizualizar as informações da quitação eleitoral ( [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ) em que está implementado no aplicativo.
 
 Tabela 10 - exemplo
 
@@ -175,7 +175,7 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 ### L09: Aplicativo está aberto
 
-No léxico L09 as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ), ambos são implementados.
+No léxico L09(tabela 11) as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ), ambos são implementados.
 
 #### Funcionalidades
 
@@ -194,7 +194,7 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 ### L10: Desbloqueio com biometria está ativado
 
-Nesse léxico a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) ).
+Nesse léxico(tabela 12) a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) ).
 
 Tabela 12 - exemplo
 
@@ -216,11 +216,6 @@ Fonte: Maria eduarda Barbosa, 2023.
 
 > SERRANO M.; SERRANO M. Requisitos - Aula 10. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 18 de outubro de 2023.
 
-## Referencia
-
-> Referencia_1
-
-> Referencia_2
 
 ## Histórico de Versões
 
@@ -233,5 +228,6 @@ Fonte: Maria eduarda Barbosa, 2023.
 | `0.5`  | 19/10/2023  |  Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `0.6` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `0.7` | 20/10/2023  |  Adicionando léxico L01 à L05 | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
+| `0.8` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 
 
