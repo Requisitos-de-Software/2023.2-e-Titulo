@@ -50,123 +50,115 @@ O acrônimo FURPS+ representa categorias que são aplicáveis na especificação
 
 # 3. Funcionalidade:
 
-Os requisitos funcionais estão definidos por meio dos Casos de uso, listados na Tabela 1.
+Os requisitos funcionais estão definidos por meio dos Casos de uso.
 
 # 4. Usabilidade:
 
-Aborda a facilidade de uso do sistema, incluindo interface do usuário e experiência do usuário litados na Tabela 3.
+Aborda a facilidade de uso do sistema, incluindo interface do usuário e experiência do usuário litados na Tabela 1.
 
-**Legenda da Tabela 3:**
+**Legenda da Tabela 1:**
 
 - Identificador: USABxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-**Tabela 3 - requisitos de usabilidade**
+**Tabela 1 - requisitos de usabilidade**
 
 | ID         | Descrição                                                                               |
 |------------|-----------------------------------------------------------------------------------------|
-|  `USAB01`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.       | 
+|  `USAB01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    | 
 |  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.        |
 |  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.                  |
 |  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.                             |
 |  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. |
-|  `USAB06`  |                     |
-|  `USAB07`  |            |
-|  `USAB08`  |                            |
-|  `USAB09`  |                  |
+|  `USAB06`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |
 
 
-**Fonte:** NERIS, Mariiana 2023.
+**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
 # 5. Confiabilidade:
 
-Explora a capacidade do sistema em ser confiável, estável e resistente a falhas, listados na Tabela 4.
+Explora a capacidade do sistema em ser confiável, estável e resistente a falhas, listados na Tabela 2.
 
-**Legenda da Tabela 4:**
+**Legenda da Tabela 2:**
 
 - Identificador: CONFxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-**Tabela 4 - requisitos de confiabilidade**
+**Tabela 2 - requisitos de confiabilidade**
 
 | ID         | Descrição   |
 |------------|----------|
-|  `CONF01`  | Garantir 99% de disponibilidade, mesmo durante períodos eleitorais, evitando interrupções não programadas. |
+|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, pricipalmente durante períodos eleitorais, evitando interrupções não programadas. |
 |  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+|  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|
 
-**Fonte:** NERIS, Mariiana 2023.
+**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
 # 6. Desempenho:
 
-Define os requisitos de desempenho esperados do sistema, como velocidade, eficiência e capacidade listados na Tabela 5.
+Define os requisitos de desempenho esperados do sistema, como velocidade, eficiência e capacidade listados na Tabela 3.
 
-**Legenda da Tabela 5:**
+**Legenda da Tabela 3:**
 
 - Identificador: DESxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-**Tabela 5 - requisitos de desempenho** 
+**Tabela 3 - requisitos de desempenho** 
 
 | ID        | Descrição                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------|
-|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil.                      |
-|  `DES02`  | Capacidade de escalar horizontalmente para lidar com picos de demanda durante eventos eleitorais. |
+|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+|  `DES02`  | O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.  |
 
-**Fonte:** NERIS, Mariiana 2023.
+**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
 # 7. Suportabilidade:
 
-Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do tempo, além de suporte ao usuário listados na Tabela 6.
+Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do tempo, além de suporte ao usuário listados na Tabela 4.
 
-**Legenda da Tabela 6:**
+**Legenda da Tabela 4:**
 
 - Identificador: SUPxx
 - Descrição: Informa qual o requisito em específico foi elicitado.
 
-**Tabela 6 - requisitos de suportabilidade**
+**Tabela 4 - requisitos de suportabilidade**
 
 | ID        | Descrição                    |
 |-----------|------------------------------|
-|  `SUP01`  | Oferecer suporte a pelo menos três idiomas principais para garantir uma experiência inclusiva.|
-|  `SUP02`  | Compatibilidade com dispositivos Android e iOS para atingir uma ampla base de usuários.|
+|  `SUP01`  | O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.|
+|  `SUP02`  | O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.|
+|  `SUP03`  | O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.|
+|  `SUP03`  | O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.|
+|  `SUP03`  | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.|
 
-**Fonte:** NERIS, Mariiana 2023.
+**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
-# 8. Interfaces:
+# 8. Restrições de Design :
 
-Refere-se à interação entre o usuário e o aplicativo, incluindo design intuitivo, navegação coerente e feedback claro para garantir uma experiência de usuário eficiente e agradável.
-
-**Legenda da Tabela 6:**
-
-- Identificador: INTERxx
-- Descrição: Informa qual o requisito em específico foi elicitado.
-
-**Tabela 6 - requisitos de interfaces**
-
-| ID        | Descrição                    |
-|-----------|------------------------------|
-|  `INTER01`  | A interface do usuário deve ser intuitiva e fácil de usar, garantindo que os usuários possam navegar pelo aplicativo sem dificuldades.|
-
+O aplicativo "e-Título", desenvolvido pelo Tribunal Superior Eleitoral (TSE) do Brasil, está sujeito a várias restrições de design para garantir sua usabilidade, acessibilidade, segurança e conformidade com padrões governamentais. Essas restrições incluem a necessidade de design responsivo, acessibilidade para pessoas com deficiências, proteção de dados e segurança robusta, conteúdo oficial e atualizado, além de integração com sistemas oficiais e identidade visual governamental. O aplicativo também deve priorizar a privacidade dos dados, fornecer suporte técnico eficaz, notificações responsáveis e proteção contra fraudes. Essas medidas são essenciais para garantir a confiabilidade e a integridade das informações eleitorais e a segurança dos eleitores.
 
 # 9. Requisitos de Licenciamento:
 
-Esclarece os requisitos relacionados a licenças de software, propriedade intelectual ou outros acordos legais.
+O sistema deve restringir o uso através de termos de uso.
 
 # 10. Requisitos Físicos:
 
-Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo será executado, garantindo que seja otimizado para diferentes plataformas, como smartphones Android e iOS, e que atenda a requisitos mínimos de hardware para funcionar de maneira eficaz.
+Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo será executado, garantindo que seja otimizado para diferentes plataformas, como smartphones Android e iOS, e que atenda a requisitos mínimos de hardware para funcionar de maneira eficaz, mostrados na Tabela 5.
 
-**Legenda da Tabela 6:**
+**Legenda da Tabela 5:**
 
 - Identificador: FISxx
 - Descrição: Informa qual o requisito em específico foi elicitado.
 
-**Tabela 6 - requisitos fśicos**
+**Tabela 5 - requisitos físicos**
 
 | ID        | Descrição                    |
 |-----------|------------------------------|
 |  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |
+|  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |
+|  `FIS01`  | O software necessário para acompatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |
 
+**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
 ## Referências Bibliográficas
 
@@ -177,5 +169,5 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 
 | Versão | Data       | Descrição        | Autor(es)      | Revisor(es)    |
 | ------ | ---------- | -----------------| -------------- | -------------- |
-| `1.0`    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho e Suportabilidade | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Restrições de Design, Requisitos de Licenciamento e Requisitos Físicos | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
