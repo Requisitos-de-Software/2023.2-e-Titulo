@@ -1,5 +1,9 @@
 # 1. Introdução:
 
+| Aplicativo    | Versão do Aplicativo |  Documento                | Data       |
+|---------------|----------------------|---------------------------|------------|
+|  e-Título     |         2.6.2        | Especificação Suplementar | 23/10/2023 |
+
 ## 1.1 Finalidade:
 O presente documento tem como objetivo fornecer uma estrutura abrangente para o desenvolvimento e utilização do aplicativo "e-título", visando facilitar o acesso e a gestão de informações relacionadas à participação cidadã em processos eleitorais.
 
@@ -17,10 +21,6 @@ As informações contidas neste documento baseiam-se nas diretrizes fornecidas p
 
 ## 1.5 Visão Geral:
 O "e-título" surge como uma solução inovadora para modernizar e simplificar a participação eleitoral, oferecendo aos cidadãos uma plataforma intuitiva e segura para acessar informações relevantes, como local de votação, situação cadastral e documentos eleitorais. Esta visão geral delineia os principais elementos do aplicativo, destacando seu papel na promoção da cidadania digital e na facilitação do exercício do voto.
-
-| Aplicativo    | Versão do Aplicativo |  Documento                | Data       |
-|---------------|----------------------|---------------------------|------------|
-|  e-Título     |         2.6.2        | Especificação Suplementar | 23/10/2023 |
 
 # 2. Metodologia:
 
@@ -52,27 +52,33 @@ O acrônimo FURPS+ representa categorias que são aplicáveis na especificação
 
 Os requisitos funcionais estão definidos por meio dos Casos de uso, listados na Tabela 1.
 
-
 # 4. Usabilidade:
 
 Aborda a facilidade de uso do sistema, incluindo interface do usuário e experiência do usuário litados na Tabela 3.
 
 **Legenda da Tabela 3:**
 
-- Identificador: Usab0x
+- Identificador: USABxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-<font size="3"><p style="text-align: center">**Tabela 3 - requisitos de usabilidade** </p></font>
+**Tabela 3 - requisitos de usabilidade**
 
-<center>
+| ID         | Descrição                                                                               |
+|------------|-----------------------------------------------------------------------------------------|
+|  `USAB01`  | No aplicativo o usuário deve realizar seu cadastro.                                     | 
+|  `USAB02`  | No aplicativo o usuário deve emitir título de eleitor.                                  |
+|  `USAB03`  | No aplicativo o usuário deve acessar QR Code para leitura do título.                    |
+|  `USAB04`  | No aplicativo o usuário deve visualizar o local de votação.                             |
+|  `USAB05`  | No aplicativo o usuário deve receber notificação.                                       |
+|  `USAB06`  | No aplicativo o usuário deve ter a opção de sair do aplicativo.                         |
+|  `USAB07`  | No aplicativo o usuário deve conseguir fazer alterações em seu cadastro.                |
+|  `USAB08`  | No aplicativo o usuário deve realizar quitação eleitoral.                               |
+|  `USAB09`  | No aplicativo o usuário deve informar a justificativa no aplicativo.                    |
+|  `USAB10`  | No aplicativo o usuário deve conseguir alterar foto do título.                          |
+|  `USAB11`  | No aplicativo o usuário deve acompanhar a apuração de votos.                            |
+|  `USAB12`  | No aplicativo o usuário deve visualizar o candidato eleito referente ao ano da votação. |
 
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
+**Fonte:** NERIS, Mariiana 2023.
 
 # 5. Confiabilidade:
 
@@ -80,20 +86,20 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 
 **Legenda da Tabela 4:**
 
-- Identificador: Conf0X
+- Identificador: CONFxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-<font size="3"><p style="text-align: center">**Tabela 4 - requisitos de confiabilidade** </p></font>
+**Tabela 4 - requisitos de confiabilidade**
 
-<center>
+| ID         | Descrição   |
+|------------|----------|
+|  `CONF01`  | No aplicativo o usuário deve realizar o login por senha ou biometria para acessá-lo, com a condição de já ter se cadastrado |
+|  `CONF02`  | No aplicativo o usuário deve realizar a recuperação da senha. |
+|  `CONF03`  | No aplicativo o usuário deve ter 16 anos ou mais para acessá-lo, por ser apto a votar. |
+|  `CONF04`  | No aplicativo o usuário deve visualizar a autenticidade de seus documentos. |
+|  `CONF05`  | No aplicativo o usuário deve ter segurança, com a proteção nos dados, utilizando etapas de segurança. | 
 
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
+**Fonte:** NERIS, Mariiana 2023.
 
 # 6. Desempenho:
 
@@ -101,42 +107,38 @@ Define os requisitos de desempenho esperados do sistema, como velocidade, efici�
 
 **Legenda da Tabela 5:**
 
-- Identificador: Des0X
+- Identificador: DESxx
 - Descrição: Informa qual o requisito em específico foi elicitado
 
-<font size="3"><p style="text-align: center">**Tabela 5 - requisitos de desempenho** </p></font>
+**Tabela 5 - requisitos de desempenho** 
 
-<center>
+| ID        | Descrição                                                                                   |
+|-----------|---------------------------------------------------------------------------------------------|
+|  `DES01`  | O aplicativo, para ser utilizado precisa ter acesso a internet.                             |
+|  `DES02`  | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados. |
 
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
+**Fonte:** NERIS, Mariiana 2023.
 
 # 7. Suportabilidade:
 
-Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do tempo listados na Tabela 6.
+Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do tempo, além de suporte ao usuário listados na Tabela 6.
 
 **Legenda da Tabela 6:**
 
-- Identificador: Sup0X
+- Identificador: SUPxx
 - Descrição: Informa qual o requisito em específico foi elicitado.
 
-<font size="3"><p style="text-align: center">**Tabela 6 - requisitos de suportabilidade** </p></font>
+**Tabela 6 - requisitos de suportabilidade**
 
-<center>
+| ID        | Descrição                    |
+|-----------|------------------------------|
+|  `SUP01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
+|  `SUP02`  | O aplicativo deve ter as dúvidas frequentes para o usuário acessar.|
+|  `SUP03`  | O aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos em sua navegação, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele. |
+|  `SUP04`  | O aplicativo deve oferecer suporte ao usuário. |
+|  `SUP05`  | O aplicativo deve notificar o horário da votação para o usuário. |
 
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
-
+**Fonte:** NERIS, Mariiana 2023.
 
 # 8. Interfaces:
 
@@ -156,7 +158,7 @@ Detalha os requisitos para comunicação entre diferentes partes do sistema.
 
 Esclarece os requisitos relacionados a licenças de software, propriedade intelectual ou outros acordos legais.
 
-# 11. Físico:
+# 10. Requisitos Físicos:
 
 ## Referências Bibliográficas
 
@@ -166,6 +168,7 @@ Esclarece os requisitos relacionados a licenças de software, propriedade intele
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 26/09/2023 | Motagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) |  |
+| Versão | Data       | Descrição        | Autor(es)      | Revisor(es)    |
+| ------ | ---------- | -----------------| -------------- | -------------- |
+| 1.0    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| 1.1    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho e Suportabilidade | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
