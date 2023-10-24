@@ -52,71 +52,6 @@ O acrônimo FURPS+ representa categorias que são aplicáveis na especificação
 
 Os requisitos funcionais estão definidos por meio dos Casos de uso, listados na Tabela 1.
 
-<details>
-   <summary>Tabela 1 - requisitos funcionais </summary>
-
-   **Legenda da Tabela 1:**
-
-- RFx: Requisito Funcional nºx
-- BSx: Requisito funcionais nºx elicitado pelo Brainstorming
-- Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
-
-<center>
-
-| <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS1                                            |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
-| BS2                                            |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
-| BS3                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |     Sim     |
-| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |   Sim       |
-| BS5                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |     Sim     | 
-| BS6                                            | No aplicativo deve possível o usuário receber notificações        | RF6    |    Sim      |
-| BS7                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |    Sim      |
-| BS8                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |    Sim      | 
-| BS9                                            | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |      Sim    | 
-| BS10                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |    Sim      |
-| BS11                                           | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |   Sim       | 
-| BS12                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |    Sim      | 
-| BS13                                           | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
-
-
-
-</center>
-
-   <div style="text-align: center">
-      <p> Tabela 1: Requisitos funcionais (Fonte: Autor, 2023).</p>
-   </div>
-</details>
-
-## 3.1 Requisitos não Funcionais:
-Os requisitos não funcionais estabelece critérios que não estão relacionados diretamente às funções do sistema, como desempenho, confiabilidade e segurança, listaods na tebela 2.
-
-<details>
-   <summary>Tabela 2 - requisitos naõ funcionais </summary>
-  
-**Legenda da Tabela 2:**
-
-- RNFx: Requisito Não-Funcional nºx
-- BSNx: Requisito não funcionais nºx elicitado pelo Brainstorming
-- Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
-  
-<center>
-
-| <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
-| ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
-| BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |     Sim     |
-| BSNF2                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários | RNF2   |   Não       |
-| BSNF3                                          |  O aplicativo deve ser confiável para o usuário | RNF3   |    Sim      |
-| BSNF4                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |      Sim    |
-| BSNF5                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |     Sim     |
-
-
-</center>
-
-   <div style="text-align: center">
-      <p> Tabela 9: Requisitos não funcionais (Fonte: Autor, 2023).</p>
-   </div>
-</details>
 
 # 4. Usabilidade:
 
@@ -202,94 +137,26 @@ Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do t
 
 <font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
 
-# 8. Restrições de Design:
 
-Estabelece limitações ou restrições específicas listados na Tabela 7, que devem ser consideradas durante o design do sistema.
+# 8. Interfaces:
 
-**Legenda da Tabela 7:**
-
-- Identificador: RD0X
-- Descrição: Informa qual o requisito em específico foi elicitado.
-
-<font size="3"><p style="text-align: center">**Tabela 7 - requisitos de restrições de design** </p></font>
-
-<center>
-
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
-
-# 9. Requisitos de Sistema de Ajuda e de Documentação de Usuário On-line:
-
-Especifica os requisitos para a documentação do usuário e sistemas de ajuda online listados na Tabela 8.
-
-**Legenda da Tabela 8:**
-
-- Identificador: SADU0X
-- Descrição: Informa qual o requisito em específico foi elicitado.
-
-<font size="3"><p style="text-align: center">**Tabela 8 - requisitos de sistema de ajuda e de documentação de usuário on-line** </p></font>
-
-<center>
-
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
-
-# 10. Componentes Adquiridos:
-
-Identifica os componentes que serão adquiridos de fontes externas em vez de serem desenvolvidos internamente como listados na Tabela 9.
-
-**Legenda da Tabela 9:**
-
-- Identificador: CA0X
-- Descrição: Informa qual o requisito em específico foi elicitado.
-
-<font size="3"><p style="text-align: center">**Tabela 9 - requisitos de componentes adquiridos:** </p></font>
-
-<center>
-
-| Identificador | Descrição   |
-| :----: | :--------: |
-|  `ES01`  | O usuário deve se cadastrar. |
-
-</center>
-
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
-
-# 11. Interfaces:
-
-## 11.1 Interfaces do Usuário:
+## 8.1 Interfaces do Usuário:
 Descreve como os usuários interagem com o sistema.
 
-## 11.2 Interfaces de Hardware:
+## 8.2 Interfaces de Hardware:
 Especifica como o sistema interage com hardware externo.
 
-## 11.3 Interfaces de Software:
+## 8.3 Interfaces de Software:
 Define como o sistema se integra a outros softwares.
 
-## 11.4 Interfaces de Comunicação:
+## 8.4 Interfaces de Comunicação:
 Detalha os requisitos para comunicação entre diferentes partes do sistema.
 
-# 12. Requisitos de Licenciamento:
+# 9. Requisitos de Licenciamento:
 
 Esclarece os requisitos relacionados a licenças de software, propriedade intelectual ou outros acordos legais.
 
-# 13. Observações Legais, de Copyright e Outras:
-
-Inclui informações legais relevantes para o uso, distribuição e propriedade do sistema.
-
-# 14. Padrões Aplicáveis:
-
-Especifica os padrões relevantes que devem ser seguidos durante o desenvolvimento e implementação do sistema.
+# 11. Físico:
 
 ## Referências Bibliográficas
 
