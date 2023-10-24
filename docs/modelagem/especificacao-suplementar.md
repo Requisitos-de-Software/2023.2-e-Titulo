@@ -18,6 +18,10 @@ As informações contidas neste documento baseiam-se nas diretrizes fornecidas p
 ## 1.5 Visão Geral:
 O "e-título" surge como uma solução inovadora para modernizar e simplificar a participação eleitoral, oferecendo aos cidadãos uma plataforma intuitiva e segura para acessar informações relevantes, como local de votação, situação cadastral e documentos eleitorais. Esta visão geral delineia os principais elementos do aplicativo, destacando seu papel na promoção da cidadania digital e na facilitação do exercício do voto.
 
+| Aplicativo    | Versão do Aplicativo |  Documento                | Data       |
+|---------------|----------------------|---------------------------|------------|
+|  e-Título     |         2.6.2        | Especificação Suplementar | 23/10/2023 |
+
 # 2. Metodologia:
 
 A definição dos requisitos foi elaborada com base no modelo FURPS+, que se relaciona a um sistema para a categorização de requisitos (*QualidadeBR, 2008*).
