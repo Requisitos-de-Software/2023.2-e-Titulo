@@ -65,18 +65,16 @@ Aborda a facilidade de uso do sistema, incluindo interface do usuário e experi�
 
 | ID         | Descrição                                                                               |
 |------------|-----------------------------------------------------------------------------------------|
-|  `USAB01`  | No aplicativo o usuário deve realizar seu cadastro.                                     | 
-|  `USAB02`  | No aplicativo o usuário deve emitir título de eleitor.                                  |
-|  `USAB03`  | No aplicativo o usuário deve acessar QR Code para leitura do título.                    |
-|  `USAB04`  | No aplicativo o usuário deve visualizar o local de votação.                             |
-|  `USAB05`  | No aplicativo o usuário deve receber notificação.                                       |
-|  `USAB06`  | No aplicativo o usuário deve ter a opção de sair do aplicativo.                         |
-|  `USAB07`  | No aplicativo o usuário deve conseguir fazer alterações em seu cadastro.                |
-|  `USAB08`  | No aplicativo o usuário deve realizar quitação eleitoral.                               |
-|  `USAB09`  | No aplicativo o usuário deve informar a justificativa no aplicativo.                    |
-|  `USAB10`  | No aplicativo o usuário deve conseguir alterar foto do título.                          |
-|  `USAB11`  | No aplicativo o usuário deve acompanhar a apuração de votos.                            |
-|  `USAB12`  | No aplicativo o usuário deve visualizar o candidato eleito referente ao ano da votação. |
+|  `USAB01`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.       | 
+|  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.        |
+|  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.                  |
+|  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.                             |
+|  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. |
+|  `USAB06`  |                     |
+|  `USAB07`  |            |
+|  `USAB08`  |                            |
+|  `USAB09`  |                  |
+
 
 **Fonte:** NERIS, Mariiana 2023.
 
@@ -93,11 +91,8 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 
 | ID         | Descrição   |
 |------------|----------|
-|  `CONF01`  | No aplicativo o usuário deve realizar o login por senha ou biometria para acessá-lo, com a condição de já ter se cadastrado |
-|  `CONF02`  | No aplicativo o usuário deve realizar a recuperação da senha. |
-|  `CONF03`  | No aplicativo o usuário deve ter 16 anos ou mais para acessá-lo, por ser apto a votar. |
-|  `CONF04`  | No aplicativo o usuário deve visualizar a autenticidade de seus documentos. |
-|  `CONF05`  | No aplicativo o usuário deve ter segurança, com a proteção nos dados, utilizando etapas de segurança. | 
+|  `CONF01`  | Garantir 99% de disponibilidade, mesmo durante períodos eleitorais, evitando interrupções não programadas. |
+|  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
 
 **Fonte:** NERIS, Mariiana 2023.
 
@@ -114,8 +109,8 @@ Define os requisitos de desempenho esperados do sistema, como velocidade, efici�
 
 | ID        | Descrição                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------|
-|  `DES01`  | O aplicativo para ser utilizado precisa ter acesso a internet.                             |
-|  `DES02`  | O aplicativo para ser utilizado deve possuir um design intuitivo com elementos como botão e menu padronizados. |
+|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil.                      |
+|  `DES02`  | Capacidade de escalar horizontalmente para lidar com picos de demanda durante eventos eleitorais. |
 
 **Fonte:** NERIS, Mariiana 2023.
 
@@ -132,27 +127,26 @@ Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do t
 
 | ID        | Descrição                    |
 |-----------|------------------------------|
-|  `SUP01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
-|  `SUP02`  | O aplicativo deve ter as dúvidas frequentes para o usuário acessar.|
-|  `SUP03`  | O aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos em sua navegação, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele. |
-|  `SUP04`  | O aplicativo deve oferecer suporte ao usuário. |
-|  `SUP05`  | O aplicativo deve notificar o horário da votação para o usuário. |
+|  `SUP01`  | Oferecer suporte a pelo menos três idiomas principais para garantir uma experiência inclusiva.|
+|  `SUP02`  | Compatibilidade com dispositivos Android e iOS para atingir uma ampla base de usuários.|
 
 **Fonte:** NERIS, Mariiana 2023.
 
 # 8. Interfaces:
 
-## 8.1 Interfaces do Usuário:
-Descreve como os usuários interagem com o sistema.
+Refere-se à interação entre o usuário e o aplicativo, incluindo design intuitivo, navegação coerente e feedback claro para garantir uma experiência de usuário eficiente e agradável.
 
-## 8.2 Interfaces de Hardware:
-Especifica como o sistema interage com hardware externo.
+**Legenda da Tabela 6:**
 
-## 8.3 Interfaces de Software:
-Define como o sistema se integra a outros softwares.
+- Identificador: INTERxx
+- Descrição: Informa qual o requisito em específico foi elicitado.
 
-## 8.4 Interfaces de Comunicação:
-Detalha os requisitos para comunicação entre diferentes partes do sistema.
+**Tabela 6 - requisitos de interfaces**
+
+| ID        | Descrição                    |
+|-----------|------------------------------|
+|  `INTER01`  | A interface do usuário deve ser intuitiva e fácil de usar, garantindo que os usuários possam navegar pelo aplicativo sem dificuldades.|
+
 
 # 9. Requisitos de Licenciamento:
 
@@ -160,10 +154,23 @@ Esclarece os requisitos relacionados a licenças de software, propriedade intele
 
 # 10. Requisitos Físicos:
 
+Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo será executado, garantindo que seja otimizado para diferentes plataformas, como smartphones Android e iOS, e que atenda a requisitos mínimos de hardware para funcionar de maneira eficaz.
+
+**Legenda da Tabela 6:**
+
+- Identificador: FISxx
+- Descrição: Informa qual o requisito em específico foi elicitado.
+
+**Tabela 6 - requisitos fśicos**
+
+| ID        | Descrição                    |
+|-----------|------------------------------|
+|  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |
+
+
 ## Referências Bibliográficas
 
-
-## Bibliografia
+> FURPS+. Disponivél em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 23 de outubro de 2023.
 
 
 ## Histórico de Versões
