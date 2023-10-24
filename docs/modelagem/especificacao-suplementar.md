@@ -114,8 +114,8 @@ Define os requisitos de desempenho esperados do sistema, como velocidade, efici�
 
 | ID        | Descrição                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------|
-|  `DES01`  | O aplicativo, para ser utilizado precisa ter acesso a internet.                             |
-|  `DES02`  | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados. |
+|  `DES01`  | O aplicativo para ser utilizado precisa ter acesso a internet.                             |
+|  `DES02`  | O aplicativo para ser utilizado deve possuir um design intuitivo com elementos como botão e menu padronizados. |
 
 **Fonte:** NERIS, Mariiana 2023.
 
@@ -170,5 +170,5 @@ Esclarece os requisitos relacionados a licenças de software, propriedade intele
 
 | Versão | Data       | Descrição        | Autor(es)      | Revisor(es)    |
 | ------ | ---------- | -----------------| -------------- | -------------- |
-| 1.0    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
-| 1.1    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho e Suportabilidade | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho e Suportabilidade | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
