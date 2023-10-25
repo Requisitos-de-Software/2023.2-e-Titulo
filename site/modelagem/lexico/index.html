@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://requisitos-de-software.github.io/2023.2-Grupo04/atas/esqueleto_de_ata/">
+        <link rel="canonical" href="https://requisitos-de-software.github.io/2023.2-Grupo04/modelagem/lexico/">
       
       
       
@@ -18,7 +18,7 @@
     
     
       
-        <title>Ata da Reunião - e-Título</title>
+        <title>Léxico - e-Título</title>
       
     
     
@@ -73,7 +73,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#ata-da-reuniao" class="md-skip">
+        <a href="#lexico" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -106,7 +106,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Ata da Reunião
+              Léxico
             
           </span>
         </div>
@@ -248,7 +248,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../ata_reuniao_01/" class="md-tabs__link">
+        <a href="../../atas/ata_reuniao_01/" class="md-tabs__link">
           
   
   Atas
@@ -329,7 +329,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../modelagem/casosdeuso/" class="md-tabs__link">
+        <a href="../casosdeuso/" class="md-tabs__link">
           
   
   Modelagem
@@ -464,7 +464,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_01/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_01/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -484,7 +484,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_02/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_02/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -504,7 +504,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_03/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_03/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -524,7 +524,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_04/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_04/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -544,7 +544,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_05/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_05/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -564,7 +564,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../ata_reuniao_06/" class="md-nav__link">
+      <a href="../../atas/ata_reuniao_06/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1252,7 +1252,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../modelagem/casosdeuso/" class="md-nav__link">
+      <a href="../casosdeuso/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1272,7 +1272,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../modelagem/especificacao-suplementar/" class="md-nav__link">
+      <a href="../especificacao-suplementar/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1292,7 +1292,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../modelagem/Cenarios/" class="md-nav__link">
+      <a href="../Cenarios/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1312,7 +1312,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../modelagem/lexico" class="md-nav__link">
+      <a href="." class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1351,85 +1351,397 @@
   
 
 
-<h1 id="ata-da-reuniao">Ata da Reunião</h1>
-<h2 id="data-e-hora">Data e Hora</h2>
+<h1 id="lexico">Léxico</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Léxico é um modelo de requisitos e busca descrever os símbolos de uma linguagem em que cada símbolo é representado por noção(denotação) e impacto(Conotação). Um símbolo é uma palavra ou uma frase. A noção é sobre o que significa o símbolo e o impacto é sobre o efeito do símbolo no sistema ou da consequência de alguma coisa no sistema sobre o símbolo. As regras gerais deste modelo são: </p>
+<ul>
+<li>
+<p>Para cada símbolo é contido zero ou mais sinônimos.</p>
+</li>
+<li>
+<p>Para cada símbolo tem uma ou mais noções. </p>
+</li>
+<li>
+<p>Em cada símbolo contém um ou mais impactos.</p>
+</li>
+</ul>
+<p>Existe também as regras por tipo os quais são: Objeto, verbo e estado. Para uma melhor explicação dessa regra observe a Tabela 1. Esse modelo ajuda a identificar, a analisar, compreender e classificar os termos e palavras-chave usados na documentação de requisitos, agregando para uma comunicação mais eficaz entre as partes envolvidas no desenvolvimento de software.</p>
+<h2 id="motivacao-e-objetivo">Motivação e Objetivo</h2>
+<p>A principais motivações e objetivos que levaram a equipe a utilizar léxico é devido que p léxico é uma ferramenta crucial para promover a clareza, a precisão e a compreensão mútua em projetos de desenvolvimento de software. Ao utilizar um vocabulário padronizado e bem definido, as organizações podem melhorar a qualidade do software, reduzir riscos e garantir que o produto final atenda às expectativas dos clientes e das partes interessadas.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A metodologia consiste primeiro em definir quais são os símbolos, em seguida seguir as regras gerais e as regras por tipo para cada símbolo definido preenchendo as informações em tabelas. Os símbolos definidos foram: 
+Usuário, Aparelho, Entrar, Visualizar documento, Visualizar local, Notificação, Ajuda, Emitir certificado, Aplicativo está aberto e Desbloqueio com biometria está ativado.</p>
+<p>A explicação da regra por tipo está na tabela 1, conforme a regra geral. Para cada tabela de um símbolo seguira as informações da tabela 1.</p>
+<h4 id="identificador-do-lexico">identificador do léxico:</h4>
+<p>O identificador do léxico tem a estrutura <strong>Lxx</strong> no qual os x são números.</p>
+<p>Tabela 1 - Explicação da regra por tipo com a regra geral.</p>
 <table>
 <thead>
 <tr>
-<th>Data</th>
-<th>Hora de início</th>
-<th>Hora de fim</th>
-<th>Local</th>
+<th><strong>tipo</strong> <br> (sujeito)</th>
+<th><strong>Noção</strong> <br> (quem é o sujeito?)</th>
+<th><strong>Impacto</strong> <br> (quais ações executa?)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>xx/xx/2023</td>
-<td>xx:xx</td>
-<td>xx:xx</td>
-<td>Local</td>
+<td>VERBO</td>
+<td>Quem realiza, quando acontece e quais os procedimentos</td>
+<td>Quais os reflexos da ação no ambiente e quais os novos estados decorrentes</td>
+</tr>
+<tr>
+<td>OBJETO</td>
+<td>Definir o objeto e identificar outros objetos com os quais se relaciona</td>
+<td>Ações que podem ser aplicadas ao objeto</td>
+</tr>
+<tr>
+<td>ESTADO</td>
+<td>O que significa e quais ações levaram a esse estado</td>
+<td>Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve</td>
 </tr>
 </tbody>
 </table>
-<h2 id="participantes">Participantes</h2>
-<ul>
-<li><a href="https://github.com/esmsena">Esther Sena Martins</a></li>
-<li><a href="https://github.com/jvcostta">João Victor Costa de Andrade</a></li>
-<li><a href="https://github.com/Madu01">Maria Eduarda Barbosa Santos</a></li>
-<li><a href="https://github.com/EduardaSMarques">Maria Eduarda dos Santos Marques </a></li>
-<li><a href="https://github.com/Maryyscreuza">Mariiana Siqueira Neris</a></li>
-<li><a href="https://github.com/MateusPy">Mateus Orlando Medeiros Ribeiro</a></li>
-</ul>
-<h2 id="topicos-discutidos">Tópicos Discutidos</h2>
-<ul>
-<li>Tópico 1</li>
-<li>Detalhes do tópico 1</li>
-<li>Tópico 2</li>
-<li>Detalhes do tópico 2</li>
-</ul>
-<h2 id="decisoes-tomadas">Decisões Tomadas</h2>
-<ul>
-<li>Decisão 1</li>
-<li>Detalhes da decisão 1</li>
-<li>Decisão 2</li>
-<li>Detalhes da decisão 2</li>
-</ul>
-<h2 id="acoes-pendentes">Ações Pendentes</h2>
+<p>Fonte: SERRANO Milene e SERRANO Maurício.</p>
+<p>Tabela 2 - Modelo de tabela para os léxicos</p>
 <table>
 <thead>
 <tr>
-<th>Ações</th>
-<th>Responsável</th>
-<th>Prazo para conclusão</th>
+<th><strong>identificador do léxico</strong></th>
+<th><strong>descrição</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ação 1</td>
-<td>Responsável</td>
-<td>xx/xx/2023</td>
+<td>Noção</td>
+<td>São as noções do léxico conforme o tipo ( VERBO/OBJETO/ESTADO ) presente na tabela 1</td>
 </tr>
 <tr>
-<td>Ação 2</td>
-<td>Responsável</td>
-<td>xx/xx/2023</td>
+<td>Classificação</td>
+<td>é o tipo usado no símbolo ( VERBO/OBJETO/ESTADO )</td>
 </tr>
 <tr>
-<td>Ação 3</td>
-<td>Responsável</td>
-<td>xx/xx/2023</td>
+<td>Impacto(s)</td>
+<td>São os impactos do léxico conforme o tipo ( VERBO/OBJETO/ESTADO ) presente na tabela 1</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>são os sinônimos do símbolo</td>
 </tr>
 </tbody>
 </table>
-<h2 id="link-da-gravacao">Link da gravação</h2>
-<p>*</p>
-<h2 id="proxima-reuniao">Próxima Reunião</h2>
-<ul>
-<li><strong>Data da Próxima Reunião:</strong> xx/xx/2023</li>
-<li><strong>Hora da Próxima Reunião:</strong> xx:xx</li>
-</ul>
-<hr />
-<h2 id="historico-de-versoes">Histórico de versões</h2>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h2 id="lexicos-definidos">Léxicos definidos</h2>
+<h3 id="l01-usuario">L01: Usuário</h3>
+<p>No primeiro léxico(tabela 3), a funcionalidade utilizada é o usuário precisa ter acima de 16 anos (<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BSNF1</a>), estando essa funcionalidade implementada no aplicativo.</p>
+<h4 id="funcionalidades">Funcionalidades</h4>
+<p>Para acessar todas as funcionalidades presentes podem serem acessadas na pasta de <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main/docs/elicitacao/tecnicas">técnicas</a>.</p>
+<p>Tabela 3 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L01</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>A pessoa que fará uso do aplicativo. <br> Possui mais de 16 anos(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BSNF1</a>).</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>Se encaixa no critério de ter mais de 16 anos (<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BSNF1</a>). <br> O usuário possui acesso  as <a href="#funcionalidades">funcionalidades</a> do aplicativo.</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Cliente e consumidor.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Marques, 2023.</p>
+<h3 id="l02-dispositivo">L02: Dispositivo</h3>
+<p>Neste segundo léxico(Tabela 04), apresenta a funcionalidade o dispositivo que mantém ele instalado deve precisar ter acesso a internet(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BSNF4</a>), a funcionalidade está implementada no aplicativo.</p>
+<p>Tabela 4 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L02</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O dispositivo se conecta à internet(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BSNF4</a>).</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Objeto</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O <a href="#usuário">usuário</a> instala o aplicativo. <br> O usuário consegue ter acesso as <a href="#funcionalidades">funcionalidades</a> do aplicativo.</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Aparelho e equipamento.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Marques, 2023.</p>
+<h3 id="l03-cadastrar">L03: Cadastrar</h3>
+<p>Já neste léxico(tabela 5) as funcionalidades usadas foram  realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT1</a>) e usuário cadastrar sua biometria durante o processo de cadastro(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT2</a>),ambas as funcionalidades foram implementadas.</p>
+<p>Tabela 5 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L03</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>Ocorre no primeiro acesso do usuário com aplicativo. <br> O usuário informa seus dados pessoais quando se cadastra(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT1</a>). <br> O usuário cadastra sua biometria ao se cadatrar(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT2</a>).</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O usuário tem acesso as funcionalidades do aplicativo. <br> O usuário armazena suas informações no aplicativo. <br> O usuário tem um acesso mais rápido as funcionalidades do sistema com a biometria.</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Registrar e inscrever.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Marques, 2023.</p>
+<h3 id="l04-visualizar-documento">L04: Visualizar documento</h3>
+<p>O quarto léxico(tabela 6), mostra as funcionalidades  visualizar no aplicativo todos os dados presentes em um documento de título eleitoral, escolher visualizar sobre as documentações nescessárias e conseguir vizualizar os dados documentais, sendo seus id's <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT11</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT15</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT16</a> respectivamente. Essas funcionalidades foram implementadas no aplicativo.</p>
+<p>Tabela  6 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L04</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O usuário consegue visualizar as funcionalidades <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT11</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT15</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT16</a> ao fazer login no aplicativo.</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O usuário consegue ver os dados de seu interesse no documento.</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Ver, observar, contemplar, constatar e verificar.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Marques, 2023.</p>
+<h3 id="l05-visualizar-local">L05: Visualizar local</h3>
+<p>No léxico 5(tabela 7), as funcionalidades mostradas foram, deve ser possível o usuário vizualizar a localização do Local de Votação(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS6</a>) e deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT13</a>), apenas a primeira funcionalidade citada foi implementada.</p>
+<p>Tabela 7 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L05</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O usuário consegue visualizar o local da votação quando acessa a funcionalidade no aplicativo(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS6</a>). <br> O usuário consegue traçar uma rota do seu local atual até o local da realizaçao da votação(<a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT13</a>).</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O usuário visualiza local da votação. <br> O usuário encontra a melhor rota para chegar ao local.</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Ver, observar, contemplar, constatar e verificar.</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Marques, 2023.</p>
+<h3 id="l06-notificacao">L06: Notificação</h3>
+<p>Neste léxico(tabela 8) as funcionalidades apresentados são o aplicativo notifica o horário da votação para o usuário, o usuario visualiza a notificação e deve ser possível o usuário receber a notificação ( <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENT7</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT6</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS6</a> ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. </p>
+<p>Tabela 8 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L06</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O <a href="#l01:-usuario">usuário</a> recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O <a href="#l01:-usuario">usuário</a> seleciona as funcionalidades <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENT7</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT6</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS6</a> para poder visualizar as notificações</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>As funcionalidades <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENT7</a>, <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT6</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS6</a> são utilizadas</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Comunicar, informar e transmitir</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h3 id="l07-ajuda">L07: Ajuda</h3>
+<p>O sétimo léxico(tabela 9) utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a utilidade do aplicativo ( <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS12</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENTNF1</a> ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. </p>
+<p>Tabela 9 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L07</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O aplicativo oferece a ajuda para o <a href="#l01:-usuario">usuário</a> quando o <a href="#l01:-usuario">usuário</a> seleciona a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS12</a> ou a <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENTNF1</a> <br> A funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENTNF1</a> é acessada pelo <a href="#l01:-usuario">usuário</a> quando a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS12</a> não está selecionada <br> É acessado pelo <a href="#l01:-usuario">usuário</a> a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS12</a> e a <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENTNF1</a>  não estará selecionada</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O <a href="#l01:-usuario">usuário</a> visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados">BS12</a> <br> O <a href="#l01:-usuario">usuário</a> visualiza termo de uso presente no aplicativo quando acessar a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados">ENTNF1</a></td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Amparo e auxílio</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h3 id="l08-emitir-certificado">L08: Emitir certificado</h3>
+<p>A funcionalidade usada nesse léxico(tabela 10) é  vizualizar as informações da quitação eleitoral ( <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT17</a> ) em que está implementado no aplicativo.</p>
+<p>Tabela 10 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L08</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O <a href="#l01:-usuario">usuário</a> emite o cetificado quando acessa a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT17</a> <br> O <a href="#l01:-usuario">usuário</a> vai para o menu inferior e seleciona a função <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT17</a></td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Verbo</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>O <a href="#l01:-usuario">usuário</a> visualiza o documento emitido pela função <a href=""></a></td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Enviar, lançar, quitamento e remitir</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h3 id="l09-aplicativo-esta-aberto">L09: Aplicativo está aberto</h3>
+<p>No léxico L09(tabela 11) as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT3</a> e <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT7</a> ), ambos são implementados.</p>
+<h4 id="funcionalidades_1">Funcionalidades</h4>
+<p>Para acessar todas as funcionalidades presentes podem serem acessadas na pasta de <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main/docs/elicitacao/tecnicas">técnicas</a>.</p>
+<p>Tabela 11 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L09</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O aplicativo encontra-se em uso por um <a href="#l01:-usuario">usuário</a> Acontece quando o <a href="#l01:-usuario">usuário</a> faz um login bem sucedido no aplicativo</td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>Quando o <a href="#l01:-usuario">usuário</a> entra no aplicativo por meio do <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT3</a> todas as <a href="#funcionalidades">funcionalidades</a> presentes podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o <a href="#l01:-usuario">usuário</a> sai do aplicativo realizando a funcionalidade <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados">INT7</a>: ESTADO - Apricativo está desligado  e funcionalidades não disponíveis</td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Acesso e desconexão</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h3 id="l10-desbloqueio-com-biometria-esta-ativado">L10: Desbloqueio com biometria está ativado</h3>
+<p>Nesse léxico(tabela 12) a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais">Q3</a> ).</p>
+<p>Tabela 12 - exemplo</p>
+<table>
+<thead>
+<tr>
+<th><strong>L10</strong></th>
+<th><strong>descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noção</td>
+<td>O desbloqueio com biometria encontra-se em uso por um <a href="#l01:-usuario">usuário</a> <br> Ocorre quando o <a href="#l01:-usuario">usuário</a> seleciona a opção de ativar biometria, exercendo a função <a href="https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais">Q3</a></td>
+</tr>
+<tr>
+<td>Classificação</td>
+<td>Estado</td>
+</tr>
+<tr>
+<td>Impacto(s)</td>
+<td>Quando o <a href="#l01:-usuario">usuário</a> desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br></td>
+</tr>
+<tr>
+<td>Sinônimo(s)</td>
+<td>Liberado e despertar</td>
+</tr>
+</tbody>
+</table>
+<p>Fonte: Maria eduarda Barbosa, 2023.</p>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>2022.2-MEI. GitHub. Disponível em: https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/. Acesso em: 18 de outubro de 2023.</p>
+<p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
+<p>SERRANO M.; SERRANO M. Requisitos - Aula 10. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 18 de outubro de 2023.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
 <table>
 <thead>
 <tr>
@@ -1442,18 +1754,60 @@
 </thead>
 <tbody>
 <tr>
-<td>1.0</td>
-<td>13/09/2023</td>
-<td>Criação do esqueleto de ata</td>
-<td><a href="https://github.com/Maryyscreuza">Mariiana Siqueira Neris</a></td>
-<td>Todos</td>
+<td><code>0.1</code></td>
+<td>17/10/2023</td>
+<td>Criação da estrutura do artefato e tabela exemplo</td>
+<td><a href="https://github.com/Madu01">Maria Barbosa</a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
 </tr>
 <tr>
-<td>1.1</td>
-<td>29/09/2023</td>
-<td>Adição do horário de fim da ata</td>
-<td><a href="https://github.com/Maryyscreuza">Mariiana Siqueira Neris</a></td>
-<td>Todos</td>
+<td><code>0.2</code></td>
+<td>18/10/2023</td>
+<td>Criação do conteúdo do tópico introdução</td>
+<td><a href="https://github.com/Madu01">Maria Barbosa</a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.3</code></td>
+<td>18/10/2023</td>
+<td>Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos</td>
+<td><a href="https://github.com/Madu01">Maria Barbosa</a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.4</code></td>
+<td>18/10/2023</td>
+<td>Adicionando conteúdo nas tabelas dos léxicos L06 até L10</td>
+<td><a href="https://github.com/Madu01">Maria Barbosa</a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.5</code></td>
+<td>19/10/2023</td>
+<td>Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks</td>
+<td><a href="https://github.com/Madu01">Maria Barbosa</a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.6</code></td>
+<td>20/10/2023</td>
+<td>Adicionando conteúdo da motivação e objetivo</td>
+<td><a href="https://github.com/EduardaSMarques">Maria Marques </a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.7</code></td>
+<td>20/10/2023</td>
+<td>Adicionando léxico L01 à L05</td>
+<td><a href="https://github.com/EduardaSMarques">Maria Marques </a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
+</tr>
+<tr>
+<td><code>0.8</code></td>
+<td>21/10/2023</td>
+<td>Chamando tabelas no texto</td>
+<td><a href="https://github.com/EduardaSMarques">Maria Marques </a></td>
+<td><a href="https://github.com/jvcostta">João Victor</a></td>
 </tr>
 </tbody>
 </table>
