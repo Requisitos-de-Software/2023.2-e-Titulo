@@ -39,6 +39,11 @@ nav:
       - $100: elicitacao/priorizacao/$100.md
       - First Things First: elicitacao/priorizacao/firstThingsFirst.md
       - Three Level Scale: elicitacao/priorizacao/threeLevelScale.md
+  - Modelagem:
+    - Casos de Uso: modelagem/casosdeuso.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+    - Cenários: modelagem/Cenarios.md
+    - Léxicos: modelagem/lexico
 
 
 
