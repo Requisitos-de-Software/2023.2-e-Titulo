@@ -163,11 +163,15 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 ## Referências Bibliográficas
 
 > FURPS+. Disponivél em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 23 de outubro de 2023.
-
+> MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar. Disponível em: <https://aprender3.unb.br/pluginfile.php/2754631/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acesso em: 23 out 2023.
+> GOIS, Samily Rocha, SOBRINHO, Francisco Luiz. Projeto de Software Floricultura Beija-Flor: Especificação Suplementar. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692808/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf>. Acesso em: 23 out 2023.
+> 2023.1-BilheteriaDigital, Especificação Suplementar. 12 mai 2023. Disponível em: <https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md>. Acesso em: 24 out 2023.
+> 2022.1-TikTok, Especificação Suplementar. 19 jul 2022. Disponível em: <https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/especificao-suplementar.md>. Acesso em: 24 out 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição        | Autor(es)      | Revisor(es)    |
 | ------ | ---------- | -----------------| -------------- | -------------- |
-| `1.0`    | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`    | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Restrições de Design, Requisitos de Licenciamento e Requisitos Físicos | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0` | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1` | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Restrições de Design, Requisitos de Licenciamento e Requisitos Físicos | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.2` | 24/10/2023 | Adição de referências bibliográficas | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
