@@ -7,7 +7,6 @@ site_name: e-Título
 nav:
   - Início: index.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
-  - Casos de Uso: casosdeuso.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
