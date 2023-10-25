@@ -88,7 +88,7 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 
 | ID         | Descrição   |
 |------------|----------|
-|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, pricipalmente durante períodos eleitorais, evitando interrupções não programadas. |
+|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |
 |  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
 |  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|
 
@@ -156,7 +156,7 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 |-----------|------------------------------|
 |  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |
 |  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |
-|  `FIS01`  | O software necessário para acompatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |
+|  `FIS01`  | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |
 
 **Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
 
