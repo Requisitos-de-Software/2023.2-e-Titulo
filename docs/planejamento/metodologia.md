@@ -165,7 +165,7 @@ Issues que foram resolvidas com o pull request
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 12/09/2023  | início da criação dos tópicos da introdução | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
-| `0.2`  | 12/09/2023  | atualização e adicionamento de novo tópico | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
-| `0.3`  | 12/09/2023  | atualização no documento, adicionamento de padrões | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
-| `0.4`  | 12/09/2023  | atualização no documento, alterando tags  e explicação para o commit | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.0`  | 12/09/2023  | início da criação dos tópicos da introdução | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.1`  | 12/09/2023  | atualização e adicionamento de novo tópico | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.2`  | 12/09/2023  | atualização no documento, adicionamento de padrões | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.3`  | 12/09/2023  | atualização no documento, alterando tags  e explicação para o commit | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
