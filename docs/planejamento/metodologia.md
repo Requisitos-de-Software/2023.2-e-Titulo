@@ -91,15 +91,29 @@ A estrutura a ser seguida ao criar uma issue:
 As descrições das alterações devem ser feitas seguindo um padrão, indicando a issue resolvida e a funcionalidade (ou correção) adicionada.
 
 Utilize tags para definir o propósito do commit:
-* `ADD` : Quando adicionar alguma coisa nova no projeto   
-* `DEL` : Caso seja relacionado a remoção de algo
-* `UPDATE` : Quando atualizar algum documento ou algo 
+
+- `ADD` : Quando adicionar alguma coisa nova no projeto   
+
+- `DEL` : Caso seja relacionado a remoção de algo
+
+- `UPDATE` : Quando atualizar algum documento ou algo 
+
+- `PAGES` : quando for algo específico relacionado ao gitHub Pages
+
+A estrutura do commit é:
+
+```
+[tag]: mensagem descritiva
+```
+
+O exemplo logo abaixo é um comando de como é feito a estrutura no terminal
 
 Ex:
 
 ``` 
-git commit -m "[tag] (Issue #x) : mensagem descritiva"
+git commit -m "[tag]: mensagem descritiva"
 ```
+
 
 ### política de Branch
 A divisão das branches tem o intuito de melhorar a dinâmica e a organização do fluxo de trabalho no GitHub. A criação dessa divisão foi inspirada no [Git Flow](https://leanpub.com/git-flow/read).
@@ -123,23 +137,23 @@ O pull request é onde serão feitas as revisões do que foi feito, deverá ter 
 A estrutura a ser seguida ao criar um Pull request:
 
 ```
-    ## Descrição 
+## Descrição 
 
-    Descrever de forma objetiva e coerente o que foi feito
+Descrever de forma objetiva e coerente o que foi feito
 
-    ## Tarefas realizadas
+## Tarefas realizadas
 
-    - [ ] Tarefa
+- [ ] Tarefa
 
-    - [ ] Tarefa
+- [ ] Tarefa
 
-    ## Resolve 
+## Resolve 
 
-    Issues que foram resolvidas com o pull request
+Issues que foram resolvidas com o pull request
 
-    ## Critérios de aceitação
+## Critérios de aceitação
 
-    - [ ] O Pull Request deve ser revisado e aceito
+- [ ] O Pull Request deve ser revisado e aceito
 ```
 
 ## Bibliografia
@@ -151,6 +165,7 @@ A estrutura a ser seguida ao criar um Pull request:
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 12/09/2023  | início da criação dos tópicos da introdução | Maria Barbosa | -- |
-| `0.2`  | 12/09/2023  | atualização e adicionamento de novo tópico | Maria Barbosa | -- |
-| `0.3`  | 12/09/2023  | atualização no documento, adicionamento de padrões | Maria Barbosa | -- |
+| `1.0`  | 12/09/2023  | início da criação dos tópicos da introdução | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.1`  | 12/09/2023  | atualização e adicionamento de novo tópico | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.2`  | 12/09/2023  | atualização no documento, adicionamento de padrões | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.3`  | 12/09/2023  | atualização no documento, alterando tags  e explicação para o commit | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
