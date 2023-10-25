@@ -12,10 +12,13 @@ Como já exposto no tópico de Conceito, um diagrama de caso de uso é uma repre
 
 A figura 1 demonstra o diagrama de casos de uso.
 
-<font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de Uso e-Título</p></font>
+A figura 1 demonstra o diagrama de casos de uso.
 
-<img src="../assets/casosdeUso/diagrama.png" class="usecaseElement">
-
+| ![](../assets/casosdeUso/diagramac.png)                                                   |
+|---------------------------------------------------------------------------------------|
+<div style="text-align: center">
+ <p>Figura 1: Diagrama de Casos de Uso do e-Título.</p>
+</div>
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
 
 ## Legenda
