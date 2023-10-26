@@ -22,6 +22,9 @@ A metodologia usada será representada por tabelas, nas quais serão representad
 
 Tabela 1 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
+
 </center>
 
 ## Cenários
@@ -41,6 +44,8 @@ A seguir, as tabelas de 2 a 11 representarão os cenários referentes aos requis
 
 Tabela 2 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -56,6 +61,8 @@ Tabela 2 - Representação dos cenários
 | **Exceção**     | 1. Cpf e/ou senha inválidos. <br /> 2. Em caso de falha na autenticação, o sistema notifica o usuário e fornece instruções para recuperar acesso à conta, como redefinição de senha. |
 
 Tabela 3 - Representação dos cenários
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
 
 </center>
 
@@ -73,6 +80,8 @@ Tabela 3 - Representação dos cenários
 
 Tabela 4 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -88,6 +97,8 @@ Tabela 4 - Representação dos cenários
 | **Exceção**     | 1. Não ter realizado o cadastro corretamente <br /> 2. Recusar. <br /> Em caso de recusa dos termos de uso, o usuário é direcionado para encerrar o aplicativo. |
 
 Tabela 5 - Representação dos cenários
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
 
 </center>
 
@@ -105,6 +116,8 @@ Tabela 5 - Representação dos cenários
 
 Tabela 6 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -120,6 +133,8 @@ Tabela 6 - Representação dos cenários
 | **Exceção**     | 1. Data de nascimento registrada errada. <br /> Em caso de identificação de dados falsos ou suspeitos, o sistema pode bloquear o acesso e solicitar verificações adicionais |
 
 Tabela 7 - Representação dos cenários
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
 
 </center>
 
@@ -137,6 +152,8 @@ Tabela 7 - Representação dos cenários
 
 Tabela 8 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -152,6 +169,8 @@ Tabela 8 - Representação dos cenários
 | **Exceção**     | 1. Dados cadastrais desatualizados. <br /> 2. Mudança de locais e/ou horarios de votação. <br /> Em caso de mudanças de última hora nos horários de votação devido a circunstâncias excepcionais, uma notificação urgente é enviada aos usuários. |
 
 Tabela 9 - Representação dos cenários
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
 
 </center>
 
@@ -169,6 +188,8 @@ Tabela 9 - Representação dos cenários
 
 Tabela 10 - Representação dos cenários
 
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
@@ -184,6 +205,8 @@ Tabela 10 - Representação dos cenários
 | **Exceção**     | 1. Atualizações que causem mudanças na visualização e interpretação do usuário. <br /> Em casos de melhorias significativas no design que possam afetar a usabilidade, os usuários recebem notificações e orientações claras sobre as mudanças. |
 
 Tabela 11 - Representação dos cenários
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
 
 </center>
 
