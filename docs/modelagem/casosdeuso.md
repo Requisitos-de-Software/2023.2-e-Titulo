@@ -10,9 +10,7 @@ Como já exposto no tópico de Conceito, um diagrama de caso de uso é uma repre
 
 ## Diagrama de Casos de Uso
 
-A figura 1 demonstra o diagrama de casos de uso.
-
-A figura 1 demonstra o diagrama de casos de uso.
+A figura 1 representa o diagrama de casos de uso do e-Título.
 
 | ![](../assets/casosdeUso/diagramac.png)                                                   |
 |---------------------------------------------------------------------------------------|

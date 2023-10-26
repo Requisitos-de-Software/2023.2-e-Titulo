@@ -187,6 +187,14 @@ Tabela 11 - Representação dos cenários
 
 </center>
 
+## Referências Bibliográficas
+
+>1. <https://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/modelagem/cenarios.md / cenários.md / Acesso em: 13/10/2023>
+>2. <https://pt.wikipedia.org/wiki/Cen%C3%A1rio_(software) / Cenário(software) / Acesso em: 13/10/2023)>
+>3. <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf / Requisitos- Aula 10 / Acesso em: 13/10/2023)>
+>4. <https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md / threeLevelScale.md /Acesso em: 13/10/2023)>
+>5. > Jacobson, I. . Scenario.
+>6. > Rosson, M. B., & Carroll, J. M. Scenario.
 
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
