@@ -41,7 +41,7 @@ A git page possui?  | Sim/Não/Incompleto
 23 – A participação do cliente e/ou persona no processo de priorização? | Sim
 24 – A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | Sim
 
-Fonte: Plano de Ensino da disciplina de Requisitos de Software
+<font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software</p></font>
 
 ## Histórico de Versões
 
