@@ -45,7 +45,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US01                                                                  |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS1                                              |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão, gostaria de reaizar o cadastro de usuáio.                                 |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
@@ -55,7 +55,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US02                                                                  |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS2                                               |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão,  já cadastrado no e-Título, gosaria de realizar o login no aplicativo por senha ou por biometria.                                  |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
@@ -65,7 +65,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US03                                                                   |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS3                                               |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão, gostaria de realizar a do meu título de eleitor no apicativo.                                 |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
@@ -75,7 +75,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US04                                                                  |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS4                                              |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão, gostaria de acessar o QR code para leitura do título.                              |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
@@ -85,7 +85,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US05                                                                  |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS5                                               |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão, gostaria de visualizar a localização do local de votação.                                |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
@@ -95,7 +95,7 @@ _Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://gi
 | ID     |      US06                                                                   |
 | ------ | --------------------------------------------------------------------------- |
 | Rastreabilidade |                 BS6                                               |
-| Descrição |                       descrição mais detalhada que deve responder(Quem?, "Por quê ?" e "Para quem ?").                                 |
+| Descrição |                       Eu, como cidadão, gostaria de receber notificações no aplicativo.                                 |
 | Situação Problema |                              o que motivou a criação dessa história ?                                  |
 | Critérios de Aceitação |                   condições que precisam ser atendidas para considerar a história como concluída e pronta para entrega.                                  |
 | Status |                                                            |
