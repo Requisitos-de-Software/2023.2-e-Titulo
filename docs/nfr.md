@@ -1,7 +1,9 @@
 # NFR Framework
 
 ## Introdução
-
+   
+O NFR Framework é uma estrutura orientada a processos, sendo uma forma de representar e analisar Requisitos Não-Funcionais.O Framework NFR ajuda os desenvolvedores a produzir soluções personalizadas, considerando as características do domínio e sistema específicos que estão sendo desenvolvidos. Essas características, incluindo requisitos não funcionais, requisitos funcionais, prioridades e carga de trabalho, influenciam a escolha das alternativas de desenvolvimento para um sistema específico(CHUNG et al., 2000).
+O NFR Framework  utiliza o conceito de softgoal, que é um objetivo sem uma definição clara ou critérios precisos de satisfação. Os softgoals são usados para representar requisitos não funcionais e podem estar inter-relacionados, expressando a influência de um softgoal em outro. O Framework também possui um método de análise qualitativa para determinar o status dos softgoals, levando em consideração se outros softgoals relacionados foram ou não satisfeitos. (CHUNG et al., 2000).
 
 ## Motivação e Objetivo
 
@@ -11,7 +13,8 @@ Com o uso deste framework, o projeto tem como objetivo melhorar a gestão e a co
 
 
 ## SIG
-(explicar o que é o NFR Framework e o sig, nessa explicação tem que mencionar o softgoal)
+
+O funcionamento do NFR framework pode ser visualizado em termos da construção, elaboração, análise e revisão incremental e interativa de um gráfico de interdependência de softgoal conhecido como "Softgoal Interdependency Graph (SIG)".Este gráfico registra as considerações do desenvolvedor sobre os softgoals e mostra suas interdependências. O registro gráfico das decisões tomadas inclui Requisitos Não-funcionais e suas alternativas, decisões e justificativas associadas às decisões. Sendo possível a realização de um procedimento de avaliação para verificar se os requisitos de nível superior são atendidos.
 
 ### softgoal
 (explicar o que é)
