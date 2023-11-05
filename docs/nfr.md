@@ -50,6 +50,8 @@ Com o uso deste framework, o projeto tem como objetivo melhorar a gestão e a co
 
 #### Cartões de especificação
 
+## Requisitos Não-Funcionais
+(os que foram elicitados e utilizados)
 
 ## Bibliografia
 
