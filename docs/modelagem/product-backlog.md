@@ -60,12 +60,12 @@
         <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="100%">TikTok</td>
         </tr>
         <tr>
-              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="6">Visualizar</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Ver vídeo</td>
+              <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="6"></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Ver </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">RF01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder assitir vídeos para meu entreterimento</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Must</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"></td>
         </tr>
         <tr>
 
