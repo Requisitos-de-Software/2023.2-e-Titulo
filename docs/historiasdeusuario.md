@@ -43,7 +43,7 @@ A seguir está o quadro miro onde foi feita a dinâmica de histórias de usuári
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
 
-## A Entrevista
+## Entrevista
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
@@ -61,17 +61,15 @@ Tabela 2 - Representação das Funções
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7mb23aTHkQ?si=a2fWPZUzIEMBuf2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
 
 
-</center>
+- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
+
+
 
 ## Histórias de Usuário
-
-
 
 ### US01
 
@@ -255,10 +253,11 @@ Tabela 12 - Representação das Histórias de usuário
 
 ## Bibliografia
 > Armin Eberlein  Department of Elec.&Comp. Engineering University of Calgary Calgary, AB T2N 1N4 Canada. Agile Requirements Definition: A View from Requirements Engineering. Acesso em: 03 nov. 2023.
-> Simone D.J. Barbosa. Interação Humano-Computado  [https://leanpub.com/ihc-ux] (https://leanpub.com/ihc-ux). Acesso em: 03 nov. 2023.
+> Simone D.J. Barbosa. Interação Humano-Computado  [https://leanpub.com/ihc-ux](https://leanpub.com/ihc-ux). Acesso em: 03 nov. 2023.
 > Alves, Douglas e Maciel, Geovanna. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/agil/historia-de-usuario.md](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/agil/historia-de-usuario.md). Acesso em: 03 nov. 2023.
 > Alvissus, Giovanni. Historias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/userStories.md](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/modelagem/agil/historias_de_usuarios.md). Acesso em: 03 nov. 2023.
 > Correia, João Victor e Perillo, Matheus. Historias de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/userStories.md](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/userStories.md). Acesso em: 03 nov. 2023.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                      | Autor(es)                                        | Revisor(es)   |
