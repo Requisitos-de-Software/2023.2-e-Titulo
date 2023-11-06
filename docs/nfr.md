@@ -33,7 +33,7 @@ de Afirmação. Abaixo será explicado cada um deles e na figura 1 serão ilustr
 
 Figura 1: Tipos de softgoals
 
-![TiposSoftGo](docs/../img/tiposSoftGo.png)
+![TiposSoftGo](../docs/planejamento/img/tiposSoftGo.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -58,7 +58,7 @@ As interdependências no framework são definidas por meio dos tipos de refiname
 
 Figura 2: Tipos de decomposições
 
-![TiposDecomposição](docs/../img/tiposDecomposicao.png)
+![TiposDecomposição](../docs/planejamento/img/tiposDecomposicao.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -66,7 +66,7 @@ As operacionalizações são técnicas de desenvolvimento que transformam os sof
 
 Figura 3: Operalizações
 
-![operalizações](docs/../img/operalizacao.png)
+![operalizações](../docs/planejamento/img/operalizacao.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -74,7 +74,7 @@ As afirmações refinam os softgoals de afirmação em outros softgoals de afirm
 
 Figura 4: Afirmações
 
-![afirmações](docs/../img/afirmacoes.png)
+![afirmações](../docs/planejamento/img/afirmacoes.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
