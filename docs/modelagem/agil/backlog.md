@@ -26,41 +26,39 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 ## Requisitos Elicitados
 
-<p>&emsp;&emsp; Nas Tabelas de 1 a X estão registrados todos os requisitos elicitados durante o processo de elicitação, juntamente com a rastreabilidade de cada um.</p>
+Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de [elicitação](../../elicitacao/tecnicas_planejadas.md), juntamente com a origem de cada requisito.
 
-### 3.1. Funcionalidades
+| Identificador | Requisito | Rastreabilidade |
+| :-: | :-: | :-: |
+| RF01 | No aplicativo deve ser possível realizar o cadastro do usuário. | BS1 |
+| RF02 | Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado. | BS2 |
+| RF03 | Deve ser possível realizar a emissão do Título do usuário no aplicativo. | BS3 |
+| RF04 | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título. | BS4 |
+| RF05 | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação. | BS5 |
+| RF06 | No aplicativo deve possível o usuário receber notificações. | BS6 |
+| RF07 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. | ENTNF1 |
+| RF08 | No aplicativo deve ser possível o usuário realizar a recuperação da senha. | BS10|
+| RF09 | O aplicativo deve ter a opção de sair/logoff disponível para o usuário. | INT7 |
+| RF10 | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo. | BS12|
+| RF11 | O usuário deve conseguir fazer alterações em seus dados cadastrais. | INT8|
+| RF12 | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar. | BSNF1 |
+| RF13 | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet. | BSNF4 |
+| RF14 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral. | ENT4 |
+| RF15 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele. | ENTNF4 |
+| RF16 | O aplicativo deve oferecer suporte ao usuário. | ENT5 |
+| RF17 | O usuário deve conseguir informar a sua justificativa no aplicativo. | INT19 |
+| RF18 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. | INTNF1 |
+| RF19 |O aplicativo deve mostrar ao usuário as autenticidades de seus documentos. | INTNF9 |
+| RF20 | O aplicativo deve notificar o horário da votação para o usuário. | ENT7 |
+| RF21 | Deve ser possível o usuário acompanhar a apuração de votos.| ENT8 |
+| RF22 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | ENT9 |
+| RF23 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | INTNF13 |
+| RF24 | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.| ENTNF2 |
 
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RE01 |          | |
 
-
-<div align="center">
-<p> <b>Tabela 1</b>: Funcionalidades (Fonte: autores, 2023). </p>
+<div style="text-align: center">
+<p> Tabela 1: Requisitos elicitados (Fonte: autor, 2023).</p>
 </div>
-
-### 3.2. -------
-
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-
-
-<div align="center">
-<p> <b>Tabela 2</b>: ------ (Fonte: autores, 2023). </p>
-</div>
-
-### 3.3. ------------
-
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-
-
-<div align="center">
-<p> <b>Tabela 3</b>: ------ (Fonte: autores, 2023). </p>
-</div>
-
-
-
 ## Backlog 
 
 ### Temas 
