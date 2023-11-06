@@ -106,7 +106,7 @@ O procedimento de avaliação determina o grau de satisfação dos requisitos n�
 
 Figura 5 - Tipos de rótulos.
 
-![afirmações](../docs/planejamento/img/tiposRotulosSIG.png)
+![tiposRotulosSIG](../docs/planejamento/img/tiposRotulosSIG.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -148,11 +148,27 @@ Inicialmente foram selecionados os requisitos não funcionais já elicitados par
 ### NFR00 - Geral
 (onde vai conter todos)
   
-### NFRXX - nome
+### NFRXX - Confiabilidade
 #### Sem impactos propagados
+
+![confGrafoSIG1](../docs/planejamento/img/confGrafoSIG1.png)
+
 #### Com impactos propagados
+
+![confGrafoSIG2](../docs/planejamento/img/confGrafoSIG2.png)
+
 #### Cartões de especificação
 
+### NFRXX - Segurança
+#### Sem impactos propagados
+
+![seguGrafoSIG1](../docs/planejamento/img/seguGrafoSIG1.png)
+
+#### Com impactos propagados
+
+![seguGrafoSIG2](../docs/planejamento/img/seguGrafoSIG2.png)
+
+#### Cartões de especificação
 
 ## Requisitos Não-Funcionais
 (os que foram elicitados e utilizados)
