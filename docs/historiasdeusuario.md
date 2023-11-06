@@ -45,10 +45,9 @@ A seguir está o quadro miro onde foi feita a dinâmica de histórias de usuári
 
 ## Gravação
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](link)
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
 
-<iframe width="560" height="315" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7mb23aTHkQ?si=a2fWPZUzIEMBuf2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
 
 ### A Entrevista
@@ -257,3 +256,4 @@ Tabela 12 - Representação das Histórias de usuário
 | 1.0    | 28/10/2023 | Criação da página | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | 1.1    | 02/11/2023 | Início das Histórias de Usuário | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | 1.2    | 03/11/2023 | Finalizando Histórias de Usuário | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.3    | 06/11/2023 | Adicionando videos e links | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
