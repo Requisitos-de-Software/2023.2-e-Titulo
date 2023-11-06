@@ -33,7 +33,7 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 | ID  | Requisito                                                               | Rastreabilidade                           |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RE01 | Permitir a reprodução de vídeos e áudios em diferentes formatos.         | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
+| RE01 |          | |
 
 
 <div align="center">
@@ -47,7 +47,7 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 
 <div align="center">
-<p> <b>Tabela 2</b>: Interface de usuário (Fonte: autores, 2023). </p>
+<p> <b>Tabela 2</b>: ------ (Fonte: autores, 2023). </p>
 </div>
 
 ### 3.3. ------------
@@ -57,33 +57,10 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 
 <div align="center">
-<p> <b>Tabela 3</b>: Requisitos de Armazenamento (Fonte: autores, 2023). </p>
+<p> <b>Tabela 3</b>: ------ (Fonte: autores, 2023). </p>
 </div>
 
-### 3.4. Desempenho
 
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RE10 | Eu, como usuário, gostaria que o aplicativo seja rápido ao carregar e reproduzir vídeos. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE16 | Eu, como usuário, gostaria que o aplicativo não consuma muita bateria do dispositivo. | [ST](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling) |
-| RE26 | Deve ter um bom desempenho de reprodução, mesmo para arquivos grandes.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
-
-<div align="center">
-<p> <b>Tabela 4</b>: Desempenho (Fonte: autores, 2023). </p>
-</div>
-
-### 3.5. Segurança e Privacidade
-
-| ID  | Requisito                                                               | Rastreabilidade                           |
-| --- | ----------------------------------------------------------------------- | ----------------------------------------- |
-| RE30 | O aplicativo deve garantir a segurança dos dados do usuário.             | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
-| RE31 | Problemas de segurança relacionados à reprodução de arquivos de mídia.  | [INT](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/introspeccao) |
-| RE33 | Risco de vulnerabilidades e exploits de segurança conhecidos.           | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
-| RE34 | Risco de violação de privacidade do usuário e coleta de dados invasiva. | [ADD](https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/analise-de-documentos) |
-
-<div align="center">
-<p> <b>Tabela 5</b>: Segurança e Privacidade (Fonte: autores, 2023). </p>
-</div>
 
 ## Backlog 
 
