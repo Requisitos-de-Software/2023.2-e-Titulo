@@ -22,7 +22,7 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 ## Metodologia
 
-<p> A elaboração do product backlog partiu da análise e verificação dos requisitos funcionais elicitados anteriormente no projeto, seguida pelo agrupamento destes requisitos em temas e épicos, o agrupamento de histórias de usuário está presente no documento do mesmo ( [histórias de usuário](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/historiasdeusuario.md)) .</p> 
+A elaboração do product backlog partiu da análise e verificação dos requisitos funcionais elicitados anteriormente no projeto, seguida pelo agrupamento destes requisitos em temas e épicos, o agrupamento de histórias de usuário está presente no documento do mesmo ([histórias de usuário](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/historiasdeusuario.md)).
 
 ## Requisitos Elicitados
 
@@ -59,6 +59,7 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 <div style="text-align: center">
 <p> Tabela 1: Requisitos elicitados (Fonte: autor, 2023).</p>
 </div>
+
 ## Backlog 
 
 ### Temas 
@@ -89,8 +90,6 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
     - 
 - #### Épico 2: Interface de Usuário
 
-    
-
 A tabela 6 abaixo vai relacionar a prioridade de cada história:
 
 | História de Usuário | Épico                  | Prioridade |
@@ -119,7 +118,6 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 <div align="center">
 <p> <b>Tabela 6</b>: Backlog do produto (Fonte: autores, 2023). </p>
 </div>
-
 
 
 ## Conclusão
