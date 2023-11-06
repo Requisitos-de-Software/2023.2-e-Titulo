@@ -62,33 +62,60 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 
 ## Backlog 
 
-### Temas 
-<div style="text-align:justify">
-    <p>&emsp;&emsp; Após a etapa de verificação e análise dos requisitos, foi observado que eles poderiam ser organizados em cinco grandes temas, que compõem o maior nível de abstração do backlog.</p>
-    <ul>
-        <li> -------
-        <li> -------
-        <li> -----------
-        <li> -----------
-        <li> ----------
-    </ul>
-    <p>&emsp;&emsp; Após a definição dos temas, os requisitos foram especificados em um maior nível de abstração, por meio dos épicos. Os épicos são histórias de usuário que ainda podem ser mais especificadas e foram escritos utilizando o mesmo padrão do utilizado nas histórias de usuário.</p>
-</div>
+## Temas
+
+Analisando as histórias de usuário, foi possível organizá-las inicialmente em dois grandes temas.
+
+- **Funcionalidades**: Organiza as funcionalidades necessárias para que o usuário possa executar suas tarefas com sucesso no sistema.
+- **Documentos**: Agrupa funcionalidades relacionadas a documentos, e como emiti-los.
+- **Segurança:** Agrupa funcionalidades relacionadas a segurança do usuário no sistema.
+
+  
+Após a elaboração dos temas, os requisitos foram detalhados em um nível mais abstrato por meio dos épicos. Essas são histórias de usuário que permitem uma maior especificação e foram redigidas seguindo o mesmo padrão utilizado para as histórias de usuário.
 
 ### Épicos 
 
-<div style="text-align: justify">
+Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura da tabela de backlog (Tabela 2), os épicos estão especificados a seguir.
 
-&emsp;&emsp; Para diminuir o nível de abstração expresso nos temas, foram registrados os épicos, que são histórias de usuário que ainda podem ser mais especificadas. Para facilitar a leitura do backlog, os épicos estão especificados a seguir.
+#### E01 - Cadastro de usuário
 
-</div>
+Eu, como cidadão, gostaria de realizar o cadastro e login de usuáio.
 
-- #### Épico 1: Reprodução de Mídia
+#### E02 - Emissão do título
 
-    - svd
-    - chj
-    - 
-- #### Épico 2: Interface de Usuário
+Eu, como cidadão, gostaria de realizar a emissão do meu título de eleitor no apicativo.
+
+#### E03 - Vizualizar candidato
+
+Eu, como cidadão, gostaria de visualizar o candidato eleito referente ao ano da votação.
+
+#### E04 - Acesso ao termo de uso
+
+Eu, como usuário, gostaria de acessar o termo de uso de forma fácil para leitura do mesmo.
+
+#### E05 - Recuperar senha
+
+Eu, como usuário, gostaria de realizar a recuperação de senha.
+
+#### E06 - Restringir para menores de 16 anos
+
+Eu, como usuário, gostaria que a aplicação fosse restrita para pessoas a partir de 16 anos.
+
+#### E07 - Vizualizar autencidade
+
+Eu, como usuário, gostaria poder visualizar a autenticidade dos meus documentos.
+ 
+#### E08 - Vizualizar horários disponíveis
+
+Eu, como usuário, gostaria poder visualizar por meio de notificações, os horários disponíveis para votação.
+
+#### E09 - Etapas de segurança
+
+Eu, como usuário, gostaria que meus dados fossem protegidos por etapas de segurança.
+
+#### E10 - Design apropriado
+
+Eu, como usuário, gostaria poder visualizar um design intuitivo, conteporâneo e padronizado.
 
 A tabela 6 abaixo vai relacionar a prioridade de cada história:
 
