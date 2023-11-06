@@ -4,8 +4,7 @@
 
 <div style="text-align:justify">
 <p>&emsp;&emsp; 
-O backlog de um produto em engenharia de requisitos é como um cardápio de opções, listando todas as ideias e melhorias planejadas. É um depósito dinâmico de necessidades do usuário e requisitos do sistema.</p>
-<p>&emsp;&emsp; Funciona como um guia estratégico, ajudando a equipe a priorizar e desenvolver funcionalidades alinhadas com metas e expectativas, mantendo o produto flexível diante de mudanças. Em resumo, é uma ferramenta vital que permite o desenvolvimento contínuo e adaptativo do produto.</p>
+O backlog de um produto em engenharia de requisitos é como um cardápio de opções, listando todas as ideias e melhorias planejadas. É um depósito dinâmico de necessidades do usuário e requisitos do. Funciona como um guia estratégico, ajudando a equipe a priorizar e desenvolver funcionalidades alinhadas com metas e expectativas, mantendo o produto flexível diante de mudanças. Em resumo, é uma ferramenta vital que permite o desenvolvimento contínuo e adaptativo do produto.</p>
 </div>
 
 ## Vantagens de usar o backlog 
@@ -23,7 +22,7 @@ O backlog de um produto em engenharia de requisitos é como um cardápio de opç
 
 ## Metodologia
 <div style="text-align:justify">
-<p>&emsp;&emsp;  </p>
+<p>&emsp;&emsp; A elaboração do product backlog partiu da análise e verificação dos requisitos funcionais elicitados anteriormente no projeto, seguida pelo agrupamento destes requisitos em temas e épicos, o agrupamento de histórias de usuário está presente no documento do mesmo [histórias de usuário](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/historiasdeusuario.md). 
 
 ## Requisitos Elicitados
 <div style="text-align:justify">
