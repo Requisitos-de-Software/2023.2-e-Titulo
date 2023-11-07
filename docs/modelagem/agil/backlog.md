@@ -74,13 +74,13 @@ Para diminuir o nível de abstração expresso nos temas, foram registrados os �
 
 #### E01 - Cadastro
 
-Eu, como cidadão, gostaria de realizar o cadastro e login de usuáio.
+Eu, como cidadão, gostaria de realizar o cadastro e login de usuário.
 
 #### E02 - Título 
 
-Eu, como cidadão, gostaria de realizar a emissão do meu título de eleitor no apicativo.
+Eu, como cidadão, gostaria de realizar a emissão do meu título de eleitor no aplicativo.
 
-#### E03 - Vizualização
+#### E03 - Visualização
 
 Eu, como cidadão, gostaria de visualizar o candidato eleito referente ao ano da votação.
 
@@ -110,7 +110,7 @@ Eu, como usuário, gostaria que meus dados fossem protegidos por etapas de segur
 
 #### E10 - Design apropriado
 
-Eu, como usuário, gostaria poder visualizar um design intuitivo, conteporâneo e padronizado.
+Eu, como usuário, gostaria poder visualizar um design intuitivo, contemporâneo e padronizado.
 
 ## Histórias de usuário
 
