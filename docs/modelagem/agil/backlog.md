@@ -140,7 +140,7 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 |  E08    | Funcionalidade |Eu, como cidadão, espero receber notificações no aplicativo para ficar atualizado. |     | Baixa | RF06 |
 |         |  Funcionalidade | Eu, como cidadão, aprecio a funcionalidade no aplicativo que me notifica sobre o horário da votação, garantindo que eu esteja bem informado e preparado. | US08 | Alta | RF20 |
 |  E09    | Funcionalidade |  Eu, como cidadão, aprecio a presença da opção de sair/logoff no aplicativo para garantir a segurança e controle sobre minha sessão. |    | Média | RF09 |
-|         | Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas. | Segurança |    | Média | RF16 |
+|         |Segurança |  Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas. |    | Média | RF16 |
 |         |Segurança |  Eu, como cidadão, considero crucial que o aplicativo ofereça segurança robusta, protegendo meus dados por meio de etapas de segurança eficazes. | US09 | Alta | RF23 |
 |  E10    | Funcionalidade |  Eu, como cidadão, aprecio a integração do aplicativo com links para o site do TSE e outras funcionalidades externas, ampliando suas capacidades além do seu escopo próprio. |    | Baixa | RF15 |
 |         | Documento |  Eu, como cidadão, prefiro um aplicativo com design intuitivo, que utilize elementos padronizados como botões e menus, proporcionando uma experiência mais fácil e consistente. | US10 | Alta | RF24 |
