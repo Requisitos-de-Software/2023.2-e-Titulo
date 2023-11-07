@@ -146,13 +146,73 @@ Inicialmente foram selecionados os requisitos não funcionais já elicitados par
 ## NFR Definidas
 
 ### NFR00 - Geral
-(onde vai conter todos)
-  
-### NFRXX - nome
+
+A figura 6 é uma representação visual do diagrama geral do SIG , adaptado do livro do Reginaldo Silva, para que todos os requisitos não funcionais priorizados do grupo fossem ilustrados.
+
+Figura 6 - Diagrama Geral do Sig
+
+![geral](../docs/planejamento/img/DiagramaGeralSig.png)
+
+Fonte: Maria Eduarda Marques. 2023.
+
+### NFR01 - Usabilidade
+Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados das entrevistas realizadas pelo grupo na parte de elicitação.
+
+- ENTNF1: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo
+
+- ENTNF2: O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados
+
 #### Sem impactos propagados
+A figura 7, se encontra o diagrama do SIG sem impactos propagados 
+
+Figura 7 - Diagrama do Sig sem impactos propagados
+
+![semPropa](../docs/planejamento/img/DiagramaSig1.png)
+
+Fonte: Maria Eduarda Marques. 2023.
+
 #### Com impactos propagados
+
+A figura 8, se encontra o diagrama do SIG com impactos propagados
+
+Figura 8 - Diagrama do Sig com impactos propagados 
+
+![ComPropa](../docs/planejamento/img/DiagramaPropaErro.png)
+
+Fonte: Maria Eduarda Marques. 2023.
+
 #### Cartões de especificação
 
+
+Tabela 4 - Cartão de especificação 
+
+| **Nº Requisito: 1** (ENTNF1)  <br> **Classificação:** Usabilidade | |
+| ------------------------ | --------- |
+| **Descrição:** | O e-título deve ser fácil de ser encontrado e ter informações relevantes para o usuário não ficar perdido|
+| **Justificativa:** | O aplicativo é voltado para a visualiazação do e-título e por isso o documento precisa ser fácil de ser achado e o app precisa ser de fácil compreensão.|
+| **Origem:** | Projetista de software |
+| **Critério de aceitação:** | O aplicativo deve ter o termo de uso facilmente acessível e explicar sua utilidade de forma clara para evitar problemas de entendimento. |
+| **Dependência:** | Precisa que o usuário acesse o aplicativo |
+| **Prioridade:** | Alta |
+| **Conflitos:** | nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: Maria Eduarda Marques. 2023.
+
+Tabela 5 - Cartão de especificação 
+
+| **Nº Requisito: 2** (ENTNF2)  <br> **Classificação:** Usabilidade | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve ter um design intuitivo com elementos padronizados, como botões e menus, para facilitar a navegação do usuário.|
+| **Justificativa:** | visa melhorar a usabilidade do aplicativo, tornando-o mais intuitivo e fácil de usar para os usuários. |
+| **Origem:** | Projetista de software |
+| **Critério de aceitação:** |  a presença de botões e menus padronizados em todo o aplicativo, garantindo uma aparência consistente e uma experiência de navegação intuitiva. |
+| **Dependência:** | Do desenvolvimento |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: Maria Eduarda Marques. 2023.
 
 ## Requisitos Não-Funcionais
 (os que foram elicitados e utilizados)
@@ -180,3 +240,5 @@ conjunto de obras citadas. Deve ser inserida em cada citação e, no final do tr
 | `0.3`  | 05/11/2023  | adição da introdução e do SIG | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | `0.4`  | 06/11/2023  | acrescentando outros tópicos do SIG até refinamentos | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | `0.5`  | 06/11/2023  | Adicionando conteúdos nos tópicos Contribuições, Procedimento de avaliação, Cartão de especificação e Metodologia e atualização no tópico NFR Definidas | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| `0.6`  | 06/11/2023  | Adicionando diagramas geral e de usabilidade e cartões | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+
