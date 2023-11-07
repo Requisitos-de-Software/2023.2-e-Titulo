@@ -7,7 +7,6 @@ site_name: e-Título
 nav:
   - Início: index.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
-  - Teste: historiasdeusuario.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
@@ -47,6 +46,10 @@ nav:
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/lexico
+  - Modelagem Ágil:
+    - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
+    - Backlog: modelagem/agil/backlog.md
+    - NFR Framework: modelagem/agil/nfr.md
 
 
 
