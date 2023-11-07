@@ -42,6 +42,7 @@ A git page possui?  | Sim/Não/Incompleto
 24 – Os softgoals condizem com o contexto?| Sim
 25 – Softgoals representam metas bem definidas? | Sim
 26 – Os impactos foram corretamente propagados? | Sim
+
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software</p></font>
 
 ## Histórico de Versões
