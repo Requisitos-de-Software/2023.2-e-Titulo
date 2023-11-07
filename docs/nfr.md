@@ -200,23 +200,6 @@ Figura X - SIG de Confiabilidade com impactos.
 Fonte: maria barbosa, 2023.
 
 
-#### Cartões de especificação
-
-Tabela X - Cartão de especificação X 
-
-| **Nº Requisito: 1** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
-| ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
-| **Justificativa:** | É importante pois fornece informações claras e acessíveis aos usuários, garantindo que eles compreendam os termos e condições do serviço, bem como os direitos e responsabilidades. Além disso, atende às expectativas de regulamentações de privacidade e proteção de dados, tornando o aplicativo mais confiável. |
-| **Origem:** | Projetista de Software |
-| **Critério de aceitação:** | A aceitação dos termos de uso  |
-| **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
-| **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
-
-Fonte: maria barbosa, 2023.
-
 ### NFRXX - Segurança
 #### Sem impactos propagados
 
@@ -268,6 +251,21 @@ Fonte: Maria Eduarda Marques. 2023.
 
 Tabela X - Cartão de especificação X 
 
+| **Nº Requisito: 1** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
+| **Justificativa:** | É importante pois fornece informações claras e acessíveis aos usuários, garantindo que eles compreendam os termos e condições do serviço, bem como os direitos e responsabilidades. Além disso, atende às expectativas de regulamentações de privacidade e proteção de dados, tornando o aplicativo mais confiável. |
+| **Origem:** | Projetista de Software |
+| **Critério de aceitação:** | A aceitação dos termos de uso  |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: maria barbosa, 2023.
+
+Tabela X - Cartão de especificação X 
+
 | **Nº Requisito: 1** ( [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Autenticidade dos documentos | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. |
@@ -310,6 +308,8 @@ Tabela X - Cartão de especificação X
 | **História:** | 06/11/2023 |
 
 Fonte: maria barbosa, 2023.
+
+
 
 ## Requisitos Não-Funcionais utilizados
 
