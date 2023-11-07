@@ -33,7 +33,7 @@ de Afirmação. Abaixo será explicado cada um deles e na figura 1 serão ilustr
 
 Figura 1 - Tipos de softgoals
 
-![TiposSoftGo](../docs/planejamento/img/tiposSoftGo.png)
+![TiposSoftGo](../../../docs/planejamento/img/tiposSoftGo.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -58,7 +58,7 @@ As interdependências no framework são definidas por meio dos tipos de refiname
 
 Figura 2 - Tipos de decomposições
 
-![TiposDecomposição](../docs/planejamento/img/tiposDecomposicao.png)
+![TiposDecomposição](../../../docs/planejamento/img/tiposDecomposicao.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -66,7 +66,7 @@ As operacionalizações são técnicas de desenvolvimento que transformam os sof
 
 Figura 3 - Operalizações
 
-![operalizações](../docs/planejamento/img/operalizacao.png)
+![operalizações](../../../docs/planejamento/img/operalizacao.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -74,7 +74,7 @@ As afirmações refinam os softgoals de afirmação em outros softgoals de afirm
 
 Figura 4 - Afirmações
 
-![afirmações](../docs/planejamento/img/afirmacoes.png)
+![afirmações](../../../docs/planejamento/img/afirmacoes.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -106,7 +106,7 @@ O procedimento de avaliação determina o grau de satisfação dos requisitos n�
 
 Figura 5 - Tipos de rótulos.
 
-![tiposRotulosSIG](../docs/planejamento/img/tiposRotulosSIG.png)
+![tiposRotulosSIG](../../../docs/planejamento/img/tiposRotulosSIG.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -152,7 +152,7 @@ A figura 6 é uma representação visual do diagrama geral do SIG , adaptado do 
 
 Figura 6 - Diagrama Geral do Sig
 
-![geral](../docs/planejamento/img/DiagramaGeralSig.png)
+![geral](../../../docs/planejamento/img/DiagramaGeralSig.png)
 
 Fonte: Maria Eduarda Marques. 2023.
 
@@ -168,7 +168,7 @@ A figura 7, se encontra o diagrama do SIG sem impactos propagados
 
 Figura 7 - Diagrama do Sig sem impactos propagados
 
-![semPropa](../docs/planejamento/img/DiagramaSig1.png)
+![semPropa](../../../docs/planejamento/img/DiagramaSig1.png)
 
 Fonte: Maria Eduarda Marques. 2023.
 
@@ -178,7 +178,7 @@ A figura 8, se encontra o diagrama do SIG com impactos propagados
 
 Figura 8 - Diagrama do Sig com impactos propagados 
 
-![ComPropa](../docs/planejamento/img/DiagramaPropaErro.png)
+![ComPropa](../../../docs/planejamento/img/DiagramaPropaErro.png)
 
 Fonte: Maria Eduarda Marques. 2023.
   
@@ -187,7 +187,7 @@ Fonte: Maria Eduarda Marques. 2023.
 
 Figura 9 - SIG de Confiabilidade sem impactos.
 
-![confGrafoSIG1](../docs/planejamento/img/confGrafoSIG1.png)
+![confGrafoSIG1](../../../docs/planejamento/img/confGrafoSIG1.png)
 
 Fonte: maria barbosa, 2023.
 
@@ -195,7 +195,7 @@ Fonte: maria barbosa, 2023.
 
 Figura 10 - SIG de Confiabilidade com impactos.
 
-![confGrafoSIG2](../docs/planejamento/img/confGrafoSIG2.png)
+![confGrafoSIG2](../../../docs/planejamento/img/confGrafoSIG2.png)
 
 Fonte: maria barbosa, 2023.
 
@@ -205,7 +205,7 @@ Fonte: maria barbosa, 2023.
 
 Figura 11 - SIG de Segurança sem impactos.
 
-![seguGrafoSIG1](../docs/planejamento/img/seguGrafoSIG1.png)
+![seguGrafoSIG1](../../../docs/planejamento/img/seguGrafoSIG1.png)
 
 Fonte: maria barbosa, 2023.
 
@@ -213,7 +213,7 @@ Fonte: maria barbosa, 2023.
 
 Figura 12 - SIG de Segurança com impactos.
 
-![seguGrafoSIG2](../docs/planejamento/img/seguGrafoSIG2.png)
+![seguGrafoSIG2](../../../docs/planejamento/img/seguGrafoSIG2.png)
 
 Fonte: maria barbosa, 2023.
 
