@@ -164,6 +164,6 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 ## Histórico de Versões
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :---------: |
-| 22/10/2023   |  `1.0`  | Criação do documento               | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)   | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
+| 05/11/2023   |  `1.0`  | Criação do documento               | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)   | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 | 06/11/2023   |  `1.1`  | Adição de introdução e metodologia | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 | 06/11/2023   |  `1.2`  | Adição do resto da documentação | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
