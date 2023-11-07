@@ -106,7 +106,7 @@ O procedimento de avaliação determina o grau de satisfação dos requisitos n�
 
 Figura 5 - Tipos de rótulos.
 
-![afirmações](../docs/planejamento/img/tiposRotulosSIG.png)
+![tiposRotulosSIG](../docs/planejamento/img/tiposRotulosSIG.png)
 
 Fonte: SILVA, Reinaldo. 2019.
 
@@ -124,6 +124,7 @@ Os cartões de especificação, também conhecidos como "snowcards," desenvolvid
 
 No caso deste projeto será utilizado o modelo adaptado desses cartões desenvolvido por Reinaldo Silva com o objetivo de representar os Requisitos Não-Funcionais utilizados na construção dos NFR Frameworks, esse modelo se encontra na tabela 2. 
 
+
 Tabela 2 - Exemplo de modelo do Cartão de especificação 
 
 | **Nº Requisito: X** (id_Requisito)  <br> **Classificação:** Nome do(s) softgoal(s)| |
@@ -133,7 +134,7 @@ Tabela 2 - Exemplo de modelo do Cartão de especificação
 | **Origem:** | Origem do requisito |
 | **Critério de aceitação:** | métrica do requisito que possa ser testada e satisfeita |
 | **Dependência:** | Requisitos relacionados ao especificado |
-| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros |
+| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros, em uma escala de 0 a 10 seguindo o que foi realizado no artefato conforme o artefato [Three Level Scale](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md#three-level-scale) |
 | **Conflitos:** | Requisitos conflitantes ao requisito especificado |
 | **História:** | Data da criação e de modificações |
 
@@ -180,9 +181,60 @@ Figura 8 - Diagrama do Sig com impactos propagados
 ![ComPropa](../docs/planejamento/img/DiagramaPropaErro.png)
 
 Fonte: Maria Eduarda Marques. 2023.
+  
+### NFRXX - Confiabilidade
+#### Sem impactos propagados
+
+Figura X - SIG de Confiabilidade sem impactos.
+
+![confGrafoSIG1](../docs/planejamento/img/confGrafoSIG1.png)
+
+Fonte: maria barbosa, 2023.
+
+#### Com impactos propagados
+
+Figura X - SIG de Confiabilidade com impactos.
+
+![confGrafoSIG2](../docs/planejamento/img/confGrafoSIG2.png)
+
+Fonte: maria barbosa, 2023.
+
 
 #### Cartões de especificação
 
+Tabela X - Cartão de especificação X 
+
+| **Nº Requisito: 1** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
+| **Justificativa:** | É importante pois fornece informações claras e acessíveis aos usuários, garantindo que eles compreendam os termos e condições do serviço, bem como os direitos e responsabilidades. Além disso, atende às expectativas de regulamentações de privacidade e proteção de dados, tornando o aplicativo mais confiável. |
+| **Origem:** | Projetista de Software |
+| **Critério de aceitação:** | A aceitação dos termos de uso  |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: maria barbosa, 2023.
+
+### NFRXX - Segurança
+#### Sem impactos propagados
+
+Figura X - SIG de Segurança sem impactos.
+
+![seguGrafoSIG1](../docs/planejamento/img/seguGrafoSIG1.png)
+
+Fonte: maria barbosa, 2023.
+
+#### Com impactos propagados
+
+Figura X - SIG de Segurança com impactos.
+
+![seguGrafoSIG2](../docs/planejamento/img/seguGrafoSIG2.png)
+
+Fonte: maria barbosa, 2023.
+
+#### Cartões de especificação
 
 Tabela 4 - Cartão de especificação 
 
@@ -214,22 +266,70 @@ Tabela 5 - Cartão de especificação
 
 Fonte: Maria Eduarda Marques. 2023.
 
-## Requisitos Não-Funcionais
-(os que foram elicitados e utilizados)
+Tabela X - Cartão de especificação X 
+
+| **Nº Requisito: 1** ( [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Autenticidade dos documentos | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. |
+| **Justificativa:** | Mostrar ao usuário as autenticidades de seus documentos é justificada pela necessidade de promover a transparência, confiança e segurança no sistema. Isso permite que os usuários validem a autenticidade de seus documentos, evitando fraudes, falsificações e erros.  |
+| **Origem:** | Projetista de Software |
+| **Critério de aceitação:** | Deve ser possível acessar facilmente as autenticidades, e elas devem estar em conformidade com as regulamentações legais aplicáveis. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: maria barbosa, 2023.
+
+Tabela X - Cartão de especificação X 
+
+| **Nº Requisito: 1** ( [INTNF14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Proteção dos dados/Etapas de segurança ao realizar cadastro ou login/ Implementação de Criptografia | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. |
+| **Justificativa:** | A utilização desse requisito é pela necessidade de proteger a privacidade e a integridade dos dados dos usuários. Isso não apenas atende às regulamentações legais, mas também previne ataques cibernéticos, vazamentos de dados e a perda de segurança dos usuários. |
+| **Origem:** | Projetista de Software |
+| **Critério de aceitação:** | O deve aplicativo implementar medidas de segurança eficazes para proteger os dados dos usuários. Isso inclui a criptografia adequada e autenticação segura. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: maria barbosa, 2023.
+
+Tabela X - Cartão de especificação X 
+
+| **Nº Requisito: 1** ( [BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Limites/Cadastro para usuários acima da idade mínima  | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar. |
+| **Justificativa:** | A utilização desse requisito é para cumprir as leis e regulamentações que estabelecem a idade mínima para votar. Além disso, essa restrição contribui para a responsabilidade e a segurança, uma vez que impede que indivíduos não aptos a votar influenciem o processo eleitoral. |
+| **Origem:** | Projetista de Software |
+| **Critério de aceitação:** | A verificação da idade do usuário durante o cadastro no aplicativo |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 06/11/2023 |
+
+Fonte: maria barbosa, 2023.
+
+## Requisitos Não-Funcionais utilizados
+
+| ID | Descrição    | Implementado |
+| -- | --- | --- |
+| ENTNF1 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | Não |
+| INTN9 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. | Sim |
+| INT14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | Sim |
+| BSNF1  | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | Sim  |
+
+
 
 ## Bibliografia
 
-> 2023.1-Simplenote. GitHub. Disponível em https//requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr/. Acesso em 1 de novembro de 2023.  
+> 2023.1-Simplenote. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr/. Acesso em: 1 de novembro de 2023.  
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em 1 de novembro de 2023.  
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 1 de novembro de 2023.  
 
-## Referencia
+> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 26/06/2023
 
-conjunto de obras citadas. Deve ser inserida em cada citação e, no final do trabalho, deve fazer parte da bibliografia. "Nem todos tem que ter"
-
-> Referencia_1
-
-> Referencia_2
 
 ## Histórico de Versões
 
@@ -241,4 +341,4 @@ conjunto de obras citadas. Deve ser inserida em cada citação e, no final do tr
 | `0.4`  | 06/11/2023  | acrescentando outros tópicos do SIG até refinamentos | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | `0.5`  | 06/11/2023  | Adicionando conteúdos nos tópicos Contribuições, Procedimento de avaliação, Cartão de especificação e Metodologia e atualização no tópico NFR Definidas | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | `0.6`  | 06/11/2023  | Adicionando diagramas geral e de usabilidade e cartões | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-
+| `0.7`  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
