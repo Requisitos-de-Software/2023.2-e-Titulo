@@ -27,6 +27,9 @@
 | Backlogs  | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | 06/11/2023  |
 | NFR Framework |  [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  | 06/11/2023  |
 
+## Link da gravação
+* [https://youtu.be/QKpqb4GxnFQ ](https://youtu.be/QKpqb4GxnFQ )
+
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 08/11/2023
 * **Hora da Próxima Reunião:** 20:00
