@@ -144,7 +144,7 @@ Fonte: Adaptado de (ROBERTSON; ROBERTSON, 2012).
 
 Inicialmente foram selecionados os requisitos não funcionais já elicitados para que os softgoals principais sejam definidos, esses foram utilizados no NFR00 - Geral, e logo após foram criados os NFRs com base no geral, além dos impactos deles e no final de cada NFR foram criados os Cartões de especificação. No desenvolvimento dos NFRs envolveu a criação do gráfico de interdependência de softgoal conhecido como "Softgoal Interdependency Graph (SIG)" por meio da ferramenta Draw.io.
 
-## NFR Definidas
+## NFRs Definidas
 
 ### NFR00 - Geral
 
@@ -182,10 +182,10 @@ Figura 8 - Diagrama do Sig com impactos propagados
 
 Fonte: Maria Eduarda Marques. 2023.
   
-### NFRXX - Confiabilidade
+### NFR02 - Confiabilidade
 #### Sem impactos propagados
 
-Figura X - SIG de Confiabilidade sem impactos.
+Figura 9 - SIG de Confiabilidade sem impactos.
 
 ![confGrafoSIG1](../docs/planejamento/img/confGrafoSIG1.png)
 
@@ -193,17 +193,17 @@ Fonte: maria barbosa, 2023.
 
 #### Com impactos propagados
 
-Figura X - SIG de Confiabilidade com impactos.
+Figura 10 - SIG de Confiabilidade com impactos.
 
 ![confGrafoSIG2](../docs/planejamento/img/confGrafoSIG2.png)
 
 Fonte: maria barbosa, 2023.
 
 
-### NFRXX - Segurança
+### NFR03 - Segurança
 #### Sem impactos propagados
 
-Figura X - SIG de Segurança sem impactos.
+Figura 11 - SIG de Segurança sem impactos.
 
 ![seguGrafoSIG1](../docs/planejamento/img/seguGrafoSIG1.png)
 
@@ -211,15 +211,15 @@ Fonte: maria barbosa, 2023.
 
 #### Com impactos propagados
 
-Figura X - SIG de Segurança com impactos.
+Figura 12 - SIG de Segurança com impactos.
 
 ![seguGrafoSIG2](../docs/planejamento/img/seguGrafoSIG2.png)
 
 Fonte: maria barbosa, 2023.
 
-#### Cartões de especificação
+## Cartões de especificação Definidos
 
-Tabela 4 - Cartão de especificação 
+Tabela 3 - Cartão de especificação da Usabilidade
 
 | **Nº Requisito: 1** (ENTNF1)  <br> **Classificação:** Usabilidade | |
 | ------------------------ | --------- |
@@ -234,7 +234,7 @@ Tabela 4 - Cartão de especificação
 
 Fonte: Maria Eduarda Marques. 2023.
 
-Tabela 5 - Cartão de especificação 
+Tabela 4 - Cartão de especificação da Usabilidade
 
 | **Nº Requisito: 2** (ENTNF2)  <br> **Classificação:** Usabilidade | |
 | ------------------------ | --------- |
@@ -249,9 +249,9 @@ Tabela 5 - Cartão de especificação
 
 Fonte: Maria Eduarda Marques. 2023.
 
-Tabela X - Cartão de especificação X 
+Tabela 5 - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 1** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
+| **Nº Requisito: 3** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
 | **Justificativa:** | É importante pois fornece informações claras e acessíveis aos usuários, garantindo que eles compreendam os termos e condições do serviço, bem como os direitos e responsabilidades. Além disso, atende às expectativas de regulamentações de privacidade e proteção de dados, tornando o aplicativo mais confiável. |
@@ -264,9 +264,9 @@ Tabela X - Cartão de especificação X
 
 Fonte: maria barbosa, 2023.
 
-Tabela X - Cartão de especificação X 
+Tabela 6 - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 1** ( [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Autenticidade dos documentos | |
+| **Nº Requisito: 4** ( [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Autenticidade dos documentos | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. |
 | **Justificativa:** | Mostrar ao usuário as autenticidades de seus documentos é justificada pela necessidade de promover a transparência, confiança e segurança no sistema. Isso permite que os usuários validem a autenticidade de seus documentos, evitando fraudes, falsificações e erros.  |
@@ -279,9 +279,9 @@ Tabela X - Cartão de especificação X
 
 Fonte: maria barbosa, 2023.
 
-Tabela X - Cartão de especificação X 
+Tabela 7 - Cartão de especificação de Segurança  
 
-| **Nº Requisito: 1** ( [INTNF14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Proteção dos dados/Etapas de segurança ao realizar cadastro ou login/ Implementação de Criptografia | |
+| **Nº Requisito: 5** ( [INTNF14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Proteção dos dados/Etapas de segurança ao realizar cadastro ou login/ Implementação de Criptografia | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. |
 | **Justificativa:** | A utilização desse requisito é pela necessidade de proteger a privacidade e a integridade dos dados dos usuários. Isso não apenas atende às regulamentações legais, mas também previne ataques cibernéticos, vazamentos de dados e a perda de segurança dos usuários. |
@@ -294,9 +294,9 @@ Tabela X - Cartão de especificação X
 
 Fonte: maria barbosa, 2023.
 
-Tabela X - Cartão de especificação X 
+Tabela 8 - Cartão de especificação de Segurança  
 
-| **Nº Requisito: 1** ( [BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Limites/Cadastro para usuários acima da idade mínima  | |
+| **Nº Requisito: 6** ( [BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Limites/Cadastro para usuários acima da idade mínima  | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar. |
 | **Justificativa:** | A utilização desse requisito é para cumprir as leis e regulamentações que estabelecem a idade mínima para votar. Além disso, essa restrição contribui para a responsabilidade e a segurança, uma vez que impede que indivíduos não aptos a votar influenciem o processo eleitoral. |
@@ -310,8 +310,9 @@ Tabela X - Cartão de especificação X
 Fonte: maria barbosa, 2023.
 
 
-
 ## Requisitos Não-Funcionais utilizados
+
+Tabela 9 - Requisitos Não-Funcionais 
 
 | ID | Descrição    | Implementado |
 | -- | --- | --- |
@@ -320,7 +321,7 @@ Fonte: maria barbosa, 2023.
 | INT14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | Sim |
 | BSNF1  | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | Sim  |
 
-
+Fonte: maria barbosa, 2023.
 
 ## Bibliografia
 
