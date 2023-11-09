@@ -20,12 +20,17 @@
 * Utilização do Miro para a entrevista.
 
 ## Ações Pendentes
+
+Tabela 1 - Ações pendentes
+
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
 | Entrevista  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  | 04/11/2023  |
 | História de usuário  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 05/11/2023  |
 | Backlogs  | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | 06/11/2023  |
 | NFR Framework |  [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  | 06/11/2023  |
+
+Fonte: cronograma; MARQUES, Maria 2023.
 
 ## Link da gravação
 * [https://youtu.be/QKpqb4GxnFQ ](https://youtu.be/QKpqb4GxnFQ )
