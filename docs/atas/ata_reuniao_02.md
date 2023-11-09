@@ -34,10 +34,15 @@
 * Atualização do GitPages vai ser feito pelo João e Mateus, de acordo com o dia decidido das issues.
 
 ## Ações Pendentes
+
+Tabela 1 - Ações pendentes
+
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
 | Decisão dos cronogramas específicos | [Maria Eduarda dos Santos Marques ](https://github.com/EduardaSMarques)     | 20/09/2023 |
 | Algumas definições de artefatos e metodologia | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 20/09/2023 |
+
+Fonte: NERIS, Mariiana Siqueira, 2023.
 
 ## Link da gravação
 * [https://youtu.be/eK9Zo9e1Y7M](https://youtu.be/eK9Zo9e1Y7M)
