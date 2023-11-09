@@ -26,6 +26,9 @@
   - foi descidido que usariamos a metodologia de SCRUM-Adaptável.
 
 ## Ações Pendentes
+
+Tabela 1 - Ações pendentes
+
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
 | Issues      | [Esther Sena Martins ](https://github.com/esmsena)   | 12/09/2023           |
@@ -34,6 +37,8 @@
 | Esqueleto da Ata do Projeto | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza)| 12/09/2023          |
 | GitPages   | [João Victor Costa de Andrade](https://github.com/jvcostta) e [Mateus Orlando Medeiros Ribeiro ](https://github.com/MateusPy) | 12/09/2023          |
 | Definição de Metodologias  | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) | 12/09/2023          |
+
+Fonte: NERIS, Mariiana Siqueira, 2023.
 
 ## Link da gravação
 * [https://youtu.be/euIYHMQXNaU](https://youtu.be/euIYHMQXNaU)
