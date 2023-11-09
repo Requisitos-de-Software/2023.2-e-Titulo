@@ -1,9 +1,9 @@
-# Ata da Reunião - 30/11/2023 - Reunião 10
+# Ata da Reunião - 30/10/2023 - Reunião 10
 
 ## Data e Hora
 | Data          | Hora de início | Hora de fim | Local |
 |---------------|----------------|-------------|-------|
-|  30/11/2023   |      20:56     |    21:02    | Teams |
+|  30/10/2023   |      20:56     |    21:02    | Teams |
 
   
 ## Participantes
