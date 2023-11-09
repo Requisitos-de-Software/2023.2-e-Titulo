@@ -29,13 +29,17 @@
   - [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) responsáveis pela entrega 3.
 
 ## Ações Pendentes
+
+Tabela 1 - Ações pendentes
+
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
-| Entrega 1   | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 12/11/2023           |
-| Entrega 2   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | 12/11/2023           |
-| Entrega 3   | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) | 12/11/2023           |
-| Entrega 4   | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 12/11/2023           |
+| Verificação da entrega 1   | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 12/11/2023           |
+| Verificação da entrega 2   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | 12/11/2023           |
+| Verificação da entrega 3   | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) | 12/11/2023           |
+| Verificação da entrega 4   | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 12/11/2023           |
 
+Fonte: NERIS, Mariiana Siqueira, 2023.
 ## Link da gravação
 * [https://youtu.be/7BrTmVKFUxw](https://youtu.be/7BrTmVKFUxw)
 
