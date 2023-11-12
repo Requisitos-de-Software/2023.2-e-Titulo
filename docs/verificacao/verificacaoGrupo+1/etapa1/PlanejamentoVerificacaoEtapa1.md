@@ -55,7 +55,7 @@ Os artefatos dessa verificação são:
 
 ### Cronograma
 
-A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12 de junho de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
+A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 13 de novembro de de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
 
 <center>
 
@@ -155,3 +155,4 @@ Fonte: Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.1`  | 12/11/2023 | Ajuste de datas e correção de erros  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
