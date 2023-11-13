@@ -133,6 +133,7 @@ Fonte: Maria Barbosa, 2023.
 | PU3 | O artefato possui a definição do usuário? |  |  |
 | PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)? |  |  |
 | PU5 | O artefato apresenta as ferramentas utilizadas para a realização do Perfil do Usuário? |  |  |
+| PU6 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados? |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -156,6 +157,8 @@ Fonte: Maria Barbosa, 2023.
 
 
 ## Bibliografia
+
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
