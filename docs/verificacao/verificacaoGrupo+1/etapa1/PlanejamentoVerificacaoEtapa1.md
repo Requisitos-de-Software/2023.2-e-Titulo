@@ -136,6 +136,20 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Cronograma
 
+**Tabela 6** - Checklist para os Itens do Cronograma.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| CM1 | O documento possui o cronograma planejado e executado? |  |  |
+| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante
+com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
+| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
+| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
+construção/realização do artefato/atividade? |  |  |
+| CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
+
+Fonte: Maria Eduarda Marques, 2023.
+
 ### Checklist da Verificação da Metodologia
 
 ### Checklist da Verificação das Ferramentas
@@ -156,3 +170,5 @@ Fonte: Maria Barbosa, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.1`  | 12/11/2023 | Ajuste de datas e correção de erros  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.2`  | 12/11/2023 | Adição da tabela do cronograma | [Maria Marques](https://github.com/EduardaSMarques)  |  |
+
