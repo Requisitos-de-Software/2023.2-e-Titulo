@@ -20,24 +20,24 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma dinâmica definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
-| B1 | O artefato possui um conograma das entrevistas ? |  |  |
-| B2 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| B3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
-| B4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
-| B5 | O artefato possui dados demográficos ?  |  |  |
-| B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
-| B7 | O artefato apresenta o roteiro da entrevista? |  |  |
-| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
-| B9 | Os requisitos identificados foram expostos? |  |  |
-| B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
+| G1  | O artefato possui Introdução? | Sim |  |
+| G2  | O artefato possui Objetivo? | Sim |  |
+| G3  | O artefato possui uma dinâmica definida? | Sim  |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim  |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Incompleto | Entrevista 1 está em formato diferente das demais, seria interessante deixar a documentação seguindo um padrão. |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  Incompleto |  Tabela de requisitos elicitados ficou sem o chamado e identificação.  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim  |  |
+| B1 | O artefato possui um conograma das entrevistas ? | Sim |  |
+| B2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Sim |  |
+| B3 | O artefato possui os links disponíveis para as entrevistas ? | Sim |  |
+| B4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? | Não |  |
+| B5 | O artefato possui dados demográficos ?  | Sim |  |
+| B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?| Sim |  |
+| B7 | O artefato apresenta o roteiro da entrevista? | Sim |  |
+| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? | Incompleto | Faltou a concluusão da entrevista. (obs: seria interessante adicionar na documentação as etapas) |
+| B9 | Os requisitos identificados foram expostos? | Sim |  |
+| B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? | Sim |  |
 
 
 
