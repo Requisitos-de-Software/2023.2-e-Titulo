@@ -20,27 +20,26 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
+| G1  | O artefato possui Introdução? | Sim  |  |
 | G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma dinâmica definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? |  |  |
-| B2 | Possui gravação da atividade de elicitação dos requisitos? |  |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| B4 | A elicitação contou com moderador e um secretário. |  |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? |  |  |
-| B7 | Os requisitos identificados foram expostos? |  |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?|  |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? |  |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? |  |  |
-| B11 |  Antes da sessão, foi conduzido um teste piloto? |  |  |
-| B12 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |  |  |
-| B13 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |  |  |
+| G3  | O artefato possui uma dinâmica definida? | Sim |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  Sim |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
+| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? | Não |  |
+| B2 | Possui gravação da sessão Brainstorming ? | Sim |  |
+| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Não |  |
+| B4 | A elicitação contou com moderador e um secretário. | Sim |  |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? | Sim |  |
+| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? | não |  |
+| B7 | Os requisitos identificados foram expostos? | Sim |  |
+| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?| Sim  |  |
+| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? | Sim |  |
+| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? | Não |  |
+| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? | Sim |  |
+| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? | Sim |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
