@@ -159,3 +159,4 @@ Fonte: Maria Barbosa, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.1`  | 12/11/2023 | Ajuste de datas e correção de erros  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.2`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |

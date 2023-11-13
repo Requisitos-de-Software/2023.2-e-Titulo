@@ -57,5 +57,5 @@ No geral os vídeos ficaram bons, mas nos textos dos artefatos faltaram algumas 
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, metodologia e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `2.0`  | 10/11/2023 | Criação do conteúdo Checklist e das sugestões e melhorias  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |

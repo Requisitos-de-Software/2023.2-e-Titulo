@@ -119,7 +119,16 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CE1 |  |  |  |
+| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? |  |  |
+| CE2 | Os cenários possuem numeração? |  |  |
+| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? |  |  |
+| CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
+| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
+
+
 
 Fonte: Maria Barbosa, 2023.
 
@@ -145,3 +154,4 @@ Fonte: Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação de Cenários.  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) |
+| `2.0`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação de Cenários.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |

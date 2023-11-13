@@ -170,3 +170,4 @@ Fonte: Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `2.0`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
