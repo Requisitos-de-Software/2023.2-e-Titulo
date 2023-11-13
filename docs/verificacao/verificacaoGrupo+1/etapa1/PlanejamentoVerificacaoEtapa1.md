@@ -142,7 +142,18 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Rich Picture
 
+**Tabela 8** - Checklist para os Itens do Rich Picture.
 
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| RP1 | O artefato possui a ferramenta utilizada? |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
+| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
+| RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
+| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
