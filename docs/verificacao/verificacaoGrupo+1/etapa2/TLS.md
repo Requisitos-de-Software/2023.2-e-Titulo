@@ -10,7 +10,7 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-Baseado no livro "Software Requiriments, Third edition" de Karl Wiergers e Joy Beatty [4] e no checklist contido no plano de ensino da disciplina, este artefato irá conter o checklist de Three level scale.
+Baseado no livro "Software Requiriments, Third edition" de Karl Wiergers e Joy Beatty [4], este artefato irá conter o checklist de Three level scale.
 
 ## Checklist da Verificação da Apresentação
 
@@ -56,4 +56,4 @@ A qualidade do artefato está ótima e não há sugestões para melhorias.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do TLS | [Mariiana Siqueira](https://github.com/Maryyscreuza) | -- |
+| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do TLS | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
