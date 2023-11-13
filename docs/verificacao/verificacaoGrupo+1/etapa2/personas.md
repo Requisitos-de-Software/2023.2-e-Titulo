@@ -35,17 +35,18 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim |  |
-| G2  | O artefato possui Objetivo? | Sim |  |
-| G3  | O artefato possui uma metodologia definida? | Sim |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Incompleto |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| P1 |  |  |  |
-| P2 |  |  |  |
-| P3 |  |  |  |
-| P4 |  |  |  |
+| G1  | O artefato possui Introdução ? | Sim | -- |
+| G2  | O artefato possui Objetivo ? | Sim | -- |
+| G3  | O artefato possui uma metodologia definida ? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? | Incompleto | Na parte de bibliografia não se encontra a fonte citada no tópico **Metodologia**. |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
+| P3 | O artefato possui persona primária ? | Sim | -- |
+| P4 | O artefato possui antipersona ? | Sim | -- |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Ele cita que o ideal é de 3 a 12 personas mas, não explica a motivação da quantidade utilizada no artefato. |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -53,11 +54,23 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ## Sugestões e melhorias
 
-(colocar as sugestões a respeito dos itens, observe o da bilheteria digital como exemplo)
+No geral, o artefato está bom e apresenta personas consistentes e coerentes com o perfil do usuário. Como sugestão:
+
+### Sugestão/Melhoria 1
+
+Resaltaria a importância da adição da referência, utilizada no tópico de **Metodologia**, no campo de bibliografia/referências. Dessa maneira facilitaria a obtenção da fonte utilizada.
+
+### Sugestão/Melhoria 2
+
+No tocante a criação das **Personas**, indicaria a adição do motivo que levou o grupo a criar o número personas utilizadas no elenco do projeto. No caso, 3 personas e 1 anti persona.
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 11 de novembro de 2023.
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 10 de novembro de 2023.
+
+> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 12 de novembro de 2023.
+
+> 2023.1-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 12 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 11 de novembro de 2023.
 
@@ -65,4 +78,5 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 11/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação das Personas.  | [Mateus Orlando](https://github.com/MateusPy) |  |
+| `1.0`  | 11/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação das Personas.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| `1.1`  | 12/11/2023 | Verificação do artefato de Personas do grupo 5.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
