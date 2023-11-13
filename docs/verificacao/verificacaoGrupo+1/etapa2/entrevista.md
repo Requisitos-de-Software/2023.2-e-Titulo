@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica o artefato Entravista realizada pelo grupo 5 apresentando um Checklist da Verificação da Entravista indicando sugestões e melhorias. 
+Este artefato verifica a Entravista realizada pelo grupo 5 apresentando um Checklist da Verificação da Entravista indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -64,5 +64,5 @@ Os erros serão corrigidos após uma análise e validação conjunta dos problem
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) |  |
+| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Entrevista. | [Esther Sena](https://github.com/esmsena) |  |
 
