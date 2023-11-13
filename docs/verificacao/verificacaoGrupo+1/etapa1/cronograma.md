@@ -53,7 +53,7 @@ O artefato em si ficou muito bom, tanto o cronograma detalhado como o executado,
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 12 de novembro de 2023.
 
 ## Histórico de Versões
 
