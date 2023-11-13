@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica o artefato Brainstorming realizada pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
+Este artefato verifica o Brainstorming realizada pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
 
 ## Metodologia
 
