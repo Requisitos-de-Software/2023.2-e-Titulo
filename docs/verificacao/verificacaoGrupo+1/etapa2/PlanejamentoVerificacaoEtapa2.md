@@ -150,6 +150,19 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist de MoSCoW
 
+**Tabela 1** - Checklist para os Itens do MoSCoW.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| MS1 | No artefato há a participação do cliente e/ou persona? |  |  |
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| MS3 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? |  |  |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? |  |  |
+| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
 ### Checklist do First Things First
 
 ### Checklist do Three Level Scale
