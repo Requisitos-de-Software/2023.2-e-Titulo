@@ -20,17 +20,17 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma dinâmica definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
-| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
-| EA2 | O artefato possui o Termo de Uso? |  |  |
-| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| G1  | O artefato possui Introdução? | Sim |  |
+| G2  | O artefato possui Objetivo? | Não |  |
+| G3  | O artefato possui uma metodologia definida? | Sim |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?| Sim |  |
+| EA2 | O artefato possui o Termo de Uso? | Não |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso? | Não |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
