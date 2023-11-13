@@ -1,8 +1,8 @@
-# Verificação do cronograma do Grupo 5
+# Verificação do NFR Framework do Grupo 5
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado, indicando sugestões e melhorias.
+Este documento verifica as apresentações realizadas pelo grupo 5 apresentando um Checklist do NFR Framework, indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -10,13 +10,13 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-## Checklist da Verificação do Cronograma
+## Checklist da Verificação do NFR Framework
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Cronograma.
+**Tabela 1** - Checklist para os Itens do NFR Framework.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -27,14 +27,13 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Incompleto | Observação abaixo |
-| CM1 | O documento possui o cronograma planejado e executado? | Sim |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante
-com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? | Sim |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
-construção/realização do artefato/atividade? | Sim |  |
-| CM5 |O cronograma executado possui as datas das correções após os feedbacks? | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? | Sim |  |
+| NF2 | O artefato possui cartão de especificação do RNF? | Não |  |
+| NF3 | Os softgoals condizem com o contexto? | Sim |  |
+| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? | Não |  |
+| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | Não |  |
+| NF6 | Foram feitos SIG's com e sem propagação de impacto? | Não |  |
 
 
 Fonte: Maria Eduarda Marques, 2023.
@@ -43,8 +42,8 @@ Fonte: Maria Eduarda Marques, 2023.
 
 ## Sugestões e melhorias
 
-O artefato em si ficou muito bom, tanto o cronograma detalhado como o executado, possuem as informações necessárias, entretanto fica como sugestão a realização da seguinte correção:
-  - Como bibliografia o grupo só colocou o repositório de onde eles se inspiraram, seria interessante também colocar de onde foi retirado as datas de entrega e apresentação dos artefatos.
+O artefato ficou faltando bastante informação, não foram feitos SIG com propagação de erro, não foram feitos cartões de especificação. No documento não foi encontrado nada que relacionasse com o documento de especificação suplementar. No softgoal de desempenho faltou refinar mais e faltou explicar o que significa as legendas do SIG, foi colocado no documento, mas não foi explicado o que elas significam.
+Este artefato em si, ficou muito sucinto, uma sugestão seria o grupo trabalhar mais nele e fazer uma divisão melhor das tarefas dentro do artefato e colocar o que está faltando no documento antes da entrega final.
   
 
 ## Bibliografia
@@ -53,10 +52,10 @@ O artefato em si ficou muito bom, tanto o cronograma detalhado como o executado,
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 12 de novembro de 2023.
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 13 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 12/11/2023 | Criação do documento e adição de todos os tópicos | [Maria Marques](https://github.com/EduardaSMarques)  | [Esther Sena](https://github.com/esmsena) |
+| `1.0`  | 13/11/2023 | Criação do documento e adição de todos os tópicos | [Maria Marques](https://github.com/EduardaSMarques)  | [Esther Sena](https://github.com/esmsena) |

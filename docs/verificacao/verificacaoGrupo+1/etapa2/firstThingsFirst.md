@@ -1,8 +1,8 @@
-# Verificação do cronograma do Grupo 5
+# Verificação do First Things First do Grupo 5
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado, indicando sugestões e melhorias.
+Este documento verifica as apresentações realizadas pelo grupo 5 apresentando um Checklist da técnica First Things First, indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -10,9 +10,9 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-## Checklist da Verificação do Cronograma
+## Checklist da Verificação do First Things First
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
 
@@ -27,14 +27,11 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Incompleto | Observação abaixo |
-| CM1 | O documento possui o cronograma planejado e executado? | Sim |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante
-com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? | Sim |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
-construção/realização do artefato/atividade? | Sim |  |
-| CM5 |O cronograma executado possui as datas das correções após os feedbacks? | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim | Observação abaixo |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? | Sim |  |
+| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? | Incompleto | Observação abaixo |
+| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  | Sim |  |
+| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? | Sim |  |
 
 
 Fonte: Maria Eduarda Marques, 2023.
@@ -43,8 +40,10 @@ Fonte: Maria Eduarda Marques, 2023.
 
 ## Sugestões e melhorias
 
-O artefato em si ficou muito bom, tanto o cronograma detalhado como o executado, possuem as informações necessárias, entretanto fica como sugestão a realização da seguinte correção:
-  - Como bibliografia o grupo só colocou o repositório de onde eles se inspiraram, seria interessante também colocar de onde foi retirado as datas de entrega e apresentação dos artefatos.
+O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sugestões de melhoria no artefato:
+- Como provavelmente é um projeto novo para todos os membros do grupo, pode ocorrer, mas é difícil utilizar só o livro como bibliografia, sem utilizar um repositório como referência, aconselhável ao grupo colocar todas as fontes para elaboração do projeto.
+- Foi feita a gravação com o clinete, porém o grupo não realizou a gravação com os desenvolvedores estimando os requisitos.
+- Na tabela do first things first no requisito BR14 faltou dar as estimativas de valor e priorizá-lo.
   
 
 ## Bibliografia

@@ -127,6 +127,23 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do NFR Framework
 
+<center>
+
+**Tabela 6** - Checklist para os Itens do NFR Framework.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
+| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
+| NF3 | Os softgoals condizem com o contexto? |  |  |
+| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
+| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
+| NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
+
+Fonte: Maria Marques, 2023.
+
+</center>
+
 
 ## Bibliografia
 
@@ -139,3 +156,4 @@ Fonte: Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Histórias de Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 13/11/2023 | Adição da tabela do NFR Framework | [Maria Marques](https://github.com/EduardaSMarques)  | [Esther Sena](https://github.com/esmsena) |
