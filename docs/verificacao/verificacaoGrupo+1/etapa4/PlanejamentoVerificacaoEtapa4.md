@@ -103,6 +103,7 @@ Fonte: Maria Barbosa, 2023.
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
