@@ -158,12 +158,12 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona? | Sim | -- |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? | Sim | -- |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  | Sim | -- |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? | Sim | -- |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? | Sim | -- |
-| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? | Sim | -- |
+| TLS1 | No artefato há a participação do cliente e/ou persona? |  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  |  |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  |  |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
