@@ -20,35 +20,35 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma dinâmica definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
-| B1 | O documento adere ao formato FURPS+? |  |  |
-| B2 | Existe uma seção dedicada à funcionalidade no documento? |  |  |
-| B3 | Há uma seção referente à usabilidade no documento? |  |  |
-| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? |  |  |
-| B5 | O documento inclui uma seção abordando a confiabilidade? |  |  |
-| B6 | Os requisitos identificados foram claramente apresentados? |  |  |
-| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? |  |  |
-| B8 | São explicitados requisitos relacionados à segurança no documento? |  |  |
-| B9 | Existe uma seção de desempenho no documento?|  |  |
-| B10 | São apresentados requisitos relacionados aos tempos de resposta? |  |  |
-| B11 | O documento inclui uma seção sobre suportabilidade? |  |  |
-| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? |  |  |
-| B13 | Há uma seção dedicada a restrições de design no documento? |  |  |
-| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?|  |  |
-| B15 | Existe uma seção de requisitos de implementação no documento? |  |  |
-| B16 | Os requisitos apresentados são testáveis? |  |  |
-| B17 | Há uma seção de requisitos de interface no documento? |  |  |
-| B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
-| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
-| B20 | O documento contempla requisitos físicos? |  |  |
-| B21 | Os léxicos relacionados são mencionados no artefato? |  |  |
+| G1  | O artefato possui Introdução? | Sim |  |
+| G2  | O artefato possui Objetivo? | Sim |  |
+| G3  | O artefato possui uma dinâmica definida? | Sim |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
+| B1 | O documento adere ao formato FURPS+? | Sim |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento? |  Sim |  |
+| B3 | Há uma seção referente à usabilidade no documento? | Sim  |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? | Sim |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? | Sim |  |
+| B6 | Os requisitos identificados foram claramente apresentados? | Sim |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? | Sim |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? | Sim |  |
+| B9 | Existe uma seção de desempenho no documento?| Sim |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? | Sim |  |
+| B11 | O documento inclui uma seção sobre suportabilidade? | Sim |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? | Sim |  |
+| B13 | Há uma seção dedicada a restrições de design no documento? | Não |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?| Não |  |
+| B15 | Existe uma seção de requisitos de implementação no documento? | Não |  |
+| B16 | Os requisitos apresentados são testáveis? | Sim |  |
+| B17 | Há uma seção de requisitos de interface no documento? | Não |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará? | Sim |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?| Sim |  |
+| B20 | O documento contempla requisitos físicos? | Sim |  |
+| B21 | Os léxicos relacionados são mencionados no artefato? | Sim |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
