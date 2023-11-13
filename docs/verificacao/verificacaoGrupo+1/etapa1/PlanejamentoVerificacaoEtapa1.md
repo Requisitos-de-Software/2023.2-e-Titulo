@@ -141,8 +141,7 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | CM1 | O documento possui o cronograma planejado e executado? |  |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante
-com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
+| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
 | CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
 | CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? |  |  |
 | CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
