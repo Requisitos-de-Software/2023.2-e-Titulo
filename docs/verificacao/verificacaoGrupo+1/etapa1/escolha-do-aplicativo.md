@@ -25,6 +25,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G3  | O artefato possui uma dinâmica definida? |  |  |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
+| G6  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 | EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
 | EA2 | O artefato possui o Termo de Uso? |  |  |
 | EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
