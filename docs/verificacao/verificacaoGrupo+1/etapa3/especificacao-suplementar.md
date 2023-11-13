@@ -74,4 +74,4 @@ Os erros serão corrigidos após uma análise e validação conjunta dos problem
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Espacificação Suplementar. | [Esther Sena](https://github.com/esmsena) |  |
+| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Espacificação Suplementar. | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
