@@ -26,7 +26,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G2  | O artefato possui Objetivo? | Sim | -- |
 | G3  | O artefato possui uma metodologia definida? | Sim | -- |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Incompleto | Falta um revisor na versão 2.0 do artefato. |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Não | -- |
 | MS1 | No artefato há a participação do cliente e/ou persona? | Não | -- 
@@ -61,4 +61,4 @@ No geral a qualidade do artefato está ótima. A sugestões para melhorias estã
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Mariiana Siqueira](https://github.com/Maryyscreuza) | -- |
+| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
