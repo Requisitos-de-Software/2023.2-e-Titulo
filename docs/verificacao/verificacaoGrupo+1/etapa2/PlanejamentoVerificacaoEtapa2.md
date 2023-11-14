@@ -140,6 +140,22 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação de Personas
 
+<center>
+
+**Tabela 5** - Checklist para os Itens das Personas.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
+| P3 | O artefato possui persona primária ? | Sim | -- |
+| P4 | O artefato possui antipersona ? | Sim | -- |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Ele cita que o ideal é de 3 a 12 personas mas, não explica a motivação da quantidade utilizada no artefato. |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
+
 ### Checklist de Brainstorming
 
 ### Checklist de Entrevista
@@ -147,6 +163,22 @@ Fonte: Maria Barbosa, 2023.
 ### Checklist de Introspecção
 
 ### Checklist de Observação
+
+<center>
+
+**Tabela 9** - Checklist para os Itens da Observação.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?| Sim | -- |
+| O2 | O artefato apresenta a gravação da técnica com o voluntário ? | Sim | -- |
+| O3 | O artefato possui um termo de consentimento do usuário observado ? | Não | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
+| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  | Sim | -- |
+| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? | Sim | -- |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
 
 ### Checklist de MoSCoW
 
