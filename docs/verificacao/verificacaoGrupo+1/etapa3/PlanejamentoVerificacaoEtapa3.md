@@ -130,6 +130,24 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação de Léxicos
 
+<center>
+
+**Tabela 7** - Checklist para os Itens dos léxicos.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? | Sim | -- |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? | Sim | -- |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) | Não | O artefato não apresenta uma descrição breve do que é cada tipo de léxico. |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) | Sim | -- |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? | Sim | -- |
+| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? | Sim | -- |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
 
 ## Bibliografia
 

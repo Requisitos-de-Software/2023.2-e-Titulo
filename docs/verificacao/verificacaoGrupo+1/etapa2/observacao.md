@@ -46,7 +46,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | O2 | O artefato apresenta a gravação da técnica com o voluntário ? | Sim | -- |
 | O3 | O artefato possui um termo de consentimento do usuário observado ? | Não | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
 | O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  | Sim | -- |
-| O5 | O artefato possui legenda para a tabela dos requisitos elicitados ? ? | Sim | -- |
+| O5 | O artefato possui legenda para a tabela dos requisitos elicitados ? | Sim | -- |
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
