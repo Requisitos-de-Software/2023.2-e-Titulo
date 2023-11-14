@@ -150,7 +150,7 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist de MoSCoW
 
-**Tabela 1** - Checklist para os Itens do MoSCoW.
+**Tabela 10** - Checklist para os Itens do MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
