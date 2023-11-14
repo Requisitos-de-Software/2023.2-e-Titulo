@@ -25,8 +25,8 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G3  | O artefato possui uma dinâmica definida? | Sim  |  |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim |  |
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Incompleto | Entrevista 1 está em formato diferente das demais, seria interessante deixar a documentação seguindo um padrão. |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  Incompleto |  Tabela de requisitos elicitados ficou sem o chamado e identificação.  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Incompleto | Sugestões abaixo. |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  Incompleto |  Sugestões abaixo.  |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim  |  |
 | B1 | O artefato possui um conograma das entrevistas ? | Sim |  |
 | B2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Sim |  |
@@ -35,7 +35,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | B5 | O artefato possui dados demográficos ?  | Sim |  |
 | B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?| Sim |  |
 | B7 | O artefato apresenta o roteiro da entrevista? | Sim |  |
-| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? | Incompleto | Faltou a concluusão da entrevista. (obs: seria interessante adicionar na documentação as etapas) |
+| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? | Incompleto | Sugestões abixo. |
 | B9 | Os requisitos identificados foram expostos? | Sim |  |
 | B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? | Sim |  |
 
@@ -49,8 +49,9 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-  -
-  -
+  - Entrevista 1 está em formato diferente das demais, seria interessante deixar a documentação seguindo um padrão.
+  - Tabela de requisitos elicitados ficou sem o chamado e identificação.
+  - Faltou a concluusão da entrevista. (obs: seria interessante adicionar na documentação as etapas).
 
 Os erros serão corrigidos após uma análise e validação conjunta dos problemas identificados com o grupo. Posteriormente, os resultados serão apresentados ao professor da disciplina, conforme previamente acordado no [planejamento.](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1.md)
 
