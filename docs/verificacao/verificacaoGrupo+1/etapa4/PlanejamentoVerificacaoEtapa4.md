@@ -144,6 +144,23 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ### Checklist da Verificação do NFR Framework
 
+<center>
+
+**Tabela 6** - Checklist para os Itens do NFR Framework.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
+| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
+| NF3 | Os softgoals condizem com o contexto? |  |  |
+| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
+| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
+| NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
+
+Fonte: Maria Marques, 2023.
+
+</center>
+
 
 ## Bibliografia
 
@@ -153,7 +170,9 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
+

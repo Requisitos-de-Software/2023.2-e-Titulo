@@ -199,6 +199,21 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ### Checklist do First Things First
 
+<center>
+
+**Tabela 11** - Checklist para os Itens do First Things First.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? |  |  |
+| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? |  |  |
+| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
+| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
+
+Fonte: Maria Marques, 2023.
+
+</center>
+
 ### Checklist do Three Level Scale
 
 **Tabela 12** - Checklist para os Itens do Three Level Scale.
@@ -227,3 +242,4 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+
