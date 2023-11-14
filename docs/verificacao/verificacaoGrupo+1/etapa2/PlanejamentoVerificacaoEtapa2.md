@@ -160,7 +160,53 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ### Checklist de Brainstorming
 
+<center>
+
+**Tabela 1** - Checklist para os Itens do Brainstorming.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? |  |  |
+| B2 | Possui gravação da sessão Brainstorming ? |  |  |
+| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
+| B4 | A elicitação contou com moderador e um secretário. |  |  |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  |  |
+| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? |  |  |
+| B7 | Os requisitos identificados foram expostos? |  |  |
+| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?|   |  |
+| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? |  |  |
+| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? |  |  |
+| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |  |  |
+| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |  |  |
+
+
+Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+
+</center>
+
+
 ### Checklist de Entrevista
+
+<center>
+
+**Tabela 1** - Checklist para os Itens da Entrevista.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| B1 | O artefato possui um conograma das entrevistas ? |  |  |
+| B2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
+| B3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
+| B4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
+| B5 | O artefato possui dados demográficos ?  |  |  |
+| B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
+| B7 | O artefato apresenta o roteiro da entrevista? |  |  |
+| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
+| B9 | Os requisitos identificados foram expostos? |  |  |
+| B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
+
+Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+
+</center>
 
 ### Checklist de Introspecção
 
