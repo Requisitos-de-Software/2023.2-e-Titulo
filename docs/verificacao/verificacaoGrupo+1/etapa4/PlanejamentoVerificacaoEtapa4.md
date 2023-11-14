@@ -103,6 +103,7 @@ Fonte: Maria Barbosa, 2023.
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -113,17 +114,33 @@ Fonte: Maria Barbosa, 2023.
 
 <center>
 
-**Tabela 4** - Checklist para os Itens do Histórias de Usuário.
+**Tabela 4** - Checklist para os Itens das Histórias de Usuário.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| H1 |  |  |  |
+| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
+| H2 | As histórias possuem um ID? |  |  |
+| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? |  |  |
+| H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
+| H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
+| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
 </center>
 
 ### Checklist da Verificação do Backlog
+
+**Tabela 5** - Checklist para os Itens de Backlog.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
+| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
+| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
+| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ### Checklist da Verificação do NFR Framework
 
@@ -149,5 +166,13 @@ Fonte: Maria Marques, 2023.
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
+
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ----------- | ------------ | ---------- |
 

@@ -110,6 +110,7 @@ Fonte: Maria Barbosa, 2023.
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -123,10 +124,10 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| A1 | O artefato disponibiliza o vídeo? |  |  |
+| A1 | O artefato disponibiliza o vídeo da apresentação? |  |  |
 | A2 | O vídeo está como Não listado? |  |  |
 | A3 | O artefato informa os integrantes que estavam presente na apresentação? |  |  |
-| A4 | O artefato apresenta os Critérios de entrega? |  |  |
+| A4 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -150,15 +151,47 @@ Fonte: Maria Eduarda Marques, 2023.
 
 ### Checklist da Verificação da Metodologia
 
+<center>
+
+**Tabela 7** - Checklist para os Itens da Metodologia.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? |  |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
+| M4 | O artefato apresenta a política e estrutura de commits? |  |  |
+| M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
+| M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? |  |  |
+| M7 | O artefato apresenta a política e estrutura para a criação de issues ? |  |  |
+| M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |  |  |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
+
 ### Checklist da Verificação das Ferramentas
 
 ### Checklist da Verificação do Rich Picture
 
+**Tabela 8** - Checklist para os Itens do Rich Picture.
 
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| RP1 | O artefato possui a ferramenta utilizada? |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
+| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
+| RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
+| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 

@@ -105,6 +105,7 @@ Fonte: Maria Barbosa, 2023.
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -118,7 +119,16 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CE1 |  |  |  |
+| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? |  |  |
+| CE2 | Os cenários possuem numeração? |  |  |
+| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
+| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? |  |  |
+| CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
+| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
+
+
 
 Fonte: Maria Barbosa, 2023.
 
@@ -130,10 +140,30 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação de Léxicos
 
+<center>
+
+**Tabela 7** - Checklist para os Itens dos léxicos.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? | Sim | -- |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? | Sim | -- |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) | Não | O artefato não apresenta uma descrição breve do que é cada tipo de léxico. |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) | Sim | -- |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? | Sim | -- |
+| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? | Sim | -- |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
 
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
@@ -142,3 +172,4 @@ Fonte: Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação de Cenários.  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) |
+| `2.0`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação de Cenários.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
