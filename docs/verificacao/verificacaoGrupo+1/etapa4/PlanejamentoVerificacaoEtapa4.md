@@ -151,9 +151,3 @@ Fonte: Maria Marques, 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Histórico de Versões
-
-| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Histórias de Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.1`  | 13/11/2023 | Adição da tabela do NFR Framework | [Maria Marques](https://github.com/EduardaSMarques)  | [Esther Sena](https://github.com/esmsena) |
