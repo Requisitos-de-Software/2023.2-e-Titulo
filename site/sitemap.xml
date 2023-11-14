@@ -256,7 +256,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa2/Introspec%C3%A7%C3%A3o/</loc>
+         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa2/Introspeccao/</loc>
          <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -272,11 +272,6 @@
     </url>
     <url>
          <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2/</loc>
-         <lastmod>2023-11-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa2/Question%C3%A1rio/</loc>
          <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -311,7 +306,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa3/Casos%20de%20uso/</loc>
+         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa2/questionario/</loc>
+         <lastmod>2023-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://requisitos-de-software.github.io/2023.2-Grupo04/verificacao/verificacaoGrupo%2B1/etapa3/Casosdeuso/</loc>
          <lastmod>2023-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>

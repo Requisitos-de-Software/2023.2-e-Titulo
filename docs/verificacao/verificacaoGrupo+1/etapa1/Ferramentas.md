@@ -62,8 +62,6 @@ Artefato bem desenvolvido, porém faltou mencionar a ferrameta utilizada para o 
 
 > 2023.1-Jitsi. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/. Acesso em: 12 de novembro de 2023.
 
-> 2023.1-Simplenote. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Introspec%C3%A7%C3%A3o/. Acesso em: 13 de novembro de 2023.
-
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|:-----------------------------|---------------|-------------|

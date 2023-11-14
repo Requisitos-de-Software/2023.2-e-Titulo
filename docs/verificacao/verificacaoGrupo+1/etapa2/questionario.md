@@ -1,4 +1,4 @@
-# Introspecção - Verificação
+# Questionário - Verificação
 
 ## Introdução
 Este documento tem como objetivo verificar se o artefato ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/)
@@ -63,7 +63,7 @@ Artefato bem desenvolvido, porém poderia apenas mencionar qual a função do pe
 
 > 2023.1-Jitsi. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/. Acesso em: 12 de novembro de 2023.
 
-> 2023.1-Simplenote. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Introspec%C3%A7%C3%A3o/. Acesso em: 13 de novembro de 2023.
+> 2023.1-Simplenote. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Question%C3%A1rio/. Acesso em: 13 de novembro de 2023.
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|:-----------------------------|---------------|-------------|

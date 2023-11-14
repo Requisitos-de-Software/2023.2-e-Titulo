@@ -1,7 +1,7 @@
 # Apresentação 4
 
 ## Introdução
- Essa página tem como principal objetivo armazenar o vídeo de apresentação da terceira entrega, no qual se encontra no link a seguir.
+ Essa página tem como principal objetivo armazenar o vídeo de apresentação da quarta entrega, no qual se encontra no link a seguir.
 
 ## Vídeo
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/DW8tAK6fcTg)
