@@ -125,6 +125,17 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Backlog
 
+**Tabela 5** - Checklist para os Itens de Backlog.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
+| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
+| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
+| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
 ### Checklist da Verificação do NFR Framework
 
 
