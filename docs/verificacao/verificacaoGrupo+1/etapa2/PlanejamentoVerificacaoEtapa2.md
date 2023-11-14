@@ -189,16 +189,16 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato possui um conograma das entrevistas ? |  |  |
-| B2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| B3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
-| B4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
-| B5 | O artefato possui dados demográficos ?  |  |  |
-| B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
-| B7 | O artefato apresenta o roteiro da entrevista? |  |  |
-| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
-| B9 | Os requisitos identificados foram expostos? |  |  |
-| B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
+| E1 | O artefato possui um conograma das entrevistas ? |  |  |
+| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
+| E3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
+| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
+| E5 | O artefato possui dados demográficos ?  |  |  |
+| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
+| E7 | O artefato apresenta o roteiro da entrevista? |  |  |
+| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
+| E9 | Os requisitos identificados foram expostos? |  |  |
+| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
@@ -227,21 +227,20 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
-
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | Foi informado o motivo da escolha do questionário? | ✔ | - |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? | ✔ | - |
-| Q3 | O questionário foi aplicado onde se tinha o público alvo? | ✔ | Foi informado mas não especificado. |
-| Q4 | Os resultados foram tratados e apresentados? | ✔ | - |
-| Q5 | Apresenta no texto o prazo em que ficou aberto ? | ✔ | - |
-| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? | ✔ | - |
-| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? | ✔ | - |
-| Q8 | O perfil de usuário apresenta os pontos principais requisitados? | ✔ | - |
-| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | ✔ | - |
-| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | ✖ | - |
-| Q5 | É explicitado como o questionário será utilizado? | ✔ | - |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | ✖ | - |
+| Q1 | Foi informado o motivo da escolha do questionário? |  |  |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? |  |  |
+| Q3 | O questionário foi aplicado onde se tinha o público alvo? |  | |
+| Q4 | Os resultados foram tratados e apresentados? |  |  |
+| Q5 | Apresenta no texto o prazo em que ficou aberto ? |  |  |
+| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? |  |  |
+| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? |  |  |
+| Q8 | O perfil de usuário apresenta os pontos principais requisitados? |  |  |
+| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? |  |  |
+| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? |  |  |
+| Q5 | É explicitado como o questionário será utilizado? |  |  |
+| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
 
 **Tabela 2** - Checklist para os Itens do Questionário.
 
