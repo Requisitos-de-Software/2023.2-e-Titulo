@@ -135,6 +135,20 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação da Escolha do Aplicativo
 
+<center>
+
+**Tabela 5** - Checklist para os Itens da Escolha do Aplicativo.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
+| EA2 | O artefato possui o Termo de Uso? |  |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+
+
+Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+
+</center>
 ### Checklist da Verificação do Cronograma
 
 **Tabela 6** - Checklist para os Itens do Cronograma.
