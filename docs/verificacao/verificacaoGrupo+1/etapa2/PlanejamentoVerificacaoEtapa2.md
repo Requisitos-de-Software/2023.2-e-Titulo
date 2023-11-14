@@ -176,9 +176,3 @@ Fonte: Maria Marques, 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Histórico de Versões
-
-| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
-| `1.1`  | 12/11/2023 | Adição da tabela FTF | [Maria Marques](https://github.com/EduardaSMarques)  | [Esther Sena](https://github.com/esmsena) |
