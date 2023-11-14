@@ -138,6 +138,39 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação da Especificação Suplementar
 
+<center>
+
+**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| B1 | O documento adere ao formato FURPS+? |  |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento? |   |  |
+| B3 | Há uma seção referente à usabilidade no documento? |   |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? |  |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? |  |  |
+| B6 | Os requisitos identificados foram claramente apresentados? |  |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? |  |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? |  |  |
+| B9 | Existe uma seção de desempenho no documento?|  |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? |  |  |
+| B11 | O documento inclui uma seção sobre suportabilidade? |  |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? |  |  |
+| B13 | Há uma seção dedicada a restrições de design no documento? |  |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?|  |  |
+| B15 | Existe uma seção de requisitos de implementação no documento? |  |  |
+| B16 | Os requisitos apresentados são testáveis? |  |  |
+| B17 | Há uma seção de requisitos de interface no documento? |  |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
+| B20 | O documento contempla requisitos físicos? |  |  |
+| B21 | Os léxicos relacionados são mencionados no artefato? |  |  |
+
+
+Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+
+</center>
+
 ### Checklist da Verificação de Léxicos
 
 <center>
