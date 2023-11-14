@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica a Entravista realizada pelo grupo 5 apresentando um Checklist da Verificação da Entravista indicando sugestões e melhorias. 
+Este artefato verifica a Entrevista realizada pelo grupo 5 apresentando um Checklist da Verificação da Entrevista indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -10,13 +10,13 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-## Checklist da Verificação da Entravista
+## Checklist da Verificação da Entrevista
 
 O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Entravista.
+**Tabela 1** - Checklist para os Itens da Entrevista.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
