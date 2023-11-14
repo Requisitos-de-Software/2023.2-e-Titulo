@@ -72,7 +72,7 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Introspecção. | [João Victor](https://github.com/jvcostta) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | -- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | -- |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de First Things First. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Three Level Scale. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 
@@ -182,10 +182,35 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ### Checklist de MoSCoW
 
+**Tabela 10** - Checklist para os Itens do MoSCoW.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| MS1 | No artefato há a participação do cliente e/ou persona? |  |  |
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| MS3 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? |  |  |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? |  |  |
+| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
 ### Checklist do First Things First
 
 ### Checklist do Three Level Scale
 
+**Tabela 12** - Checklist para os Itens do Three Level Scale.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| TLS1 | No artefato há a participação do cliente e/ou persona? |  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  |  |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  |  |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
