@@ -29,11 +29,9 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Incompleto | Observação abaixo |
 | CM1 | O documento possui o cronograma planejado e executado? | Sim |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante
-com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |  |
+| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim |  |
 | CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? | Sim |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da
-construção/realização do artefato/atividade? | Sim |  |
+| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim |  |
 | CM5 |O cronograma executado possui as datas das correções após os feedbacks? | Sim |  |
 
 
