@@ -1,4 +1,4 @@
-# Verificação das Apresentações do Grupo 5
+# Verificação do Rich Picture do Grupo 5
 
 ## Introdução
 

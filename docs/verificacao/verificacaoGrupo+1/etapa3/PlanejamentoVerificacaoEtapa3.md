@@ -21,11 +21,7 @@ Neste artefato será apresentado os checklists que serão utilizados para a veri
 
 **Figura 1** - Etapas da Inspeção de acordo com o Fagan.
 
-<figure markdown class="usecaseElement">
-
-![inspecao-fagan](../../../../docs/imgs/imgEtapasInspecaoFagan.png)
-
-</figure>
+![inspecao-fagan](../../../imgs/imgEtapasInspecaoFagan.png)
 
 Fonte: SERRANO; SERRANO.
 
@@ -179,14 +175,14 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? | Sim | -- |
-| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? | Sim | -- |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) | Não | O artefato não apresenta uma descrição breve do que é cada tipo de léxico. |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) | Sim | -- |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
-| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? | Sim | -- |
-| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? | Sim | -- |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |  |  |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? |  |  |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  |  |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  |  |
+| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 

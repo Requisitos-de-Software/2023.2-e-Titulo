@@ -21,11 +21,7 @@ Neste artefato será apresentado os checklists que serão utilizados para a veri
 
 **Figura 1** - Etapas da Inspeção de acordo com o Fagan.
 
-<figure markdown class="usecaseElement">
-
-![inspecao-fagan](../../../../docs/imgs/imgEtapasInspecaoFagan.png)
-
-</figure>
+![inspecao-fagan](../../../imgs/imgEtapasInspecaoFagan.png)
 
 Fonte: SERRANO; SERRANO.
 
@@ -148,11 +144,11 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
-| P3 | O artefato possui persona primária ? | Sim | -- |
-| P4 | O artefato possui antipersona ? | Sim | -- |
-| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Ele cita que o ideal é de 3 a 12 personas mas, não explica a motivação da quantidade utilizada no artefato. |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
+| P3 | O artefato possui persona primária ? |  |  |
+| P4 | O artefato possui antipersona ? |  |  |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -218,11 +214,11 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?| Sim | -- |
-| O2 | O artefato apresenta a gravação da técnica com o voluntário ? | Sim | -- |
-| O3 | O artefato possui um termo de consentimento do usuário observado ? | Não | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
-| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  | Sim | -- |
-| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? | Sim | -- |
+| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?|  |  |
+| O2 | O artefato apresenta a gravação da técnica com o voluntário ? |  |  |
+| O3 | O artefato possui um termo de consentimento do usuário observado ? |  | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
+| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  |  |  |
+| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 

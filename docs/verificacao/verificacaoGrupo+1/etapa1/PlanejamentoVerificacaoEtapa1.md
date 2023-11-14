@@ -19,11 +19,7 @@ As etapas da metodologia de Inspeção proposto por fagan estão representadas n
 
 **Figura 1** - Etapas da Inspeção de acordo com o Fagan.
 
-<figure markdown class="usecaseElement">
-
-![inspecao-fagan](../../../../docs/imgs/imgEtapasInspecaoFagan.png)
-
-</figure>
+![inspecao-fagan](../../../imgs/imgEtapasInspecaoFagan.png)
 
 Fonte: SERRANO; SERRANO.
 

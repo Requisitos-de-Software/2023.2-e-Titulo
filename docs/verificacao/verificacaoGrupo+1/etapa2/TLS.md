@@ -1,4 +1,4 @@
-# Verificação das Apresentações do Grupo 5
+# Verificação do Three Level Scale do Grupo 5
 
 ## Introdução
 

@@ -21,11 +21,7 @@ Neste artefato será apresentado os checklists que serão utilizados para a veri
 
 **Figura 1** - Etapas da Inspeção de acordo com o Fagan.
 
-<figure markdown class="usecaseElement">
-
-![inspecao-fagan](../../../../docs/imgs/imgEtapasInspecaoFagan.png)
-
-</figure>
+![inspecao-fagan](../../../imgs/imgEtapasInspecaoFagan.png)
 
 Fonte: SERRANO; SERRANO.
 

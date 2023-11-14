@@ -14,10 +14,16 @@ nav:
     - Ata 04: atas/ata_reuniao_04.md
     - Ata 05: atas/ata_reuniao_05.md
     - Ata 06: atas/ata_reuniao_06.md
+    - Ata 07: atas/ata_reuniao_07.md
+    - Ata 08: atas/ata_reuniao_08.md
+    - Ata 09: atas/ata_reuniao_09.md
+    - Ata 10: atas/ata_reuniao_10.md
+    - Ata 11: atas/ata_reuniao_11.md   
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
     - Apresentação 02: apresentacoes/apresentacao02.md
-    - Apresentação 03: apresentacoes/apresentacao03.md    
+    - Apresentação 03: apresentacoes/apresentacao03.md
+    - Apresentação 04: apresentacoes/apresentacao04.md    
   - Planejamento:
     - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
     - Termos de Uso: planejamento/copiatermos.md
@@ -50,6 +56,36 @@ nav:
     - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
     - Backlog: modelagem/agil/backlog.md
     - NFR Framework: modelagem/agil/nfr.md
+  - Verificação grupo 5:
+    - Entrega 1:
+      - Planejamento da Verificação da Primeira Entrega: verificacao/verificacaoGrupo+1/etapa1/PlanejamentoVerificacaoEtapa1.md
+      - Apresentação: verificacao/verificacaoGrupo+1/etapa1/apresentacao.md
+      - Cronograma: verificacao/verificacaoGrupo+1/etapa1/cronograma.md
+      - Escolha do Aplicativo: verificacao/verificacaoGrupo+1/etapa1/escolha-do-aplicativo.md
+      - Metodologia: verificacao/verificacaoGrupo+1/etapa1/metodologia.md
+      - Rich Picture: verificacao/verificacaoGrupo+1/etapa1/richPicture.md
+    - Entrega 2:
+      - Planejamento da Verificação da Segunda Entrega: verificacao/verificacaoGrupo+1/etapa2/PlanejamentoVerificacaoEtapa2.md
+      - Personas: verificacao/verificacaoGrupo+1/etapa2/personas.md
+      - Perfil do Usuário: verificacao/verificacaoGrupo+1/etapa2/PerfilUsuario.md
+      - Elicitação:
+        - Brainstorming: verificacao/verificacaoGrupo+1/etapa2/brainstorming.md
+        - Entrevista: verificacao/verificacaoGrupo+1/etapa2/entrevista.md
+        - Observação: verificacao/verificacaoGrupo+1/etapa2/observacao.md
+      - Priorização:
+        - First Things First: verificacao/verificacaoGrupo+1/etapa2/firstThingsFirst.md
+        - MoSCoW: verificacao/verificacaoGrupo+1/etapa2/MoSCoW.md
+        - Three Level Scale: verificacao/verificacaoGrupo+1/etapa2/TLS.md    
+    - Entrega 3:
+      - Planejamento da Verificação da Terceira Entrega: verificacao/verificacaoGrupo+1/etapa3/PlanejamentoVerificacaoEtapa3.md
+      - Especificação Suplementar: verificacao/verificacaoGrupo+1/etapa3/especificacao-suplementar.md
+      - Cenários: verificacao/verificacaoGrupo+1/etapa3/cenarios.md
+      - Léxicos: verificacao/verificacaoGrupo+1/etapa3/lexicos.md
+    - Entrega 4:
+      - Planejamento da Verificação da Terceira Entrega: verificacao/verificacaoGrupo+1/etapa4/PlanejamentoVerificacaoEtapa4.md
+      - Backlog: verificacao/verificacaoGrupo+1/etapa4/backlog.md
+      - Histórias de Usuário: verificacao/verificacaoGrupo+1/etapa4/historiasUsuario.md
+      - NFR Framework: verificacao/verificacaoGrupo+1/etapa4/nfrFramework.md
 
 
 

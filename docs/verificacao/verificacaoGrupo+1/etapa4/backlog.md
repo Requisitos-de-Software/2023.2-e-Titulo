@@ -1,4 +1,4 @@
-# Verificação das Apresentações do Grupo 5
+# Verificação das Backlog do Grupo 5
 
 ## Introdução
 
