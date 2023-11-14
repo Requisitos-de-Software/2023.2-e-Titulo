@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica a Espacificação Suplementar realizada pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
+Este artefato verifica a Especificação Suplementar realizada pelo grupo 5 apresentando um Checklist da Verificação da Especificação Suplementar e indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -10,13 +10,13 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-## Checklist da Verificação da Espacificação Suplementar
+## Checklist da Verificação da Especificação Suplementar
 
 O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Espacificação Suplementar.
+**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -74,4 +74,4 @@ Os erros serão corrigidos após uma análise e validação conjunta dos problem
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Espacificação Suplementar. | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Especificação Suplementar. | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
