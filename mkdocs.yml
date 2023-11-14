@@ -61,6 +61,7 @@ nav:
       - Planejamento da Verificação da Primeira Entrega: verificacao/verificacaoGrupo+1/etapa1/PlanejamentoVerificacaoEtapa1.md
       - Apresentação: verificacao/verificacaoGrupo+1/etapa1/apresentacao.md
       - Cronograma: verificacao/verificacaoGrupo+1/etapa1/cronograma.md
+      - Ferramentas: verificacao/verificacaoGrupo+1/etapa1/Ferramentas.md
       - Escolha do Aplicativo: verificacao/verificacaoGrupo+1/etapa1/escolha-do-aplicativo.md
       - Metodologia: verificacao/verificacaoGrupo+1/etapa1/metodologia.md
       - Rich Picture: verificacao/verificacaoGrupo+1/etapa1/richPicture.md
@@ -72,6 +73,8 @@ nav:
         - Brainstorming: verificacao/verificacaoGrupo+1/etapa2/brainstorming.md
         - Entrevista: verificacao/verificacaoGrupo+1/etapa2/entrevista.md
         - Observação: verificacao/verificacaoGrupo+1/etapa2/observacao.md
+        - Itrospecção: verificacao/verificacaoGrupo+1/etapa2/Introspeccao.md
+        - Questionário: verificacao/verificacaoGrupo+1/etapa2/questionario.md
       - Priorização:
         - First Things First: verificacao/verificacaoGrupo+1/etapa2/firstThingsFirst.md
         - MoSCoW: verificacao/verificacaoGrupo+1/etapa2/MoSCoW.md
@@ -79,6 +82,7 @@ nav:
     - Entrega 3:
       - Planejamento da Verificação da Terceira Entrega: verificacao/verificacaoGrupo+1/etapa3/PlanejamentoVerificacaoEtapa3.md
       - Especificação Suplementar: verificacao/verificacaoGrupo+1/etapa3/especificacao-suplementar.md
+      - Casos de uso: verificacao/verificacaoGrupo+1/etapa3/Casosdeuso.md
       - Cenários: verificacao/verificacaoGrupo+1/etapa3/cenarios.md
       - Léxicos: verificacao/verificacaoGrupo+1/etapa3/lexicos.md
     - Entrega 4:
