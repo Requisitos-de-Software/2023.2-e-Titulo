@@ -206,6 +206,50 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 ### Checklist de Introspecção
 
+<center>
+
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| I1 | O processo de elicitação foi devidamente explicado e documentado? |  |  |
+| I2 | Os requisitos elicitados foram classificados corretamente? |  |  |
+| I3 | Foram elicitados requisitos que não estão presentes no aplicativo?	 |  |  |
+| I5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
+| I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  |  | 
+
+**Tabela 2** - Checklist para os Itens da Introspecção.
+
+Fonte: [João Costa.](https://github.com/jvcostta)
+
+</center>
+
+### Checklist de Questionário
+
+<center>
+
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| Q1 | Foi informado o motivo da escolha do questionário? | ✔ | - |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? | ✔ | - |
+| Q3 | O questionário foi aplicado onde se tinha o público alvo? | ✔ | Foi informado mas não especificado. |
+| Q4 | Os resultados foram tratados e apresentados? | ✔ | - |
+| Q5 | Apresenta no texto o prazo em que ficou aberto ? | ✔ | - |
+| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? | ✔ | - |
+| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? | ✔ | - |
+| Q8 | O perfil de usuário apresenta os pontos principais requisitados? | ✔ | - |
+| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | ✔ | - |
+| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | ✖ | - |
+| Q5 | É explicitado como o questionário será utilizado? | ✔ | - |
+| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | ✖ | - |
+
+**Tabela 2** - Checklist para os Itens do Questionário.
+
+Fonte: [João Costa.](https://github.com/jvcostta)
+
+</center>
+
+
 ### Checklist de Observação
 
 <center>

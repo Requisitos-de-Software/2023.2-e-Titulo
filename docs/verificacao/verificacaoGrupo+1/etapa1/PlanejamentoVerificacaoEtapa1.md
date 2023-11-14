@@ -182,6 +182,28 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ### Checklist da Verificação das Ferramentas
 
+<center>
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
+| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? |  |  |
+| F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
+| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? |  |  |
+| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
+| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
+| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
+| F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
+| F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? |  |  |
+
+**Tabela 2** - Checklist para os Itens das Ferramentas.
+
+Fonte: [João Costa.](https://github.com/jvcostta)
+
+</center>
+
 ### Checklist da Verificação do Rich Picture
 
 **Tabela 8** - Checklist para os Itens do Rich Picture.
