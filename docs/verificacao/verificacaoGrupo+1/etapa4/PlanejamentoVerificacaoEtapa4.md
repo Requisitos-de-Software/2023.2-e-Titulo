@@ -131,6 +131,17 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Backlog
 
+**Tabela 5** - Checklist para os Itens de Backlog.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
+| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
+| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
+| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
 ### Checklist da Verificação do NFR Framework
 
 
@@ -146,5 +157,3 @@ Fonte: Maria Barbosa, 2023.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação do Histórias de Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `2.0`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação do Histórias de Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |

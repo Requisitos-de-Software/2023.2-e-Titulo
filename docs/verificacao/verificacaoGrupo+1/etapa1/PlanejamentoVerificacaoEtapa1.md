@@ -139,11 +139,41 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação da Metodologia
 
+<center>
+
+**Tabela 7** - Checklist para os Itens da Metodologia.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? |  |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
+| M4 | O artefato apresenta a política e estrutura de commits? |  |  |
+| M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
+| M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? |  |  |
+| M7 | O artefato apresenta a política e estrutura para a criação de issues ? |  |  |
+| M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |  |  |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
+
 ### Checklist da Verificação das Ferramentas
 
 ### Checklist da Verificação do Rich Picture
 
+**Tabela 8** - Checklist para os Itens do Rich Picture.
 
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| RP1 | O artefato possui a ferramenta utilizada? |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
+| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
+| RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
+| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
@@ -159,4 +189,3 @@ Fonte: Maria Barbosa, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.1`  | 12/11/2023 | Ajuste de datas e correção de erros  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
-| `1.2`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
