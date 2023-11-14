@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica o Brainstorming realizada pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
+Este artefato verifica o Brainstorming realizado pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -21,7 +21,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | G1  | O artefato possui Introdução? | Sim  |  |
-| G2  | O artefato possui Objetivo? |  |  |
+| G2  | O artefato possui Objetivo? | Não |  |
 | G3  | O artefato possui uma dinâmica definida? | Sim |  |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  Sim |  |
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
