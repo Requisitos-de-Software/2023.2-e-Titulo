@@ -195,3 +195,12 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 > 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+
+## Hitórico de versão
+
+| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ----------- | ------------ | ---------- |
+| `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e .....  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.1`  | 12/11/2023 |  Checklist Geral e Checklist Verificação de Especificação Suplementar.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+
