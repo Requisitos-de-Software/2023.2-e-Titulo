@@ -227,3 +227,11 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+## Histórico de versão
+
+| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ----------- | ------------ | ---------- |
+| `1.1`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.2`  | 12/11/2023 | Adição do checklist de Metodologia  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.3`  | 12/11/2023 | Checklist Geral e Checklist Verificação de Escolha do aplicativo.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+
