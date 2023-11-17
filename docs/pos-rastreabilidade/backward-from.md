@@ -7,6 +7,29 @@ Neste documento, exploraremos a abordagem "Backward From" na elicitação de req
 Este documento é um guia para usar a técnica "Backward From" na obtenção de requisitos. Vamos explorar como essa abordagem nos ajuda a entender melhor o que um sistema precisa, começando pelo resultado desejado e retrocedendo até as necessidades fundamentais. A ideia é oferecer uma ferramentas para aplicar essa técnica de engenharia reversa de requisitos de forma inovadora, ajudando no desenvolvimento de sistemas mais sólidos e claros. 
 
 ## Metodologia
+
+A rastreabilidade transcende sua função na gestão de requisitos; ela emerge como um aliado crucial na busca pela excelência na GERÊNCIA DA QUALIDADE. O Meta-modelo proposto por Toranzo, habilmente, proporciona uma metodologia que simplifica a especificação do rastro, tornando o processo mais claro e eficiente.
+
+Ao seguir o Meta-modelo de Toranzo para a elaboração do artefato, embarcamos em duas etapas fundamentais, delineadas nos slides 19 e 21 do inspirador arquivo "Requisitos-Aula 26" de Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
+
+Essas etapas iniciais compreendem os conceitos de níveis e elos, fundamentais para a construção de um rastro eficaz.
+
+Níveis:
+
+   - Ambiental: Envolvendo informações provenientes do contexto em que a organização está inserida;
+   - Organizacional: Compreendendo dados intrínsecos à organização, como missão, objetivos e estratégias;
+   - Gerencial: Incluindo informações cruciais para a gerência do projeto;
+   - Desenvolvimento: Abordando dados associados aos diversos artefatos gerados ao longo do processo de desenvolvimento, tais como artefatos de requisitos, diagramas, códigos, casos de teste, entre outros.
+
+Elos Principais:
+
+   - Satisfação: Estabelece uma dependência da classe origem em relação à satisfação da classe destino.
+   - Recurso: Delimita uma dependência da classe origem em relação ao recurso da classe destino.
+   - Responsabilidade: Registra a participação, responsabilidade e ação de pessoas sobre os artefatos.
+   - Representação: Captura a representação ou modelagem dos requisitos em outras linguagens.
+   - Alocado: Relaciona a classe origem à classe destino, representando um subsistema.
+   - Agregação: Indica a "composição" de elementos.
+
 Para colocar em prática a metodologia, inicialmente elaboramos duas tabelas distintas: uma dedicada aos requisitos funcionais ( Tabela 1) e outra para os requisitos não funcionais ( Tabela 2). Posteriormente, inserimos a fonte de origem desses requisitos nas tabelas, garantindo a rastreabilidade. Por último, empregando o Meta-modelo de Toranzo, delineamos as interconexões entre esses requisitos por meio dos Elos.
 
 ### Legendas:
