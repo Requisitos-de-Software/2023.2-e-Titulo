@@ -42,32 +42,47 @@ Para colocar em prática a metodologia, inicialmente elaboramos duas tabelas dis
 
 ## Tabelas de requisitos
 
+Este segmento tem como foco a criação da tabela de rastreamento de requisitos funcionais, a qual é apresentada de forma detalhada na Tabela 1 abaixo:
+
+### Legendas:
+* RF : Requisito funcional;
+* RNF : Requisito não funcional;
+* QST : Quetionário;
+* ST : Storytelling
+* [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) : Brainstorm;
+* [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  : Introspecção;
+
 ### Requisitos funcionais:
-| ID | Descrição | Origem |
-| :--: | :--: | :--: |
-| RF01 | |  |
-| RF02 | |  |
-| RF03 | |  |
-| RF04 |  |  |
-| RF05 | |  |
-| RF06 | |  |
-| RF07 | |  |
-| RF08 | |  |
-| RF9 |  |  |
-| RF10 | |  |
-| RF11 | |  |
-| RF12 | |  |
-| RF13 |  |  |
-| RF14 |  |  |
-| RF15 |  |  |
-| RF16 |  |  |
-| RF17 |  |  |
-| RF18 |  |  |
-| RF19 |  |  |
-| RF20 |  |  |
-| RF21 | |  |
-| RF22 |  |  |
-| RF23 |  |  |
+| ID | Descrição | Origem | Implementado | 
+| :--: | :--: | :--: | :--: |
+| RF01 | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF02 | Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. |  [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)   |
+| RF03 | O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF04 | Deve ser possível o usuário vizualizar a localização da votação. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF05 | Deve ser possível o usuário vizualizar seu documento do título eleiroral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF9 | Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)    | Sim |
+| RF06 | O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF07 | O aplicativo deve ter a opção de sair/logoff disponível para o usuário. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF08 | O usuário deve conseguir fazer alterações em seus dados cadastrais. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF01 | No aplicativo deve ser possível o usuário realizar a recuperação da senha. | [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF01 | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo | [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF01 | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo | [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF01 | No aplicativo deve ser possível o usuário vizualizar os termos de uso. | [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF01 | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso. | [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF10 | Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF11 | O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF12 | Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF13 |  Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RF14 | O usuário deve conseguir escolher o local de partida. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF15 | O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF16 | O usuário deve conseguir vizualizar os dados documentais. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF17 | O usuário deve conseguir vizualizar as informações da quitação eleitoral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF18 | O usuário deve conseguir vizualizar dados referentes ao criminal eleitoral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF19 | O usuário deve conseguir informar a sua justificativa no aplicativo. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF20 | O usuário deve realizar download da comprovação de sua justificativa. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF21 | O usuário deve poder alterar seus dados pessoais, por meio do site do TSE. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF22 | Deve ser possível o usuário apagar seus dados pessoais. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
+| RF23 | Deve ser possível o usuário ver o histórico de dados apagados. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |
 | RF24 | |  |
 | RF25 |  |  |
 | RF26 |  |  |
@@ -81,26 +96,26 @@ Para colocar em prática a metodologia, inicialmente elaboramos duas tabelas dis
 <figcaption align="center">Tabela 1: Requisitos funcionais (Fonte: Autores, 2022)</figcaption>
 
 ### Requisitos não funcionais:
-| ID | Descrição | Origem |
-| :--: | :--: | :--: |
-| RNF01 | |  |
-| RNF02 | |  |
-| RNF03 |  |  |
-| RNF04 |  |  |
-| RNF05 |  |  |
-| RNF06 |  |  |
-| RNF07 |  |  |
-| RNF08 |  |  |
-| RNF09 |  |  |
-| RNF10 | |  |
-| RNF11 | |  |
-| RNF12 |  |  |
-| RNF13 |  | |
-| RNF14 |  |  |  |  |
-| RNF17 |  | |
-| RNF18 |  | |
-| RNF19 |  |  |
-| RNF20 |  |  |
+| ID | Descrição | Origem | Implementado |
+| :--: | :--: | :--: | :--: |
+| RNF01 | O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF02 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF03 | O aplicativo deve permitir que o usuário altere o local de partida. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF04 | O aplicativo deve notificar sobre atualizações eleitorais. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF05 | O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF06 | O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF07 | O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF08 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF09 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF10 | O aplicativo deve permitir a leitura do qr code do título eleitoral. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF11 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos.| [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF12 | O aplicativo deve permitir que o usuário envie dúvidas. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF13 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF14 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | 
+| RNF15 | Deve ser possível o usuário ver o histórico de dados apagados. | [INT](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| RNF16 | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar |  [BS](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF17 |  |  |
+| RNF28 |  |  |
 
 <figcaption align="center">Tabela 2: Requisitos não funcionais (Fonte: Autores, 2022)</figcaption>
 
