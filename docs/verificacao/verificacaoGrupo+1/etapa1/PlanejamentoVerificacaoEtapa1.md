@@ -198,7 +198,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
 | F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? |  |  |
 
-**Tabela 2** - Checklist para os Itens das Ferramentas.
+**Tabela 8** - Checklist para os Itens das Ferramentas.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -206,7 +206,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 ### Checklist da Verificação do Rich Picture
 
-**Tabela 8** - Checklist para os Itens do Rich Picture.
+**Tabela 9** - Checklist para os Itens do Rich Picture.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -235,4 +235,5 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | `1.1`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.2`  | 12/11/2023 | Adição do conteúdo do checklist de Metodologia  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.3`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação de Escolha do aplicativo.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.4`  | 12/11/2023 | Adição do conteúdo do Checklist de Rich Picture. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 
