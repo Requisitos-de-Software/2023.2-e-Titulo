@@ -330,4 +330,4 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | `1.1`  | 12/11/2023 | Adição do conteúdo do Verificação de Brainstorming.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.2`  | 12/11/2023 | Adição do conteúdo do Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.3`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-
+| `1.4`  | 12/11/2023 | Adição do conteúdo do Checklist de MoSCoW e Three Level Scale | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques ](https://github.com/EduardaSMarques) |
