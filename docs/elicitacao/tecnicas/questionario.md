@@ -106,11 +106,11 @@ Tabela 1 - Requisitos Funcionais
 
 |  ID  |  Descrição  | Código | Implementado |  
 | ------ | ------- | ---------| --------- |
-|  Q1 | O usuário deve poder visualizar a localização do local de votação |  RF1 | Sim |
-|  Q2 | O usuário deve poder escolher a forma de realizar o login |  RF2 | Sim |
-|  Q3 | O usuário deve poder realizar o login com a biometria |  RF3 | Sim |
-|  Q4 | O usuário deve poder realizar o login com o CPF e senha |  RF4 | Sim |
-|  Q5 | O usuário deve conseguir visualizar os dados do título eleitoral |  RF5 | Sim |
+|  QST1 | O usuário deve poder visualizar a localização do local de votação |  RF1 | Sim |
+|  QST2 | O usuário deve poder escolher a forma de realizar o login |  RF2 | Sim |
+|  QST3 | O usuário deve poder realizar o login com a biometria |  RF3 | Sim |
+|  QST4 | O usuário deve poder realizar o login com o CPF e senha |  RF4 | Sim |
+|  QST5 | O usuário deve conseguir visualizar os dados do título eleitoral |  RF5 | Sim |
 
 Fonte: Autoria própria, 2023.
 
@@ -121,9 +121,9 @@ Tabela 2 - Requisitos Não Funcionais
 
 |  ID  |  Descrição  | Código | Implementado |  
 | ------ | ------- | ---------| --------- |
-| QN1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
-| QN2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
-| QN3 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | RNF3 | Não |
+| QSTNF1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
+| QSTNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
+| QSTNF3 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | RNF3 | Não |
 
 Fonte: Autoria própria, 2023.
 
@@ -140,3 +140,4 @@ Fonte: Autoria própria, 2023.
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.4 | 04/09/2023 | Adicionando conteúdos no tópico e subtópicos de Resultados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.5 | 19/11/2023 | mudando o ID dos requisitos | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
