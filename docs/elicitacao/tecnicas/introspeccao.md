@@ -545,10 +545,9 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INTNF10 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RNF10 |
 | INTNF11 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RNF11 |
 | INTNF12 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF12 |
-| INTNF13 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF13 |
-| INTNF14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF14 |
-| INTNF15 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF15 |
-| INTNF16 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF1 |
+| INTNF13 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF13 |
+| INTNF14 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF14 |
+| INTNF15 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF15 |
 
 <div style="text-align: center">
 <p> Fonte: Autor, 2023.</p>
