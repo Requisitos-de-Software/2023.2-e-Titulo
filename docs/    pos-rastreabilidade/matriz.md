@@ -20,7 +20,18 @@ Fonte: Maria Barbosa, 2023.
 </center>
 
 ## Matriz Geral
-A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito do que foi desenvolvido nos artefatos Forward-From e Backward-From. 
+A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito do que foi desenvolvido nos artefatos Forward-From e Backward-From, a legenda logo abaixo serve para ajudar na leitura da tabela. 
+
+### Legendas:
+
+* nº: número
+* RFnº : Requisito funcional;
+* RNFnº : Requisito não funcional;
+* [QSTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) : Requisito do Questionário;
+* [STnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) : Requisito do Storytelling;
+* [ENTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) : Requisito do Entrevista;
+* [BSnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) : Requisito do Brainstorming;
+* [INTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  : Requisito do Introspecção;
 
 <center>
 
@@ -28,7 +39,33 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 
 | ID | Descrição | Artefatos relacionados (Origem) | Elicitação (Pré-Rastreabilidade) | Implementado | 
 | -- | --------- | ------------------------------- | -------------------------------- | ------------ |
+| RF01 | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG.  | Introspecção, Brainstorming e Entrevista  | [INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ENT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)  | Sim |
+| RF02 | Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro.  | Introspecção |  [INT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)   | Sim |
+| RF03 | O usuário deve poder escolher a forma de realizar o login.  | Questionário | [QST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) |   Sim |
+| RF04 | O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado.  | Introspecção, Questionario e Brainstorming | [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) ,  [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |  Sim |
+| RF05 | O usuário deve poder realizar o login com a biometria  | Questionario, Entrevista e Brainstorming | [QST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) ,  [ENT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) ,  [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)|  Sim |
+| RF06 | Deve ser possível o usuário vizualizar a localização da votação.  | Introspecção, Questionario e Storytelling | [INT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [ST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
+| RF07 | Deve ser possível o usuário vizualizar seu documento do título eleiroral.  | Introspecção, Entrevista, Questionario e Storytelling | [INT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [ENT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [QST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [ST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) |  Sim |
+| RF08 | Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo.  |  Introspecção | [INT9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) |  Sim |
+| RF09 | O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes.  | Introspecção | [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |  Sim |
+| RF10 | O aplicativo deve ter a opção de sair/logoff disponível para o usuário.  | Introspecção | [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |  Sim |
+| RF11 | O usuário deve conseguir fazer alterações em seus dados cadastrais.  | Introspecção | [INT8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |  Sim |
+| RF12 | No aplicativo deve ser possível o usuário realizar a recuperação da senha.  | Brainstorming | [BS10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RF13 | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo  | Brainstorming | [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |   Sim |
+| RF14 | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | Brainstorming | [BS13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |  Sim |
+| RF15 | No aplicativo deve ser possível o usuário vizualizar os termos de uso.  | Brainstorming | [BS7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |   Sim |
+| RF16 | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso.  | Brainstorming | [BS8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |   Sim | 
+| RF17 | Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo.  | Introspecção | [INT10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  |  Sim |
 |  |  |  |  |  |
+| RNF01 | O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. (suporte)  | Introspecção, Brainstorming e Entrevista| [INTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) ,  [BSNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ENTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) |  Não |
+| RNF02 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.  | Introspecção  | [INTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |   Não |
+| RNF03 | O aplicativo deve permitir que o usuário altere o local de partida.  | Introspecção | [INTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
+| RNF04 | O aplicativo deve notificar sobre atualizações eleitorais.  | Introspecção | [INTNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |  Sim |
+| RNF05 | O aplicativo deve ter lembretes de votação e de mudanças de localização para votação.  | Introspecção, Questionario e Storytelling | [INTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QSTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [STNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) |  Sim |
+| RNF06 | O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários  | Introspecção e Brainstorming | [INTNF06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BSNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |  Sim |
+| RNF07 | O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.  | Introspecção | [INTNF07](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |  Sim |
+| RNF08 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.  | Introspecção | [INTNF08](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |  Não |
+| RNF09 | O aplicativo deve permitir a leitura do qr code do título eleitoral.  | Introspecção e Brainstorming | [INTNF10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |  Sim |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -44,5 +81,6 @@ Fonte: Maria Barbosa, 2023.
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 19/11/2023  | adicao da estrutura inicial  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `0.2`  | 19/11/2023  | adicao do conteúdo de metodologia e a tabela no tópico matriz geral  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `0.1`  | 19/11/2023  | adição da estrutura inicial  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `0.2`  | 19/11/2023  | adição do conteúdo de metodologia e a tabela no tópico matriz geral  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `0.3`  | 19/11/2023  | adição do conteúdo (de RF01 até RF17 e RNF01 até RNF09) na matriz geral   | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
