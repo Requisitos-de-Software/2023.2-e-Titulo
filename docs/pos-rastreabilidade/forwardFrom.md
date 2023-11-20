@@ -24,7 +24,7 @@ No caso do presente artefato, ele representa a ratreabilidade forward-from(para 
 
 ## Metodologia
 
-A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from". Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
+A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from", uma abordagem de pós-rastreabilidade. Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
 
 
 ## Mapeamento
@@ -49,8 +49,11 @@ bom entendimento dos tópicos abaixo:
   | ST | Storytelling |
   | UC | Casos de Uso |
   | US | Histórias de usuário |
-  | N | NFR Framework |
-  | ES | Especificação Suplementar |
+
+Tabela 1
+  ></iframe>
+<font size="3"><p style="text-align: center">Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
+</figure>
   
 </center>
 
@@ -67,8 +70,13 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 | Casos de Uso          | UC          |
 | funcionalidade        | Representação em imagem/video       |
 
+Tabela 2
+></iframe>
+<font size="3"><p>Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
+</figure>
+
 <details>
-  <summary>Realizar o cadastro</summary>
+  <summary> RF1 - Realizar o cadastro</summary>
 
   <table>
     <thead>
@@ -94,7 +102,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF01</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS1</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -115,12 +124,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 2: Requisito funcional 1 (Fonte: Autores, 2023).</p>
+  <p>Tabela 3: Requisito funcional 1 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Realizar login</summary>
+  <summary> RF2 - Realizar login</summary>
 
   <table>
     <thead>
@@ -146,7 +155,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF02</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS2</a>
         </td>
       </tr>
       <tr>
@@ -169,12 +179,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 3: Requisito funcional 2 (Fonte: Autores, 2023).</p>
+  <p>Tabela 4: Requisito funcional 2 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Emitir Título</summary>
+  <summary> RF3 - Emitir Título</summary>
 
   <table>
     <thead>
@@ -200,7 +210,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS3</a></td>
       </tr>
       <tr>
@@ -224,12 +234,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 4: Requisito funcional 3 (Fonte: Autores, 2023).</p>
+  <p>Tabela 5: Requisito funcional 3 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Acessar QR code</summary>
+  <summary> RF4 - Acessar QR code</summary>
 
   <table>
     <thead>
@@ -255,8 +265,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS4</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT10</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS4</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -278,12 +288,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 5: Requisito funcional 4 (Fonte: Autores, 2023).</p>
+  <p>Tabela 6: Requisito funcional 4 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Visualizar local de votação</summary>
+  <summary> RF5 - Visualizar local de votação</summary>
 
   <table>
     <thead>
@@ -309,7 +319,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF05</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a>
         </td>
       </tr>
       <tr>
@@ -332,12 +343,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 6: Requisito funcional 5 (Fonte: Autores, 2023).</p>
+  <p>Tabela 7: Requisito funcional 5 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Receber notificações</summary>
+  <summary> RF6 - Receber notificações</summary>
 
   <table>
     <thead>
@@ -363,7 +374,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF06</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT4</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a>
         </td>
       </tr>
       <tr>
@@ -387,12 +399,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 7: Requisito funcional 6 (Fonte: Autores, 2023).</p>
+  <p>Tabela 8: Requisito funcional 6 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Acesso ao termo de uso</summary>
+  <summary> RF7 - Acesso ao termo de uso</summary>
 
   <table>
     <thead>
@@ -418,7 +430,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF07</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS7/BS8</a>
         </td>
       </tr>
       <tr>
@@ -442,12 +455,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 8: Requisito funcional 7 (Fonte: Autores, 2023).</p>
+  <p>Tabela 9: Requisito funcional 7 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Recuperar senha</summary>
+  <summary> RF8 - Recuperar senha</summary>
 
   <table>
     <thead>
@@ -473,8 +486,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF08</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS10</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS9/BS10</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -495,12 +507,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 9: Requisito funcional 8 (Fonte: Autores, 2023).</p>
+  <p>Tabela 10: Requisito funcional 8 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Sair do aplicativo</summary>
+  <summary> RF9 - Sair do aplicativo</summary>
 
   <table>
     <thead>
@@ -526,7 +538,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF09</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -549,12 +561,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
   </table>
 
 
-  <p>Tabela 10: Requisito funcional 9 (Fonte: Autores, 2023).</p>
+  <p>Tabela 11: Requisito funcional 9 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Visualizar dúvidas frequentes</summary>
+  <summary> RF10 - Visualizar dúvidas frequentes</summary>
 
   <table>
     <thead>
@@ -579,7 +591,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a></td>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -601,12 +614,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 11: Requisito funcional 10 (Fonte: Autores, 2023).</p>
+  <p>Tabela 12: Requisito funcional 10 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Alterar dados cadastrais</summary>
+  <summary> RF11 - Alterar dados cadastrais</summary>
 
   <table>
     <thead>
@@ -631,7 +644,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -652,12 +665,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 12: Requisito funcional 11 (Fonte: Autores, 2023).</p>
+  <p>Tabela 13: Requisito funcional 11 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Usuários apenas acima de 16 anos</summary>
+  <summary> RF12 - Usuários apenas acima de 16 anos</summary>
 
   <table>
     <thead>
@@ -682,7 +695,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF12</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -704,12 +718,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 13: Requisito funcional 12 (Fonte: Autores, 2023).</p>
+  <p>Tabela 14: Requisito funcional 12 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Acesso a internet para o uso</summary>
+  <summary> RF13 - Acesso a internet para o uso</summary>
 
   <table>
     <thead>
@@ -734,7 +748,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF13</a>/<a
+        <td><a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a></td>
       </tr>
       <tr>
@@ -756,12 +770,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 14: Requisito funcional 13 (Fonte: Autores, 2023).</p>
+  <p>Tabela 15: Requisito funcional 13 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Realizar a quitação eleitoral</summary>
+  <summary> RF14 - Realizar a quitação eleitoral</summary>
 
   <table>
     <thead>
@@ -786,7 +800,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF14</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -808,12 +822,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 15: Requisito funcional 14 (Fonte: Autores, 2023).</p>
+  <p>Tabela 16: Requisito funcional 14 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Links para app/sites externos</summary>
+  <summary> RF15 - Links para app/sites externos</summary>
 
   <table>
     <thead>
@@ -838,7 +852,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF15</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF4</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -859,12 +873,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 16: Requisito funcional 15 (Fonte: Autores, 2023).</p>
+  <p>Tabela 17: Requisito funcional 15 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Suporte ao usuário</summary>
+  <summary> RF16 - Suporte ao usuário</summary>
 
   <table>
     <thead>
@@ -889,8 +903,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS12</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF5</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -912,12 +926,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 17: Requisito funcional 16 (Fonte: Autores, 2023).</p>
+  <p>Tabela 18: Requisito funcional 16 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>LJustificativa no app</summary>
+  <summary> RF17 - Justificativa no app</summary>
 
   <table>
     <thead>
@@ -942,7 +956,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF17</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT19/INT20</a><td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -963,12 +977,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 18: Requisito funcional 17 (Fonte: Autores, 2023).</p>
+  <p>Tabela 19: Requisito funcional 17 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Alterar foto do documento</summary>
+  <summary> RF18 - Alterar foto do documento</summary>
 
   <table>
     <thead>
@@ -993,8 +1007,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT21</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1015,12 +1028,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 19: Requisito funcional 18 (Fonte: Autores, 2023).</p>
+  <p>Tabela 20: Requisito funcional 18 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Autenticidade do documento</summary>
+  <summary> RF19 - Autenticidade do documento</summary>
 
   <table>
     <thead>
@@ -1045,7 +1058,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF19</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1066,12 +1079,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 20: Requisito funcional 19 (Fonte: Autores, 2023).</p>
+  <p>Tabela 21: Requisito funcional 19 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Horário da votação</summary>
+  <summary> RF20 - Horário da votação</summary>
 
   <table>
     <thead>
@@ -1096,7 +1109,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF20</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT5</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1118,12 +1132,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 21: Requisito funcional 20 (Fonte: Autores, 2023).</p>
+  <p>Tabela 22: Requisito funcional 20 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Acompanhar apuração</summary>
+  <summary> RF21 - Acompanhar apuração</summary>
 
   <table>
     <thead>
@@ -1148,7 +1162,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF21</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT8</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1169,12 +1183,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 22: Requisito funcional 21 (Fonte: Autores, 2023).</p>
+  <p>Tabela 23: Requisito funcional 21 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Visualizar candidato eleito</summary>
+  <summary> RF22 - Visualizar candidato eleito</summary>
 
   <table>
     <thead>
@@ -1199,7 +1213,10 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF22</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT9</a>
+            /<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1220,12 +1237,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 23: Requisito funcional 22 (Fonte: Autores, 2023).</p>
+  <p>Tabela 24: Requisito funcional 22 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Proteção de dados</summary>
+  <summary> RF23 - Proteção de dados</summary>
 
   <table>
     <thead>
@@ -1250,7 +1267,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF23</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1271,12 +1288,12 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 24: Requisito funcional 23 (Fonte: Autores, 2023).</p>
+  <p>Tabela 25: Requisito funcional 23 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <details>
-  <summary>Design intuitivo</summary>
+  <summary> RF24 - Design intuitivo</summary>
 
   <table>
     <thead>
@@ -1301,7 +1318,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF24</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1322,11 +1339,125 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 25: Requisito funcional 24 (Fonte: Autores, 2023).</p>
+  <p>Tabela 26: Requisito funcional 24 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+</details>
+
+<details>
+  <summary> RF25 - Local de partida</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E02</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US02</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Dcocumento</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C03</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td>
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <p>Tabela 27: Requisito funcional 25 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary> RF26 - Visualizar documentação necessária</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E07</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US08</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Dcocumento</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT15</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L04</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C03</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td>
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <p>Tabela 28: Requisito funcional 26 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
 <br>
+
+></iframe>
+<font size="3"><p>Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
+</figure>
 
 
 
@@ -1338,7 +1469,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 | Especificação Suplementar   | USAB, CONF, DES, SUP ou FIS |
 | NFR   Framework             | NFR      |
 
-<p>Tabela 26: Modelo para os requisitos não funcionais 24 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+<p>Tabela 29: Modelo para os requisitos não funcionais 24 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 ### Legenda
 
@@ -1380,7 +1511,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 27: Requisito não funcional 01 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 30: Requisito não funcional 01 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1407,7 +1538,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 28: Requisito não funcional 02 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 31: Requisito não funcional 02 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1434,7 +1565,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 29: Requisito não funcional 03 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 32: Requisito não funcional 03 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1461,7 +1592,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 30: Requisito não funcional 04 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 33: Requisito não funcional 04 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1488,7 +1619,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 31: Requisito não funcional 05 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 34: Requisito não funcional 05 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1515,7 +1646,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 32: Requisito não funcional 06 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 35: Requisito não funcional 06 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1542,7 +1673,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 33: Requisito não funcional 07 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 36: Requisito não funcional 07 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1569,7 +1700,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 34: Requisito não funcional 08 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 37: Requisito não funcional 08 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1596,7 +1727,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 35: Requisito não funcional 09 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 38: Requisito não funcional 09 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1623,7 +1754,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 36: Requisito não funcional 10 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 39: Requisito não funcional 10 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1650,7 +1781,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 37: Requisito não funcional 11 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 40: Requisito não funcional 11 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1677,7 +1808,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 38: Requisito não funcional 12 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 41: Requisito não funcional 12 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1704,7 +1835,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 39: Requisito não funcional 13 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 42: Requisito não funcional 13 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1731,7 +1862,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 40: Requisito não funcional 14 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 43: Requisito não funcional 14 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1758,7 +1889,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 41: Requisito não funcional 15 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 44: Requisito não funcional 15 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1785,7 +1916,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 42: Requisito não funcional 16 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 45: Requisito não funcional 16 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1812,7 +1943,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 43: Requisito não funcional 17 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 46: Requisito não funcional 17 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1839,7 +1970,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 44: Requisito não funcional 18 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 47: Requisito não funcional 18 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1866,7 +1997,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
     </tbody>
   </table>
 
-  <p>Tabela 45: Requisito não funcional 19 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+  <p>Tabela 48: Requisito não funcional 19 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
 
 </details>
 
@@ -1875,3 +2006,4 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 20/11/2023 | Ajustando rastreamento | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
