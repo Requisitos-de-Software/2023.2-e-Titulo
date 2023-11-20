@@ -36,6 +36,8 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 * [ENTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) : Requisito do Entrevista;
 * [BSnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) : Requisito do Brainstorming;
 * [INTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  : Requisito do Introspecção;
+* [Enº](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro) : Épico do Backlog;
+* [Lnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/)Requisito do Léxico;
 
 <center>
 
@@ -66,7 +68,7 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 | RF21 | O usuário deve conseguir escolher o local de partida.| Introspecção | [INT14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Não |
 | RF22 | O usuário deve conseguir escolher visualizar sobre as documentações nescessárias.| Introspecção  | [INT15](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
 | RF23 | O usuário deve conseguir vizualizar os dados documentais.| Introspecção | [INT16](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RF24 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | Entrevista e Storytelling | [ENT04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [ST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Não |
+| RF24 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | Entrevista e Storytelling | [ENT04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [ST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md), [E07](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro) e [L08](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/) e [UC04](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/) | Não |
 | RF25 | O usuário deve conseguir vizualizar as informações da quitação eleitoral.| Introspecção, Entrevista e Storytelling | [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [ENT05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [ST06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)  | Sim |
 | RF26 | O usuário deve conseguir vizualizar dados referentes ao criminal eleitoral.| Introspecção | [INT18](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
 | RF27 | O usuário deve conseguir informar a sua justificativa no aplicativo.| Introspecção | [INT19](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
@@ -96,7 +98,7 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 | RNF17 |  A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários| Entrevista | [ENTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
 | RNF18 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | Entrevista | [ENTNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
 | RNF19 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | Questionário | [QSTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) | Não |
-| RNF20 | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet. | Brainstorming | [BSNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| RNF20 | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet. | Brainstorming | [E06](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro) e [BSNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
 
 
 Fonte: Maria Barbosa e Maria Marques, 2023.
