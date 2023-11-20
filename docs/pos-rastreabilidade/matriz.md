@@ -109,7 +109,7 @@ Fonte: Maria Barbosa e Maria Marques, 2023.
 
 > SERRANO, Milene. Requisitos – Aula 26. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 19 de novembro de 2023.
 
-> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 19 de novembro de 2023.
+> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 19 de novembro de 2023.
 
 ## Histórico de Versões
 
@@ -119,4 +119,4 @@ Fonte: Maria Barbosa e Maria Marques, 2023.
 | `1.1`  | 19/11/2023  | adição do conteúdo de metodologia e a tabela no tópico matriz geral  | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.2`  | 19/11/2023  | adição do conteúdo (de RF01 até RF17 e RNF01 até RNF09) na matriz geral   | [Maria Barbosa](https://github.com/Madu01) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.3`  | 19/11/2023  | Adição da introdução, objetivo e os requisitos RF18 até RF34 | [Maria Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.4`  | 19/11/2023  | Adição dos requisitos RNF10 até RNF19  | [Maria Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.4`  | 19/11/2023  | Adição dos requisitos RNF10 até RNF20  | [Maria Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
