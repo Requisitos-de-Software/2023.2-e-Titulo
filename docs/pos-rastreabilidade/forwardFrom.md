@@ -24,7 +24,7 @@ No caso do presente artefato, ele representa a ratreabilidade forward-from(para 
 
 ## Metodologia
 
-A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from". Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
+A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from", uma abordagem de pós-rastreabilidade. Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
 
 
 ## Mapeamento
@@ -49,8 +49,6 @@ bom entendimento dos tópicos abaixo:
   | ST | Storytelling |
   | UC | Casos de Uso |
   | US | Histórias de usuário |
-  | N | NFR Framework |
-  | ES | Especificação Suplementar |
   
 </center>
 
@@ -1339,6 +1337,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 
 
 
+
 ## Requisitos Não funcionais
 A representação dos requisitos não funcionais seguirão o seguinte padrão:
 
@@ -1979,4 +1978,4 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.1`  | 19/11/2023 | Ajustando rastreamento | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 20/11/2023 | Ajustando rastreamento | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
