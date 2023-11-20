@@ -24,7 +24,7 @@ No caso do presente artefato, ele representa a ratreabilidade forward-from(para 
 
 ## Metodologia
 
-A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from", uma abordagem de pós-rastreabilidade. Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
+A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from". Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
 
 
 ## Mapeamento
@@ -49,6 +49,8 @@ bom entendimento dos tópicos abaixo:
   | ST | Storytelling |
   | UC | Casos de Uso |
   | US | Histórias de usuário |
+  | N | NFR Framework |
+  | ES | Especificação Suplementar |
   
 </center>
 
@@ -1325,6 +1327,645 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <br>
+
+
+
+## Requisitos Não funcionais
+A representação dos requisitos não funcionais seguirão o seguinte padrão:
+
+| Tópico                | Referência |
+| :--                   | :--        |
+| Especificação Suplementar   | USAB, CONF, DES, SUP ou FIS |
+| NFR   Framework             | NFR      |
+
+<p>Tabela 26: Modelo para os requisitos não funcionais 24 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+### Legenda
+
+#### Especificação suplementar
+
+- USAB: reuqisito de USABILIDADE
+- CONF: requisito de CONFIABILIDADE
+- DES: requisito de DESEMPENHO
+- SUP: requisito de SUPORTABILIDADE
+- FIS: requisito do tipo FÍSICO
+
+### NFR Framework
+
+- NFR01: Usabilidade
+- NFR02: Confiabilidade
+- NFR03: Segurança
+
+### Tabela dos Requisitos
+<details>
+  <summary>RNF01 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB01</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">ENTNF01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 27: Requisito não funcional 01 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF02 - O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB02</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">ENTNF02</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 28: Requisito não funcional 02 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF03 - Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB03</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 29: Requisito não funcional 03 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF04 - O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB04</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 30: Requisito não funcional 04 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF05 - As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB05</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 31: Requisito não funcional 05 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF06 - A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">USAB06</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 32: Requisito não funcional 06 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF07 - Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">CONF01</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 33: Requisito não funcional 07 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF08 - Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">CONF02</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 34: Requisito não funcional 08 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF09 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">CONF03</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">INTNF13</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 35: Requisito não funcional 09 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF10 - Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">DES01</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 36: Requisito não funcional 10 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF11 - O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">DES02</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 37: Requisito não funcional 11 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF12 - O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP01</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 38: Requisito não funcional 12 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF13 - O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP02</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 39: Requisito não funcional 13 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF14 - O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP03</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 40: Requisito não funcional 14 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF15 - O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP04</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 41: Requisito não funcional 15 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF16 - No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP05</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 42: Requisito não funcional 16 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF17 - O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS01</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 43: Requisito não funcional 17 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF18 - Os dispositivos deverão ter acesso a internet para acessar o aplicativo.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS02</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 44: Requisito não funcional 18 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+<details>
+  <summary>RNF19 - O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior.</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Especificação Suplementar</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS03</a></td>
+      </tr>
+      <tr>
+        <td>NFR Framework</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 45: Requisito não funcional 19 (Fonte: Orlando, Mateus e Costa, João. 2023).</p>
+
+</details>
+
+
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
