@@ -1377,11 +1377,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">ENTNF01</a>
-        </td>
-      </tr>
     </tbody>
   </table>
 
@@ -1409,11 +1404,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">ENTNF02</a>
-        </td>
-      </tr>
     </tbody>
   </table>
 
@@ -1438,11 +1428,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
@@ -1473,11 +1458,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
-        </td>
-      </tr>
     </tbody>
   </table>
 
@@ -1502,11 +1482,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
@@ -1537,11 +1512,6 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
-        </td>
-      </tr>
     </tbody>
   </table>
 
@@ -1566,12 +1536,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
         </td>
       </tr>
     </tbody>
@@ -1598,12 +1563,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
         </td>
       </tr>
     </tbody>
@@ -1630,12 +1590,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">INTNF13</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
         </td>
       </tr>
     </tbody>
@@ -1662,12 +1617,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1694,12 +1644,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1726,12 +1671,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1758,12 +1698,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1790,12 +1725,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
     </tbody>
@@ -1822,12 +1752,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
     </tbody>
@@ -1854,12 +1779,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1886,12 +1806,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1918,12 +1833,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
@@ -1950,12 +1860,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
         </td>
       </tr>
     </tbody>
