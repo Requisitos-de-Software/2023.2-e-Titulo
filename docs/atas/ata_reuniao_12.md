@@ -30,7 +30,7 @@
 ## Ações Pendentes
 | Ações       | Responsável     | Prazo para conclusão |
 |-------------|-----------------|----------------------|
-| Pós-Rastreabilidade - Gerência II: Backward-from | Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  | 19/11/2023 |
+| Pós-Rastreabilidade - Gerência II: Backward-from | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  | 19/11/2023 |
 | Pós-Rastreabilidade - Gerência II: Forward-from | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | 19/11/2023  |
 | Pós-Rastreabilidade - Gerência II: Matriz Geral | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | 20/11/2023 |
 (Fonte: Cronograma detalhado da entrega 6, Maria Marques, 2023)
