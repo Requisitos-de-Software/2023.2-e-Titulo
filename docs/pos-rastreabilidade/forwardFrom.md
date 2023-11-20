@@ -27,74 +27,6 @@ No caso do presente artefato, ele representa a ratreabilidade forward-from(para 
 A metodologia adotada para rastreabilidade entre requisitos e artefatos é o "forward-from", uma abordagem de pós-rastreabilidade. Isso envolve criar relações entre requisitos e artefatos gerados no desenvolvimento. No contexto da rastreabilidade entre requisitos, "forward-from" mapeia dependências, revelando se um requisito refina ou substitui outro. Isso é vital para compreender as relações entre requisitos e garantir atendimento durante o desenvolvimento. Além disso, abrange a rastreabilidade entre requisitos e artefatos de implementação, como código-fonte e testes, facilitando a identificação do que foi implementado, testado e sua relação com a arquitetura. Em resumo, "forward-from" é essencial para estabelecer relações claras, facilitando a compreensão e manutenção do software ao longo do tempo.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Mapeamento
 Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o
 bom entendimento dos tópicos abaixo:
@@ -108,7 +40,6 @@ bom entendimento dos tópicos abaixo:
   | E | Épico |
   | ENT | Entrevista |
   | ES | Especificação Suplementar |
-  | GLO | Glossário |
   | INT | Introspecção |
   | L | Léxico |
   | P | Personas |
@@ -129,17 +60,13 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 | Épico                 | E          |
 | História de usuário   | US         |
 | Tema                  | Assunto    |
-| Elicitação            | INT         |
+| Elicitação            | INT/B/C/ES/L/P/Q |
 | Léxico                | L           |
 | Casos de Uso          | UC          |
-| Storytelling          | ST          |
-| Especificação suplementar| C           |
-| Introspeção              | INT         |
-| Questionário             | C           |
 | funcionalidade        | Representação em imagem/video       |
 
 <details>
-  <summary>RF01 - Realizar o cadastro</summary>
+  <summary>Realizar o cadastro</summary>
 
   <table>
     <thead>
@@ -151,38 +78,37 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E01</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US01</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF01</a>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L06</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC01</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C01</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C01</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1dL8Yt5TpStJwF17_wTCMiNc_ZbwBryY_/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -192,7 +118,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF02 - Realizar login</summary>
+  <summary>Realizar login</summary>
 
   <table>
     <thead>
@@ -204,26 +130,26 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E1</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US02</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US01</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Segurança</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://github.com/Requisitos-de-Software/2023.1note/blob/main/docs/elicitacao/Introspec%C3%A7%C3%A3o.md">INT06</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF02</a>
         </td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L04</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -231,11 +157,11 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C03</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C02</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1snMVs47tUh-hujS08d6KbFOM3KZqv47t/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -246,7 +172,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF03 - Emitir Título</summary>
+  <summary>Emitir Título</summary>
 
   <table>
     <thead>
@@ -258,38 +184,38 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E02</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US03</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US02</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Dcocumento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B02</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS3</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L02</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC02</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C04</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C03</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1itBYrqoBlDab_GbQU-5b9APxl-d6dt-w/preview" width="640" height="480"></iframe>
+        <td>
 </td>
       </tr>
     </tbody>
@@ -301,7 +227,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF04 - Acessar QR code</summary>
+  <summary>Acessar QR code</summary>
 
   <table>
     <thead>
@@ -313,38 +239,38 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E02</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US07</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US02</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT02</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B03</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS4</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L11</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td></td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C02</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1stno3pYUBPtD70FP_GXmdt2nXZHqGAvD/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -355,7 +281,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF05 - Visualizar local de votação</summary>
+  <summary>Visualizar local de votação</summary>
 
   <table>
     <thead>
@@ -367,38 +293,38 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E1</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E03</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US04</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Notas</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF05</a>
         </td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L08</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L05</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC03</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/16MHAt63E04b1b1tDPAxT8LPonxZJ8fK2/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -409,7 +335,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF06 - Receber notificações</summary>
+  <summary>Receber notificações</summary>
 
   <table>
     <thead>
@@ -421,39 +347,39 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E08</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US08</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Organização</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT14</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF06</a>
         </td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/">L04</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L06</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/casos_de_uso/">UC03</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC05</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C05/C013</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C08</a>
         </td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1cYuq9hB-Dk8bYRyFRf5o17a128KgyMtJ/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -464,7 +390,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF07 - Acesso ao termo de uso</summary>
+  <summary>Acesso ao termo de uso</summary>
 
   <table>
     <thead>
@@ -476,38 +402,39 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E04</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US09</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US04</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Organização</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT03</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF07</a>
         </td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L07</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC06</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C04</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1IDD-gZT1IvufTL3E8KvJFxISODgqCxgr/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -518,7 +445,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF08 - Recuperar senha</summary>
+  <summary>Recuperar senha</summary>
 
   <table>
     <thead>
@@ -530,20 +457,22 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E05</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US10</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US05</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Suporte a formatos avançados de notas</td>
+        <td>Segurança</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td>-</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF08</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS10</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -555,11 +484,11 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Cenário</td>
-        <td>-</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C05</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1oKd3A_4mWGxV7yFkGeEVoE9CUVmWrz3z/preview" width="640" height="480"></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -569,7 +498,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF09 - Sair do aplicativo</summary>
+  <summary>Sair do aplicativo</summary>
 
   <table>
     <thead>
@@ -581,28 +510,26 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E09</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US11</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Suporte a formatos avançados de notas</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/Introspec%C3%A7%C3%A3o/">INT05</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO04</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST2</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT04</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF09</a>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L09</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -610,11 +537,11 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C06</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1Hu8RKJsbN0NDwkE4gvLLmXuV0vaJOE3e/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -625,7 +552,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF10 - Visualizar dúvidas frequentes</summary>
+  <summary>Visualizar dúvidas frequentes</summary>
 
   <table>
     <thead>
@@ -637,36 +564,37 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E3</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E09</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US12</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Suporte a formatos avançados de notas</td>
+        <td>Segurança</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B10</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L07</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td>-</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC06</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C10</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1dtGUscbXALihip2gOxY5N7MBXbuLswIl/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -676,7 +604,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF11 - Alterar dados cadastrais</summary>
+  <summary>Alterar dados cadastrais</summary>
 
   <table>
     <thead>
@@ -688,20 +616,20 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E05</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Sincronização e armazenamento de notas</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT02</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -717,7 +645,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../../img/Sincronizar.PNG width="400"></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -727,7 +655,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF12 - Usuários apenas acima de 16 anos</summary>
+  <summary>Usuários apenas acima de 16 anos</summary>
 
   <table>
     <thead>
@@ -739,24 +667,25 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E06</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US05</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US06</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Sincronização e armazenamento de notas</td>
+        <td>Segurança</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST04</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF12</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L01</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -764,11 +693,11 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Cenário</td>
-        <td>-</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C06</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1dtGUscbXALihip2gOxY5N7MBXbuLswIl/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -778,7 +707,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF13 - Acesso a internet para o uso</summary>
+  <summary>Acesso a internet para o uso</summary>
 
   <table>
     <thead>
@@ -790,21 +719,21 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E06</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US13</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Sincronização e armazenamento de notas</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/storytelling/">ST06</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO06</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -816,11 +745,11 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/cen%C3%A1rios/">C09</a></td>
+        <td>-</a></td>
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe src="https://drive.google.com/file/d/1Uoh7bTqas_D2VmTzhlEFCsnFdPa_dYCx/preview" width="640" height="480"></iframe></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -830,7 +759,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF14 - Realizar a quitação eleitoral</summary>
+  <summary>Realizar a quitação eleitoral</summary>
 
   <table>
     <thead>
@@ -842,30 +771,29 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E07</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Sincronização e armazenamento de notas</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF14</a>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L08</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
-        <td>-</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC04</a></td>
       </tr>
       <tr>
         <td>Cenário</td>
@@ -873,7 +801,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../../img/Sincronizar.PNG width="400"></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -883,7 +811,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>RF14 - Realizar a quitação eleitoral</summary>
+  <summary>Links para app/sites externos</summary>
 
   <table>
     <thead>
@@ -895,22 +823,20 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/backlog/">E4</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E10</a></td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/User_story/">US14</a>
+        <td>-</a>
         </td>
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Sincronização e armazenamento de notas</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/">ENT07</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/glossario/">GLO05</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">B19</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF15</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -926,14 +852,480 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../../img/Sincronizar.PNG width="400"></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
 
-  <p>Tabela 15: Requisito funcional 14 (Fonte: Autores, 2023).</p>
+  <p>Tabela 16: Requisito funcional 15 (Fonte: Autores, 2023).</p>
 
 </details>
 
+<details>
+  <summary>Suporte ao usuário</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E09</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td>-</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Segurança</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a>/<a
+            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS12</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L07</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC06</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 17: Requisito funcional 16 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>LJustificativa no app</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E07</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td>-</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Documento</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF17</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC01</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 18: Requisito funcional 17 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Alterar foto do documento</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E05</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td>-</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Documento</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT21</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 19: Requisito funcional 18 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Autenticidade do documento</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E07</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US07</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Segurança</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF19</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C07</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 20: Requisito funcional 19 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Horário da votação</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E08</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US08</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Funcionalidade</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF20</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L06</a></td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/">UC05</a></td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C08</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 21: Requisito funcional 20 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Acompanhar apuração</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E03</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td>-</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Funcionalidade</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF21</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 22: Requisito funcional 21 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Visualizar candidato eleito</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E03</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US03</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Funcionalidade</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF22</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 23: Requisito funcional 22 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Proteção de dados</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E09</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US09</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Segurança</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF23</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C08</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 24: Requisito funcional 23 (Fonte: Autores, 2023).</p>
+
+</details>
+
+<details>
+  <summary>Design intuitivo</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Épico</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E10</a></td>
+      </tr>
+      <tr>
+        <td>História de usuário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US10</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Tema</td>
+        <td>Documento</td>
+      </tr>
+      <tr>
+        <td>Elicitação</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF24</a></td>
+      </tr>
+      <tr>
+        <td>Léxico</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Caso de Uso</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td>Cenário</td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C10</a></td>
+      </tr>
+      <tr>
+        <td>Funcionalidade</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>Tabela 25: Requisito funcional 24 (Fonte: Autores, 2023).</p>
+
+</details>
 
 <br>
+
+| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
+| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |

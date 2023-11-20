@@ -12,13 +12,13 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | ✔  | - |
-| G2  | O artefato possui Objetivo? | ✔  | Não existe um tópico com esse nome, mas o objetivo e mencionado na conclusão do texto da introdução. |
+| G1  | O artefato possui Introdução? | Sim | - |
+| G2  | O artefato possui Objetivo? | Sim  | Não existe um tópico com esse nome, mas o objetivo e mencionado na conclusão do texto da introdução. |
 | G3  | O artefato possui uma metodologia definida? | Incompleto | Não informa o que tem no link divulgado. Um formulário? perguntas? afirmações? |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | ✔  | - |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | ✔  | - |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | ✔  | - |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | ✔  | - |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | - |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | - |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | - |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | - |
 
 **Tabela 1**: Checklist para os Itens Gerais.
 
@@ -34,18 +34,18 @@ A tabela 2 a seguir tem como objetivo descrever os critérios específicos do ar
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | Foi informado o motivo da escolha do questionário? | ✔ | - |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? | ✔ | - |
-| Q3 | O questionário foi aplicado onde se tinha o público alvo? | ✔ | Foi informado mas não especificado. |
-| Q4 | Os resultados foram tratados e apresentados? | ✔ | - |
-| Q5 | Apresenta no texto o prazo em que ficou aberto ? | ✔ | - |
-| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? | ✔ | - |
-| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? | ✔ | - |
-| Q8 | O perfil de usuário apresenta os pontos principais requisitados? | ✔ | - |
-| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | ✔ | - |
-| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | ✖ | - |
-| Q5 | É explicitado como o questionário será utilizado? | ✔ | - |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | ✖ | - |
+| Q1 | Foi informado o motivo da escolha do questionário? | Sim | - |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? | Sim | - |
+| Q3 | O questionário foi aplicado onde se tinha o público alvo? | Sim | Foi informado mas não especificado. |
+| Q4 | Os resultados foram tratados e apresentados? | Sim | - |
+| Q5 | Apresenta no texto o prazo em que ficou aberto ? | Sim | - |
+| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? | Sim | - |
+| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? | Sim | - |
+| Q8 | O perfil de usuário apresenta os pontos principais requisitados? | Sim | - |
+| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | Sim | - |
+| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | Não | - |
+| Q5 | É explicitado como o questionário será utilizado? | Sim | - |
+| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | Não | - |
 
 **Tabela 2** - Checklist para os Itens do Questionário.
 
@@ -69,3 +69,4 @@ Artefato bem desenvolvido, porém poderia apenas mencionar qual a função do pe
 |--------|------------|:-----------------------------|---------------|-------------|
 | 1.0    | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.1    | 13/11/2023 | Concluindo artefato. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.2    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
