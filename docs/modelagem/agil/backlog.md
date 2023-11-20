@@ -123,26 +123,26 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 |  E01    | Funcionalidade | Eu, como cidadão, gostaria de realizar o cadastro e login de usuáio. | US01 | Alta | RF01 |
 |         | Segurança | Eu, como cidadão, desejo efetuar o login por meio de senha ou biometria no aplicativo, com a condição prévia de ter realizado o cadastro. | US01 | Alta | RF02 |
 |  E02    | Documento | Eu, como cidadão, anseio pela facilidade de emitir meu Título no aplicativo. | US02 | Alta | RF03 |
-|         | Documento | Eu, como cidadão, quero a facilidade de acessar um QR Code no aplicativo para a leitura do meu Título. |    | Média | RF04 |
-|  E03    | Funcionalidade | Eu, como cidadão, gostaria de visualizar a localização do meu local de votação no aplicativo. |      | Média | RF05  |
-|         |  Funcionalidade | Eu, como cidadão, gostaria de ter a facilidade de visualizar as dúvidas frequentes no aplicativo para esclarecer questões comuns. |       |  Baixa  |  RF10 |
-|         | Funcionalidade | Eu, como cidadão, desejo a capacidade de acompanhar a apuração de votos no aplicativo. |     | Média | RF21 |
+|         | Documento | Eu, como cidadão, quero a facilidade de acessar um QR Code no aplicativo para a leitura do meu Título. | -- | Média | RF04 |
+|  E03    | Funcionalidade | Eu, como cidadão, gostaria de visualizar a localização do meu local de votação no aplicativo. | -- | Média | RF05  |
+|         |  Funcionalidade | Eu, como cidadão, gostaria de ter a facilidade de visualizar as dúvidas frequentes no aplicativo para esclarecer questões comuns. | -- |  Baixa  |  RF10 |
+|         | Funcionalidade | Eu, como cidadão, desejo a capacidade de acompanhar a apuração de votos no aplicativo. | -- | Média | RF21 |
 |         | Funcionalidade   |Eu, como cidadão, gostaria de visualizar de forma clara no aplicativo o candidato eleito referente ao ano da votação. |  US03 | Baixa | RF22 |
 |  E04    | Funcionalidade | Eu, como cidadão, valorizo a facilidade de encontrar o termo de uso no aplicativo, com explicações claras sobre sua utilidade para evitar mal-entendidos. |  US04 | Alta | RF07 |
 |  E05    | Segurança | Eu, como cidadão, espero a facilidade de recuperar minha senha no aplicativo quando necessário. |  US05 | Alta | RF08 |
-|         | Segurança | Eu, como cidadão, quero a capacidade de fazer alterações nos meus dados cadastrais no aplicativo para manter as informações atualizadas. |     | Média | RF11 |
-|         |  Documento | Eu, como cidadão, espero a funcionalidade no aplicativo que me permita alterar a foto do documento do título eleitoral, garantindo a atualização de informações visuais. |    | Baixa | RF18 |
+|         | Segurança | Eu, como cidadão, quero a capacidade de fazer alterações nos meus dados cadastrais no aplicativo para manter as informações atualizadas. | -- | Média | RF11 |
+|         |  Documento | Eu, como cidadão, espero a funcionalidade no aplicativo que me permita alterar a foto do documento do título eleitoral, garantindo a atualização de informações visuais. | -- | Baixa | RF18 |
 |  E06    | Segurança |  Eu, como cidadão, sugiro que o aplicativo permita o acesso apenas a usuários com 16 anos ou mais, considerando sua aptidão para votar. | US06 | Alta | RF12 |
-|         | Funcionalidade | Eu, como cidadão, reconheço que o aplicativo requer acesso à internet no dispositivo para seu pleno funcionamento. |     |  Média  | RF13 |
-|  E07    |  Documento | Eu, como cidadão, espero que o aplicativo me ofereça a possibilidade de realizar a quitação eleitoral de forma fácil e conveniente. |    | Média | RF14 |
-|         | Documento |  Eu, como cidadão, gostaria de poder informar minha justificativa diretamente no aplicativo, proporcionando uma forma conveniente de cumprir esse procedimento. |    | Média | RF17 |
+|         | Funcionalidade | Eu, como cidadão, reconheço que o aplicativo requer acesso à internet no dispositivo para seu pleno funcionamento. | -- |  Média  | RF13 |
+|  E07    |  Documento | Eu, como cidadão, espero que o aplicativo me ofereça a possibilidade de realizar a quitação eleitoral de forma fácil e conveniente. | -- | Média | RF14 |
+|         | Documento |  Eu, como cidadão, gostaria de poder informar minha justificativa diretamente no aplicativo, proporcionando uma forma conveniente de cumprir esse procedimento. | -- | Média | RF17 |
 |         |  Segurança|  Eu, como cidadão, desejo que o aplicativo me forneça a visualização das autenticidades dos meus documentos, garantindo transparência e confiança.|US07 | Alta | RF19 |
-|  E08    | Funcionalidade |Eu, como cidadão, espero receber notificações no aplicativo para ficar atualizado. |     | Baixa | RF06 |
+|  E08    | Funcionalidade |Eu, como cidadão, espero receber notificações no aplicativo para ficar atualizado. | -- | Baixa | RF06 |
 |         |  Funcionalidade | Eu, como cidadão, aprecio a funcionalidade no aplicativo que me notifica sobre o horário da votação, garantindo que eu esteja bem informado e preparado. | US08 | Alta | RF20 |
-|  E09    | Funcionalidade |  Eu, como cidadão, aprecio a presença da opção de sair/logoff no aplicativo para garantir a segurança e controle sobre minha sessão. |    | Média | RF09 |
-|         |Segurança |  Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas. |    | Média | RF16 |
+|  E09    | Funcionalidade |  Eu, como cidadão, aprecio a presença da opção de sair/logoff no aplicativo para garantir a segurança e controle sobre minha sessão. | -- | Média | RF09 |
+|         |Segurança |  Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas. | -- | Média | RF16 |
 |         |Segurança |  Eu, como cidadão, considero crucial que o aplicativo ofereça segurança robusta, protegendo meus dados por meio de etapas de segurança eficazes. | US09 | Alta | RF23 |
-|  E10    | Funcionalidade |  Eu, como cidadão, aprecio a integração do aplicativo com links para o site do TSE e outras funcionalidades externas, ampliando suas capacidades além do seu escopo próprio. |    | Baixa | RF15 |
+|  E10    | Funcionalidade |  Eu, como cidadão, aprecio a integração do aplicativo com links para o site do TSE e outras funcionalidades externas, ampliando suas capacidades além do seu escopo próprio. | -- | Baixa | RF15 |
 |         | Documento |  Eu, como cidadão, prefiro um aplicativo com design intuitivo, que utilize elementos padronizados como botões e menus, proporcionando uma experiência mais fácil e consistente. | US10 | Alta | RF24 |
                   
 <div align="center">

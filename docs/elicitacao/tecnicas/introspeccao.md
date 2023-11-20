@@ -533,22 +533,21 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 | ID | Descrição | Código |
 |----|:---------:|------|
-| INT1 |O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários.| RNF1 |
-| INT2 |O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.| RNF2 |
-| INT3 |O aplicativo deve permitir que o usuário altere o local de partida.| RNF3 |
-| INT4 |O aplicativo deve notificar sobre atualizações eleitorais.| RNF4 |
-| INT5 |O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | RNF5 |
-| INT6 |O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários| RNF6 |
-| INT7 |O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.| RNF7 |
-| INT8 |O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.| RNF8 |
-| INT9 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.| RNF9 |
-| INT10 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RNF10 |
-| INT11 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RNF11 |
-| INT12 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF12 |
-| INT13 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF13 |
-| INT14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF14 |
-| INT15 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF15 |
-| INT16 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF1 |
+| INTNF1 |O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários.| RNF1 |
+| INTNF2 |O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.| RNF2 |
+| INTNF3 |O aplicativo deve permitir que o usuário altere o local de partida.| RNF3 |
+| INTNF4 |O aplicativo deve notificar sobre atualizações eleitorais.| RNF4 |
+| INTNF5 |O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | RNF5 |
+| INTNF6 |O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários| RNF6 |
+| INTNF7 |O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.| RNF7 |
+| INTNF8 |O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.| RNF8 |
+| INTNF9 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.| RNF9 |
+| INTNF10 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RNF10 |
+| INTNF11 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RNF11 |
+| INTNF12 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF12 |
+| INTNF13 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF13 |
+| INTNF14 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF14 |
+| INTNF15 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF15 |
 
 <div style="text-align: center">
 <p> Fonte: Autor, 2023.</p>
@@ -567,3 +566,4 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | 1.1 | 01/09/2023 | adicionando conteúdo nos tópicos Metodologia, Motivação e Objetivo e junto com a esther os títulos para as respostas  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
 | 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
 | 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.4 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 

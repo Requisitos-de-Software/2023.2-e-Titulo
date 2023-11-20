@@ -77,8 +77,8 @@ Tabela 2 - Requisitos Não Funcionais
 
 |  ID  |  Descrição  | Código | Implementado |  
 | ------ | ------- | ---------| --------- |
-| STN1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
-| STN2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
+| STNF1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
+| STNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
 
 Fonte: Autoria própria, 2023.
 
@@ -94,3 +94,4 @@ Fonte: Autoria própria, 2023.
 | 1.0 | 26/09/2023 | Motagenm de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.3 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
