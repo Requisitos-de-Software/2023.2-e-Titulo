@@ -92,7 +92,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF01</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS1</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -144,7 +145,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF02</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS2</a>
         </td>
       </tr>
       <tr>
@@ -198,7 +200,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a>/<a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS3</a></td>
       </tr>
       <tr>
@@ -253,8 +255,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF03</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS4</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT10</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS4</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -307,7 +309,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF05</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT13</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a>
         </td>
       </tr>
       <tr>
@@ -361,7 +364,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF06</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT4</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a>
         </td>
       </tr>
       <tr>
@@ -416,7 +420,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF07</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS7/BS8</a>
         </td>
       </tr>
       <tr>
@@ -471,8 +476,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF08</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS10</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS9/BS10</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -524,7 +528,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF09</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -577,7 +581,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a></td>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -629,7 +634,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -680,7 +685,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF12</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -732,7 +738,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF13</a>/<a
+        <td><a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a></td>
       </tr>
       <tr>
@@ -784,7 +790,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF14</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -836,7 +842,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF15</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF4</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -887,8 +893,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF16</a>/<a
-            href="https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/brainstorming/">BS12</a></td>
+        <td><a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF5</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -915,7 +921,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 </details>
 
 <details>
-  <summary>LJustificativa no app</summary>
+  <summary>Justificativa no app</summary>
 
   <table>
     <thead>
@@ -940,7 +946,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF17</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT19/INT20</a><td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -991,8 +997,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF18</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT21</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1043,7 +1048,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF19</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1094,7 +1099,8 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF20</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT5</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1146,7 +1152,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF21</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT8</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1197,7 +1203,10 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF22</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT9</a>
+            /<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1248,7 +1257,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF23</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1299,7 +1308,7 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">RF24</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF2</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1329,3 +1338,4 @@ A representação dos requisitos funcionais seguirão o seguinte padrão:
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 19/11/2023 | Ajustando rastreamento | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
