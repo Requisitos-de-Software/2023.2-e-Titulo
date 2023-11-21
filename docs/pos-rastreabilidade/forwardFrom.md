@@ -1212,9 +1212,6 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Funcionalidade</td>
-         <td><iframe>src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
-          Fonte: MARQUES, Maria Eduarda - Figma, 2023.
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -1237,6 +1234,8 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
+         <td><iframe>src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
+          Fonte: MARQUES, Maria Eduarda - Figma, 2023.
         <td></td>
       </tr>
     </tbody>
