@@ -1421,7 +1421,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Dcocumento</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -1442,7 +1442,8 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>
+        <td><iframe>src="https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link" width="640" height="480"></iframe>
+          Fonte: NERIS, Mariiana Siqueira - Figma, 2023.
 </td>
       </tr>
     </tbody>
