@@ -173,7 +173,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/login.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -205,7 +205,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Dcocumento</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -227,7 +227,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>
+        <td><img src=../pos-rastreabilidade/imgs/emitir_titulo.jpeg>
 </td>
       </tr>
     </tbody>
@@ -282,7 +282,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/qrcode.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -337,7 +337,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/local_votacao.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -393,7 +393,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/notificacao.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -449,7 +449,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/termo.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -502,7 +502,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/senha.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -555,7 +555,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/sair.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -609,7 +609,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/ajuda_suporte.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -713,7 +713,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não emplementada</td>
       </tr>
     </tbody>
   </table>
@@ -765,7 +765,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/internet.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -817,7 +817,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/quitacao.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -868,7 +868,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/links.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -921,7 +921,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/ajuda_suporte.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -1074,7 +1074,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/autenticidade.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -1127,7 +1127,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não emplementada</td>
       </tr>
     </tbody>
   </table>
@@ -1178,7 +1178,8 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><iframe src="https://drive.google.com/file/d/1OfE82CU3MmLPXASfDClF1D47qvS6KW9M/view?usp=sharing" width="640" height="480"></iframe></td>
+        <td>Prototipação: Fonte: João Víctor Costa Andrade</td>
       </tr>
     </tbody>
   </table>
@@ -1367,7 +1368,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Dcocumento</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -1421,7 +1422,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Dcocumento</td>
+        <td>Documento</td>
       </tr>
       <tr>
         <td>Elicitação</td>
