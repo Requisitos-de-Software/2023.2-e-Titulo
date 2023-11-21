@@ -393,7 +393,9 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/notificacao.jpeg></td>
+        <td><iframe>src="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" width="640" height="480"></iframe>
+          Fonte: SENA, Esther Martins - Figma, 2023.
+</td>
       </tr>
     </tbody>
   </table>
