@@ -86,6 +86,41 @@ A tabela 4 detalha as modificações e o que se manteve do cronograma planejado.
 
 **(Fonte: Mariiana Siqueira, 2023)**
 
+### Entrega 5.1
+
+A tabela 5 detalha as modificações e o que se manteve do cronograma planejado.
+
+**Tabela 5: Cronograma executado da entrega 5.1**
+
+|  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
+|  --- |  --- |  --- |  --- |  --- |  --- | 
+| Verificação e Validação - Grupo + 1 - Artefatos: Escolha do aplicativo, Brainstorming, Entrevista, Especificação Suplementar |  11/11  |   13/11 |  13/11  |   [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza), |
+| Verificação e Validação - Grupo + 1 - Artefatos: - Ferramentas, Introspecção, Questionário, Casos de Uso |  11/11  | 13/11 | 13/11 | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
+| Verificação e Validação - Grupo + 1 - Artefatos: Apresentações, Perfil do Usuário, Cenários, Histórias de Usuário |  11/11  | 13/11 | 13/11 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| Verificação e Validação - Grupo + 1 - Artefatos: Cronograma, First Things First, NFR Framework |  11/11  | 13/11 | 13/11 | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
+| Verificação e Validação - Grupo + 1 - Artefatos: Rich Picture, Three Level Scale, MoSCoW, Backlog |  11/11  | 13/11 | 13/11 | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| Verificação e Validação - Grupo + 1 - Artefatos: Metodologia, Personas, Léxicos |  11/11  | 13/11 | 13/11 | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+| Gravação da apresentação | 13/11 | 13/11 | 13/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+| Correções após o feedback da apresentação | 14/11 | 16/11 | 17/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+
+**(Fonte: Mariiana Siqueira, 2023)**
+
+### Entrega 6
+
+A tabela 6 detalha as modificações e o que se manteve do cronograma planejado.
+
+**Tabela 6: Cronograma executado da entrega 6**
+
+|  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
+|  --- |  --- |  --- |  --- |  --- |  --- | 
+| Pós-Rastreabilidade - Gerência II: Backward-from | 17/11 |  19/11  |  20/11  |  [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |[João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
+| Pós-Rastreabilidade - Gerência II: Forward-from | 17/11 |  19/11  |  20/11  | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) |
+| Pós-Rastreabilidade - Gerência II: Matriz Geral | 19/11 |  20/11  |  20/11  | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| Gravação da apresentação | 20/11 | 20/11 | 20/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+| Correções após o feedback da apresentação |  21/11 |  23/11 | 24/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+
+**(Fonte: Maria Marques, 2023)**
+
 ## Bibliografia
 
 > SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br. Acesso em: 16 de setembro de 2023.
@@ -98,4 +133,5 @@ A tabela 4 detalha as modificações e o que se manteve do cronograma planejado.
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `1.0`  | 22/09/2023  | Realização do tópico da etapa 1 | [Maria Marques ](https://github.com/EduardaSMarques) |[Mateus Orlando](https://github.com/MateusPy)|
 | `1.1`  | 03/09/2023  | Realização do tópico da etapa 2  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
-| `1.2`  | 06/09/2023  | Realização do tópico da etapa 3 e etapa 4 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |[Mateus Orlando](https://github.com/MateusPy)|
+| `1.2`  | 06/11/2023  | Realização do tópico da etapa 3 e etapa 4 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |[Mateus Orlando](https://github.com/MateusPy)|
+| `1.3`  | 20/11/2023  | Realização do tópico da etapa 5.1 e etapa 6 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Mateus Orlando](https://github.com/MateusPy) |
