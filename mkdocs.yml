@@ -6,6 +6,7 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 site_name: e-Título
 nav:
   - Início: index.md
+  - Teste: pos-rastreabilidade/forwardFrom.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
@@ -106,14 +107,7 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.top
-    - content.tabs.link
-    - content.code.annotation
-    - toc.integrate
-    - content.tabs.link
-    - content.code.copy
-    - search.suggest
-    - search.highlight
+
   language: pt-BR
   logo: elicitacao/imgs/img.logo.jpg
   favicon: elicitacao/imgs/img.logo.jpg
