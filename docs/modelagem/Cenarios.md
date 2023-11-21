@@ -12,6 +12,7 @@ A metodologia usada será representada por tabelas, nas quais serão representad
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C00            |
 | **Titulo**      | Nome do Cenário |
 | **Objetivo**    | Objetivo do Cenário |
 | **Contexto**    | Local: Local onde acontece o Cenário. <br /> Tempo: Tempo do Cenário. <br /> Pré-condição: Condição para que o Cenário aconteça |
@@ -34,6 +35,7 @@ A seguir, as tabelas de 2 a 11 representarão os cenários referentes aos requis
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C01            |
 | **Titulo**      | Realizar o cadastro do usuário |
 | **Objetivo**    | Facilitar que os eleitores se registrem no aplicativo e-Título para usufruir dos serviços disponibilizados pelo Tribunal Superior Eleitoral (TSE). |
 | **Contexto**    | Local: Página inicial do aplicativo <br /> Tempo: 5 minutos <br /> Pré-condição: ter o aplicativo instalado|
@@ -52,6 +54,7 @@ Tabela 2 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C02            |
 | **Titulo**      | Login e autenticação segura |
 | **Objetivo**    | Permitir a eficiencia e segurança aos eleitores quando acessarem o e-Título, utilizando autenticação por senha ou biometria e em alguns casos reconhecimento facial. |
 | **Contexto**    | Local: Página inicial do aplicativo <br /> Tempo: 1 minuto <br /> Pré-condição: já ter realizado o cadastro. |
@@ -70,6 +73,7 @@ Tabela 3 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C03            |
 | **Titulo**      | Emissão do título de eleitor |
 | **Objetivo**    | Possibilitar aos eleitores a obtenção da via digital do título de eleitor. |
 | **Contexto**    | Local: Página "Emitir título de eleitor" <br /> Tempo: 3 minutos <br /> Pré-condição: Estar logado com sucesso na conta e os dados verificados. |
@@ -88,6 +92,7 @@ Tabela 4 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C04            |
 | **Titulo**      | Aceitação dos termos de uso |
 | **Objetivo**    | Implementar um processo eficiente para que os usuários do aplicativo e-Título visualizem e concordem com os termos de uso antes de acessar as funcionalidades.|
 | **Contexto**    | Local: Página seguinte a finalização do cadastro <br /> Tempo: 5 minutos <br /> Pré-condição: Ter feito o cadastro. |
@@ -106,6 +111,7 @@ Tabela 5 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C05            |
 | **Titulo**      | Processo de Recuperação de Senha |
 | **Objetivo**    | Permitir que usuários do aplicativo e-Título recuperem suas senhas de forma segura e eficiente. |
 | **Contexto**    | Local: Página inicial <br /> Tempo: 5 minutos <br /> Pré-condição: Ter um cadastro  |
@@ -124,6 +130,7 @@ Tabela 6 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C06            |
 | **Titulo**      | Restrição de idade |
 | **Objetivo**    | Garantir que apenas usuários com idade igual ou superior a 16 anos, aptos a votar, possam acessar o aplicativo e-Título. |
 | **Contexto**    | Local: Página de cadastro <br /> Tempo: 1 minutos <br /> Pré-condição: Ter iniciado o cadastro |
@@ -142,6 +149,7 @@ Tabela 7 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C07            |
 | **Titulo**      | Verificação de Autenticidade de Documentos |
 | **Objetivo**    | Fornecer aos usuários do aplicativo e-Título a capacidade de verificar a autenticidade de seus documentos eleitorais de forma confiável. |
 | **Contexto**    | Local: Página "Verificar a autenticidade do documento" <br /> Tempo: 5 minutos <br /> Pré-condição: Ter cadastro e obter um documento para análise.  |
@@ -160,6 +168,7 @@ Tabela 8 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C08            |
 | **Titulo**      | Notificação de Horário de Votação |
 | **Objetivo**    | Informar os usuários do aplicativo e-Título sobre o horário de votação nas eleições para garantir a participação ativa dos eleitores. |
 | **Contexto**    | Local: Página "Locais de votação" <br /> Tempo: 1 minutos <br /> Pré-condição: Cadastro e dados pessoais atualizados. |
@@ -178,6 +187,7 @@ Tabela 9 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C09            |
 | **Titulo**      | Segurança de Dados |
 | **Objetivo**    | Garantir a segurança dos dados dos usuários no aplicativo e-Título, implementando medidas eficazes de proteção. |
 | **Contexto**    | Local: Página de login e cadastro <br /> Tempo: 1 min <br /> Pré-condição: Preencher os campos com dados pessoais  |
@@ -196,6 +206,7 @@ Tabela 10 - Representação dos cenários
 
 | **Cenário**     | **Número do Cenário** |
 | :--------------:| :-------------- |
+| **Identificação**| C10            |
 | **Titulo**      | Design Intuitivo e personalizado  |
 | **Objetivo**    | Criar uma experiência de usuário intuitiva no aplicativo e-Título, utilizando um design consistente com botões e menus padronizados.|
 | **Contexto**    | Local: Aplicativo por completo <br /> Tempo: Durante o uso do aplicativo <br /> Pré-condição: Baixar aplicativo. |
