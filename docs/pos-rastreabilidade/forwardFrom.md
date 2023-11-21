@@ -660,7 +660,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>Não Emplementada</td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -713,7 +713,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>Não emplementada</td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -1127,7 +1127,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>Não emplementada</td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
