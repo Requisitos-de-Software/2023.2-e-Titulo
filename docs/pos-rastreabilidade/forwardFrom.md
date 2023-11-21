@@ -1212,6 +1212,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
