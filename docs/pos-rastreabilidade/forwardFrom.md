@@ -393,7 +393,9 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/notificacao.jpeg></td>
+        <td><iframe>src="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" width="640" height="480"></iframe>
+          Fonte: SENA, Esther Martins - Figma, 2023.
+</td>
       </tr>
     </tbody>
   </table>
@@ -1179,7 +1181,7 @@ Tabela 2
       <tr>
         <td>Funcionalidade</td>
         <td><iframe src="https://drive.google.com/file/d/1OfE82CU3MmLPXASfDClF1D47qvS6KW9M/view?usp=sharing" width="640" height="480"></iframe></td>
-        <td>Prototipação: Fonte: João Víctor Costa Andrade</td>
+        <td>Prototipação: Fonte: João Víctor Costa Andrade, Figma -2023</td>
       </tr>
     </tbody>
   </table>
@@ -1210,7 +1212,6 @@ Tabela 2
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -1233,6 +1234,8 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
+         <td><iframe>src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
+          Fonte: MARQUES, Maria Eduarda - Figma, 2023.
         <td></td>
       </tr>
     </tbody>
@@ -1389,6 +1392,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
+         	<td><iframe>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing" width="640" height="480"></iframe> Fonte: Maria Barbosa - Figma, 2023. </td>
         <td>
 </td>
       </tr>
