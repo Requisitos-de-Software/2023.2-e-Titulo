@@ -1443,7 +1443,8 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td>
+        <td><iframe>src="https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link" width="640" height="480"></iframe>
+          Fonte: NERIS, Mariiana Siqueira - Figma, 2023.
 </td>
       </tr>
     </tbody>
@@ -2002,9 +2003,19 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 
 </details>
 
+## Bibliografia e Referências
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
+> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
+> Alves, Douglas e Maciel, Geovanna. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/). Acesso em: 16 nov. 2023.
+> Alvissus, Giovanni. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from). Acesso em: 17 nov. 2023.
+
+
+## Histório de Versão
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                                                                                    |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.1`  | 20/11/2023 | Ajustando rastreamento | [Matheus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 20/11/2023 | Ajustando rastreamento | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 20/11/2023 | Adicionando Bibliografia | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+
