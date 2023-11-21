@@ -119,7 +119,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td><img src=../pos-rastreabilidade/imgs/cadastro.jpg></td>
       </tr>
     </tbody>
   </table>
@@ -660,7 +660,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não Emplementada</td>
       </tr>
     </tbody>
   </table>
