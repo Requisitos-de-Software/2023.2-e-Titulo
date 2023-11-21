@@ -2001,7 +2001,7 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 
 </details>
 
-## Bibliografia
+## Bibliografia e Referências
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
 > POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
