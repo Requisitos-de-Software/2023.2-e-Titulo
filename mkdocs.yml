@@ -19,11 +19,13 @@ nav:
     - Ata 09: atas/ata_reuniao_09.md
     - Ata 10: atas/ata_reuniao_10.md
     - Ata 11: atas/ata_reuniao_11.md   
+    - Ata 12: atas/ata_reuniao_12.md   
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
     - Apresentação 02: apresentacoes/apresentacao02.md
     - Apresentação 03: apresentacoes/apresentacao03.md
-    - Apresentação 04: apresentacoes/apresentacao04.md    
+    - Apresentação 04: apresentacoes/apresentacao04.md
+    - Apresentação 05: apresentacoes/apresentacao05.md        
   - Planejamento:
     - Escolha do Aplicativo: planejamento/aplicativoescolhido.md
     - Termos de Uso: planejamento/copiatermos.md
@@ -90,7 +92,8 @@ nav:
       - Backlog: verificacao/verificacaoGrupo+1/etapa4/backlog.md
       - Histórias de Usuário: verificacao/verificacaoGrupo+1/etapa4/historiasUsuario.md
       - NFR Framework: verificacao/verificacaoGrupo+1/etapa4/nfrFramework.md
-
+  - Pós Rastreabilidade:
+    - Backward-from: pos-rastreabilidade/backwardFrom.md
 
 
 plugins:
