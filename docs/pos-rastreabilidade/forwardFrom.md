@@ -1179,7 +1179,7 @@ Tabela 2
       <tr>
         <td>Funcionalidade</td>
         <td><iframe src="https://drive.google.com/file/d/1OfE82CU3MmLPXASfDClF1D47qvS6KW9M/view?usp=sharing" width="640" height="480"></iframe></td>
-        <td>Prototipação: Fonte: João Víctor Costa Andrade</td>
+        <td>Prototipação: Fonte: João Víctor Costa Andrade, Figma -2023</td>
       </tr>
     </tbody>
   </table>
