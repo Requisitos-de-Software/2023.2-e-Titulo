@@ -6,7 +6,6 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 site_name: e-Título
 nav:
   - Início: index.md
-  - Teste: pos-rastreabilidade/forwardFrom.md
   - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
@@ -95,6 +94,8 @@ nav:
       - NFR Framework: verificacao/verificacaoGrupo+1/etapa4/nfrFramework.md
   - Pós Rastreabilidade:
     - Backward-from: pos-rastreabilidade/backwardFrom.md
+    - Forward-from: pos-rastreabilidade/forwardFrom.md
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
 
 
 plugins:

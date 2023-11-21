@@ -119,7 +119,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/cadastro.jpg></td>
+        <td><img src=../imgs/cadastro.jpg></td>
       </tr>
     </tbody>
   </table>
@@ -173,7 +173,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/login.jpeg></td>
+        <td><img src=../imgs/login.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -227,7 +227,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/emitir_titulo.jpeg>
+        <td><img src=../imgs/emitir_titulo.jpeg>
 </td>
       </tr>
     </tbody>
@@ -282,7 +282,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/qrcode.jpeg></td>
+        <td><img src=../imgs/qrcode.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -337,7 +337,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/local_votacao.jpeg></td>
+        <td><img src=../imgs/local_votacao.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -393,7 +393,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe>src="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" width="640" height="480"></iframe>
+        <td><iframe src="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" width="640" height="480"></iframe>
           Fonte: SENA, Esther Martins - Figma, 2023.
 </td>
       </tr>
@@ -451,7 +451,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/termo.jpeg></td>
+        <td><img src=../imgs/termo.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -504,7 +504,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/senha.jpeg></td>
+        <td><img src=../imgs/senha.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -557,7 +557,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/sair.jpeg></td>
+        <td><img src=../imgs/sair.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -611,7 +611,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/ajuda_suporte.jpeg></td>
+        <td><img src=../imgs/ajuda_suporte.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -767,7 +767,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/internet.jpeg></td>
+        <td><img src=../imgs/internet.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -819,7 +819,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/quitacao.jpeg></td>
+        <td><img src=../imgs/quitacao.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -870,7 +870,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/links.jpeg></td>
+        <td><img src=../imgs/links.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -923,7 +923,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/ajuda_suporte.jpeg></td>
+        <td><img src=../imgs/ajuda_suporte.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -974,7 +974,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -1025,7 +1025,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -1076,7 +1076,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><img src=../pos-rastreabilidade/imgs/autenticidade.jpeg></td>
+        <td><img src=../imgs/autenticidade.jpeg></td>
       </tr>
     </tbody>
   </table>
@@ -1235,7 +1235,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-         <td><iframe>src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
+         <td><iframe src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
           Fonte: MARQUES, Maria Eduarda - Figma, 2023.
         <td></td>
       </tr>
@@ -1288,7 +1288,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -1339,7 +1339,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td></td>
+        <td>Não implementada</td>
       </tr>
     </tbody>
   </table>
@@ -1393,9 +1393,9 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-         	<td><iframe>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing" width="640" height="480"></iframe> Fonte: Maria Barbosa - Figma, 2023. </td>
+         	<td><iframe src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing" width="640" height="480"></iframe> Fonte: Maria Barbosa - Figma, 2023. </td>
         <td>
-</td>
+  </td>
       </tr>
     </tbody>
   </table>
@@ -1448,7 +1448,7 @@ Tabela 2
       </tr>
       <tr>
         <td>Funcionalidade</td>
-        <td><iframe>src="https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link" width="640" height="480"></iframe>
+        <td><iframe src="https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link" width="640" height="480"></iframe>
           Fonte: NERIS, Mariiana Siqueira - Figma, 2023.
 </td>
       </tr>
@@ -2012,8 +2012,8 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
 > POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
-> Alves, Douglas e Maciel, Geovanna. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/). Acesso em: 16 nov. 2023.
-> Alvissus, Giovanni. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from). Acesso em: 17 nov. 2023.
+> Ana, Beatriz e Kauã. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/](https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/). Acesso em: 16 nov. 2023.
+> Bosi, Rafael. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from](https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from). Acesso em: 17 nov. 2023.
 
 
 ## Histório de Versão
@@ -2023,4 +2023,5 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão:
 | `1.0`  | 19/11/2023 | Criação da introdução, metodologia e requisitos funcionais | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.1`  | 20/11/2023 | Ajustando rastreamento | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.2`  | 20/11/2023 | Adicionando Bibliografia | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.3`  | 20/11/2023 | Concertando rotas das imagens e dos protótipos | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) |
 
