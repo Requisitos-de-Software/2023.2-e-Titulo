@@ -137,9 +137,9 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
-| EA2 | O artefato possui o Termo de Uso? |  |  |
-| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App? <a id="REF4" href="#anchor_4">4.</a>|  |  |
+| EA2 | O artefato possui o Termo de Uso? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso? <a id="REF4" href="#anchor_4">4.</a> |  |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
@@ -218,6 +218,12 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
+
+## Referências Bibliografia do "escolha do aplicativo"
+
+> <a id="REF4" href="#anchor_4">4.</a> .  FGA0172 - REQUISITOS DE SOFTWARE - Turma 02 - 2023/2.  Disponível em: https://youtu.be/TdmZWQsvsnE. Acesso em: 10 de novembro de 2023.
+
+
 
 ## Bibliografia
 
