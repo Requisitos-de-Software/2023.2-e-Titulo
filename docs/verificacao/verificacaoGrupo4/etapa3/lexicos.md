@@ -20,24 +20,24 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 **Tabela 1** - Checklist para a inspeção dos Itens dos Léxicos.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  | -- |
-| G2  | O artefato possui Objetivo? |  | -- |
-| G3  | O artefato possui uma metodologia definida? |  | -- |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  | -- |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  | -- |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |  | -- |
-| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? |  | -- |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  |  |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  | -- |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  | -- |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  | -- |
-| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  | -- |
-| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  | -- |
-| L9 | No artefato o historico de versão está padronizado ?  |  | -- |
-| L10 | O artefato mostram os léxicos relacionados entre si? |  | -- |
-| L11 | No artefato os léxicos estão relacionados alfabeticamente? |  | -- |
+| G1  | O artefato possui Introdução? | Sim | -- |
+| G2  | O artefato possui Objetivo? | Sim | -- |
+| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? | Sim | -- |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? | Sim | -- |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) | Sim |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) | Sim | -- |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | Sim | -- |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? | Sim | -- |
+| L8 | No artefato os léxicos possuem e seguem uma ordenação númerica ? | Sim | -- |
+| L9 | No artefato o historico de versão está padronizado ?  | Não | Descrição abaixo |
+| L10 | O artefato mostram os léxicos relacionados entre si? | Incompleto | Descrição abaixo |
+| L11 | No artefato os léxicos estão relacionados alfabeticamente? | Não | Descrição abaixo |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -57,7 +57,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sugestões de melhoria no artefato:
 
--   
+- L9 - O histórico de versão não esta seguindo o padrão conforme planejado para o projeto, sendo utilizado "0.1", "0.2",... ao invés de "1,0" "1.1", ...  
+- L10 - Seria interessante adicionar uma linkagem entre os léxicos relacionados.
+- L11 - Seria interessante realocar os léxicos de forma alfabética.
 
 ## Bibliografia
 
@@ -75,3 +77,4 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  |
 | `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, retirando o tópico modelo, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) |  |
+| `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) |  |
