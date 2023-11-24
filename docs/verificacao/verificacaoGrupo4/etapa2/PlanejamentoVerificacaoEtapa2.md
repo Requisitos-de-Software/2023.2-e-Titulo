@@ -175,55 +175,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
-### Checklist de Brainstorming
 
-<center>
-
-**Tabela 1** - Checklist para os Itens do Brainstorming.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
-| B2 | Possui gravação da sessão Brainstorming ? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
-| B4 | A elicitação contou com moderador e um secretário. <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias?  <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B7 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">5.</a> |   |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-
-
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
-
-</center>
-
-
-### Checklist de Entrevista
-
-<center>
-
-**Tabela 1** - Checklist para os Itens da Entrevista.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| E1 | O artefato possui um conograma das entrevistas ? > <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E3 | O artefato possui os links disponíveis para as entrevistas ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E5 | O artefato possui dados demográficos ?  <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa? <a id="REF4" href="#anchor_4">7.</a>|  |  |
-| E7 | O artefato apresenta o roteiro da entrevista? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E9 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">7.</a> |  |  |
-
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
-
-</center>
 
 ### Checklist de Introspecção
 
@@ -316,7 +268,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
 | FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
 
-Fonte: Maria Marques, 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
@@ -326,14 +278,14 @@ Fonte: Maria Marques, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  |  |
+| TLS1 | No artefato há a participação do cliente e/ou persona? [1]|  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? [1]|  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? [4] |  |  |
 | TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  |  |
 | TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
 ## Referências Bibliografia de $100
@@ -342,17 +294,13 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="REF4" href="#anchor_4">2.</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
-## Referências Bibliografia do "Brainstorming"
+## Referências Bibliografia de FirtThingsFirst
 
-> <a id="REF4" href="#anchor_4">4.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 12 de novembro de 2023.
+> [1] MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
 
- > <a id="REF4" href="#anchor_4">5.</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md.   Acesso em: 12 de novembro de 2023.
+## Referências Bibliografia de Three Level Scale
 
->  <a id="REF4" href="#anchor_4">6.</a> . Requisitos- aula 7. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 12 de novembro de 2023.
-
-## Referências Bibliografia do "Entrevista"
-
-> <a id="REF4" href="#anchor_4">7.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista. Acesso em: 12 de novembro de 2023.
+> [1] SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
 
 
 ## Bibliografia
