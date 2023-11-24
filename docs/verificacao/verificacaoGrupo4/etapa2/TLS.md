@@ -1,8 +1,8 @@
-# Verificação do Three Level Scale do Grupo 5
+# Verificação do Three Level Scale do Grupo 4
 
 ## Introdução
 
-Este artefato verifica o artefato de priorização realizado pelo grupo 5 apresentando um Checklist da Verificação do [Three Level Scale](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/) indicando sugestões e melhorias se necessário. 
+Este artefato verifica o artefato de priorização realizado pelo grupo 4 apresentando um Checklist da Verificação do [Three Level Scale](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/) indicando sugestões e melhorias se necessário. 
 
 ## Metodologia
 
@@ -12,36 +12,49 @@ Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que co
 
 Baseado no livro "Software Requiriments, Third edition" de Karl Wiergers e Joy Beatty [4], este artefato irá conter o checklist de Three level scale.
 
-## Checklist da Verificação da Apresentação
+### Inspeção com o checklist e vídeo da Verificação do Three Level Scale
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 4. O Checklist respondido de acordo com a inspeção realizada está presente na Tabela 1. O vídeo que demonstra a realização dessa inspeção está presente no Vídeo 1.
 
-### Checklist da Verificação do Three Level Scale
+<center>
 
-**Tabela 1** - Checklist para os Itens da Apresentação.
+**Tabela 1** - Checklist para a inspeção dos Itens do Three Level Scale.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim | -- |
-| G2  | O artefato possui Objetivo? | Sim | -- |
-| G3  | O artefato possui uma metodologia definida? | Sim | -- |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| TLS1 | No artefato há a participação do cliente e/ou persona? | Sim | -- |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? | Sim | -- |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  | Sim | -- |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? | Sim | -- |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? | Sim | -- |
-| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? | Sim | -- |
+| G1  | O artefato possui Introdução? |  | -- |
+| G2  | O artefato possui Objetivo? |  | -- |
+| G3  | O artefato possui uma metodologia definida? |  | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  | -- |
+| TLS1 | No artefato há a participação do cliente e/ou persona? |  | -- |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  | -- |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  | -- |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  | -- |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  | -- |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? | Sm | -- |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+</center>
+
+<center>
+
+**Vídeo 1** - Vídeo da inspeção.
+
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+
+</center>
 
 ## Sugestões e melhorias
 
-A qualidade do artefato está ótima e não há sugestões para melhorias.
-  
+O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sugestões de melhoria no artefato:
+
+-   
 ## Bibliografia
 
 > 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
@@ -56,4 +69,5 @@ A qualidade do artefato está ótima e não há sugestões para melhorias.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do TLS | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Esther Sena](https://github.com/esmsena) |  |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) |  |
