@@ -43,6 +43,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? | | |
 | H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
 | H10 | Todas as histórias de usuários podem ser testadas? | | |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
