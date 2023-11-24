@@ -156,28 +156,25 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Brainstorming.
+**Tabela 6** - Checklist para os Itens do Brainstorming.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? |  |  |
-| B2 | Possui gravação da sessão Brainstorming ? |  |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| B4 | A elicitação contou com moderador e um secretário. |  |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? |  |  |
-| B7 | Os requisitos identificados foram expostos? |  |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?|   |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? |  |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? |  |  |
-| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |  |  |
-| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |  |  |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? [1] | | |
+| B2 | O artefato possui gravação da sessão Brainstorming? [1] | | |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? [1] | | |
+| B4 | A elicitação contou com moderador e um secretário? [1] | | |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? [1] | | |
+| B6 | Os requisitos identificados foram expostos? [1] | | |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? [1]| | |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? [1] | | |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? [1] | | |
+| B10 | Todos os Requisitos Não-Funcionais são verificáveis? | | |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? [2] | | |
 
-
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
-
 
 ### Checklist de Entrevista
 
@@ -311,6 +308,12 @@ Fonte: Maria Marques, 2023.
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
+
+## Referências
+
+> [1] SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/brainstorming.md. Acesso em: 24 nov, 2023.
+
+> [2] 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
 
 ## Bibliografia
 
