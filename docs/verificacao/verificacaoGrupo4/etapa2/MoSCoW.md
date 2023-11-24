@@ -1,8 +1,8 @@
-# Verificação do MoSCoW do Grupo 5
+# Verificação do MoSCoW do Grupo 4
 
 ## Introdução
 
-Este artefato verifica o artefato de priorização realizado pelo grupo 5 apresentando um Checklist da Verificação do [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) indicando sugestões e melhorias se necessário. 
+Este artefato verifica o artefato de priorização realizado pelo grupo 4 apresentando um Checklist da Verificação do [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) indicando sugestões e melhorias se necessário. 
 
 ## Metodologia
 
@@ -18,23 +18,23 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 ### Checklist da Verificação do MoSCoW
 
-**Tabela 1** - Checklist para os Itens da Apresentação.
+**Tabela 1** - Checklist para os Itens da MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim | -- |
-| G2  | O artefato possui Objetivo? | Sim | -- |
-| G3  | O artefato possui uma metodologia definida? | Sim | -- |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Não | -- |
-| MS1 | No artefato há a participação do cliente e/ou persona? | Não | -- 
-| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? | Não | -- |
-| MS3 | No artefato há a rastreabilidade dos requisitos elicitados? | Sim | -- |
-| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? | Sim | -- |
-| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? | Sim | -- |
-| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? | Sim | -- |
+| G1  | O artefato possui Introdução? |  | -- |
+| G2  | O artefato possui Objetivo? |  | -- |
+| G3  | O artefato possui uma metodologia definida? |  | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  | -- |
+| MS1 | No artefato há a participação do cliente e/ou persona? |  | -- 
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
+| MS3 | No artefato há a rastreabilidade dos requisitos elicitados?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
+| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -42,8 +42,13 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 No geral a qualidade do artefato está ótima. A sugestões para melhorias estão logo abaixo:
 
-- Falta chamar as tabelas dentro do texto do artefato.
-- Seria interessante explicar melhor como analisaram os requisitos, exemplo: foi em grupo? se sim, foi em ligação? se sim, poderia haver a gravação da mesma.
+- 
+
+
+## Referências Bibliografia 
+
+> <a id="REF4" href="#anchor_4">1.</a> . SERRANO, Milene. Requisitos – Aula 07. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023.
+
 
 ## Bibliografia
 
@@ -53,12 +58,13 @@ No geral a qualidade do artefato está ótima. A sugestões para melhorias estã
  
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-> [4]WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
+> WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
 
-> [5]SERRANO, Milene e SERRANO, Maurício. Aula 07 - Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 13 de novembro de 2023.
+> SERRANO, Milene e SERRANO, Maurício. Aula 07 - Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 13 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 22/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Esther Sena](https://github.com/esmsena) |  |
+| `1.1`  | 23/11/2023 | Criação das referencias bibliográficas do checklis de MoSCoW |  [Esther Sena](https://github.com/esmsena) | |
