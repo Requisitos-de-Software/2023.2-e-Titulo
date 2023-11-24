@@ -273,11 +273,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| MS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| MS1 | No artefato há a participação do cliente e/ou persona? [1] |  |  |
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? [1] |  |  |
 | MS3 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
-| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? |  |  |
-| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? |  |  |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? [2] |  |  |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? [3] |  |  |
 | MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
@@ -305,14 +305,24 @@ Fonte: Maria Marques, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  |  |
+| TLS1 | No artefato há a participação do cliente e/ou persona? [1]|  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? [1]|  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? [4] |  |  |
 | TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  |  |
 | TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
+
+## Referências
+
+> [1] BARROS, André - Requisitos de software. Plano de ensino. Entrega 2. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+
+> [2] WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Página 320/321. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
+
+> [3] SERRANO, Milene e SERRANO, Maurício. Aula 07 - Requisitos. Slides 32 ao 36. Disponível em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 13 de novembro de 2023.
+
+> [4] WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Página 319/320. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
 
 ## Bibliografia
 
