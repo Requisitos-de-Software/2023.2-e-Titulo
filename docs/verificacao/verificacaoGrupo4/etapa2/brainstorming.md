@@ -1,8 +1,8 @@
-# Verificação do Brainstorming do Grupo 5
+# Verificação do Brainstorming do Grupo 4
 
 ## Introdução
 
-Este artefato verifica o Brainstorming realizado pelo grupo 5 apresentando um Checklist da Verificação do Brainstorming indicando sugestões e melhorias. 
+Este artefato inspeciona o Brainstorming realizado pelo grupo 4 realizando o preenchimento da verificação do [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -10,39 +10,42 @@ A metodologia escolhida para realizar a verificação é a de Inspeção do Faga
 
 Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
-## Checklist da Verificação do Brainstorming
+A inspeção será dividida em três possíveis respostas:
+  * Sim - quando o critério for atendido.
+  * Não - quando o critério não for atendido.
+  * Incompleto - quando o critério for parcialmente atendido.
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+## Inspeção por Checklist
+
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 4. A inspeção está presente na Tabela 1.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Brainstorming.
+**Tabela 1** - Inspeção do artefato do Brainstorming.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim  |  |
-| G2  | O artefato possui Objetivo? | Não |  |
-| G3  | O artefato possui uma dinâmica definida? | Sim |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  Sim |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? | Não |  |
-| B2 | Possui gravação da sessão Brainstorming ? | Sim |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Não |  |
-| B4 | A elicitação contou com moderador e um secretário. | Sim |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? | Sim |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? | não |  |
-| B7 | Os requisitos identificados foram expostos? | Sim |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?| Sim  |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? | Sim |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? | Não |  |
-| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? | Sim |  |
-| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? | Sim |  |
+| G1 | O artefato possui Introdução? | | |
+| G2 | O artefato possui Objetivo? | | |
+| G3 | O artefato possui uma metodologia definida? | | |
+| G4 | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | | |
+| G5 | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | | |
+| G6 | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | | |
+| G7 | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
+| G8 | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? | | |
+| B2 | O artefato possui gravação da sessão Brainstorming? | | |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? | | |
+| B4 | A elicitação contou com moderador e um secretário. | | |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  | |
+| B6 | Os requisitos identificados foram expostos? | | |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? | | |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? | | |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? | | |
+| B10 | Todos os Requisitos Não-Funcionais são verificáveis? | | |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? | | |
 
-
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -52,8 +55,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
   -
   -
-
-Os erros serão corrigidos após uma análise e validação conjunta dos problemas identificados com o grupo. Posteriormente, os resultados serão apresentados ao professor da disciplina, conforme previamente acordado no [planejamento.](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1.md)
 
 ## Bibliografia
 
@@ -65,4 +66,4 @@ Os erros serão corrigidos após uma análise e validação conjunta dos problem
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 12/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) | [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
+| `1.0`  | 24/11/2023 | Adição do conteúdo da inspeção do brainstorming. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
