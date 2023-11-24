@@ -35,6 +35,9 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  | -- |
 | L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  | -- |
 | L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  | -- |
+| L9 | No artefato o historico de versão está padronizado ?  |  | -- |
+| L10 | O artefato mostram os léxicos relacionados entre si? |  | -- |
+| L11 | No artefato os léxicos estão relacionados alfabeticamente? |  | -- |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
