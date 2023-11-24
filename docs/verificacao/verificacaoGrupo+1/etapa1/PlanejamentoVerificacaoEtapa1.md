@@ -211,13 +211,19 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | RP1 | O artefato possui a ferramenta utilizada? |  |  |
-| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
-| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
-| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? [1] |  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? [1] |  |  |
+| RP4 | O artefato possui uma legenda de explicação dos componentes? [2] |  |  |
 | RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
 | RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
+
+## Referências
+
+> [1]CTEC2402 - Software Development Project. Introducing Rich Pictures. Página 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692745/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 13 de novembro de 2023. 
+
+> [2]BARROS, André - Requisitos de software. Plano de ensino. Entrega 1. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
 
 ## Bibliografia
 
