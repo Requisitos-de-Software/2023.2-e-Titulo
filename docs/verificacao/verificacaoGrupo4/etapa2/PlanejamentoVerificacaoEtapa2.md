@@ -160,17 +160,17 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming?  <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| B2 | O artefato possui gravação da sessão Brainstorming?  <a id=anchor_1 href="#REF1">[1]</a> | | |
-| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto?  <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| B4 | A elicitação contou com moderador e um secretário?  <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa?  <a id=anchor_1 href="#REF1">[1]</a> | | |
-| B6 | Os requisitos identificados foram expostos?  <a id=anchor_1 href="#REF1">[1]</a> | | |
-| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram?  <a id=anchor_1 href="#REF1">[1]</a> | | |
-| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais?  <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming?  <a id=anchor_1 href="#REF1">[1]</a>  | | |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
+| B2 | O artefato possui gravação da sessão Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a> | | |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
+| B4 | A elicitação contou com moderador e um secretário?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
+| B6 | Os requisitos identificados foram expostos?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram?  <a id=anchor_4 href="#REF4">[4]</a> | | |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? <a id=anchor_4 href="#REF4">[4]</a>   | | |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming?   <a id=anchor_4 href="#REF4">[4]</a>  | | |
 | B10 | Todos os Requisitos Não-Funcionais são verificáveis? | | |
-| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id=anchor_2 href="#REF2">[2]</a> | | |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id=anchor_5 href="#REF5">[5]</a> | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
@@ -226,16 +226,16 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | No artefato foi informado o motivo da escolha do questionário? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que irá fornecer? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| Q3 | Os resultados foram tratados e apresentados? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| Q4 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_3 href="#REF3">[3]</a>  | | |
-| Q5 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| Q6 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_3 href="#REF3">[3]</a>  | | |
-| Q7 | É explicitado como o questionário será utilizado? <a id=anchor_3 href="#REF3">[3]</a>  | | |
-| Q8 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_4 href="#REF4">[4]</a> | | |
-| Q9 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_4 href="#REF4">[4]</a> | | |
-| Q10 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_4 href="#REF4">[4]</a> | | |
+| Q1 | No artefato foi informado o motivo da escolha do questionário? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que irá fornecer? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q3 | Os resultados foram tratados e apresentados? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q4 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q5 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q6 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q7 | É explicitado como o questionário será utilizado? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q8 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| Q9 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| Q10 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_7 href="#REF7">[7]</a> | | |
 | Q11 | No artefato, há as respostas do questionário? | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
@@ -309,13 +309,13 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Referências 
 
-> <a id="REF1" href="#anchor_1">[1]</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+> <a id="REF4" href="#anchor_4">[4]</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF2" href="#anchor_2">[2]</a> 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
+> <a id="REF5" href="#anchor_5">[5]</a> 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF3" href="#anchor_4">[3]</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+> <a id="REF6" href="#anchor_6">[6]</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF4" href="#anchor_4">[4]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
+> <a id="REF7" href="#anchor_7">[7]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
 
 ## Bibliografia
 
