@@ -43,7 +43,8 @@ Os artefatos dessa verificação são:
 - [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/)
 - [Personas](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/)
 - [Brainstorming](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/)
-- [Entrevista](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/entrevista/)
+- [Storytelling](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+- [Entrevista](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
 - [Introspecção](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/)
 - [Observação](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/)
 - [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/)
@@ -61,11 +62,12 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Perfil do Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Personas. | [Mateus Orlando](https://github.com/MateusPy) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Personas. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Mateus Orlando](https://github.com/MateusPy) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Introspecção. | [João Victor](https://github.com/jvcostta) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | -- |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Storytelling. | [Mateus Orlando](https://github.com/MateusPy) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de First Things First. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Three Level Scale. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
@@ -156,7 +158,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Brainstorming.
+**Tabela 6** - Checklist para os Itens do Brainstorming.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -183,7 +185,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Entrevista.
+**Tabela 7** - Checklist para os Itens da Entrevista.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -215,7 +217,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | I5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
 | I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  |  | 
 
-**Tabela 2** - Checklist para os Itens da Introspecção.
+**Tabela 8** - Checklist para os Itens da Introspecção.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -240,7 +242,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | Q5 | É explicitado como o questionário será utilizado? |  |  |
 | Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
 
-**Tabela 2** - Checklist para os Itens do Questionário.
+**Tabela 9** - Checklist para os Itens do Questionário.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -251,7 +253,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
-**Tabela 9** - Checklist para os Itens da Observação.
+**Tabela 10** - Checklist para os Itens da Observação.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -265,9 +267,27 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
+### Checklist de Storytelling
+
+<center>
+
+**Tabela x** - Checklist para os Itens da Storytelling.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST2 | Os requisitos tem identificadores ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST3 | Foram elicitados requisitos funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST4 | Foram elicitados requisitos não-funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
+
 ### Checklist de MoSCoW
 
-**Tabela 10** - Checklist para os Itens do MoSCoW.
+**Tabela 11** - Checklist para os Itens do MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -314,11 +334,15 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> 2023.2-e-Titulo GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+## Referências Bibliográficas 
+
+> <a id="FTF1Ref" href="#FTF1">567.</a> SERRANO, Milene. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf . Acesso em: 24 de novembro de 2023. 
 
 ## Histórico de Versões
 
