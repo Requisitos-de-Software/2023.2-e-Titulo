@@ -16,7 +16,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Cronograma.
+**Tabela 1** - Checklist para a inspeção dos Itens do First Things First.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
