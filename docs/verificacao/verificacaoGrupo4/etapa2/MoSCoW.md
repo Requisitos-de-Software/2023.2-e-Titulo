@@ -12,10 +12,12 @@ Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que co
 
 Baseado no livro "Software Requiriments, Third edition" de Karl Wiergers e Joy Beatty [4] e na aula 07 dos professores Milene e Maurício Serrano[5], este artefato irá conter o checklist de verificação do MoSCoW.
 
-## Checklist da Verificação da Apresentação
+### Inspeção com o checklist e vídeo da Verificação do Perfil do Usuário
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 4. O Checklist respondido de acordo com a inspeção realizada está presente na Tabela 1. O vídeo que demonstra a realização dessa inspeção está presente no Vídeo 1.
 
+<center>
+ 
 ### Checklist da Verificação do MoSCoW
 
 **Tabela 1** - Checklist para os Itens da MoSCoW.
@@ -30,25 +32,30 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  | -- |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  | -- |
 | MS1 | No artefato há a participação do cliente e/ou persona? |  | -- 
-| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
-| MS3 | No artefato há a rastreabilidade dos requisitos elicitados?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
-| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
-| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
-| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara?  <a id="REF4" href="#anchor_4">1.</a>  |  | -- |
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  |  | -- |
+| MS3 | No artefato há a rastreabilidade dos requisitos elicitados?    |  | -- |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas?    |  | -- |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW?    |  | -- |
+| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara?  <a  |  | -- |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+</center>
+
+<center>
+
+**Vídeo 1** - Vídeo da inspeção.
+
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+</center>
 
 ## Sugestões e melhorias
 
 No geral a qualidade do artefato está ótima. A sugestões para melhorias estão logo abaixo:
 
 - 
-
-
-## Referências Bibliografia 
-
-> <a id="REF4" href="#anchor_4">1.</a> . SERRANO, Milene. Requisitos – Aula 07. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023.
-
 
 ## Bibliografia
 
@@ -66,5 +73,5 @@ No geral a qualidade do artefato está ótima. A sugestões para melhorias estã
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 22/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Esther Sena](https://github.com/esmsena) |  |
-| `1.1`  | 23/11/2023 | Criação das referencias bibliográficas do checklis de MoSCoW |  [Esther Sena](https://github.com/esmsena) | |
+| `1.0`  | 22/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5)  | [Esther Sena](https://github.com/esmsena) |  |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) | |
