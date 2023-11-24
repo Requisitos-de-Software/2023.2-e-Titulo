@@ -172,7 +172,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | B10 | Todos os Requisitos Não-Funcionais são verificáveis? | | |
 | B11 | Foram elicitados requisitos que não estão presentes no aplicativo? [2] | | |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
@@ -222,27 +222,25 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
+**Tabela 3** - Checklist para os Itens do Questionário.
+
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | Foi informado o motivo da escolha do questionário? |  |  |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? |  |  |
-| Q3 | O questionário foi aplicado onde se tinha o público alvo? |  | |
-| Q4 | Os resultados foram tratados e apresentados? |  |  |
-| Q5 | Apresenta no texto o prazo em que ficou aberto ? |  |  |
-| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? |  |  |
-| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? |  |  |
-| Q8 | O perfil de usuário apresenta os pontos principais requisitados? |  |  |
-| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? |  |  |
-| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? |  |  |
-| Q5 | É explicitado como o questionário será utilizado? |  |  |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
+| Q1 | No artefato foi informado o motivo da escolha do questionário? [3] | | |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que irá fornecer? [3] | | |
+| Q3 | Os resultados foram tratados e apresentados? [3] | | |
+| Q4 | O artefato apresenta no texto o prazo em que ficou aberto ? [3] | | |
+| Q5 | O artefato apresenta no texto onde o questionário foi distribuído? [3] | | |
+| Q6 | As perguntas apresentam alguma ordem ou padrão estratégico? [3] | | |
+| Q7 | É explicitado como o questionário será utilizado? [3] | | |
+| Q8 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? [4] | | |
+| Q9 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? [4] | | |
+| Q10 | Os requisitos foram qualificados em funcionais e não funcionais? [4] | | |
+| Q11 | No artefato, há as respostas do questionário? | | |
 
-**Tabela 2** - Checklist para os Itens do Questionário.
-
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
-
 
 ### Checklist de Observação
 
@@ -309,11 +307,17 @@ Fonte: Maria Marques, 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-## Referências
+## Referências Brainstorming
 
-> [1] SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/brainstorming.md. Acesso em: 24 nov, 2023.
+> [1] SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
 > [2] 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
+
+## Referências Questionário
+
+> [3] COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+
+> [4] 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
 
 ## Bibliografia
 
@@ -328,4 +332,3 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-
