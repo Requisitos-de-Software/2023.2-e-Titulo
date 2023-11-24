@@ -267,6 +267,10 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? |  |  |
 | FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
 | FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
+| FTF5 | O artefato foi validado por partes relevantes antes de sua finalização? [9]. |  |  |
+| FTF6 | O artefato é acompanhado por documentação explicativa quando necessário? [9]. |  |  |
+| FTF7 | É possível rastrear as origens e alterações feitas no artefato? [9]. |  |  |
+| FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback? [9]. |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -297,6 +301,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 ## Referências Bibliografia de FirtThingsFirst
 
 > [1] MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
+
+> [9] GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
+de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
 
 ## Referências Bibliografia de Three Level Scale
 
