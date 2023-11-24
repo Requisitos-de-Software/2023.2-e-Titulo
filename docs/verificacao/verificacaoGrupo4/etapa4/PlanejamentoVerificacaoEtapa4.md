@@ -122,6 +122,7 @@ Fonte: Maria Barbosa, 2023.
 | H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_1 href="#REF1">[1]</a> | | |
 | H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
 | H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
