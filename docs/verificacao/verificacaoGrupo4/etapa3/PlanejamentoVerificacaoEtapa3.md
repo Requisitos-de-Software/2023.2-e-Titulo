@@ -130,11 +130,30 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Casos de Uso
 
+<center>
+
+**Tabela 5** - Checklist para os Itens de Casos de Uso.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| C1 | O diagrama de caso de uso possui atores?|  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? |  |  |
+| C3 | Os atores estão fora da fronteira do sistema? |  |  |
+| C4 | Os atores interagem com os Casos de Uso corretamente? |  |  |
+| C4 | Há algum nome associado ao(s) usuário(s) do sistema? |  |  |
+| C4 | Existe limite do sistema? |  |  |
+| C4 | Os casos de uso possuem especificações? |  |  |
+| C4 | Os casos de uso possuem rastreabilidade? |  |  |
+| C4 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |  |  |
+
+Fonte: [João Victor](https://github.com/jvcostta), 2023.
+</center>
+
 ### Checklist da Verificação da Especificação Suplementar
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+**Tabela 6** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |

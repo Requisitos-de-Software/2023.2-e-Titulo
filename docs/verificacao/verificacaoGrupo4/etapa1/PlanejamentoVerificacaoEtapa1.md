@@ -184,6 +184,8 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
 
+**Tabela 8** - Checklist para os Itens das Ferramentas.
+
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
@@ -198,9 +200,8 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
 | F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? |  |  |
 
-**Tabela 8** - Checklist para os Itens das Ferramentas.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 
@@ -231,5 +232,5 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo 4 e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 

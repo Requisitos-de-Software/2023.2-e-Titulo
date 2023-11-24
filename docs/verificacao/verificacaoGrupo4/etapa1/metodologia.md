@@ -1,8 +1,8 @@
-# Verificação da Metodologia do Grupo 5
+# Verificação da Metodologia do Grupo 4
 
 ## Introdução
 
-Este artefato verifica metodologia utilizda pelo grupo 5 para o desenvolvimento do projeto da disciplina, apresentando um Checklist da Verificação da Metodologia indicando sugestões e melhorias. 
+Este artefato verifica metodologia utilizda pelo grupo 4 para o desenvolvimento do projeto da disciplina, apresentando um Checklist da Verificação da Metodologia indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -14,43 +14,43 @@ Neste artefato, é apresentado o checklist referente à etapa de Inspeção do F
 ### Modelo
 <center>
 
-**Tabela 1** - Modelo de Checklist para os Itens.
+**Tabela 1** - Modelo de Inspeção para os Itens.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | **Letra inicial do artefato + Nº do ID** (caso houver mais de um artefato com mesma letra inicial, coloque a segunda também) | **Descrever o item** | **Sim/Não/Incompleto** | Colocar alguma observação a respeito da avaliação (Opcional), no caso de não possuir observação insere o seguinte símbolo: **--** |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 </center>
 
-## Checklist da Verificação da Metodologia
+## Inspeção da Verificação da Metodologia
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5 e representado acima, no tópico **Modelo**. O Checklist está presente na Tabela 2.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 4 e representado acima, no tópico **Modelo**. O Checklist está presente na Tabela 2.
 
 <center>
 
-**Tabela 2** - Checklist para os Itens da Metodologia.
+**Tabela 2** - Checklist para Inspeção dos Itens da Metodologia.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim | -- |
-| G2  | O artefato possui Objetivo? | Sim | -- |
-| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G1  | O artefato possui Introdução? |  |  |
+| G2  | O artefato possui Objetivo? | |  |
+| G3  | O artefato possui uma metodologia definida? |  |  |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | Cabe resaltar que não foi explicitado qual a fonte utilizada para as informações contidas na introdução.|
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? | Sim | -- |
-| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? | Sim | -- |
-| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?| Sim | -- |
-| M4 | O artefato apresenta a política e estrutura de commits? | Sim | -- |
-| M5 | O artefato apresenta a política e estrutura de branchs? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? | |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
+| M4 | O artefato apresenta a política e estrutura de commits? |  |  |
+| M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
 | M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? | Não | O artefato não explicita a maneira como deve ser padronizado os demais artefatos produzidos para a disciplina. |
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? | Não | O artefato não apresenta a maneira como deve ser padronizado as issues dos artefatos da disciplina. |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? | Não | O artefato não demonstra como devem ser feitos os pull requests dos artefatos da disciplina. |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 </center>
 
@@ -88,5 +88,4 @@ Apresentação de uma política de criação de Pull requests, para que os artef
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 11/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação da Metodologia.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| `1.1`  | 12/11/2023 | Verificação do artefato de Metodologia do grupo 5.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| `1.0`  | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4.  | [João Victor](https://github.com/jvcostta) | [Maria Eduarda Barbosa](https://github.com/Madu01) |

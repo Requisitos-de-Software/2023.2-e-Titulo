@@ -156,7 +156,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens do Brainstorming.
+**Tabela 6** - Checklist para os Itens do Brainstorming.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -183,7 +183,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Entrevista.
+**Tabela 7** - Checklist para os Itens da Entrevista.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -206,6 +206,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
+**Tabela 8** - Checklist para os Itens da Introspecção.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -215,9 +216,8 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | I5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
 | I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  |  | 
 
-**Tabela 2** - Checklist para os Itens da Introspecção.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 
@@ -240,7 +240,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | Q5 | É explicitado como o questionário será utilizado? |  |  |
 | Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
 
-**Tabela 2** - Checklist para os Itens do Questionário.
+**Tabela 9** - Checklist para os Itens do Questionário.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -251,7 +251,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
-**Tabela 9** - Checklist para os Itens da Observação.
+**Tabela 10** - Checklist para os Itens da Observação.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -267,7 +267,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ### Checklist de MoSCoW
 
-**Tabela 10** - Checklist para os Itens do MoSCoW.
+**Tabela 11** - Checklist para os Itens do MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -284,7 +284,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 <center>
 
-**Tabela 11** - Checklist para os Itens do First Things First.
+**Tabela 12** - Checklist para os Itens do First Things First.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -299,7 +299,7 @@ Fonte: Maria Marques, 2023.
 
 ### Checklist do Three Level Scale
 
-**Tabela 12** - Checklist para os Itens do Three Level Scale.
+**Tabela 13** - Checklist para os Itens do Three Level Scale.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |

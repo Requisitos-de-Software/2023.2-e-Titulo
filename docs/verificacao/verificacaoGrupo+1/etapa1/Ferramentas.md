@@ -3,12 +3,14 @@
 ## Introdução
 Este documento tem como objetivo verificar se o artefato ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/)
 
+## Metodologia
+
+A metodologia escolhida para realizar a verificação é a de Inspeção do Fagan. Este método é importante para garantir que os artefatos produzidos estejam alinhados com os requisitos e expectativas, contribuindo para a entrega de um produto final mais confiável e eficaz. Neste artefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
+
 ## Verificações gerais
-A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefato, de modo que todos os artefatos analisados devem cumprir essas descrições.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
-
-**Tabela 3** - Checklist para os Itens Gerais.
 
  ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -19,20 +21,6 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | SIm | - |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | - |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | - |
-
-**Tabela 1**: Checklist para os Itens Gerais.
-
-Fonte: [João Costa.](https://github.com/jvcostta)
-
-</center>
-
-## Verificações especificas
-A tabela 2 a seguir tem como objetivo descrever os critérios específicos do artefato ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/) e nos informa se cumpre o objetivo.
-
-<center>
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? | Sim | - |
 | F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? | Sim | - |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? | Sim | - |
