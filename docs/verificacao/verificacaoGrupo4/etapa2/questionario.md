@@ -20,7 +20,9 @@ A inspeção será dividida em três possíveis respostas:
 O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 4. A inspeção está presente na Tabela 1.
 
 <center>
-  
+
+**Tabela 1** - Inspeção do artefato Questionário.
+
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | G1 | O artefato possui Introdução? | | |
