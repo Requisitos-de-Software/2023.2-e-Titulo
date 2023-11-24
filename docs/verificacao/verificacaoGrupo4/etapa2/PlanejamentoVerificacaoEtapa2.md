@@ -62,10 +62,10 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 | ------------------ | ----------- | --------------- | --------- | ------------- |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Perfil do Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Personas. | [Mateus Orlando](https://github.com/MateusPy) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Brainstorming. |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Introspecção. | [João Victor](https://github.com/jvcostta) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | -- |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Questionário. |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de First Things First. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Three Level Scale. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
