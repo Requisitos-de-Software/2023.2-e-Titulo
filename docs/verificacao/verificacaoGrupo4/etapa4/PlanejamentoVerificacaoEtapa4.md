@@ -53,8 +53,8 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. |  |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
 
@@ -112,14 +112,18 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
-| H2 | As histórias possuem um ID? |  |  |
-| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? |  |  |
-| H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
-| H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
-| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |  |  |
+| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H2 | As histórias possuem um ID? <a id=anchor_1 href="#REF1">[1]</a>  | | |
+| H3 | Os títulos das histórias de usuário são auto-explicativos? <a id=anchor_2 href="#REF2">[2]</a> | | |
+| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | | |
+| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a>  | | |
+| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
+| H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -155,7 +159,12 @@ Fonte: Maria Marques, 2023.
 
 </center>
 
+## Referências 
 
+> <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
+
+> <a id="REF2" href="#anchor_2">[2]</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+ 
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
