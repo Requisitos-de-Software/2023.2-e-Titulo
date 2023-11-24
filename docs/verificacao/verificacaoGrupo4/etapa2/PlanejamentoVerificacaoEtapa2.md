@@ -142,14 +142,14 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="REF4" href="#anchor_4">2.</a>  |  |  |
-| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="REF4" href="#anchor_4">1.</a> |  ||
-| $3 | Esses requisitos passaram por algum processo de validação? <a id="REF4" href="#anchor_4">2.</a>  |  |  |
-| $4 |  Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação? <a id="REF4" href="#anchor_4">2.</a>  |  |  |
-| $5 | O processo de priorização considerou as interdependências entre os requisitos?  <a id="REF4" href="#anchor_4">2.</a>  |  |  |
-| $6 | Os requisitos de alta prioridade também apresentam maior número de dependências? <a id="REF4" href="#anchor_4">2.</a>  |  |  |
-| $7 | No contexto da fase de modelagem subsequente, os requisitos foram claramente separados com base em suas prioridades? <a id="REF4" href="#anchor_4">1.</a> |  |  |
-| $8 | Houve uma distinção adicional dos requisitos com base em níveis específicos de prioridade? <a id="REF4" href="#anchor_4">1.</a> |  |  |
+| $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="REF4" href="#anchor_4">[2].</a>  |  |  |
+| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="REF4" href="#anchor_4">[1].</a> |  ||
+| $3 | Esses requisitos passaram por algum processo de validação? <a id="REF4" href="#anchor_4">[2].</a>  |  |  |
+| $4 |  Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação? <a id="REF4" href="#anchor_4">[2].</a>  |  |  |
+| $5 | O processo de priorização considerou as interdependências entre os requisitos?  <a id="REF4" href="#anchor_4">[2].</a>  |  |  |
+| $6 | Os requisitos de alta prioridade também apresentam maior número de dependências? <a id="REF4" href="#anchor_4">[2].</a>  |  |  |
+| $7 | No contexto da fase de modelagem subsequente, os requisitos foram claramente separados com base em suas prioridades? <a id="REF4" href="#anchor_4">[1].</a> |  |  |
+| $8 | Houve uma distinção adicional dos requisitos com base em níveis específicos de prioridade? <a id="REF4" href="#anchor_4">[1].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -290,9 +290,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 ## Referências Bibliografia de $100
 
-> <a id="REF4" href="#anchor_4">1.</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
+> <a id="REF4" href="#anchor_4">[1].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
 
-> <a id="REF4" href="#anchor_4">2.</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+> <a id="REF4" href="#anchor_4">[2].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 ## Referências Bibliografia de FirtThingsFirst
 
