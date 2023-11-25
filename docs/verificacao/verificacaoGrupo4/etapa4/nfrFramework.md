@@ -63,5 +63,5 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 13/11/2023 | Criação do documento e adição de todos os tópicos | [Maria Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
-| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
-| `1.2`  | 24/11/2023 | Preenchimento da inspeção do NFR Framework e adição de sugestões e melhorias | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
+| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques](https://github.com/EduardaSMarques) |
+| `1.2`  | 24/11/2023 | Preenchimento da inspeção do NFR Framework e adição de sugestões e melhorias | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques](https://github.com/EduardaSMarques) |
