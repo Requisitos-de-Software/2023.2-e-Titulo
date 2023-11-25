@@ -12,22 +12,23 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma metodologia definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| C1 | O diagrama de caso de uso possui atores?|  |  |
-| C2 | O ator principal está do lado esquerdo do sistema? |  |  |
-| C3 | Os atores estão fora da fronteira do sistema? |  |  |
-| C4 | Os atores interagem com os Casos de Uso corretamente? |  |  |
-| C4 | Há algum nome associado ao(s) usuário(s) do sistema? |  |  |
-| C4 | Existe limite do sistema? |  |  |
-| C4 | Os casos de uso possuem especificações? |  |  |
-| C4 | Os casos de uso possuem rastreabilidade? |  |  |
-| C4 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |  |  |
+| G1  | O artefato possui Introdução? | Sim | Não possui o tópico, mas há o tópico de "conceito" que faz a introdução |
+| G2  | O artefato possui Objetivo? | Sim | Não possui o tópico, mas o objetivo está distribuido em "conceito" e "metodologia |
+| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Incompleto | Falta a data na fonte das tabelas |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| C1 | O diagrama de caso de uso possui atores?| Sim | -- |
+| C2 | O ator principal está do lado esquerdo do sistema? | Sim | -- |
+| C3 | Os atores estão fora da fronteira do sistema? | Sim | -- |
+| C4 | Os atores interagem com os Casos de Uso corretamente? | Sim | -- |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? | Sim | -- |
+| C6 | Existe limite do sistema? | Sim | -- |
+| C7 | Os casos de uso possuem especificações? | Sim | -- |
+| C8 | Os casos de uso possuem rastreabilidade? | Sim | -- |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? | Sim | -- |
+| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | Não | -- |
 
 **Tabela 2** - Checklist para os Itens dos casos de uso.
 
@@ -36,17 +37,17 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 </center>
 
 ## Conclusão/Sugestões
-Artefato bem desenvolvido, estruturado e referenciado. Poderia apenas referenciar, na introdução, qual é o "sistema[1]"
+Artefato bem desenvolvido, estruturado e referenciado. Poderia apenas por as tabelas na norma ABNT adicionando data. Poderia tambem adicionar uma explicação sobre as comunicações e relações do sistema.
 
 ## Bibliografia
 
-> 2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 12 de novembro de 2023.
+> 2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 24 de novembro de 2023.
 
-> 2023.1-Jitsi. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/. Acesso em: 12 de novembro de 2023.
+> 2023.1-E-titulo. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/. Acesso em: 24 de novembro de 2023.
 
-> 2023.1-Simplenote. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 13 de novembro de 2023.
+> 2023.1-Simplenote. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |

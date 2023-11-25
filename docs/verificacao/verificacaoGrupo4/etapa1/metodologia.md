@@ -1,8 +1,8 @@
-# Verificação da Metodologia do Grupo 4
+# Inspeção da Metodologia do Grupo 4
 
 ## Introdução
 
-Este artefato verifica metodologia utilizda pelo grupo 4 para o desenvolvimento do projeto da disciplina, apresentando um Checklist da Verificação da Metodologia indicando sugestões e melhorias. 
+Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist dos cronogramas planejado e executado, indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -34,21 +34,21 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? | |  |
-| G3  | O artefato possui uma metodologia definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | Cabe resaltar que não foi explicitado qual a fonte utilizada para as informações contidas na introdução.|
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
-| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? | |  |
-| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
-| M4 | O artefato apresenta a política e estrutura de commits? |  |  |
-| M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
-| M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? | Não | O artefato não explicita a maneira como deve ser padronizado os demais artefatos produzidos para a disciplina. |
-| M7 | O artefato apresenta a política e estrutura para a criação de issues ? | Não | O artefato não apresenta a maneira como deve ser padronizado as issues dos artefatos da disciplina. |
-| M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? | Não | O artefato não demonstra como devem ser feitos os pull requests dos artefatos da disciplina. |
+| G1  | O artefato possui Introdução? | Sim | -- |
+| G2  | O artefato possui Objetivo? | Sim | -- |
+| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Incompleto | Nenhum link está disponivel para acesso.|
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Não | As estruturas não tem fonte e as referencias da bibliografia não estão disponíveis. |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Incompleto | As estruturas não tem fonte e as referencias da bibliografia não estão disponíveis. |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? | Sim | -- |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? | Sim| -- |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento?| Sim | -- |
+| M4 | O artefato apresenta a política e estrutura de commits? | Sim | -- |
+| M5 | O artefato apresenta a política e estrutura de branchs? | Sim | -- |
+| M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? | Sim | -- |
+| M7 | O artefato apresenta a política e estrutura para a criação de issues ? | Sim | -- |
+| M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? | Sim | -- |
 
 Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
@@ -56,33 +56,25 @@ Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 ## Sugestões e melhorias
 
-No geral, o artefato foi bem desenvolvido, no entanto está muito simples e não abrange alguns tópicos importantes como: Políticas de artefatos, issues e pull requests. Como sugestão:
+No geral, o artefato foi bem desenvolvido, no entanto devido o fato das bibliográfias/referências não etarem disponíveis, deixa de abranger alguns tópicos importantes como: bibliográfia/referência e imagens/figuras seguindo as normas da ABNT. Como sugestão:
 
 ### Sugestão/Melhoria 1
 
-Adição das referências bibliográficas que foram utilizadas para as informações contidas na **Introdução**.
+Adição os links das referências bibliográficas que foram utilizadas para as estruturas apresentadas.
 
 ### Sugestão/Melhoria 2
 
-Apresentação de uma política/padrão para a criação e desenvolvimento dos artefatos da disciplina.
-
-### Sugestão/Melhoria 3
-
-Apresentação de uma política de criação de Issues para que o desenvolvimento dos artefatos seja feito de maneira coerente e objetiva.
-
-### Sugestão/Melhoria 4
-
-Apresentação de uma política de criação de Pull requests, para que os artefatos sejam verificados antes de adicioná-los ao restante do projeto.
+Adicionar fonte as estruturas.
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 10 de novembro de 2023.
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 24 de novembro de 2023.
 
-> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 12 de novembro de 2023.
+> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
-> 2023.1-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 12 de novembro de 2023.
+> 2023.1-E-titulo. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/. Acesso em: 24 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 24 de novembro de 2023.
 
 ## Histórico de Versões
 
