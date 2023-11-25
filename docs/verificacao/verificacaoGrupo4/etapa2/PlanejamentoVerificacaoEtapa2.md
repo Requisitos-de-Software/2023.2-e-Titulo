@@ -227,16 +227,15 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | Q1 | No artefato foi informado o motivo da escolha do questionário? <a id=anchor_6 href="#REF6">[6]</a> | | |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que irá fornecer? <a id=anchor_6 href="#REF6">[6]</a> | | |
-| Q3 | Os resultados foram tratados e apresentados? <a id=anchor_6 href="#REF6">[6]</a> | | |
-| Q4 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_6 href="#REF6">[6]</a>  | | |
-| Q5 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_6 href="#REF6">[6]</a> | | |
-| Q6 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_6 href="#REF6">[6]</a>  | | |
-| Q7 | É explicitado como o questionário será utilizado? <a id=anchor_6 href="#REF6">[6]</a>  | | |
-| Q8 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q9 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q10 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q11 | No artefato, há as respostas do questionário? | | |
+| Q2 | Os resultados foram tratados e apresentados? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q3 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q4 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| Q5 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q6 | É explicitado como o questionário será utilizado? <a id=anchor_6 href="#REF6">[6]</a>  | | |
+| Q7 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| Q8 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| Q9 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| Q10 | No artefato, há as respostas do questionário? | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
