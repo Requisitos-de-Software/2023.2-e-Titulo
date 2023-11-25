@@ -285,15 +285,14 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona? <a id="REF4" href="#anchor_4">[81].</a>|  |  |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? <a id="REF4" href="#anchor_4">[81].</a>|  |  |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
-| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
-| FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
-| FTF6 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
-| FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
+| TLS1 | No artefato há a participação do cliente e/ou persona?  <a id="REF4" href="#anchor_4">[81].</a>  | Sim | -- |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="REF4" href="#anchor_4">[81].</a>  | Sim | -- |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="REF4" href="#anchor_4">[81].</a>  | Sim | -- |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência?  <a id="REF4" href="#anchor_4">[81].</a>  | Sim | -- |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? | Não | observação abaixo |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara?  <a id="REF4" href="#anchor_4">[81].</a> | Sm | -- |
+| TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis? | Incompleto | observação abaixo |
+| TLS8 | O artefato possui gravação da dinâmica ?  | Sim |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
