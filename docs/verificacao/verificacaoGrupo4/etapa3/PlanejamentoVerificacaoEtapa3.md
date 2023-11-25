@@ -158,10 +158,9 @@ Fonte: Maria Barbosa, 2023.
 | B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
 | B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
 | B20 | O documento contempla requisitos físicos? |  |  |
-| B21 | Os léxicos relacionados são mencionados no artefato? |  |  |
 
 
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 </center>
 
@@ -190,8 +189,6 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
 
@@ -200,3 +197,4 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| ` `  | 24/11/2023 | Alterando tabela da especificação suplementar | [Maria Marques ](https://github.com/EduardaSMarques) |[Maria Barbosa](https://github.com/Madu01) | 
