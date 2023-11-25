@@ -1,8 +1,8 @@
-# Planejamento da Verificação da Etapa 4 do Grupo 4
+# Planejamento da Verificação da Etapa 6 do Grupo 4
 
 ## Introdução
 
-A verificação representa uma das fases fundamentais no progresso de um projeto. Nessa fase, os artefatos (Documentos) gerados durante o projeto passam por uma análise minuciosa para assegurar a conformidade com as exigências estipuladas. Dessa forma, este artefato define a estratégia de verificação aplicada aos artefatos realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) durante a etapa 4.
+A verificação representa uma das fases fundamentais no progresso de um projeto. Nessa fase, os artefatos (Documentos) gerados durante o projeto passam por uma análise minuciosa para assegurar a conformidade com as exigências estipuladas. Dessa forma, este artefato define a estratégia de verificação aplicada aos artefatos realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) durante a etapa 6.
 
 ## Motivação e Objetivo
 
@@ -27,7 +27,7 @@ Fonte: SERRANO; SERRANO.
 
 ### Participantes
 
-Os participantes desta verificação da etapa 4 são:
+Os participantes desta verificação da etapa 6 são:
 
 - [Maria Eduarda Barbosa](https://github.com/Madu01)
 - [Mariiana Siqueira](https://github.com/Maryyscreuza)
@@ -104,57 +104,17 @@ Fonte: Maria Barbosa, 2023.
 </center>
 
 
-### Checklist da Verificação do Histórias de Usuário
+### Checklist da Verificação do backward-from
 
 <center>
 
-**Tabela 4** - Checklist para os Itens das Histórias de Usuário.
+**Tabela 4** - Checklist para os Itens do backward-from.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
-| H2 | As histórias possuem um ID? |  |  |
-| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? |  |  |
-| H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
-| H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
-| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |  |  |
+| B1 |  |  |  |
 
 Fonte: Maria Barbosa, 2023.
-
-</center>
-
-### Checklist da Verificação do Backlog
-
-**Tabela 5** - Checklist para os Itens de Backlog.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
-| BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_03512 href="#REF03512">[03512]</a> |  |  |
-| BL6 | Existe a linkagem para o artefato de histórias de usuário? |  |  |
-| BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? |  |  |
-
-Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
-
-### Checklist da Verificação do NFR Framework
-
-<center>
-
-**Tabela 6** - Checklist para os Itens do NFR Framework.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
-| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
-| NF3 | Os softgoals condizem com o contexto? |  |  |
-| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
-| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
-| NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
-
-Fonte: Maria Marques, 2023.
 
 </center>
 

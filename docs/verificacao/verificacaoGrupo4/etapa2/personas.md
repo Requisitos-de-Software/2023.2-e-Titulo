@@ -1,68 +1,63 @@
-# Verificação das Personas do Grupo 5
+# Verificação das Personas do Grupo 4
 
 ## Introdução
 
-Este artefato verifica as personas utilizdas pelo grupo 5, para a representação do cliente real do aplicativo escolhido [Jitsi](https://requisitos-de-software.github.io/2023.2-Jitsi/) para a disciplina, apresentando um Checklist da Verificação dessas Personas indicando sugestões e melhorias. 
+Este artefato verifica o [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/) realizado pelo grupo 4 apresentando o resultado da inspeção com um Checklist respondido do [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/) indicando sugestões e melhorias. 
 
 ## Metodologia
 
-A escolha da metodologia de Inspeção do Fagan para realizar a verificação é significativa, pois assegura que os artefatos produzidos estejam alinhados com os requisitos e expectativas estabelecidos. Essa abordagem contribui de maneira substancial para a entrega de um produto final mais confiável e eficaz, ao proporcionar uma revisão sistemática e estruturada dos artefatos, identificando e corrigindo potenciais problemas precocemente no processo de desenvolvimento.
+A metodologia escolhida para realizar a verificação é a de Inspeção do Fagan. Este método é importante para garantir que os artefatos produzidos estejam alinhados com os requisitos e expectativas, contribuindo para a entrega de um produto final mais confiável e eficaz. 
 
-Neste artefato, é apresentado o checklist referente à etapa de Inspeção do Fagan. Este checklist consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Funciona como uma ferramenta prática para assegurar que todas as etapas necessárias foram realizadas, contribuindo para a organização do processo e prevenção de erros ao garantir que nenhum aspecto relevante seja negligenciado.
+Neste atefato é demonstrado o resultado com o vídeo da inspeção realizada individualmente com o checklist respondido.
 
+### Vídeo da Inspeção individual de Personas
 
-### Modelo
+No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 20:13 do dia 23 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. 
+
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/EHCf1ixrfyE).
 
 <center>
 
-**Tabela 1** - Modelo de Checklist para os Itens.
+**Vídeo 1** - Vídeo da inspeção individual.
 
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| **Letra inicial do artefato + Nº do ID** (caso houver mais de um artefato com mesma letra inicial, coloque a segunda também) | **Descrever o item** | **Sim/Não/Incompleto** | Colocar alguma observação a respeito da avaliação (Opcional), no caso de não possuir observação insere o seguinte símbolo: **--** |
+<iframe width="560" height="315" src="https://youtu.be/EHCf1ixrfyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Maria Barbosa, 2023.
 
 </center>
 
-## Checklist da Verificação das Personas
+### Resultado da Inspeção individual de Personas
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 5 e representado acima, no tópico **Modelo**. O Checklist está presente na Tabela 2.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 4. O Checklist respondido de acordo com a inspeção realizada está presente na Tabela 1.  A transcrição das respostas da inspeção realizada no vídeo 1 foi passada para esse checklist pela maria barbosa, mas os itens (as perguntas) de P1 até P5 foram originados por Mateus Orlando e apenas o acréscimo de dois itens o P6 e P7 realizado por maria barbosa.
 
 <center>
 
-**Tabela 2** - Checklist para os Itens da Metodologia.
+**Tabela 1** - Checklist para a inspeção individual de Personas.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução ? | Sim | -- |
-| G2  | O artefato possui Objetivo ? | Sim | -- |
-| G3  | O artefato possui uma metodologia definida ? | Sim | -- |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? | Incompleto | Na parte de bibliografia não se encontra a fonte citada no tópico **Metodologia**. |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Sim | -- |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
-| P3 | O artefato possui persona primária ? | Sim | -- |
-| P4 | O artefato possui antipersona ? | Sim | -- |
-| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Ele cita que o ideal é de 3 a 12 personas mas, não explica a motivação da quantidade utilizada no artefato. |
+| G1  | O artefato possui Introdução ? |  |  |
+| G2  | O artefato possui Objetivo ? |  |  |
+| G3  | O artefato possui uma metodologia definida ? |  |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? |  |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? |  |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) |  |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) |  |  |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
+| P3 | O artefato possui persona primária ? |  |  |
+| P4 | O artefato possui antipersona ? |  |  |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
+| P6 | O artefato possui uma conclusão?  |  |  |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: Mateus Orlando e Maria Barbosa, 2023.
 
 </center>
 
 ## Sugestões e melhorias
 
-No geral, o artefato está bom e apresenta personas consistentes e coerentes com o perfil do usuário. Como sugestão:
 
-### Sugestão/Melhoria 1
-
-Resaltaria a importância da adição da referência, utilizada no tópico de **Metodologia**, no campo de bibliografia/referências. Dessa maneira facilitaria a obtenção da fonte utilizada.
-
-### Sugestão/Melhoria 2
-
-No tocante a criação das **Personas**, indicaria a adição do motivo que levou o grupo a criar o número personas utilizadas no elenco do projeto. No caso, 3 personas e 1 anti persona.
 
 ## Bibliografia
 
@@ -70,7 +65,7 @@ No tocante a criação das **Personas**, indicaria a adição do motivo que levo
 
 > 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 12 de novembro de 2023.
 
-> 2023.1-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 12 de novembro de 2023.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 11 de novembro de 2023.
 
@@ -78,5 +73,6 @@ No tocante a criação das **Personas**, indicaria a adição do motivo que levo
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 11/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação das Personas.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| `1.1`  | 12/11/2023 | Verificação do artefato de Personas do grupo 5.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 23/11/2023 | Adicionando as respostas no checklist, o link do vídeo e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |

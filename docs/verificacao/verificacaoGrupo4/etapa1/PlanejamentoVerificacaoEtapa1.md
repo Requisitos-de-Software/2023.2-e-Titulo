@@ -151,13 +151,18 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CM1 | O documento possui o cronograma planejado e executado? |  |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? |  |  |
-| CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
+| CM1 | Existe o cronograma planejado e executado no projeto? |  |  |
+| CM2 | O cronograma de planejamento possue um cronograma geral? |  |  |
+| CM3 | O cronograma geral presente no artefato de cronograma de planejamento contém na tabela as seguintes informações: **Número da identificação da entrega, nome da atividade, a descrição dessa atividade e o período de entrega e da apresentação**? |  |  |
+| CM4 | O cronograma de planejamento e de executado possuem todas as atividades de todas as etapas, especeficando de forma detalhadamente, ou seja, possuindo atividades que não necessáriamente são artefatos do cronograma geral? |  |  |
+| CM5 | O cronograma de planejamento e de executado possuem em cada tabela as seguintes informações: **O nome da atividade, Data do início e Data do Fim da atividade, a Data da Revisão, o Autor(es) e Revisor(es), e o local da realização da atividade**? (exceto na tabela geral) |  |  |
+| CM6 | O cronograma do planejamento e executado possuem as atividades de gravação da apresentação de cada etapa? |  |  |
+| CM7 | O cronograma executado e de planejamento possuem as atividades das correções após os feedbacks (isso exceto a da última entrega)? |  |  |
+| CM8 | No cronograma executado e no de planejamento possuem textos explicativos referentes a cada tabela de cronograma? |  |  |
+| CM9 | No cronograma executado possue todas as atividades esperadas no cronograma de planejamento? |  |  |
+| CM10 | As atividades tem duração realistas? <a id=anchor_1532561 href="#REF153256">[153256]</a> |  |  |
 
-Fonte: Maria Eduarda Marques, 2023.
+Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação da Metodologia
 
@@ -227,9 +232,14 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+## Referência Bibliográfica
+
+> <a id="REF153256" href="#anchor_1532561">[153256]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 
