@@ -56,6 +56,16 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
   - É necessário colocar a gravação do vídeo no artefato.
   - Os requisitos não-funcionais podem ser melhor listados, já que há funcionais listados como não-funcionais.
 
+## Vídeo da inspeção
+
+Abaixo, no vídeo 1, está presente a gravação do vídeo do brainstorming feito individualmente por [Mariiana Siqueira](https://github.com/Maryyscreuza).
+
+Vídeo 1 - link do vídeo para a inspeção sobre brainstorming.
+
+- https://www.youtube.com/watch?v=kB8O8AzKIAM
+
+Fonte: SIQUEIRA, Mariiana.
+
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 12 de novembro de 2023.
@@ -66,4 +76,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 24/11/2023 | Adição do conteúdo da inspeção do brainstorming. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
+| `1.0`  | 24/11/2023 | Adição do conteúdo da inspeção do brainstorming. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.1`  | 25/11/2023 | Preenchimento da inspeção de brainstorming. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.2`  | 25/11/2023 | Adição do vídeo de inspeção e revisor | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
