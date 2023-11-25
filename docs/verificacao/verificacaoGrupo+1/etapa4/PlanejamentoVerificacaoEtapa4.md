@@ -146,9 +146,9 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
-| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
-| NF3 | Os softgoals condizem com o contexto? |  |  |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
+| NF2 | O artefato possui cartão de especificação do RNF? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
+| NF3 | Os softgoals condizem com o contexto? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
 | NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
 | NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
 | NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
@@ -166,6 +166,9 @@ Fonte: Maria Marques, 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
+## Referência Bibliográfica
+
+> <a id=anchor_0150 href="#REF0150">[0150]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
 
 ## Histórico de Versões
 
