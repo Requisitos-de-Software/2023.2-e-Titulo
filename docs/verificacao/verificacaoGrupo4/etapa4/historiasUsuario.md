@@ -34,16 +34,16 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Não | As tabelas não estão sendo chamadas no texto. |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | Não | A bibliografia/referências não está sendo chamado no texto. |
 | H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? | Sim | Ver descrição abaixo. |
-| H2 | As histórias possuem um ID? | | |
-| H3 | Os títulos das histórias de usuário são auto-explicativos? | | |
-| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? | | |
-| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | | |
-| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? | | |
-| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) | | |
-| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? | | |
-| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
-| H10 | Todas as histórias de usuários podem ser testadas? | | |
-| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
+| H2 | As histórias possuem um ID? | Sim | -- |
+| H3 | Os títulos das histórias de usuário são auto-explicativos? | Não | O título é somente o ID da história de usuário. |
+| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? | Sim | -- |
+| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | Sim | -- |
+| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? | Sim | -- |
+| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) | Sim | -- |
+| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? | Incompleto | Não há o por que. |
+| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | Incompleto | Algumas tem e outras não tem. |
+| H10 | Todas as histórias de usuários podem ser testadas? | Incompleto | Alguns não são testáveis. |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | Não | Há somente requisitos de alta prioridade. |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -54,7 +54,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
   - H1 - Colocar linkagem de rastreabilidade nos requisitos.
-  -
+  - As histórias de usuário deveriam ser feitas com variedades de requisitos.
 
 ## Bibliografia
 
