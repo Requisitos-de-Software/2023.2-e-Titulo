@@ -56,6 +56,14 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
   - H1 - Colocar linkagem de rastreabilidade nos requisitos.
   - As histórias de usuário deveriam ser feitas com variedades de requisitos.
 
+## Vídeo da inspeção
+
+Vídeo 1 - link do vídeo para a inspeção em dupla sobre histórias de usuário.
+
+- https://www.youtube.com/watch?v=kB8O8AzKIAM
+
+Fonte: SIQUEIRA, Mariiana e SENA, Esther.
+
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 12 de novembro de 2023.
@@ -67,5 +75,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, metodologia e Checklist Verificação da Apresentação. | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção das histórias de usuário. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
-| `1.2`  | 24/11/2023 | Preenchimento da inspeção das histórias de usuário e sugestão de melhorias. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
+| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção das histórias de usuário. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.2`  | 24/11/2023 | Preenchimento da inspeção das histórias de usuário e sugestão de melhorias. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.3`  | 25/11/2023 | Adição do vídeo de inspeção em dupla e revisor | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
