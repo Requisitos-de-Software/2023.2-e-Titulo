@@ -112,8 +112,6 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
 | H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
 | H2 | As histórias possuem um ID? |  |  |
 | H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? <a id=anchor_113110 href="#REF113110">[113110]</a> |  |  |
