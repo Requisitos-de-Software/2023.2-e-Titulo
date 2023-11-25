@@ -112,15 +112,15 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato utiliza os requisitos funcionais e os requisitos não funcionais? | Sim | -- |
-| B2 | Os requisitos presentes estão sendo ligados às suas fontes? <a id=anchor_62946 href="#REF62946">[62946]</a> | Sim | -- |
-| B3 |  Existe a linkagem dos requisitos a sua origem? | Incompleto | Os ENTnº, QSTnº e STnº as linkagens não funciona |
-| B4 | A metodologia referencia o Meta-modelo proposto por Toranzo? <a id=anchor_1110048 href="#REF1110048">[1110048]</a> | Sim | -- |
-| B5 | As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? <a id=anchor_31110048 href="#REF1110048">[1110048]</a> | Sim | -- |
-| B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? <a id=anchor_331110048 href="#REF1110048">[1110048]</a> | Sim  | --  |
-| B7 |  Existe legendas para ajudar na leitura do artefato? | Sim | -- |
-| B8 |  A Legenda está de acordo com os símbolos presentes no artefato? | Incompleto  | Falta utilizar o "nº" na legenda, em vez de só as siglas, pois no artefato os símbolos utilizados têm números também, não só letras. |
-| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_62946 href="#REF62946">[62946]</a> | Sim | A categoria está com o nome de Nível, sendo mesmo tipo de conteúdo |
+| B1 | O artefato utiliza os requisitos funcionais e os requisitos não funcionais? |  |  |
+| B2 | Os requisitos presentes estão sendo ligados às suas fontes? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
+| B3 |  Existe a linkagem dos requisitos a sua origem? |  | |
+| B4 | A metodologia referencia o Meta-modelo proposto por Toranzo? <a id=anchor_1110048 href="#REF1110048">[1110048]</a> |  |  |
+| B5 | As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? <a id=anchor_31110048 href="#REF1110048">[1110048]</a> |  |  |
+| B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? <a id=anchor_331110048 href="#REF1110048">[1110048]</a> |   |   |
+| B7 |  Existe legendas para ajudar na leitura do artefato? |  |  |
+| B8 |  A Legenda está de acordo com os símbolos presentes no artefato? |   |  |
+| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -129,6 +129,7 @@ Fonte: Maria Barbosa, 2023.
 
 ## Bibliografia
 
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
 ## Referência Bibliográfica
 
