@@ -1,8 +1,8 @@
-# Planejamento da Verificação da Etapa 4 do Grupo 4
+# Planejamento da Verificação da Etapa 6 do Grupo 4
 
 ## Introdução
 
-A verificação representa uma das fases fundamentais no progresso de um projeto. Nessa fase, os artefatos (Documentos) gerados durante o projeto passam por uma análise minuciosa para assegurar a conformidade com as exigências estipuladas. Dessa forma, este artefato define a estratégia de verificação aplicada aos artefatos realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) durante a etapa 4.
+A verificação representa uma das fases fundamentais no progresso de um projeto. Nessa fase, os artefatos (Documentos) gerados durante o projeto passam por uma análise minuciosa para assegurar a conformidade com as exigências estipuladas. Dessa forma, este artefato define a estratégia de verificação aplicada aos artefatos realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) durante a etapa 6.
 
 ## Motivação e Objetivo
 
@@ -27,7 +27,7 @@ Fonte: SERRANO; SERRANO.
 
 ### Participantes
 
-Os participantes desta verificação da etapa 4 são:
+Os participantes desta verificação da etapa 6 são:
 
 - [Maria Eduarda Barbosa](https://github.com/Madu01)
 - [Mariiana Siqueira](https://github.com/Maryyscreuza)
@@ -53,9 +53,9 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. |  |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -104,68 +104,43 @@ Fonte: Maria Barbosa, 2023.
 </center>
 
 
-### Checklist da Verificação do Histórias de Usuário
+### Checklist da Verificação do backward-from
 
 <center>
 
-**Tabela 4** - Checklist para os Itens das Histórias de Usuário.
+**Tabela 4** - Checklist para os Itens do backward-from.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H2 | As histórias possuem um ID? <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| H3 | Os títulos das histórias de usuário são auto-explicativos? <a id=anchor_2 href="#REF2">[2]</a> | | |
-| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | | |
-| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a>  | | |
-| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
-| H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
-| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
+| B1 | O artefato utiliza os requisitos funcionais e os requisitos não funcionais? |  |  |
+| B2 | Os requisitos presentes estão sendo ligados às suas fontes? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
+| B3 |  Existe a linkagem dos requisitos a sua origem? |  | |
+| B4 | A metodologia referencia o Meta-modelo proposto por Toranzo? <a id=anchor_1110048 href="#REF1110048">[1110048]</a> |  |  |
+| B5 | As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? <a id=anchor_31110048 href="#REF1110048">[1110048]</a> |  |  |
+| B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? <a id=anchor_331110048 href="#REF1110048">[1110048]</a> |   |   |
+| B7 |  Existe legendas para ajudar na leitura do artefato? |  |  |
+| B8 |  A Legenda está de acordo com os símbolos presentes no artefato? |   |  |
+| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
-
-</center>
-
-### Checklist da Verificação do Backlog
-
-**Tabela 5** - Checklist para os Itens de Backlog.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
-| BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_03512 href="#REF03512">[03512]</a> |  |  |
-| BL6 | Existe a linkagem para o artefato de histórias de usuário? |  |  |
-| BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? |  |  |
-
-Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
-
-### Checklist da Verificação do NFR Framework
-
-<center>
-
-**Tabela 6** - Checklist para os Itens do NFR Framework.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
-| NF3 | O artefato possui cartão de especificação do RNF? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF4 | Os softgoals condizem com o contexto? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF8 | O histórico de versões está padronizado? | | |
-
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
+Fonte: Maria Barbosa, 2023.
 
 </center>
 
 
+### Checklist da Verificação da matriz
+
+<center>
+  
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| MTZ1 | No artefato há uma tabela com ID, Descrição,	Artefatos relacionados (Origem), Pré-Rastreabilidade,	Implementado e os ELOS ? <a id="REF4" href="#anchor_4">[71].</a> |  |   |
+| MTZ2 | Os indentificadores possuem likagem de rastreabilidade? <a id="REF4" href="#anchor_4">[71].</a>  |  ||
+| MTZ3 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="REF4" href="#anchor_4">[71].</a>  |  |   |
+| MTZ4 | O artefato possui legenda ? <a id="REF4" href="#anchor_4">[71].</a>  |  |  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+</center>
 
 ## Bibliografia
 
@@ -177,14 +152,19 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 ## Referência Bibliográfica
 
-> <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
+> <a id="REF03512" href="#anchor_03512">[03512]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
-> <a id="REF2" href="#anchor_2">[2]</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+> <a id="REF62946" href="#anchor_62946">[62946]</a> LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf. Acesso em: 24 Novembro. 2023.
 
-> <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
+> <a id="REF1110048" href="#anchor_1110048">[1110048]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 24 Novembro. 2023.
+
+> <a id="REF4" href="#anchor_4">[71].</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
+

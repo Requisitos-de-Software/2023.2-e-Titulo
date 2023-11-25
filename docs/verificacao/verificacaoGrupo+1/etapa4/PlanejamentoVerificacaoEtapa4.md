@@ -116,10 +116,10 @@ Fonte: Maria Barbosa, 2023.
 | ---| -------- | --------- | ------------ |
 | H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
 | H2 | As histórias possuem um ID? |  |  |
-| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? |  |  |
+| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? <a id=anchor_113110 href="#REF113110">[113110]</a> |  |  |
 | H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
 | H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
-| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |  |  |
+| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_00202023 href="#REF00202023">[00202023]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -170,6 +170,12 @@ Fonte: Maria Marques, 2023.
 > 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
+
+## Referência Bibliográfica
+
+> <a id="REF113110" href="#anchor_113110">[113110]</a> Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92. 
+
+> <a id="REF00202023" href="#anchor_00202023">[00202023]</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
 
 
 ## Histórico de Versões
