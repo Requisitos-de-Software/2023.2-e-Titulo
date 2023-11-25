@@ -58,6 +58,8 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 ## Vídeo da inspeção
 
+Abaixo está presente a gravação do vídeo de histórias de usuário feito em dupla por [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena).
+
 Vídeo 1 - link do vídeo para a inspeção em dupla sobre histórias de usuário.
 
 - https://www.youtube.com/watch?v=kB8O8AzKIAM
