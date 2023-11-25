@@ -290,7 +290,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? <a id=anchor_0150 href="#REF0150">[0150 </a> |  |  |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
 | FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
 | FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
 | FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
