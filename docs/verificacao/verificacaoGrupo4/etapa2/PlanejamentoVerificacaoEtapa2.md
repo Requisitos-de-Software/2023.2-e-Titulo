@@ -340,10 +340,6 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Referências Bibliográficas 
-
-> <a id="FTF1Ref" href="#FTF1">567.</a> SERRANO, Milene. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf . Acesso em: 24 de novembro de 2023. 
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
