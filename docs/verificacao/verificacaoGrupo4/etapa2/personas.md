@@ -12,7 +12,7 @@ Neste atefato é demonstrado o resultado com o vídeo da inspeção realizada in
 
 ### Vídeo da Inspeção individual de Personas
 
-No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 20:13 do dia 23 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. 
+No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 22:20 do dia 24 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. Na sugestões presentes no vídeo faltou sugerir a questão de justificar melhor a quantidade de personas, mas no final deste artefato é sugerido.
 
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/HmbARagdXkw).
 
