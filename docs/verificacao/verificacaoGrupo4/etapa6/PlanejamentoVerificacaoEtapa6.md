@@ -112,11 +112,20 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 |  |  |  |
+| B1 | O artefato utiliza os requisitos funcionais e os requisitos não funcionais? |  |  |
+| B2 | Os requisitos presentes estão sendo ligados às suas fontes? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
+| B3 |  Existe a linkagem dos requisitos a sua origem? |  | |
+| B4 | A metodologia referencia o Meta-modelo proposto por Toranzo? <a id=anchor_1110048 href="#REF1110048">[1110048]</a> |  |  |
+| B5 | As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? <a id=anchor_31110048 href="#REF1110048">[1110048]</a> |  |  |
+| B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? <a id=anchor_331110048 href="#REF1110048">[1110048]</a> |   |   |
+| B7 |  Existe legendas para ajudar na leitura do artefato? |  |  |
+| B8 |  A Legenda está de acordo com os símbolos presentes no artefato? |   |  |
+| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_62946 href="#REF62946">[62946]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
 </center>
+
 
 ### Checklist da Verificação da matriz
 
@@ -133,24 +142,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-<center>
-
-**Tabela 4** - Checklist para os Itens do backward-from.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| B1 |  |  |  |
-
-Fonte: Maria Barbosa, 2023.
-
-</center>
-
-## Referências Bibliografia da matriz
-
-> <a id="REF4" href="#anchor_4">[71].</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
-
-
-
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
@@ -162,4 +153,18 @@ Fonte: Maria Barbosa, 2023.
 ## Referência Bibliográfica
 
 > <a id="REF03512" href="#anchor_03512">[03512]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF62946" href="#anchor_62946">[62946]</a> LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf. Acesso em: 24 Novembro. 2023.
+
+> <a id="REF1110048" href="#anchor_1110048">[1110048]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 24 Novembro. 2023.
+
+> <a id="REF4" href="#anchor_4">[71].</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
+| ------ | ---------- | ----------- | ------------ | ---------- |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
 

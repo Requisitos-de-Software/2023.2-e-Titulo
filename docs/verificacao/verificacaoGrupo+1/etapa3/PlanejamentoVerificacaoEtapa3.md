@@ -115,14 +115,13 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? |  |  |
+| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? <a id=anchor_00000122 href="#REF00000122">[00000122]</a> |  |  |
 | CE2 | Os cenários possuem numeração? |  |  |
-| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? |  |  |
-| CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
-| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
+| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE6 | Os títulos dos cenários são requisitos funcionais? |  |  |
+| CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
 
 
@@ -201,6 +200,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+## Referência Bibliográfica
+
+> <a id="REF000001" href="#anchor_000001">[000001]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 10 de novembro de 2023.
+
+> <a id="REF00000122" href="#anchor_00000122">[00000122]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023.
 
 ## Hitórico de versão
 

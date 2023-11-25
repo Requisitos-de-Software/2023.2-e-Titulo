@@ -126,9 +126,13 @@ Fonte: Maria Barbosa, 2023.
 | PU1 | O artefato demonstra os resultados por meio de gráficos/figuras/tabelas? |  |  |
 | PU2 | O artefato explica os resultados? |  |  |
 | PU3 | O artefato possui a definição do usuário? |  |  |
-| PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)? |  |  |
+| PU4 | O perfil de usuário identifica características de interesse como cargo, experiência, faixa etária, gênero, principais tarefas realizadas, entre outras?  <a id=anchor_1 href="#REF1">[1]</a> |  |  |
 | PU5 | O artefato apresenta as ferramentas utilizadas para a realização do Perfil do Usuário? |  |  |
 | PU6 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados? |  |  |
+| PU7 | O termo de consentimento foi utilizado? <a id=anchor_3 href="#REF3">[3]</a> |  |  |
+| PU8 | Existe a linkagem para o termo de consentimento? |  |  |
+| PU9 | Foi definido prazo para que o questionário/entrevista fosse realizado?  <a id=anchor_2 href="#REF2">[2]</a> |  |  |
+| PU10 | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? <a  id=anchor_4 href="#REF2">[2]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -170,8 +174,10 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | P3 | O artefato possui persona primária ? |  |  |
 | P4 | O artefato possui antipersona ? |  |  |
 | P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
+| P6 | O artefato possui uma conclusão?  |  |  |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy) e Maria Barbosa, 2023.
 
 </center>
 
@@ -317,15 +323,22 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 
 ## Bibliografia
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+> BilheteriaDigital. GitHub, 2023. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+## Referência Bibliográfica
+
+> <a id="REF1" href="#anchor_1">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF2" href="#anchor_2">[2]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega2/verificacao-perfil-de-usuario/#anchor_2. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF3" href="#anchor_3">[3]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 21/11/2023 | Adicionando referências no checklist do perfil de usuários e adicionando mais itens nesse e no checklist de personas. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 
