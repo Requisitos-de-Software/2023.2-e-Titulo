@@ -290,8 +290,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? |  |  |
-| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? |  |  |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? <a id=anchor_0150 href="#REF0150">[0150 </a> |  |  |
+| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? <a id=anchor_0150 href="#REF0150">[0150]</a> |  |  |
 | FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
 | FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
 
@@ -321,6 +321,11 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+## Referência Bibliográfica
+
+> <a id=anchor_0150 href="#REF0150">[0150]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
+
 
 ## Histórico de Versões
 
