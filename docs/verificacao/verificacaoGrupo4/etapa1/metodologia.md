@@ -56,10 +56,11 @@ Fonte: [João Victor](https://github.com/jvcostta), 2023.
 </center>
 
 ### Vídeo da Inspeção individual de Personas
-
 Caso o video abaixo nao esteja disponível, tente acessar pelo link a seguir: [Clique aqui](https://www.youtube.com/watch?v=NhOX88DupHc)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NhOX88DupHc?si=U6zrYI153DIhc70C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 ## Sugestões e melhorias
 
