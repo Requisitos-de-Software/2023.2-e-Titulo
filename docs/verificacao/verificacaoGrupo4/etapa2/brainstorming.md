@@ -62,7 +62,7 @@ Abaixo, no vídeo 1, está presente a gravação do vídeo do brainstorming feit
 
 Vídeo 1 - link do vídeo para a inspeção sobre brainstorming.
 
-- https://www.youtube.com/watch?v=kB8O8AzKIAM
+- https://www.youtube.com/watch?v=-QjbcP2sw2s
 
 Fonte: SIQUEIRA, Mariiana.
 
