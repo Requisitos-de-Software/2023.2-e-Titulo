@@ -68,6 +68,4 @@ Achei o artefato do Backlog bem elaborado e trabalhoso, mas observei que pode se
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.2`  | 23/11/2023 | Adicionando o checklist. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.3`  | 24/11/2023 | Adicionando as respostas no checklist e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 
