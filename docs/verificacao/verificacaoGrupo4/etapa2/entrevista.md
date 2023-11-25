@@ -1,4 +1,4 @@
-# Verificação da Entrevista do Grupo 5
+# Verificação da Entrevista do Grupo 4
 
 ## Introdução
 
@@ -41,16 +41,16 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Incompleto |  Os vídeos não estão disponíveis e não possuem legendas, e como sujestão, ao invés de utilizar "Autoria própria" como autor colocar o nome em si. |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Incompleto |  Os vídeos não estão disponíveis e não possuem legendas, e como sujestão, ao invés de utilizar "Autoria própria" como autor colocar o nome em si.  |
-| B1 | O artefato possui um conograma das entrevistas ? | Sim | -- |
-| B2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Sim | -- |
-| B3 | O artefato possui os links disponíveis para as entrevistas ? | Não | Os vídeos não estão disponíveis e não possui link de redirecionamento. |
-| B4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? | Sim | -- |
-| B5 | O artefato possui dados demográficos ?  | Sim | -- |
-| B6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?| Sim | -- |
-| B7 | O artefato apresenta o roteiro da entrevista? | Sim | -- |
-| B8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? | Sim | -- |
-| B9 | Os requisitos identificados foram expostos? | Incompleto | Há um problema quanto a identificação de requisitos não funcionais, pois alguns deles seriam requisitos funcionais. |
-| B10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? | Sim | -- |
+| E1 | O artefato possui um conograma das entrevistas ? | Sim | -- |
+| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Sim | -- |
+| E3 | O artefato possui os links disponíveis para as entrevistas ? | Não | Os vídeos não estão disponíveis e não possui link de redirecionamento. |
+| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? | Sim | -- |
+| E5 | O artefato possui dados demográficos ?  | Sim | -- |
+| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?| Sim | -- |
+| E7 | O artefato apresenta o roteiro da entrevista? | Sim | -- |
+| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? | Sim | -- |
+| E9 | Os requisitos identificados foram expostos? | Incompleto | Há um problema quanto a identificação de requisitos não funcionais, pois alguns deles seriam requisitos funcionais. |
+| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? | Sim | -- |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 

@@ -122,9 +122,7 @@ Fonte: Maria Barbosa, 2023.
 | CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
 | CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
-
-
-Fonte: Maria Barbosa, 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 

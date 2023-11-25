@@ -1,8 +1,8 @@
-# Verificação dos Cenários do Grupo 5
+# Verificação dos Cenários do Grupo 4
 
 ## Introdução
 
-Este artefato verifica os cenários realizados pelo grupo 5 apresentando um Checklist da Verificação dos [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/) indicando sugestões e melhorias. 
+Este artefato verifica os cenários realizados pelo grupo 4 apresentando um Checklist da Verificação dos [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/) indicando sugestões e melhorias. 
 
 Este artefato verifica a técnica de modelagem dos [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/), que representam as interações que ocorrem entre um sistema e atores externos, utilizada pelo grupo 4 [e-Título](https://requisitos-de-software.github.io/2023.2-e-Titulo/) para a disciplina, apresentando um Checklist para a Inspeção dessa técnica indicando sugestões e melhorias.
 

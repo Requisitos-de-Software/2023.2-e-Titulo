@@ -1,4 +1,4 @@
-# Verificação das Apresentações do Grupo 5
+# Verificação das Apresentações do Grupo 4
 
 ## Introdução
 
@@ -44,8 +44,8 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |Sim| -- |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | -- | -- |
 | A1 | O artefato disponibiliza o vídeo da apresentação? | Incompleto | Explicação no tópico de melhorias e sugestões. |
-| A3 | O artefato informa os integrantes que estavam presente na apresentação? | Sim | -- |
-| A4 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? | Incompleto | Explicação no tópico de melhorias e sugestões. |
+| A2 | O artefato informa os integrantes que estavam presente na apresentação? | Sim | -- |
+| A3 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? | Incompleto | Explicação no tópico de melhorias e sugestões. |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 

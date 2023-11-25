@@ -200,7 +200,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | E9 | Os requisitos identificados foram expostos? |  |  |
 | E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
 
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
