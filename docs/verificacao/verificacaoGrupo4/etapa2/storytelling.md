@@ -44,11 +44,11 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Sim | --   |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Sim | --   |
-| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? | Incompleto |  --  |
-| ST2 | Os requisitos tem identificadores ? | Sim |    |
-| ST3 | Foram elicitados requisitos funcionais ? | Sim |    |
-| ST4 | Foram elicitados requisitos não-funcionais ? | Sim |    |
-| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? | Incompleto |    |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? | Incompleto |  Precisaria rever se de fato alguma das histórias retratam de fato algogo cotidiano. |
+| ST2 | Os requisitos tem identificadores ? | Sim |  --  |
+| ST3 | Foram elicitados requisitos funcionais ? | Sim |  -- |
+| ST4 | Foram elicitados requisitos não-funcionais ? | Sim |  --  |
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? | Incompleto | Como as personas foram utilizadas em excesso durante a elicitação, foi sugerido pelo professor a utilização de um usuário real. |
 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
@@ -57,13 +57,15 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ## Sugestões e melhorias
 
-No geral, o artefato está bom e apresenta personas consistentes e coerentes com o perfil do usuário. Como sugestão:
+No geral, o artefato foi bem escrito, no entanto houve um deslize quanto a realização da técninca. Segue algumas sugestões:
 
 ### Sugestão/Melhoria 1
 
-
+Ressaltaria a incompletude da pergunta ST1, sugeriria a revisãodas histórias para a confirmação se de fato representam algo cotidiano do aplicativo.
 
 ### Sugestão/Melhoria 2
+
+Ressaltaria a incompletude da pergunta ST5, onde foi sugerido em sala, pelo professor, a utilização de um usuário real na construção das histórias, visto que as personas já foram muito utilizadas.
 
 ## Gravação da Inspeção
 
@@ -90,5 +92,5 @@ Caso não consiga assitir ao vídeo, [Clique aqui](https://youtu.be/GxExIAxVcso)
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 24/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação do Storytelling.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| `1.1`  | 12/11/2023 | Inspeção do artefato de Storytelling do grupo 4.  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| `1.0`  | 24/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia e Checklist Verificação do Storytelling.  | [Mateus Orlando](https://github.com/MateusPy) | [João Costa ](https://github.com/jvcostta) |
+| `1.1`  | 24/11/2023 | Inspeção do artefato de Storytelling do grupo 4.  | [Mateus Orlando](https://github.com/MateusPy) | [João Costa ](https://github.com/jvcostta) |
