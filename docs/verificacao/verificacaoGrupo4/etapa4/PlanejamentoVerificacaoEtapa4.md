@@ -156,6 +156,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_3 href="#REF3">[3]</a> | | |
 | NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_3 href="#REF3">[3]</a> | | |
 | NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF8 | O histórico de versões está padronizado? | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
