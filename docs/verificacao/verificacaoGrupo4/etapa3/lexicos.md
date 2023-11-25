@@ -1,8 +1,8 @@
-# Verificação dos Léxicos do Grupo 5
+# Verificação dos Léxicos do Grupo 4
 
 ## Introdução
 
-Este artefato verifica os léxicos utilizdas pelo grupo 5, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [Jitsi](https://requisitos-de-software.github.io/2023.2-Jitsi/) para a disciplina, apresentando um Checklist da Verificação dessas Personas indicando sugestões e melhorias. 
+Este artefato verifica os léxicos utilizdas pelo grupo 4, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main), para a disciplina, apresentando um Checklist da Verificação dessas Personas indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -48,7 +48,12 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 **Vídeo 1** - Vídeo da inspeção.
 
 
+<iframe width="560" height="315" src="https://youtu.be/WSjIfYGxbGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+ Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/WSjIfYGxbGc)
+
 
 
 </center>
