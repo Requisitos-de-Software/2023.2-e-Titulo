@@ -25,25 +25,25 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1 | O artefato possui Introdução? | | |
-| G2 | O artefato possui Objetivo? | | |
-| G3 | O artefato possui uma metodologia definida? | | |
-| G4 | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | | |
-| G5 | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | | |
-| G6 | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | | |
-| G7 | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
-| G8 | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
-| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? | | |
-| B2 | O artefato possui gravação da sessão Brainstorming? | | |
-| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? | | |
-| B4 | A elicitação contou com moderador e um secretário. | | |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  | |
-| B6 | Os requisitos identificados foram expostos? | | |
-| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? | | |
-| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? | | |
-| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? | | |
-| B10 | Todos os Requisitos Não-Funcionais são verificáveis? | | |
-| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? | | |
+| G1 | O artefato possui Introdução? | Sim | -- |
+| G2 | O artefato possui Objetivo? | Sim | -- |
+| G3 | O artefato possui uma metodologia definida? | Sim | -- |
+| G4 | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5 | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6 | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7 | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G8 | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | Não | Seria interessante utilizar a bibliografia dentro do texto de metodologia, por exemplo. |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? | Sim | -- |
+| B2 | O artefato possui gravação da sessão Brainstorming? | Não | Falta uma sessão da gravação com o link da mesma. |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? | Sim | Mas poderia colocar em uma tabela especificada. |
+| B4 | A elicitação contou com moderador e um secretário. | Sim | -- |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? | Sim | -- |
+| B6 | Os requisitos identificados foram expostos? | Sim | -- |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? | Sim | -- |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? | Sim | -- |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? | Sim | -- |
+| B10 | Todos os Requisitos Não-Funcionais são verificáveis? | Incompleto | Alguns são verificáveis e outros não são. |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? | Sim | Mas somente 1. |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -53,8 +53,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-  -
-  -
+  - É necessário colocar a gravação do vídeo no artefato.
+  - Os requisitos não-funcionais podem ser melhor listados, já que há funcionais listados como não-funcionais.
 
 ## Bibliografia
 
