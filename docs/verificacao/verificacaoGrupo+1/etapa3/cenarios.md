@@ -32,10 +32,9 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | CE2 | Os cenários possuem numeração? | Sim | -- |
 | CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? | Sim | -- |
 | CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? | Sim | em vez de usuário utilizar Cliente ou uma palavra que seja mais explicativa |
-| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? | Sim | -- |
-| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? | Sim | -- |
-| CE7 | Os títulos dos cenários são requisitos funcionais? | Sim | -- |
-| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? | Sim | -- |
+| CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? | Sim | -- |
+| CE6 | Os títulos dos cenários são requisitos funcionais? | Sim | -- |
+| CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? | Sim | -- |
 
 Fonte: Maria Barbosa, 2023.
 

@@ -128,7 +128,7 @@ Fonte: Maria Barbosa, 2023.
 | PU1 | O artefato demonstra os resultados por meio de gráficos/figuras/tabelas? |  |  |
 | PU2 | O artefato explica os resultados? |  |  |
 | PU3 | O artefato possui a definição do usuário? |  |  |
-| PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)? |  |  |
+| PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)?  <a id=anchor_7329990 href="#REF7329990">[7329990]</a> |  |  |
 | PU5 | O artefato apresenta as ferramentas utilizadas para a realização do Perfil do Usuário? |  |  |
 | PU6 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados? |  |  |
 
@@ -162,18 +162,18 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? |  |  |
-| B2 | Possui gravação da sessão Brainstorming ? |  |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| B4 | A elicitação contou com moderador e um secretário. |  |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? |  |  |
-| B7 | Os requisitos identificados foram expostos? |  |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?|   |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? |  |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? |  |  |
-| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |  |  |
-| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |  |  |
+| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
+| B2 | Possui gravação da sessão Brainstorming ? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
+| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
+| B4 | A elicitação contou com moderador e um secretário. <a id="REF4" href="#anchor_4">4.</a>  |  |  |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
+| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias?  <a id="REF4" href="#anchor_4">4.</a>  |  |  |
+| B7 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">5.</a> |  |  |
+| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">5.</a> |   |  |
+| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="REF4" href="#anchor_4">5.</a> |  |  |
+| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? <a id="REF4" href="#anchor_4">5.</a> |  |  |
+| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
+| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
@@ -189,16 +189,16 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| E1 | O artefato possui um conograma das entrevistas ? |  |  |
-| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
-| E3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
-| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
-| E5 | O artefato possui dados demográficos ?  |  |  |
-| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
-| E7 | O artefato apresenta o roteiro da entrevista? |  |  |
-| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
-| E9 | Os requisitos identificados foram expostos? |  |  |
-| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
+| E1 | O artefato possui um conograma das entrevistas ? > <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E3 | O artefato possui os links disponíveis para as entrevistas ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E5 | O artefato possui dados demográficos ?  <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa? <a id="REF4" href="#anchor_4">7.</a>|  |  |
+| E7 | O artefato apresenta o roteiro da entrevista? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E9 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">7.</a> |  |  |
+| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">7.</a> |  |  |
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
@@ -314,6 +314,20 @@ Fonte: Maria Marques, 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
+## Referências Bibliografia do "Brainstorming"
+
+> <a id="REF4" href="#anchor_4">4.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 12 de novembro de 2023.
+
+ > <a id="REF4" href="#anchor_4">5.</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md.   Acesso em: 12 de novembro de 2023.
+
+>  <a id="REF4" href="#anchor_4">6.</a> . Requisitos- aula 7. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 12 de novembro de 2023.
+
+## Referências Bibliografia do "Entrevista"
+
+> <a id="REF4" href="#anchor_4">7.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista. Acesso em: 12 de novembro de 2023.
+
+
+
 ## Bibliografia
 
 > 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
@@ -321,6 +335,11 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+
+## Referência Bibliográfica
+
+> <a id="REF7329990" href="#anchor_7329990">[7329990]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
