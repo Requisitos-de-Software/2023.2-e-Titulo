@@ -55,7 +55,7 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 | ------------------ | ----------- | --------------- | --------- | ------------- |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. |  |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 
 
 Fonte: Maria Barbosa, 2023
