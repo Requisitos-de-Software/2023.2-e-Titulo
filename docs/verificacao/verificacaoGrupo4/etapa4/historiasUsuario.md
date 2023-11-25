@@ -25,15 +25,15 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | | |
-| G2  | O artefato possui Objetivo? | | | 
-| G3  | O artefato possui uma metodologia definida? | | |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | | |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | | |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | | |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
-| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? | | |
+| G1  | O artefato possui Introdução? | Incompleto | Não segue a metodologia do projeto. |
+| G2  | O artefato possui Objetivo? | Não | Não segue a metodologia do projeto. | 
+| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Não | Não segue a metodologia do projeto. |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Não | As tabelas não estão sendo chamadas no texto. |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | Não | A bibliografia/referências não está sendo chamado no texto. |
+| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? | Sim | Ver descrição abaixo. |
 | H2 | As histórias possuem um ID? | | |
 | H3 | Os títulos das histórias de usuário são auto-explicativos? | | |
 | H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? | | |
@@ -53,7 +53,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-  -
+  - H1 - Colocar linkagem de rastreabilidade nos requisitos.
   -
 
 ## Bibliografia
