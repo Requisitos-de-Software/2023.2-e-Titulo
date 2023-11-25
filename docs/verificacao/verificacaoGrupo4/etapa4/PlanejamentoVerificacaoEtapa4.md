@@ -31,21 +31,20 @@ Os participantes desta verificação da etapa 4 são:
 
 - [Maria Eduarda Barbosa](https://github.com/Madu01)
 - [Mariiana Siqueira](https://github.com/Maryyscreuza)
-- [Maria Eduarda Marques](https://github.com/EduardaSMarques) 
 
 ### Objetos de Verificação
 
 Os artefatos dessa verificação são:
 
-- [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/historias/)
-- [Backlog](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/)
-- [NFR Framework](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/nfr-framework/)
+- [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/)
+- [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
+- [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/)
 
 **Obs.:** No artefato de Apresentação, está incluido todas as apresentações independente da etapa que foi realizado.
 
 ### Cronograma
 
-A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12 de junho de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
+A verificação será realizada apartir o dia 21 até dia 25 de novembro de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
 
 <center>
 
@@ -53,9 +52,9 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. |  |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação da Escolha do Backlog. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -138,7 +137,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
 | BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
 | BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
-| BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_03512 href="#REF03512">[03512]</a> |  |  |
+| BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_4 href="#REF4">[4]</a> |  |  |
 | BL6 | Existe a linkagem para o artefato de histórias de usuário? |  |  |
 | BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? |  |  |
 
@@ -183,8 +182,11 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
 
+> <a id="REF4" href="#anchor_4">[4]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |

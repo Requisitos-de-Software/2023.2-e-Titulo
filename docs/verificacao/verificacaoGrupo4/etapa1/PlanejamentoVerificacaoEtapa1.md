@@ -30,28 +30,26 @@ Fonte: SERRANO; SERRANO.
 Os participantes desta verificação da etapa 1 são:
 
 - [Maria Eduarda Barbosa](https://github.com/Madu01)
-- [Esther Sena](https://github.com/esmsena)
 - [Maria Eduarda Marques](https://github.com/EduardaSMarques) 
 - [Mateus Orlando](https://github.com/MateusPy)
 - [João Victor](https://github.com/jvcostta)
-- [Mariiana Siqueira](https://github.com/Maryyscreuza)
 
 ### Objetos de Verificação
 
 Os artefatos dessa verificação são:
 
-- [Apresentação](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-01/)
-- [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/)
-- [Cronograma](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/)
-- [Metodologia](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/)
-- [Ferramentas](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/)
-- [Rich Picture](https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/)
+- [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/apresentacoes/apresentacao01/)
+- [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/)
+- [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/cronogramaPlanejado/)
+- [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/)
+- [Ferramentas](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/Ferramentas/)
+- [Rich Picture](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/richpicture/)
 
 **Obs.:** No artefato de Apresentação, está incluido todas as apresentações independente da etapa que foi realizado.
 
 ### Cronograma
 
-A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 13 de novembro de de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
+A verificação será realizada apartir o dia 21 de novembro de 2023 até dia 25 de novembro de de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
 
 <center>
 
@@ -59,12 +57,12 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 13
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação das Apresentações.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Aplicativo. | [Esther Sena](https://github.com/esmsena) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Cronograma. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Metodologia. | [Mateus Orlando](https://github.com/MateusPy) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Ferramentas. | [João Victor](https://github.com/jvcostta) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Rich Picture. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação das Apresentações.  | [Mateus Orlando](https://github.com/MateusPy) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Escolha do Aplicativo. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Cronograma. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Metodologia. | [João Victor](https://github.com/jvcostta) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Ferramentas. | [João Victor](https://github.com/jvcostta) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Rich Picture. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -161,7 +159,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | CM7 | O cronograma executado e de planejamento possuem as atividades das correções após os feedbacks (isso exceto a da última entrega)? |  |  |
 | CM8 | No cronograma executado e no de planejamento possuem textos explicativos referentes a cada tabela de cronograma? |  |  |
 | CM9 | No cronograma executado possue todas as atividades esperadas no cronograma de planejamento? |  |  |
-| CM10 | As atividades tem duração realistas? <a id=anchor_1532561 href="#REF153256">[153256]</a> |  |  |
+| CM10 | As atividades tem duração realistas? <a id=anchor_11 href="#REF1">[1]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -235,12 +233,13 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Referência Bibliográfica
 
-> <a id="REF153256" href="#anchor_1532561">[153256]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
 ## Histórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.0`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.2`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 
