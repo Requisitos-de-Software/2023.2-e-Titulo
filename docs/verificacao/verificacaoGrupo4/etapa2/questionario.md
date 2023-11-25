@@ -25,25 +25,24 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1 | O artefato possui Introdução? | | |
-| G2 | O artefato possui Objetivo? | | |
-| G3 | O artefato possui uma metodologia definida? | | |
-| G4 | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | | |
-| G5 | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | | |
-| G6 | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | | |
-| G7 | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
-| G8 | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
-| Q1 | No artefato foi informado o motivo da escolha do questionário? | | |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que irá fornecer? | | |
-| Q3 | Os resultados foram tratados e apresentados? | | |
-| Q4 | O artefato apresenta no texto o prazo em que ficou aberto ? | | |
-| Q5 | O artefato apresenta no texto onde o questionário foi distribuído? | | |
-| Q6 | As perguntas apresentam alguma ordem ou padrão estratégico? | | |
-| Q7 | É explicitado como o questionário será utilizado? | | |
-| Q8 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? | | |
-| Q9 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? | | |
-| Q10 | Os requisitos foram qualificados em funcionais e não funcionais? | | |
-| Q11 | No artefato, há as respostas do questionário? | | |
+| G1 | O artefato possui Introdução? | Sim | -- |
+| G2 | O artefato possui Objetivo? | Sim | -- |
+| G3 | O artefato possui uma metodologia definida? | Sim | -- |
+| G4 | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5 | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6 | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7 | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G8 | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | Não | Seria interessante chamar a bibliografia dentro do texto de metodologia, por exemplo. |
+| Q1 | No artefato foi informado o motivo da escolha do questionário? | Sim | -- |
+| Q2 | Os resultados foram tratados e apresentados? | Sim | -- |
+| Q3 | O artefato apresenta no texto o prazo em que ficou aberto ? | Sim | Porém ficou meio bagunçado na metodologia. |
+| Q4 | O artefato apresenta no texto onde o questionário foi distribuído? | Sim | -- |
+| Q5 | As perguntas apresentam alguma ordem ou padrão estratégico? | Incompleto | As perguntas parecem ter um padrão mas não uma ordem estratégica. |
+| Q6 | É explicitado como o questionário será utilizado? | Sim | -- |
+| Q7 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? | Sim | -- |
+| Q8 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? | Não | Não parece ter sido baseado no perfil de usuário, e se foi não há especificação sobre isso. |
+| Q9 | Os requisitos foram qualificados em funcionais e não funcionais? | Sim | -- |
+| Q10 | No artefato, há as respostas do questionário? | Sim | -- |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -53,8 +52,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-  -
-  -
+  - A metodologia está bagunçada, assim fica um pouco confuso de entender quando e onde foi aplicado o questionário.
+  - Seria interessante ter sido feito com base no perfil de usuário do aplicativo.
 
 ## Bibliografia
 
@@ -66,4 +65,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 24/11/2023 | Adição do conteúdo da inspeção do questionário. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
+| `1.0`  | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção do questionário. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.2`  | 25/11/2023 | Preenchendo a inspeção do questionário e adicionando revisor. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
