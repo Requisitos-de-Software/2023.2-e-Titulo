@@ -34,13 +34,12 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
 | NF1 | A definição do RNF e as fontes de evidência na literatura? | | |
-| NF2 | O artefato possui cartão de especificação do RNF? | | |
-| NF3 | Os softgoals condizem com o contexto? | | |
-| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? | | |
-| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | | |
-| NF6 | Foram feitos SIG's com e sem propagação de impacto? | | |
-| NF7 |  | | |
-| NF8 |  | | |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
+| NF3 | O artefato possui cartão de especificação do RNF? | | |
+| NF4 | Os softgoals condizem com o contexto? | | |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? | | |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | | |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? | | |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
