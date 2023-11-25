@@ -39,7 +39,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | L10 | O artefato mostram os léxicos relacionados entre si? | Incompleto | Descrição abaixo |
 | L11 | No artefato os léxicos estão relacionados alfabeticamente? | Não | Descrição abaixo |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). e [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza)2023.
 
 </center>
 
