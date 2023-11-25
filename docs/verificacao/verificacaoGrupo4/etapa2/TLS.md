@@ -22,39 +22,36 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  | -- |
-| G2  | O artefato possui Objetivo? |  | -- |
-| G3  | O artefato possui uma metodologia definida? |  | -- |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  | -- |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  | -- |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  | -- |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  | -- |
-| TLS1 | No artefato há a participação do cliente e/ou persona? |  | -- |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  | -- |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  | -- |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  | -- |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  | -- |
+| G1  | O artefato possui Introdução? | Sim | -- |
+| G2  | O artefato possui Objetivo? | Sim | -- |
+| G3  | O artefato possui uma metodologia definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Não | observação abaixo  |
+| TLS1 | No artefato há a participação do cliente e/ou persona? | Sim | -- |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? | Sim | -- |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  | Sim | -- |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? | Sim | -- |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? | Não | observação abaixo |
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? | Sm | -- |
+| TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis? | Incompleto | observação abaixo |
+| TLS8 | O artefato possui gravação da dinâmica ?  | Sim |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-<center>
-
-**Vídeo 1** - Vídeo da inspeção.
-
-
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-
-</center>
 
 ## Sugestões e melhorias
 
 O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sugestões de melhoria no artefato:
 
--   
+- G8 - Não nenhuma parte do documento que tenha uma referenciação a bibliografia.
+- TLS5 - A tabela demonstrada é em formato de imagem, o que torna de difícil vizualização e de impossivél rastreabilidade do IDs listados na tabelas.
+- TLS7 - A tecnica terá de ser corrigida juntamente com as demais , pois há registro de requisitos funcionais elicitados como não funcionais. Erros vindo das tecnicas de elicitação.
+
 ## Bibliografia
 
 > 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
@@ -70,4 +67,5 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Esther Sena](https://github.com/esmsena) |  |
-| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) |  |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior. |  [Esther Sena](https://github.com/esmsena) |  |
+| `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) |  |
