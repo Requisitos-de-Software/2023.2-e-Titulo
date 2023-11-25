@@ -36,20 +36,20 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução ? |  |  |
-| G2  | O artefato possui Objetivo ? |  |  |
-| G3  | O artefato possui uma metodologia definida ? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) |  |  |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
-| P3 | O artefato possui persona primária ? |  |  |
-| P4 | O artefato possui antipersona ? |  |  |
-| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
-| P6 | O artefato possui uma conclusão?  |  |  |
-| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
+| G1  | O artefato possui Introdução ? | Não | O conceito poderia ser a introdução |
+| G2  | O artefato possui Objetivo ? | Não | -- |
+| G3  | O artefato possui uma metodologia definida ? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? | Não | A data de acesso não esta na ABNT |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Incompleto | No antipersonas a tabela não tem nome, e nas figuras não tem fonte |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Incompleto | Falta a informar quem é a tabela 4 |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
+| P3 | O artefato possui persona primária ? | Sim | -- |
+| P4 | O artefato possui antipersona ? | Sim | -- |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Seria legal um livro com dados para justificar melhor a quantidade |
+| P6 | O artefato possui uma conclusão?  | Sim | -- |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? | Sim | -- |
 
 Fonte: Mateus Orlando e Maria Barbosa, 2023.
 
@@ -57,6 +57,13 @@ Fonte: Mateus Orlando e Maria Barbosa, 2023.
 
 ## Sugestões e melhorias
 
+O artefato do personas no geral está bom! mas poderia ficar ainda melhor, minhas sugestões de melhorias são:
+
+- Sobre a justificativa da quantidade de personas e antipersonas achei meio raso, tem livro que explica o motivo, seria legal utilizarem algum livro para ajudar a realizar uma justificativa mais embasada.
+- Trocar o título "conceito" pata "Introdução", pois o conteúdo dele já serveria como introdução.
+- Criar um tópico de "Motivações e objetivos", para que o leitor entenda o porque de criarem o artefato personas.
+- Na bibliográfia colocar na norma ABNT, pois não segue as normas.
+- Colocar na tabela do antipersona o nome da tabela numerando com o número 4, pois no texto informa sobre a tabela 4 mas não existe tabela com esta numeração.
 
 
 ## Bibliografia
