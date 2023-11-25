@@ -167,16 +167,16 @@ Fonte: Maria Eduarda Marques, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? <a id="REF55" href="#anchor_55">55</a>|  |  |
 | M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? |  |  |
-| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
-| M4 | O artefato apresenta a política e estrutura de commits? |  |  |
-| M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento? <a id="REF55" href="#anchor_55">55</a>|  |  |
+| M4 | O artefato apresenta a política e estrutura de commits? <a id="REF55" href="#anchor_55">55</a>|  |  |
+| M5 | O artefato apresenta a política e estrutura de branchs? <a id="REF55" href="#anchor_55">55</a>|  |  |
 | M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? |  |  |
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? |  |  |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 
@@ -189,16 +189,14 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
-| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF2" href="#anchor_2">^2^</a> |  |  |
-| F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? |  |  |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
+| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| F3 | Foi escolhida uma ferramenta adequada para compartilhamento de vídeos? |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
 | F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? |  |  |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
 | F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
 | F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
-| F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
-| F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? |  |  |
 
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
@@ -222,15 +220,16 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
-> <a id="anchor_1" href="#REF1">1.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> <a id="anchor_1" href="#REF2">2.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-> <a id="anchor_1" href="#REF3">3.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_53" href="#REF53">53.</a>2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
 
-> <a id="anchor_1" href="#REF50">50.</a>2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
+> <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
-> <a id="anchor_1" href="#REF51">51.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
+> <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
+
 
 ## Histórico de versão
 

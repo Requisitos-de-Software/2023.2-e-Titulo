@@ -1,7 +1,7 @@
 # Questionário - Verificação
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/)
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado para  ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/) indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -31,8 +31,8 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | Q8 | O perfil de usuário apresenta os pontos principais requisitados? | Sim | - |
 | Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | Sim | - |
 | Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | Não | - |
-| Q5 | É explicitado como o questionário será utilizado? | Sim | - |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | Não | - |
+| Q11 | É explicitado como o questionário será utilizado? | Sim | - |
+| Q12 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | Não | - |
 
 **Tabela 1** - Checklist para os Itens do Questionário.
 
@@ -57,3 +57,4 @@ Artefato bem desenvolvido, porém poderia apenas mencionar qual a função do pe
 | 1.0    | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.1    | 13/11/2023 | Concluindo artefato. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.2    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.3    | 25/11/2023 | Ajustando introdução e tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |

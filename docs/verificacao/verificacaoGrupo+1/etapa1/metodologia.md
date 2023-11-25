@@ -1,8 +1,8 @@
-# Verificação da Metodologia do Grupo 5
+# Metodologia Verificação do Grupo 5
 
 ## Introdução
 
-Este artefato verifica metodologia utilizda pelo grupo 5 para o desenvolvimento do projeto da disciplina, apresentando um Checklist da Verificação da Metodologia indicando sugestões e melhorias. 
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado para  ["Metodologia"](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/) indicando sugestões e melhorias.
 
 ## Metodologia
 

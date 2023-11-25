@@ -1,14 +1,11 @@
-# Casos de uso - Verificação
+# Inspeção dos Casos de uso grupo 4
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Casos de uso"](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/)
-
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 4 apresentando um Checklist dos cronogramas planejado e executado para  ["Casos de uso"](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/) indicando sugestões e melhorias.
 ## Verificações gerais
 A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefato, de modo que todos os artefatos analisados devem cumprir essas descrições.
 
 <center>
-
-**Tabela 3** - Checklist para os Itens Gerais.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -30,7 +27,7 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? | Sim | -- |
 | C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | Não | -- |
 
-**Tabela 2** - Checklist para os Itens dos casos de uso.
+**Tabela 1** - Checklist para os Itens dos casos de uso.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -52,4 +49,5 @@ Artefato bem desenvolvido, estruturado e referenciado. Poderia apenas por as tab
 ## Histórico de versões
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|:-----------------------------|---------------|-------------|
-| 1.0    | 12/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.0    | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| 1.1    | 25/11/2023 | preenchendo tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

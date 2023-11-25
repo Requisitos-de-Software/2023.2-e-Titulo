@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist dos cronogramas planejado e executado, indicando sugestões e melhorias.
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 4 apresentando um Checklist dos cronogramas planejado e executado para  ["Metodologia"](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/) indicando sugestões e melhorias.
+
 
 ## Metodologia
 
@@ -54,6 +55,12 @@ Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 </center>
 
+### Vídeo da Inspeção individual de Personas
+
+Caso o video abaixo nao esteja disponível, tente acessar pelo link a seguir: [Clique aqui](https://www.youtube.com/watch?v=NhOX88DupHc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NhOX88DupHc?si=U6zrYI153DIhc70C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Sugestões e melhorias
 
 No geral, o artefato foi bem desenvolvido, no entanto devido o fato das bibliográfias/referências não etarem disponíveis, deixa de abranger alguns tópicos importantes como: bibliográfia/referência e imagens/figuras seguindo as normas da ABNT. Como sugestão:
@@ -78,6 +85,7 @@ Adicionar fonte as estruturas.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4.  | [João Victor](https://github.com/jvcostta) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
+|--------|------------|:-----------------------------|---------------|-------------|
+| 1.0    | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| 1.1    | 25/11/2023 | preenchendo tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

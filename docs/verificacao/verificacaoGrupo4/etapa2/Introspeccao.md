@@ -1,7 +1,8 @@
-# Introspecção - Verificação
+# Inspeção da Introspecção grupo 4
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Introspecção"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/)
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 4 apresentando um Checklist dos cronogramas planejado e executado para  ["Introspecção"](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) indicando sugestões e melhorias.
+ 
 
 ## Verificações gerais
 A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefato, de modo que todos os artefatos analisados devem cumprir essas descrições.
@@ -20,8 +21,8 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | I1 | O processo de elicitação foi devidamente explicado e documentado? | Sim | -- |
 | I2 | Os requisitos elicitados foram classificados corretamente? | Sim | -- |
 | I3 | Foram elicitados requisitos que não estão presentes no aplicativo? | Sim | -- |
-| I5 | Foi escolhida uma ferramenta adequada para reuniões? | Sim | -- |
-| I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? | Sim | -- | 
+| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? | Sim | -- | 
+| I5 | Algum usuário participou dessa técnica além dos integrantes do grupo? | Não | -- |
 
 **Tabela 1** - Inspeção para os Itens das Instrospecção.
 
@@ -30,7 +31,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 </center>
 
 ## Conclusão/Sugestões
-Artefato bem desenvolvido, faltou apenas corrigir alguns erros de linkagem em nomes, chamamento de tabelas e legenda de tabela.
+Artefato bem desenvolvido, faltou apenas corrigir alguns erros de linkagem em nomes, chamamento de tabelas e legenda de tabela. Poderia também utilizar um usuário do aplicativo que não fosse integrante do grupo pra participar da técnica
 
 ## Bibliografia
 
@@ -46,3 +47,4 @@ Artefato bem desenvolvido, faltou apenas corrigir alguns erros de linkagem em no
 | Versão | Data       | Descrição                   | Autor(es)     | Revisor(es) |
 |--------|------------|:-----------------------------|---------------|-------------|
 | 1.0    | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| 1.1    | 25/11/2023 | preenchendo tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

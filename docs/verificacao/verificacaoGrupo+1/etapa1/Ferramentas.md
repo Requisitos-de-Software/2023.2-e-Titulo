@@ -1,7 +1,8 @@
-# Ferramentas - Verificação
+# Ferramentas Verificação
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/)
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado para ["Ferramentas"](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/) indicando sugestões e melhorias.
+
 
 ## Metodologia
 
@@ -28,10 +29,8 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | F6 | Foi escolhida uma ferramenta adequada para criação do questionário? | Não | Não foi mencionada a ferramenta usada para criação de questionários |
 | F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? | Sim | - |
 | F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? | Sim | - |
-| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? | Sim | - |
-| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | - |
-| F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? | Sim | - |
-| F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim | - |
+| F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? | Sim | - |
+| F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | - |
 
 **Tabela 2** - Checklist para os Itens das Ferramentas.
 
@@ -44,7 +43,7 @@ Artefato bem desenvolvido, porém faltou mencionar a ferrameta utilizada para o 
 
 ## Bibliografia
 
-> 2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 12 de novembro de 2023.
+> 2023.1-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
@@ -55,3 +54,4 @@ Artefato bem desenvolvido, porém faltou mencionar a ferrameta utilizada para o 
 |--------|------------|:-----------------------------|---------------|-------------|
 | 1.0    | 12/11/2023 | Criando documento e estrutura e concluindo. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.1    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.2    | 25/11/2023 | Ajustando erros |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |

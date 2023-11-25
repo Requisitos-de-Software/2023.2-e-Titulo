@@ -1,7 +1,7 @@
 # Introspecção - Verificação
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Introspecção"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/)
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado para  ["Introspecção"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/) indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -24,8 +24,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | I1 | O processo de elicitação foi devidamente explicado e documentado? | Sim | - |
 | I2 | Os requisitos elicitados foram classificados corretamente? | Sim | - |
 | I3 | Foram elicitados requisitos que não estão presentes no aplicativo?	 | Sim | - |
-| I5 | Foi escolhida uma ferramenta adequada para reuniões? | Sim | - |
-| I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? | Sim | - |
+| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? | Sim | - |
 
 **Tabela 1** - Checklist para os Itens da Introspecção.
 
@@ -51,4 +50,5 @@ Artefato bem desenvolvido, faltou apenas corrigir alguns erros de linkagem em no
 |--------|------------|:-----------------------------|---------------|-------------|
 | 1.0    | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
 | 1.1    | 13/11/2023 | escrevendo conclusão. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
-| 1.2    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.2    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)  |
+| 1.3    | 25/11/2023 | Ajustando introdução e tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |

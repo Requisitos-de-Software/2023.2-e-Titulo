@@ -187,16 +187,15 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
-| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? |  |  |
+| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF53" href="#anchor_53">53</a>|  |  |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? |  |  |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF53" href="#anchor_53">53</a>|  |  |
 | F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? |  |  |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
-| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
-| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
-| F12 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
-| F13 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
+| F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
+| F11 | Foi escolhida uma ferramenta adequada para criação de diagramas? |  |  |
 
 **Tabela 8** - Checklist para os Itens das Ferramentas.
 
@@ -221,11 +220,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
-
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
 ## Histórico de versão
 
