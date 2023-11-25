@@ -12,15 +12,15 @@ Neste atefato é demonstrado o resultado com o vídeo da inspeção realizada in
 
 ### Vídeo da Inspeção individual de Personas
 
-No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 20:13 do dia 23 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. 
+No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 22:20 do dia 24 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. Na sugestões presentes no vídeo faltou sugerir a questão de justificar melhor a quantidade de personas, mas no final deste artefato é sugerido.
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/EHCf1ixrfyE).
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/HmbARagdXkw).
 
 <center>
 
 **Vídeo 1** - Vídeo da inspeção individual.
 
-<iframe width="560" height="315" src="https://youtu.be/EHCf1ixrfyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/HmbARagdXkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Maria Barbosa, 2023.
 
@@ -36,20 +36,20 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução ? |  |  |
-| G2  | O artefato possui Objetivo ? |  |  |
-| G3  | O artefato possui uma metodologia definida ? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) |  |  |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
-| P3 | O artefato possui persona primária ? |  |  |
-| P4 | O artefato possui antipersona ? |  |  |
-| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
-| P6 | O artefato possui uma conclusão?  |  |  |
-| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
+| G1  | O artefato possui Introdução ? | Não | O conceito poderia ser a introdução |
+| G2  | O artefato possui Objetivo ? | Não | -- |
+| G3  | O artefato possui uma metodologia definida ? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT ? | Não | A data de acesso não esta na ABNT |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es) ? | Sim | -- |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes ? (isso no caso do artefato possuir tais elementos) | Incompleto | No antipersonas a tabela não tem nome, e nas figuras não tem fonte |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato ? (isso no caso do artefato possuir tais elementos) | Incompleto | Falta a informar quem é a tabela 4 |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? | Sim | -- |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? | Sim | -- |
+| P3 | O artefato possui persona primária ? | Sim | -- |
+| P4 | O artefato possui antipersona ? | Sim | -- |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  | Sim | Seria legal um livro com dados para justificar melhor a quantidade |
+| P6 | O artefato possui uma conclusão?  | Sim | -- |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? | Sim | -- |
 
 Fonte: Mateus Orlando e Maria Barbosa, 2023.
 
@@ -57,6 +57,13 @@ Fonte: Mateus Orlando e Maria Barbosa, 2023.
 
 ## Sugestões e melhorias
 
+O artefato do personas no geral está bom! mas poderia ficar ainda melhor, minhas sugestões de melhorias são:
+
+- Sobre a justificativa da quantidade de personas e antipersonas achei meio raso, tem livro que explica o motivo, seria legal utilizarem algum livro para ajudar a realizar uma justificativa mais embasada.
+- Trocar o título "conceito" pata "Introdução", pois o conteúdo dele já serveria como introdução.
+- Criar um tópico de "Motivações e objetivos", para que o leitor entenda o porque de criarem o artefato personas.
+- Na bibliográfia colocar na norma ABNT, pois não segue as normas.
+- Colocar na tabela do antipersona o nome da tabela numerando com o número 4, pois no texto informa sobre a tabela 4 mas não existe tabela com esta numeração.
 
 
 ## Bibliografia
@@ -74,5 +81,5 @@ Fonte: Mateus Orlando e Maria Barbosa, 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.2`  | 23/11/2023 | Adicionando as respostas no checklist, o link do vídeo e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo e inserir o checklist. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 24/11/2023 | Adicionando as respostas no checklist, o link do vídeo e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |

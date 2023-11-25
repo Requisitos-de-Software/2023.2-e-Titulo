@@ -128,7 +128,7 @@ Fonte: Maria Barbosa, 2023.
 | PU1 | O artefato demonstra os resultados por meio de gráficos/figuras/tabelas? |  |  |
 | PU2 | O artefato explica os resultados? |  |  |
 | PU3 | O artefato possui a definição do usuário? |  |  |
-| PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)? |  |  |
+| PU4 | O artefato informa as características do usuário (como faixa etária, gênero, grau de escolaridade, entre outros)?  <a id=anchor_7329990 href="#REF7329990">[7329990]</a> |  |  |
 | PU5 | O artefato apresenta as ferramentas utilizadas para a realização do Perfil do Usuário? |  |  |
 | PU6 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados? |  |  |
 
@@ -321,6 +321,11 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+
+## Referência Bibliográfica
+
+> <a id="REF7329990" href="#anchor_7329990">[7329990]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
