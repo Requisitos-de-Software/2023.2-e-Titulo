@@ -14,13 +14,13 @@ Neste atefato é demonstrado o resultado com o vídeo da inspeção realizada in
 
 No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizado às 20:13 do dia 23 de novembro. O vídeo foi postado no youtube como não listado pela maria Marques, mas gravado e realizado individualmente por maria barbosa. 
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/EHCf1ixrfyE).
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/HmbARagdXkw).
 
 <center>
 
 **Vídeo 1** - Vídeo da inspeção individual.
 
-<iframe width="560" height="315" src="https://youtu.be/EHCf1ixrfyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/HmbARagdXkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Maria Barbosa, 2023.
 
@@ -81,5 +81,5 @@ O artefato do personas no geral está bom! mas poderia ficar ainda melhor, minha
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.2`  | 23/11/2023 | Adicionando as respostas no checklist, o link do vídeo e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo e inserir o checklist. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 24/11/2023 | Adicionando as respostas no checklist, o link do vídeo e as sugestões. | [Maria Barbosa](https://github.com/Madu01) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
