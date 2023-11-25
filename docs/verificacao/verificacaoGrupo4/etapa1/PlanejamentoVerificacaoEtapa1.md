@@ -145,6 +145,7 @@ Fonte: Maria Barbosa, 2023.
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 </center>
+
 ### Checklist da Verificação do Cronograma
 
 **Tabela 6** - Checklist para os Itens do Cronograma.
