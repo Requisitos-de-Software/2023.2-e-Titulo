@@ -25,21 +25,21 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | | |
-| G2  | O artefato possui Objetivo? | | |
-| G3  | O artefato possui uma dinâmica definida? | | |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | | |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | | |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | | |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | | |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | | |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? | | |
-| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
-| NF3 | O artefato possui cartão de especificação do RNF? | | |
-| NF4 | Os softgoals condizem com o contexto? | | |
-| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? | | |
-| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | | |
-| NF7 | Foram feitos SIG's com e sem propagação de impacto? | | |
+| G1  | O artefato possui Introdução? | Sim | -- |
+| G2  | O artefato possui Objetivo? | Sim | -- |
+| G3  | O artefato possui uma dinâmica definida? | Sim | -- |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | Porém o histórico de versões está "0.1", "0.2", ... , em vez de "1.0", "1.1", ...  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | -- |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato? | Sim | -- |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? | Sim | -- |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | Sim | -- |
+| NF3 | O artefato possui cartão de especificação do RNF? | Sim | -- |
+| NF4 | Os softgoals condizem com o contexto? | Sim | -- |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? | Não | Não há nada que indique a ligação com o documento. |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? | Incompleto | Alguns são, mas outros não. |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? | Sim | -- |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -49,8 +49,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Tendo em vista os problemas abordados anteriormente, fica como sugestão a realização das seguintes correções:
 
-  -
-  -
+  - O NFR deve ser feito com ligação ao documento de especificação suplementar, e parece que não foi utilizado.
+  - Além disso ele é utilizado para requisitos não-funcionais e há alguns funcionais no documento.
 
 ## Bibliografia
 
@@ -62,4 +62,5 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 24/11/2023 | Adição do conteúdo da inspeção do brainstorming. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
+| `1.0`  | 13/11/2023 | Criação do documento e adição de todos os tópicos | [Maria Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
+| `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  |
