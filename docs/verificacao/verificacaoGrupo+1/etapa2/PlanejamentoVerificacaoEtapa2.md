@@ -162,18 +162,18 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
-| B2 | Possui gravação da sessão Brainstorming ? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  <a id="REF4" href="#anchor_4">6.</a> |  |  |
-| B4 | A elicitação contou com moderador e um secretário. <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias?  <a id="REF4" href="#anchor_4">4.</a>  |  |  |
-| B7 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">5.</a> |   |  |
-| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
-| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? <a id="REF4" href="#anchor_4">5.</a> |  |  |
+| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming?  <a id="REF4" href="#anchor_4">[60].</a> |  |  |
+| B2 | Possui gravação da sessão Brainstorming ? <a id="REF444" href="#anchor_444">[444].</a>  |  |  |
+| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto?  <a id="REF4" href="#anchor_4">[60].</a> |  |  |
+| B4 | A elicitação contou com moderador e um secretário.<a id="REF444" href="#anchor_444">[444].</a>  |  |  |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <a id="REF444" href="#anchor_444">[444].</a>  |  |  |
+| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? <a id="REF444" href="#anchor_444">[444].</a>  |  |  |
+| B7 | Os requisitos identificados foram expostos? <a id="REF4" href="#anchor_4">[50].</a> |  |  |
+| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? <a id="REF4" href="#anchor_4">[50].</a> |   |  |
+| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? <a id="REF4" href="#anchor_4">[50].</a> |  |  |
+| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? <a id="REF4" href="#anchor_4">[50].</a> |  |  |
+| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? <a id="REF4" href="#anchor_4">[50].</a> |  |  |
+| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? <a id="REF4" href="#anchor_4">[50].</a> |  |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
@@ -273,11 +273,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| MS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
+| MS1 | No artefato há a participação do cliente e/ou persona? <a id="REF400" href="#anchor_400">[400].</a> |  |  |
+| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? <a id="REF400" href="#anchor_400">[400].</a> |  |  |
 | MS3 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
-| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? |  |  |
-| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? |  |  |
+| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas?  <a id="REF410" href="#anchor_410">[410].</a> |  |  |
+| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW?  <a id="REF411" href="#anchor_411">[411].</a> |  |  |
 | MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
@@ -305,27 +305,14 @@ Fonte: Maria Marques, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  |  |  |
+| TLS1 | No artefato há a participação do cliente e/ou persona? <a id="REF400" href="#anchor_400">[400].</a>|  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? <a id="REF400" href="#anchor_400">[400].</a>|  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas?  <a id="REF412" href="#anchor_412">[412].</a> |  |  |
 | TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? |  |  |
 | TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
-
-## Referências Bibliografia do "Brainstorming"
-
-> <a id="REF4" href="#anchor_4">4.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 12 de novembro de 2023.
-
- > <a id="REF4" href="#anchor_4">5.</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md.   Acesso em: 12 de novembro de 2023.
-
->  <a id="REF4" href="#anchor_4">6.</a> . Requisitos- aula 7. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 12 de novembro de 2023.
-
-## Referências Bibliografia do "Entrevista"
-
-> <a id="REF4" href="#anchor_4">7.</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista. Acesso em: 12 de novembro de 2023.
-
 
 
 ## Bibliografia
@@ -338,6 +325,22 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 
 ## Referência Bibliográfica
+
+> <a id="REF444" href="#anchor_444">[444].</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 12 de novembro de 2023.
+
+> <a id="REF4" href="#anchor_4">[50].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md.   Acesso em: 12 de novembro de 2023.
+
+>  <a id="REF4" href="#anchor_4">[60].</a> . Requisitos- aula 7. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 12 de novembro de 2023.
+
+> <a id="REF400" href="#anchor_400">[400].</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 2. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+
+> <a id="REF410" href="#anchor_410">[410].</a> WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Página 320/321. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
+
+>  <a id="REF411" href="#anchor_411">[411].</a> SERRANO, Milene e SERRANO, Maurício. Aula 07 - Requisitos. Slides 32 ao 36. Disponível em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 13 de novembro de 2023.
+
+>  <a id="REF412" href="#anchor_412">[412].</a> WIEGERS, Karl e BEATTY, Joy. Software Requiriments, Third edition. Página 319/320. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf. Acesso em 13 de novembro de 2023.
+
+> <a id="REF4" href="#anchor_4">[70].</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista. Acesso em: 12 de novembro de 2023.
 
 > <a id="REF7329990" href="#anchor_7329990">[7329990]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 

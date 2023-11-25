@@ -53,9 +53,9 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Histórias de Usuário.  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Backlog. |  |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do NFR Framework. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -112,14 +112,19 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
-| H2 | As histórias possuem um ID? |  |  |
-| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? <a id=anchor_113110 href="#REF113110">[113110]</a> |  |  |
-| H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
-| H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
-| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_00202023 href="#REF00202023">[00202023]</a> |  |  |
+| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H2 | As histórias possuem um ID? <a id=anchor_1 href="#REF1">[1]</a>  | | |
+| H3 | Os títulos das histórias de usuário são auto-explicativos? <a id=anchor_2 href="#REF2">[2]</a> | | |
+| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | | |
+| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a>  | | |
+| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_1 href="#REF1">[1]</a> | | |
+| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
+| H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
@@ -147,16 +152,19 @@ Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
-| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
-| NF3 | Os softgoals condizem com o contexto? |  |  |
-| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
-| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
-| NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
+| NF3 | O artefato possui cartão de especificação do RNF? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF4 | Os softgoals condizem com o contexto? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF8 | O histórico de versões está padronizado? | | |
 
-Fonte: Maria Marques, 2023.
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
+
 
 
 ## Bibliografia
@@ -169,15 +177,14 @@ Fonte: Maria Marques, 2023.
 
 ## Referência Bibliográfica
 
-> <a id="REF03512" href="#anchor_03512">[03512]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+> <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF113110" href="#anchor_113110">[113110]</a> Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92. 
+> <a id="REF2" href="#anchor_2">[2]</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
 
-> <a id="REF00202023" href="#anchor_00202023">[00202023]</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+> <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-
