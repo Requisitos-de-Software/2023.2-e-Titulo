@@ -124,7 +124,7 @@ Fonte: Maria Barbosa, 2023.
 | H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
 | H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
@@ -149,14 +149,15 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? |  |  |
-| NF2 | O artefato possui cartão de especificação do RNF? |  |  |
-| NF3 | Os softgoals condizem com o contexto? |  |  |
-| NF4 | Estabelece uma ligação com o documento Especificação Suplementar? |  |  |
-| NF5 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |  |  |
-| NF6 | Foram feitos SIG's com e sem propagação de impacto? |  |  |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
+| NF3 | O artefato possui cartão de especificação do RNF? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF4 | Os softgoals condizem com o contexto? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_3 href="#REF3">[3]</a> | | |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_3 href="#REF3">[3]</a> | | |
 
-Fonte: Maria Marques, 2023.
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
@@ -165,7 +166,9 @@ Fonte: Maria Marques, 2023.
 > <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
- 
+
+> <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
+
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
