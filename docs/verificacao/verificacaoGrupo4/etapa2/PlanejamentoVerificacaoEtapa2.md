@@ -144,12 +144,12 @@ Fonte: Maria Barbosa, 2023.
 | ---| -------- | --------- | ------------ |
 | $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
 | $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="REF4" href="#anchor_4">[11].</a> |  ||
-| $3 | Esses requisitos passaram por algum processo de validação? <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
-| $4 |  Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação? <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
+| $3 | O artefato possui link para as ferramentas utilizadas?  <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
+| $4 | Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação?  <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
 | $5 | O processo de priorização considerou as interdependências entre os requisitos?  <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
-| $6 | Os requisitos de alta prioridade também apresentam maior número de dependências? <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
-| $7 | No contexto da fase de modelagem subsequente, os requisitos foram claramente separados com base em suas prioridades? <a id="REF4" href="#anchor_4">[11].</a> |  |  |
-| $8 | Houve uma distinção adicional dos requisitos com base em níveis específicos de prioridade? <a id="REF4" href="#anchor_4">[11].</a> |  |  |
+| $6 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="REF4" href="#anchor_4">[21].</a>  |  |  |
+| $7 | Os indentificadores possuem likagem de rastreabilidade? <a id="REF4" href="#anchor_4">[11].</a> |  |  |
+| $8 | O artefato possui gravação da dinâmica ?  <a id="REF4" href="#anchor_4">[11].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
