@@ -20,21 +20,21 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? |  |  |
-| G2  | O artefato possui Objetivo? |  |  |
-| G3  | O artefato possui uma dinâmica definida? |  |  |
-| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? |  |  |
-| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? |  |  |
-| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) |  |  |
-| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
-| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
-| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? |  |  |
-| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? |  |   |
-| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  |  |  |
-| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |  |  |
-| FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
-| FTF6 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
-| FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
+| G1  | O artefato possui Introdução? | Sim |  |
+| G2  | O artefato possui Objetivo? | Sim |  |
+| G3  | O artefato possui uma dinâmica definida? | Sim |  |
+| G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim |  |
+| G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim |  |
+| G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim |  |
+| G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Sim |  |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? | Não | observação abaixo |
+| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? | Sim |   |
+| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona?  | Incompleto | observação abaixo |
+| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? | Sim |  |
+| FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?| Incompleto | observação abaixo |
+| FTF6 | Os indentificadores possuem likagem de rastreabilidade? | Não | observação abaixo  |
+| FTF7 | O artefato possui link para as ferramentas utilizadas? | Sim |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -54,7 +54,10 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sugestões de melhoria no artefato:
 
-- 
+- FTF1 - Seria adequado que se possível, refazer a tecnica usando clientes ou personas.
+- FTF3 - Por não possuir uma dinâmica com a participação dos clientes ou personas, não teria como ter o benefício relativo e a penalidade relativa estimado  de acordo com os mesmos.
+- FTF5 - A tecnica terá de ser corrigida juntamente com as demais , pois há registro de requisitos funcionais elicitados como não funcionais. Erros vindo das tecnicas de elicitação.
+- FTF6 - A tabela demonstrada é em formato de imagem, o que torna de difícil vizualização e de impossivél rastreabilidade do IDs listados na tabelas.
 
 ## Bibliografia
 
@@ -70,3 +73,4 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Esther Sena](https://github.com/esmsena) |  |
 | `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) |  |
+| `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) |  |
