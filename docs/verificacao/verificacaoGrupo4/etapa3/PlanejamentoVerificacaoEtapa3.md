@@ -170,18 +170,23 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |  |  |
-| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? |  |  |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  |  |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  |  |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
-| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  |  |
-| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  |  |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
+
+## Referências Bibliografia de FirtThingsFirst
+
+> <a id="REF4" href="#anchor_4">[21].</a> ORLANDO, Mateus . 2023.2-e-Título. Verificação grupo + 1 - Léxicos. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3.md. Acesso em: 23 de novembro de 2023.
+
 
 ## Bibliografia
 

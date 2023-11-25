@@ -127,15 +127,38 @@ Fonte: Maria Barbosa, 2023.
 </center>
 
 
+### Checklist da Verificação da matriz
+
+<center>
+  
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| MTZ1 | No artefato há uma tabela com ID, Descrição,	Artefatos relacionados (Origem), Pré-Rastreabilidade,	Implementado e os ELOS ? <a id="REF4" href="#anchor_4">[71].</a> |  |   |
+| MTZ2 | Os indentificadores possuem likagem de rastreabilidade? <a id="REF4" href="#anchor_4">[71].</a>  |  ||
+| MTZ3 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="REF4" href="#anchor_4">[71].</a>  |  |   |
+| MTZ4 | O artefato possui legenda ? <a id="REF4" href="#anchor_4">[71].</a>  |  |  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+</center>
+
 ## Bibliografia
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
 ## Referência Bibliográfica
+
+> <a id="REF03512" href="#anchor_03512">[03512]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF62946" href="#anchor_62946">[62946]</a> LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf. Acesso em: 24 Novembro. 2023.
 
 > <a id="REF1110048" href="#anchor_1110048">[1110048]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 24 Novembro. 2023.
+
+> <a id="REF4" href="#anchor_4">[71].</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
 
 ## Histórico de Versões
 
@@ -143,4 +166,5 @@ Fonte: Maria Barbosa, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.0`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
 
