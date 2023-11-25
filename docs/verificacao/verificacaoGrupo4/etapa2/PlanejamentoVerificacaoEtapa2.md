@@ -271,6 +271,9 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | FTF6 | O artefato é acompanhado por documentação explicativa quando necessário?  <a id="REF4" href="#anchor_4">[91].</a> |  |  |
 | FTF7 | É possível rastrear as origens e alterações feitas no artefato?  <a id="REF4" href="#anchor_4">[91].</a> |  |  |
 | FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback?  <a id="REF4" href="#anchor_4">[91].</a> |  |  |
+| FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
+| FTF6 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
+| FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -288,6 +291,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
 | TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? <a id="REF4" href="#anchor_4">[81].</a> |  |  |
+| FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
+| FTF6 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
+| FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
