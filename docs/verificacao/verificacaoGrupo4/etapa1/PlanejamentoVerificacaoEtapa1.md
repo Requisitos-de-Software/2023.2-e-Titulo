@@ -119,11 +119,10 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | A1 | O artefato disponibiliza o vídeo da apresentação? |  |  |
-| A2 | O vídeo está como Não listado? |  |  |
-| A3 | O artefato informa os integrantes que estavam presente na apresentação? |  |  |
-| A4 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? |  |  |
+| A2 | O artefato informa os integrantes que estavam presente na apresentação? |  |  |
+| A3 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? |  |  |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 

@@ -39,6 +39,18 @@ Os participantes desta verificação da etapa 2 são:
 
 Os artefatos dessa verificação são:
 
+<<<<<<< HEAD
+- [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/)
+- [Personas](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/personas/)
+- [Brainstorming](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/brainstorming/)
+- [Storytelling](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+- [Entrevista](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+- [Introspecção](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/introspec%C3%A7%C3%A3o/)
+- [Observação](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/tecnicas/observacao/)
+- [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/)
+- [First Things First](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/ftf/)
+- [Three Level Scale](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/TLS/)
+=======
 - [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/perfilDoUsuario/)
 - [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/)
 - [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
@@ -49,6 +61,7 @@ Os artefatos dessa verificação são:
 - [$100](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/%24100/)
 - [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/firstThingsFirst/)
 - [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/threeLevelScale/)
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 
 ### Cronograma
 
@@ -60,6 +73,18 @@ A verificação será realizada apartir o dia 21 de novembro de 2023 até dia 25
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
+<<<<<<< HEAD
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Perfil do Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Personas. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Mateus Orlando](https://github.com/MateusPy) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Introspecção. | [João Victor](https://github.com/jvcostta) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | -- |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Storytelling. | [Mateus Orlando](https://github.com/MateusPy) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de First Things First. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Three Level Scale. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+=======
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Perfil do Usuário.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação de Personas. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Brainstorming. |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
@@ -70,6 +95,7 @@ A verificação será realizada apartir o dia 21 de novembro de 2023 até dia 25
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do $100 | [Esther Sena](https://github.com/esmsena) |
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação de First Things First. | [Esther Sena](https://github.com/esmsena) |
 | 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação de Three Level Scale. | [Esther Sena](https://github.com/esmsena) |
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 
 Fonte: Maria Barbosa, 2023
 
@@ -169,6 +195,26 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
+<<<<<<< HEAD
+| B1 | O artefato possui as Palavras-chave usadas na sessão de Brainstorming? |  |  |
+| B2 | Possui gravação da sessão Brainstorming ? |  |  |
+| B3 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
+| B4 | A elicitação contou com moderador e um secretário. |  |  |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |  |  |
+| B6 | Houve a aplicação de estratégias de incentivo, como palavras-chave, imagens ou diagramas, para estimular a criação de ideias? |  |  |
+| B7 | Os requisitos identificados foram expostos? |  |  |
+| B8 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram?|   |  |
+| B9 | Dentre os Requisitos Elicitados estão os Funcionais e Não-Funcionais? |  |  |
+| B10 | A sessão de brainstorming envolve entre 8 e 12 usuários? |  |  |
+| B11 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |  |  |
+| B12 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |  |  |
+
+
+Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+
+</center>
+
+=======
 | B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
 | B2 | O artefato possui gravação da sessão Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a> | | |
 | B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
@@ -187,6 +233,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 ### Checklist de Entrevista
 
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 
 
 ### Checklist da Verificação de Personas
@@ -194,7 +241,11 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 <center>
 
+
+**Tabela 7** - Checklist para os Itens da Entrevista.
+
 **Tabela 5** - Checklist para os Itens das Personas.
+
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -206,7 +257,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | P6 | O artefato possui uma conclusão?  |  |  |
 | P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy) e Maria Barbosa, 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
@@ -225,7 +276,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy) e Maria Barbosa, 2023.
 | I5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
 | I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  |  | 
 
-**Tabela 2** - Checklist para os Itens da Introspecção.
+**Tabela 8** - Checklist para os Itens da Introspecção.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -250,7 +301,13 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | Q9 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_7 href="#REF7">[7]</a> | | |
 | Q10 | No artefato, há as respostas do questionário? | | |
 
+<<<<<<< HEAD
+**Tabela 9** - Checklist para os Itens do Questionário.
+
+Fonte: [João Costa.](https://github.com/jvcostta)
+=======
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 
 </center>
 
@@ -258,7 +315,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 <center>
 
-**Tabela 9** - Checklist para os Itens da Observação.
+**Tabela 10** - Checklist para os Itens da Observação.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -272,9 +329,27 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
+### Checklist de Storytelling
+
+<center>
+
+**Tabela x** - Checklist para os Itens da Storytelling.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST2 | Os requisitos tem identificadores ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST3 | Foram elicitados requisitos funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST4 | Foram elicitados requisitos não-funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
+
 ### Checklist de MoSCoW
 
-**Tabela 10** - Checklist para os Itens do MoSCoW.
+**Tabela 11** - Checklist para os Itens do MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -329,11 +404,33 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
+<<<<<<< HEAD
+
+## Referências Bibliografia de $100
+
+> <a id="REF4" href="#anchor_4">[11].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
+
+> <a id="REF4" href="#anchor_4">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+
+## Referências Bibliografia de FirtThingsFirst
+
+> <a id="REF4" href="#anchor_4">[61].</a> MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF4" href="#anchor_4">[91].</a> GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
+de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
+
+## Referências Bibliografia de Three Level Scale
+
+> <a id="REF4" href="#anchor_4">[81].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
+
+
+=======
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 ## Bibliografia
 
 > BilheteriaDigital. GitHub, 2023. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
 
 
 ## Referência Bibliográfica
