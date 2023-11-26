@@ -131,6 +131,25 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Casos de Uso
 
+<center>
+
+**Tabela 1** - Checklist para os Itens do Casos de Uso.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| C1 | O diagrama de caso de uso possui atores?|  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? |  |  |
+| C3 | Os atores estão fora da fronteira do sistema? | | |
+| C4 | Os atores interagem com os Casos de Uso corretamente? |  |  |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? |  |  |
+| C6 | Existe limite do sistema? |  |  |
+| C7 | Os casos de uso possuem especificações? |  |  |
+| C8 | Os casos de uso possuem rastreabilidade? |  |  |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |  |  |
+
+Fonte: [João Costa.](https://github.com/jvcostta)
+</center>
+
 ### Checklist da Verificação da Especificação Suplementar
 
 <center>
@@ -194,11 +213,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_51" href="#REF51">51.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
 ## Referência Bibliográfica
 

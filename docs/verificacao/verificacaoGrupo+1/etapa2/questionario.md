@@ -1,14 +1,16 @@
 # Questionário - Verificação
 
 ## Introdução
-Este documento tem como objetivo verificar se o artefato ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/)
+Este documento tem como objetivo verificar as apresentações realizadas pelo grupo 5 apresentando um Checklist dos cronogramas planejado e executado para  ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/) indicando sugestões e melhorias.
+
+## Metodologia
+
+A metodologia escolhida para realizar a verificação é a de Inspeção do Fagan. Este método é importante para garantir que os artefatos produzidos estejam alinhados com os requisitos e expectativas, contribuindo para a entrega de um produto final mais confiável e eficaz. Neste artefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que consiste em uma tabela simples de itens a serem verificados, marcados ou concluídos. Ele serve como uma ferramenta prática para garantir que todas as etapas necessárias tenham sido realizadas, ajudando na organização e na prevenção de erros.
 
 ## Verificações gerais
-A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefato, de modo que todos os artefatos analisados devem cumprir essas descrições.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 2 do Grupo 5. O Checklist está presente na Tabela 1.
 
 <center>
-
-**Tabela 3** - Checklist para os Itens Gerais.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -19,21 +21,6 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | - |
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Sim | - |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Sim | - |
-
-**Tabela 1**: Checklist para os Itens Gerais.
-
-Fonte: [João Costa.](https://github.com/jvcostta)
-
-</center>
-
-## Verificações especificas
-A tabela 2 a seguir tem como objetivo descrever os critérios específicos do artefato ["Questionário"](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/perfilDoUsuario/questionario/) e nos informa se cumpre o objetivo.
-
-<center>
-
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
 | Q1 | Foi informado o motivo da escolha do questionário? | Sim | - |
 | Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? | Sim | - |
 | Q3 | O questionário foi aplicado onde se tinha o público alvo? | Sim | Foi informado mas não especificado. |
@@ -44,10 +31,10 @@ A tabela 2 a seguir tem como objetivo descrever os critérios específicos do ar
 | Q8 | O perfil de usuário apresenta os pontos principais requisitados? | Sim | - |
 | Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? | Sim | - |
 | Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? | Não | - |
-| Q5 | É explicitado como o questionário será utilizado? | Sim | - |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | Não | - |
+| Q11 | É explicitado como o questionário será utilizado? | Sim | - |
+| Q12 | É mostrado como o perfil de usuário vai ser usado durante o projeto? | Não | - |
 
-**Tabela 2** - Checklist para os Itens do Questionário.
+**Tabela 1** - Checklist para os Itens do Questionário.
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 
@@ -70,3 +57,4 @@ Artefato bem desenvolvido, porém poderia apenas mencionar qual a função do pe
 | 1.0    | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.1    | 13/11/2023 | Concluindo artefato. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
 | 1.2    | 19/11/2023 | Padronizando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |
+| 1.3    | 25/11/2023 | Ajustando introdução e tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy)           |

@@ -211,11 +211,10 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| I1 | O processo de elicitação foi devidamente explicado e documentado? |  |  |
-| I2 | Os requisitos elicitados foram classificados corretamente? |  |  |
-| I3 | Foram elicitados requisitos que não estão presentes no aplicativo?	 |  |  |
-| I5 | Foi escolhida uma ferramenta adequada para reuniões? |  |  |
-| I6 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  |  | 
+| I1 | O processo de elicitação foi devidamente explicado e documentado? <a id="REF53" href="#anchor_53">53</a> |  |  |
+| I2 | Os requisitos elicitados foram classificados corretamente? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| I3 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? <a id="REF53" href="#anchor_53">53</a> |  |  | 
 
 **Tabela 2** - Checklist para os Itens da Introspecção.
 
@@ -229,18 +228,18 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | Foi informado o motivo da escolha do questionário? |  |  |
-| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? |  |  |
-| Q3 | O questionário foi aplicado onde se tinha o público alvo? |  | |
-| Q4 | Os resultados foram tratados e apresentados? |  |  |
-| Q5 | Apresenta no texto o prazo em que ficou aberto ? |  |  |
-| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas ? |  |  |
-| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? |  |  |
-| Q8 | O perfil de usuário apresenta os pontos principais requisitados? |  |  |
-| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? |  |  |
-| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? |  |  |
-| Q5 | É explicitado como o questionário será utilizado? |  |  |
-| Q5 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
+| Q1 | Foi informado o motivo da escolha do questionário? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q2 | O questionário apresenta um termo de consientimento onde a pessoa permite a utilização das informações que ira fornecer? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q3 | O questionário foi aplicado onde se tinha o público alvo? <a id="REF53" href="#anchor_53">53</a>|  | |
+| Q4 | Os resultados foram tratados e apresentados? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q5 | Apresenta no texto o prazo em que ficou aberto ?<a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q6 | Houve o cuidado para não haver perguntas pessoais ou evasivas? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q7 | O perfíl de usuário foi definido com base nos resultados dos questionários? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q8 | O perfil de usuário apresenta os pontos principais requisitados? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q9 | Apresenta no texto os locais onde o Questionário foi distribuído? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q10 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| Q11 | É explicitado como o questionário será utilizado? |  |  |
+| Q12 | É mostrado como o perfil de usuário vai ser usado durante o projeto? |  |  |
 
 **Tabela 2** - Checklist para os Itens do Questionário.
 
@@ -257,11 +256,11 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?|  |  |
-| O2 | O artefato apresenta a gravação da técnica com o voluntário ? |  |  |
-| O3 | O artefato possui um termo de consentimento do usuário observado ? |  | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
-| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  |  |  |
-| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? |  |  |
+| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica? |  |  |
+| O2 | O artefato apresenta a gravação da técnica com o voluntário? |  |  |
+| O3 | O artefato possui um termo de consentimento do usuário observado? |  | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
+| O4 | O artefato apresenta uma tabela com os requisitos elicitados?  |  |  |
+| O5 | O artefato possui legenda para a tabela dos requisitos elicitados? |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -317,11 +316,14 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_50" href="#REF50">50.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_51" href="#REF51">51.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+> <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
+
 
 ## Referência Bibliográfica
 

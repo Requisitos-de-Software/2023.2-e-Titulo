@@ -1,7 +1,6 @@
-# Verificação do Questionário do Grupo 4
+# Inspeção do Questionário do grupo 4
 
 ## Introdução
-
 Este artefato inspeciona o Questionário realizado pelo grupo 4 realizando o preenchimento da verificação do [Questionário](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md) indicando sugestões e melhorias. 
 
 ## Metodologia
@@ -62,7 +61,6 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
 ## Histórico de versões
-
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 12/11/2023 | Criando documento e estrutura. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

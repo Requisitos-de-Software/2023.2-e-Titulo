@@ -128,11 +128,31 @@ Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação do Casos de Uso
 
+<center>
+
+**Tabela 5** - Checklist para os Itens de Casos de Uso.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| C1 | O diagrama de caso de uso possui atores? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C3 | Os atores estão fora da fronteira do sistema? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| C4 | Os atores interagem com os Casos de Uso corretamente? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C6 | Existe limite do sistema? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| C7 | Os casos de uso possuem especificações? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| C8 | Os casos de uso possuem rastreabilidade? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
+| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? |  |  |
+
+Fonte: [João Victor](https://github.com/jvcostta), 2023.
+</center>
+
 ### Checklist da Verificação da Especificação Suplementar
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+**Tabela 6** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -186,15 +206,14 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 21 de novembro de 2023.
+> <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 21 de novembro de 2023.
+> <a id="anchor_51" href="#REF51">51.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 21 de novembro de 2023.
+> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Referência Bibliográfica
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 > <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
