@@ -137,9 +137,9 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
-| EA2 | O artefato possui o Termo de Uso? |  |  |
-| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App? <a id="REF4" href="#anchor_4">[41].</a>|  |  |
+| EA2 | O artefato possui o Termo de Uso? <a id="REF4" href="#anchor_4">[41].</a> |  |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso? <a id="REF4" href="#anchor_4">[41].</a> |  |  |
 
 
 Fonte: [Esther Sena](https://github.com/esmsena), 2023.
@@ -152,9 +152,9 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | CM1 | O documento possui o cronograma planejado e executado? |  |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? |  |  |
+| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? <a id=anchor_015 href="#REF015">[015]</a>  |  |  |
+| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? <a id=anchor_015 href="#REF015">[015]</a> |  |  |
+| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? <a id=anchor_015 href="#REF015">[015]</a> |  |  |
 | CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
 
 Fonte: Maria Eduarda Marques, 2023.
@@ -210,17 +210,29 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | RP1 | O artefato possui a ferramenta utilizada? |  |  |
-| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
-| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
-| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? <a id="REF42" href="#anchor_42">[42].</a> |  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? <a id="REF42" href="#anchor_42">[42].</a> |  |  |
+| RP4 | O artefato possui uma legenda de explicação dos componentes? <a id="REF43" href="#anchor_43">[43].</a> |  |  |
 | RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
 | RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
+
+
 ## Bibliografia
 
 > <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
+
+## Referência Bibliográfica
+
+> <a id=anchor_015 href="#REF015">[015]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
+
+> <a id="REF4" href="#anchor_4">[41].</a>  FGA0172 - REQUISITOS DE SOFTWARE - Turma 02 - 2023/2.  Disponível em: https://youtu.be/TdmZWQsvsnE. Acesso em: 10 de novembro de 2023.
+
+> <a id="REF42" href="#anchor_42">[42].</a> CTEC2402 - Software Development Project. Introducing Rich Pictures. Página 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692745/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 13 de novembro de 2023. 
+
+> <a id="REF43" href="#anchor_43">[43].</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 1. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
 
 ## Histórico de versão
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica o artefato de backlog realizado pelo grupo 5 apresentando um Checklist da Verificação do [Backlog](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) indicando sugestões e melhorias se necessário. 
+Este artefato verifica o artefato de backlog realizado pelo grupo 5 apresentando a inspeção do [Backlog](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/Agil/backlog/) indicando sugestões e melhorias se necessário. 
 
 ## Metodologia
 
@@ -12,13 +12,13 @@ Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que co
 
 Baseado na aula 07 dos professores Milene e Maurício Serrano[4] e no checklist contido no plano de ensino da disciplina, este artefato irá conter o checklist de backlog.
 
-## Checklist da Verificação da Apresentação
+## Inspeção por checklist
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. A inspeção está presente na Tabela 1.
 
-### Checklist da Verificação do Backlog
+### Inspeção do artefato do Backlog
 
-**Tabela 1** - Checklist para os Itens da Apresentação.
+**Tabela 1** - Inspeção do Backlog.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -58,3 +58,4 @@ No geral a qualidade do artefato está ótima. A sugestões para melhorias estã
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do Backlog | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 24/11/2023 | Correção de verificação para inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |

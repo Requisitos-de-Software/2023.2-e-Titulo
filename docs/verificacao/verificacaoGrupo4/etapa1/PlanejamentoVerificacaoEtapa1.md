@@ -30,28 +30,26 @@ Fonte: SERRANO; SERRANO.
 Os participantes desta verificação da etapa 1 são:
 
 - [Maria Eduarda Barbosa](https://github.com/Madu01)
-- [Esther Sena](https://github.com/esmsena)
 - [Maria Eduarda Marques](https://github.com/EduardaSMarques) 
 - [Mateus Orlando](https://github.com/MateusPy)
 - [João Victor](https://github.com/jvcostta)
-- [Mariiana Siqueira](https://github.com/Maryyscreuza)
 
 ### Objetos de Verificação
 
 Os artefatos dessa verificação são:
 
-- [Apresentação](https://requisitos-de-software.github.io/2023.2-Jitsi/apresentacoes/etapa-01/)
-- [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/AppEscolhido/)
-- [Cronograma](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/cronograma/)
-- [Metodologia](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/metodologias/)
-- [Ferramentas](https://requisitos-de-software.github.io/2023.2-Jitsi/Planejamento/ferramentas/)
-- [Rich Picture](https://requisitos-de-software.github.io/2023.2-Jitsi/PreRastreabilidade/RichPicture/)
+- [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/apresentacoes/apresentacao01/)
+- [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/)
+- [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/cronogramaPlanejado/)
+- [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/)
+- [Ferramentas](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/Ferramentas/)
+- [Rich Picture](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/richpicture/)
 
 **Obs.:** No artefato de Apresentação, está incluido todas as apresentações independente da etapa que foi realizado.
 
 ### Cronograma
 
-A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 13 de novembro de de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
+A verificação será realizada apartir o dia 21 de novembro de 2023 até dia 25 de novembro de de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
 
 <center>
 
@@ -59,12 +57,12 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 13
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação das Apresentações.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Escolha do Aplicativo. | [Esther Sena](https://github.com/esmsena) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Cronograma. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Metodologia. | [Mateus Orlando](https://github.com/MateusPy) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Ferramentas. | [João Victor](https://github.com/jvcostta) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Rich Picture. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação das Apresentações.  | [Mateus Orlando](https://github.com/MateusPy) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Escolha do Aplicativo. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Cronograma. | [Maria Eduarda Barbosa](https://github.com/Madu01) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Metodologia. | [João Victor](https://github.com/jvcostta) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação da Ferramentas. | [João Victor](https://github.com/jvcostta) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 |  Verificação do Rich Picture. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -121,11 +119,10 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | A1 | O artefato disponibiliza o vídeo da apresentação? |  |  |
-| A2 | O vídeo está como Não listado? |  |  |
-| A3 | O artefato informa os integrantes que estavam presente na apresentação? |  |  |
-| A4 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? |  |  |
+| A2 | O artefato informa os integrantes que estavam presente na apresentação? |  |  |
+| A3 | O artefato apresenta os Critérios de entrega (possuindo informações como os artefatos que deveriam ser criados e informando se foi concluído ou não, não só artefatos mas também outras atividades que deveriam serem realizadas)? |  |  |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
@@ -140,24 +137,32 @@ Fonte: Maria Barbosa, 2023.
 | EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
 | EA2 | O artefato possui o Termo de Uso? |  |  |
 | EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA4 | O artefato mostra se o aplicativo é do governo ou de código aberto? <a id=anchor_39 href="#REF39">[39]</a> |  |  |
+| EA5 | O artefato explica aplicativo se os usuários do app são acessíveis para o projeto ? <a id=anchor_34 href="#REF34">[34]</a> |  |  |
 
 
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 </center>
+
 ### Checklist da Verificação do Cronograma
 
 **Tabela 6** - Checklist para os Itens do Cronograma.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CM1 | O documento possui o cronograma planejado e executado? |  |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? |  |  |
-| CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
+| CM1 | Existe o cronograma planejado e executado no projeto? |  |  |
+| CM2 | O cronograma de planejamento possue um cronograma geral? |  |  |
+| CM3 | O cronograma geral presente no artefato de cronograma de planejamento contém na tabela as seguintes informações: **Número da identificação da entrega, nome da atividade, a descrição dessa atividade e o período de entrega e da apresentação**? |  |  |
+| CM4 | O cronograma de planejamento e de executado possuem todas as atividades de todas as etapas, especeficando de forma detalhadamente, ou seja, possuindo atividades que não necessáriamente são artefatos do cronograma geral? |  |  |
+| CM5 | O cronograma de planejamento e de executado possuem em cada tabela as seguintes informações: **O nome da atividade, Data do início e Data do Fim da atividade, a Data da Revisão, o Autor(es) e Revisor(es), e o local da realização da atividade**? (exceto na tabela geral) |  |  |
+| CM6 | O cronograma do planejamento e executado possuem as atividades de gravação da apresentação de cada etapa? |  |  |
+| CM7 | O cronograma executado e de planejamento possuem as atividades das correções após os feedbacks (isso exceto a da última entrega)? |  |  |
+| CM8 | No cronograma executado e no de planejamento possuem textos explicativos referentes a cada tabela de cronograma? |  |  |
+| CM9 | No cronograma executado possue todas as atividades esperadas no cronograma de planejamento? |  |  |
+| CM10 | As atividades tem duração realistas? <a id=anchor_11 href="#REF1">[1]</a> |  |  |
 
-Fonte: Maria Eduarda Marques, 2023.
+Fonte: Maria Barbosa, 2023.
 
 ### Checklist da Verificação da Metodologia
 
@@ -220,6 +225,18 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+S
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
+## Referência Bibliográfica 
+
+> <a id=anchor_39 href="#REF39">[39]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
+
+> <a id=anchor_34 href="#REF34">[34]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
+
+> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
 > <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
@@ -230,10 +247,14 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
-
-## Histórico de versão
+## Histórico de versão 
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo 4 e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.2 `  | 24/11/2023 | Acrescentado mais tópicos ao checklist do app escolhido. | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.3`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.4`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
 
