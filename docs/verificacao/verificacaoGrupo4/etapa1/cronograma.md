@@ -54,7 +54,7 @@ O artefato do cronograma está legal, mas pode melhorar, logo abaixo são minhas
 - É interessante na Entrega 5.1 o cronograma de planejamento possuir os artefatos especificado no cronograma executado para que possuem todas as atividades esperadas no cronograma de planejamento.
 
 
-## Bibliografia
+## Bibliografia Marques
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 21 de novembro de 2023.
 
@@ -67,7 +67,7 @@ O artefato do cronograma está legal, mas pode melhorar, logo abaixo são minhas
 > VLC. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
 
-## Histórico de Versões
+## Histórico de Versões Marques
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
