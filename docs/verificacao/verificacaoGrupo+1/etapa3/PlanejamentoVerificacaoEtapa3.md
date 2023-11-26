@@ -115,14 +115,13 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? |  |  |
+| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? <a id=anchor_00000122 href="#REF00000122">[00000122]</a> |  |  |
 | CE2 | Os cenários possuem numeração? |  |  |
-| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? |  |  |
-| CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
-| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
+| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+| CE6 | Os títulos dos cenários são requisitos funcionais? |  |  |
+| CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
 
 
@@ -140,26 +139,26 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O documento adere ao formato FURPS+? |  |  |
-| B2 | Existe uma seção dedicada à funcionalidade no documento? |   |  |
-| B3 | Há uma seção referente à usabilidade no documento? |   |  |
-| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? |  |  |
-| B5 | O documento inclui uma seção abordando a confiabilidade? |  |  |
-| B6 | Os requisitos identificados foram claramente apresentados? |  |  |
-| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? |  |  |
-| B8 | São explicitados requisitos relacionados à segurança no documento? |  |  |
-| B9 | Existe uma seção de desempenho no documento?|  |  |
-| B10 | São apresentados requisitos relacionados aos tempos de resposta? |  |  |
-| B11 | O documento inclui uma seção sobre suportabilidade? |  |  |
-| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? |  |  |
-| B13 | Há uma seção dedicada a restrições de design no documento? |  |  |
-| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?|  |  |
-| B15 | Existe uma seção de requisitos de implementação no documento? |  |  |
-| B16 | Os requisitos apresentados são testáveis? |  |  |
-| B17 | Há uma seção de requisitos de interface no documento? |  |  |
-| B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
-| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
-| B20 | O documento contempla requisitos físicos? |  |  |
+| B1 | O documento adere ao formato FURPS+? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento? <a id="REF4" href="#anchor_4">4.</a> |   |  |
+| B3 | Há uma seção referente à usabilidade no documento? <a id="REF4" href="#anchor_4">4.</a> |   |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B6 | Os requisitos identificados foram claramente apresentados? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B9 | Existe uma seção de desempenho no documento? <a id="REF4" href="#anchor_4">4.</a>|  |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B11 | O documento inclui uma seção sobre suportabilidade? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B13 | Há uma seção dedicada a restrições de design no documento? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema? <a id="REF4" href="#anchor_4">4.</a>|  |  |
+| B15 | Existe uma seção de requisitos de implementação no documento? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B16 | Os requisitos apresentados são testáveis? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B17 | Há uma seção de requisitos de interface no documento? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste? <a id="REF4" href="#anchor_4">4.</a> |  |  |
+| B20 | O documento contempla requisitos físicos? <a id="REF4" href="#anchor_4">4.</a> |  |  |
 | B21 | Os léxicos relacionados são mencionados no artefato? |  |  |
 
 
@@ -188,6 +187,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
+## Referências Bibliografia do "Brainstorming"
+
+> <a id="REF4" href="#anchor_4">4.</a> . MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES- Especificação Suplementar-Versão 1.0.  Disponível em: https://aprender3.unb.br/pluginfile.php/2754631/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf. Acesso em: 12 de novembro de 2023.
+
+
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
@@ -196,6 +200,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+## Referência Bibliográfica
+
+> <a id="REF000001" href="#anchor_000001">[000001]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 10 de novembro de 2023.
+
+> <a id="REF00000122" href="#anchor_00000122">[00000122]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023.
 
 ## Hitórico de versão
 

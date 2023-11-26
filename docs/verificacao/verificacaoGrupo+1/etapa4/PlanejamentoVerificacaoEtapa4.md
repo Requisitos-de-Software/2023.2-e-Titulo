@@ -116,10 +116,10 @@ Fonte: Maria Barbosa, 2023.
 | ---| -------- | --------- | ------------ |
 | H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |  |  |
 | H2 | As histórias possuem um ID? |  |  |
-| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? |  |  |
+| H3 | Para validar as histórias foi utilizado o próprio usuário do Jitsi? <a id=anchor_113110 href="#REF113110">[113110]</a> |  |  |
 | H4 | Existe o vídeo da reunião da validação com esse usuário do Jitsi? |  |  |
 | H5 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |  |  |
-| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |  |  |
+| H6 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_00202023 href="#REF00202023">[00202023]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -132,9 +132,9 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+| BL2 | O artefato possui épicos e temas bem definidos e descritos? [1] |  |  |
+| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? [2]|  |  |
+| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? [2]|  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -157,6 +157,11 @@ Fonte: Maria Marques, 2023.
 
 </center>
 
+## Referências
+
+> [1] BARROS, André - Requisitos de software. Plano de ensino. Entrega 1. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+
+> [2] Baseado no Backlog do projeto e-Título. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/modelagem/agil/backlog.md. Acesso em 13 de novembro de 2023.
 
 ## Bibliografia
 
@@ -169,6 +174,11 @@ Fonte: Maria Marques, 2023.
 ## Referência Bibliográfica
 
 > <a id=anchor_0150 href="#REF0150">[0150]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
+
+> <a id="REF113110" href="#anchor_113110">[113110]</a> Presman, Roger S; Maxim, Bruce R. Engenharia de software. 8. ed. Bookman, 2016 p. 87-92.
+
+> <a id="REF00202023" href="#anchor_00202023">[00202023]</a> Bourque, P., Fairley, R. E. Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK. IEEE Computer Society, 2014. Disponível em: http://www.computer.org/web/swebok/v3. p. 38.
+
 
 ## Histórico de Versões
 
