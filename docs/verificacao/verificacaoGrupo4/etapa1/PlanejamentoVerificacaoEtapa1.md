@@ -137,9 +137,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
 | EA2 | O artefato possui o Termo de Uso? |  |  |
 | EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA4 | O artefato mostra se o aplicativo é do governo ou de código aberto? <a id=anchor_39 href="#REF39">[39]</a> |  |  |
+| EA5 | O artefato explica aplicativo se os usuários do app são acessíveis para o projeto ? <a id=anchor_34 href="#REF34">[34]</a> |  |  |
 
 
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 </center>
 
@@ -225,20 +227,26 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
-
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
+S
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Referência Bibliográfica
+## Referência Bibliográfica 
+
+> <a id=anchor_39 href="#REF39">[39]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
+
+> <a id=anchor_34 href="#REF34">[34]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
 > <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
-## Histórico de versão
+
+## Histórico de versão 
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.2`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.2 `  | 24/11/2023 | Acrescentado mais tópicos ao checklist do app escolhido. | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.3`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.4`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
 

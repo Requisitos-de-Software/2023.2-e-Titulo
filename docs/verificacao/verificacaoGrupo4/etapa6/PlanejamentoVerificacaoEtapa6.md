@@ -126,6 +126,25 @@ Fonte: Maria Barbosa, 2023.
 
 </center>
 
+### Checklist da Verificação do forward-from
+
+<center>
+
+**Tabela 4** - Checklist para os Itens do forward-from.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| FF1 | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? |  |  |
+| FF2 | Existe a representação dos requisitos funcionais e não funcionais? |  |  |
+| FF3 | Cada integrante do grupo elaborou um prototipo para um requistos não implementado? |  |  |
+| FF4 | No artefato diz se o requisito foi implementado ou não?  |  |  |
+| FF5 | Os requistos estão alinhados com os requistos do backward-from? |  |  |
+
+Fonte: Maria Marques, 2023.
+
+</center>
+
+
 
 ### Checklist da Verificação da matriz
 
@@ -163,7 +182,8 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 24/11/2023 | Adição da tabela do forward-from | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01)|
+| `1.2`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.3`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 
 

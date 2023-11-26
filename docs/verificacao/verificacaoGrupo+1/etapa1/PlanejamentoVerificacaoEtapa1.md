@@ -152,9 +152,9 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | CM1 | O documento possui o cronograma planejado e executado? |  |  |
-| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? |  |  |
-| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? |  |  |
-| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? |  |  |
+| CM2 | O cronograma do planejamento possui todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? <a id=anchor_015 href="#REF015">[015]</a>  |  |  |
+| CM3 | O cronograma do planejamento possui o período de gravação da apresentação de cada etapa? <a id=anchor_015 href="#REF015">[015]</a> |  |  |
+| CM4 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? <a id=anchor_015 href="#REF015">[015]</a> |  |  |
 | CM5 |O cronograma executado possui as datas das correções após os feedbacks? |  |  |
 
 Fonte: Maria Eduarda Marques, 2023.
@@ -230,6 +230,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
 ## Referência Bibliográfica
+
+> <a id=anchor_015 href="#REF015">[015]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
 
 > <a id="REF4" href="#anchor_4">[41].</a>  FGA0172 - REQUISITOS DE SOFTWARE - Turma 02 - 2023/2.  Disponível em: https://youtu.be/TdmZWQsvsnE. Acesso em: 10 de novembro de 2023.
 

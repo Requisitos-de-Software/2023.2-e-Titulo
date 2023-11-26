@@ -115,30 +115,14 @@ Fonte: Maria Barbosa, 2023.
 | ---| -------- | --------- | ------------ |
 | CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? <a id=anchor_2 href="#REF2">[2]</a> |  |  |
 | CE2 | Os cenários possuem numeração? |  |  |
-<<<<<<< HEAD
-<<<<<<< HEAD
-| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE5 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
-| CE6 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? |  |  |
-| CE7 | Os títulos dos cenários são requisitos funcionais? |  |  |
-| CE8 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-=======
-| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
-| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
-| CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
-=======
 | CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
 | CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
 | CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
->>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 | CE6 | Os títulos dos cenários são requisitos funcionais? |  |  |
 | CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
 Fonte: Maria Barbosa, 2023.
->>>>>>> b8d4391aec9a38b7024c29af2d4d1579d24acf4a
+
 
 </center>
 
@@ -172,10 +156,9 @@ Fonte: Maria Barbosa, 2023.
 | B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
 | B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
 | B20 | O documento contempla requisitos físicos? |  |  |
-| B21 | Os léxicos relacionados são mencionados no artefato? |  |  |
 
 
-Fonte: [Esther Sena](https://github.com/esmsena), 2023.
+Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 </center>
 
@@ -211,9 +194,12 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 ## Referência Bibliográfica
 
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+
 > <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
+
 
 > <a id="REF3" href="#anchor_3">[3].</a> ORLANDO, Mateus . 2023.2-e-Título. Verificação grupo + 1 - Léxicos. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3.md. Acesso em: 23 de novembro de 2023.
 
@@ -222,4 +208,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 24/11/2023 | Alterando tabela da especificação suplementar | [Maria Marques ](https://github.com/EduardaSMarques) |[Maria Barbosa](https://github.com/Madu01) | 
+| `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+
