@@ -29,23 +29,23 @@ Fonte: SERRANO; SERRANO.
 
 Os participantes desta verificação da etapa 3 são:
 
-- [Maria Eduarda Barbosa](https://github.com/Madu01)
 - [João Victor](https://github.com/jvcostta)
 - [Esther Sena](https://github.com/esmsena)
 - [Mateus Orlando](https://github.com/MateusPy)
+- [Maria Eduarda Marques](https://github.com/EduardaSMarques)
 
 ### Objetos de Verificação
 
 Os artefatos dessa verificação são:
 
-- [Cenários](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/cenarios/)
-- [Casos de Uso](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/casosDeUso/)
-- [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/especificacaoSuplementar/)
-- [Léxicos](https://requisitos-de-software.github.io/2023.2-Jitsi/Modelagem/lexico/)
+- [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/)
+- [Casos de Uso](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/)
+- [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/)
+- [Léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/)
 
 ### Cronograma
 
-A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12 de junho de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
+A verificação será realizada apartir o dia 21 até dia 25 de novembro de 2023, com os resultados dos checklist de cada artefato da etapa. A seguinte tabela 1, demonstra o cronograma das atividades. 
 
 <center>
 
@@ -53,10 +53,10 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 
 | Data  do início    | Data do Fim | Data da Revisão | Descrição | Responsável   | 
 | ------------------ | ----------- | --------------- | --------- | ------------- |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação dos Cenários.  | [Maria Eduarda Barbosa](https://github.com/Madu01) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Casos de Uso. | [João Victor](https://github.com/jvcostta) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação da Especificação Suplementar. | [Esther Sena](https://github.com/esmsena) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Léxicos. | [Mateus Orlando](https://github.com/MateusPy) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação dos Cenários.  | [Mateus Orlando](https://github.com/MateusPy) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação do Casos de Uso. | [João Victor](https://github.com/jvcostta) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação da Especificação Suplementar. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
+| 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação de Léxicos. | [Esther Sena](https://github.com/esmsena) |
 
 
 Fonte: Maria Barbosa, 2023
@@ -113,8 +113,9 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? <a id=anchor_00000122 href="#REF00000122">[00000122]</a> |  |  |
+| CE1 | A estrutura dos cenários tem presente o título, objetivo, contexto, recursos, atores, epsódios, retrição e exceção? <a id=anchor_2 href="#REF2">[2]</a> |  |  |
 | CE2 | Os cenários possuem numeração? |  |  |
+<<<<<<< HEAD
 <<<<<<< HEAD
 | CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? |  |  |
 | CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? |  |  |
@@ -128,6 +129,11 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
 | CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
 | CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_000001 href="#REF000001">[000001]</a> |  |  |
+=======
+| CE3 | Os cenários possuem um título coerente com o que foi apresentado de conteúdo em sua estrutura? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
+| CE4 | Os cenários possuem atores que são coerentes ao restante do que foi apresentado de conteúdo em sua estrutura? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
+| CE5 | Nos contextos dos cenários está presente as informações de local, tempo e pré-condição? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
+>>>>>>> cd8b76744c5a9a972cc6a87845706673a9eba080
 | CE6 | Os títulos dos cenários são requisitos funcionais? |  |  |
 | CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
@@ -181,40 +187,39 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
-| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? <a id="REF4" href="#anchor_4">[21].</a> |  |  |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? <a id="anchor_3" href="#REF3">[3].</a> |  |  |
+| L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? <a id="anchor_31" href="#REF3">[3].</a> |  |  |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) <a id="anchor_32" href="#REF3">[3].</a> |  |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) <a id="anchor_34" href="#REF3">[3].</a> |  |  |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="anchor_35" href="#ancREF3hor_4">[3].</a> |  |  |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="anchor_36" href="#REF3">[3].</a> |  |  |
+| L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? <a id="anchor_37" href="#REF3">[3].</a> |  |  |
+| L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? <a id="anchor_38" href="#REF3">[3].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-## Referências Bibliografia de FirtThingsFirst
-
-> <a id="REF4" href="#anchor_4">[21].</a> ORLANDO, Mateus . 2023.2-e-Título. Verificação grupo + 1 - Léxicos. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3.md. Acesso em: 23 de novembro de 2023.
-
 
 ## Bibliografia
 
-> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
+> 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 21 de novembro de 2023.
 
-> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
+> 2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 21 de novembro de 2023.
 
-> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
+> SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 21 de novembro de 2023.
 
 ## Referência Bibliográfica
 
-> <a id="REF000001" href="#anchor_000001">[000001]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 10 de novembro de 2023.
+> <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
-> <a id="REF00000122" href="#anchor_00000122">[00000122]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023.
+> <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF3" href="#anchor_3">[3].</a> ORLANDO, Mateus . 2023.2-e-Título. Verificação grupo + 1 - Léxicos. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3.md. Acesso em: 23 de novembro de 2023.
 
 ## Hitórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica o artefato de priorização realizado pelo grupo 5 apresentando um Checklist da Verificação do [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) indicando sugestões e melhorias se necessário. 
+Este artefato verifica o artefato de priorização realizado pelo grupo 5 apresentando a inspeção do [MoSCoW](https://requisitos-de-software.github.io/2023.2-Jitsi/Elicitacao/priorizacao/MoSCoW/) indicando sugestões e melhorias se necessário. 
 
 ## Metodologia
 
@@ -12,13 +12,13 @@ Neste atefato é demonstrado o checklist da etapa de Inspeção do Fagan. Que co
 
 Baseado no livro "Software Requiriments, Third edition" de Karl Wiergers e Joy Beatty [4] e na aula 07 dos professores Milene e Maurício Serrano[5], este artefato irá conter o checklist de verificação do MoSCoW.
 
-## Checklist da Verificação da Apresentação
+## Inspeção por checklist 
 
-O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. O Checklist está presente na Tabela 1.
+O Checklist segue o modelo especificado em Planejamento da Verificação da Etapa 1 do Grupo 5. A inspeção está presente na Tabela 1.
 
-### Checklist da Verificação do MoSCoW
+### Inspeção do artefato MoSCoW
 
-**Tabela 1** - Checklist para os Itens da Apresentação.
+**Tabela 1** - Inspeção do MoSCoW.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -62,3 +62,4 @@ No geral a qualidade do artefato está ótima. A sugestões para melhorias estã
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 13/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Checklist e sugestão e melhorias do MoSCoW | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 24/11/2023 | Correção de verificação para inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |

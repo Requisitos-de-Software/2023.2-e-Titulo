@@ -132,9 +132,9 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+| BL2 | O artefato possui épicos e temas bem definidos e descritos? [1] |  |  |
+| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? [2]|  |  |
+| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? [2]|  |  |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -157,6 +157,11 @@ Fonte: Maria Marques, 2023.
 
 </center>
 
+## Referências
+
+> [1] BARROS, André - Requisitos de software. Plano de ensino. Entrega 1. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
+
+> [2] Baseado no Backlog do projeto e-Título. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/modelagem/agil/backlog.md. Acesso em 13 de novembro de 2023.
 
 ## Bibliografia
 
