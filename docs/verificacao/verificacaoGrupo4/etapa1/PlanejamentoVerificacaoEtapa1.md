@@ -233,13 +233,13 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 S
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-## Referência Bibliográfica
+## Referência Bibliográfica Marques
 
 > <a id=anchor_39 href="#REF39">[39]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
 > <a id=anchor_34 href="#REF34">[34]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
-## Histórico de versão
+## Histórico de versão Marques
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
