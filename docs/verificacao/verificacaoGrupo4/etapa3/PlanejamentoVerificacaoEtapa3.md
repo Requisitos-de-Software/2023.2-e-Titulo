@@ -229,4 +229,5 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 24/11/2023 | Alterando tabela da especificação suplementar | [Maria Marques ](https://github.com/EduardaSMarques) |[Maria Barbosa](https://github.com/Madu01) | 
 | `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.3`  | 25/11/2023 | Adicionando o checklist Léxico e acrescentado referência bibliográficas e bibliografia da tabela Léxicos.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 
