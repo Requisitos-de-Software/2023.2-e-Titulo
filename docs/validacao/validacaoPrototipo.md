@@ -44,7 +44,7 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
  
 | Rastreabilidade do requisito | Descrição do requisito | Identificador do protótipo |  Ferramenta | Responsável |
 | ----------- | -------- | -------- | -------- | -------- | 
-| XXXX | XXXX | Protótipo 1 | Figma | Maria Barbosa |
+| INT14 | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
 | XXXX | XXXX | Protótipo 2 | Figma | Maria Marques |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
@@ -117,6 +117,9 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 1
 
+<iframe src="https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design" width="640" height="480"></iframe> 
+
+
 ### Protótipo 2
 
 ### Protótipo X
@@ -150,3 +153,4 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.0`  | 27/11/2023 | Adicionando prototipo 1. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
