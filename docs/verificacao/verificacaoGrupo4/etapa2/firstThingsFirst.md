@@ -74,6 +74,6 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01)| [Maria Barbosa](https://github.com/Madu01) |
 | `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, video e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
