@@ -185,5 +185,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | `1.1`  | 24/11/2023 | Adição da tabela do forward-from | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01)|
 | `1.2`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.3`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.4`  | 25/11/2023 | Criando tabela matriz, adicionando o checklist e acrescentado referência bibliográficas e bibliografia da tabela matriz. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 
 
