@@ -64,4 +64,4 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 18/09/2023 |            Criação da página de ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
 |  `1.1`  | 29/09/2023 |            Adiçãod de mais ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
-|  `1.2`  | 27/11/2023 |           Adição da metodologia adotada para refresentar as ferramentas conforme sugerido na Verificação do grupo 4.           | [Mateus Orlando](https://github.com/MateusPy) | -- |
+|  `1.2`  | 27/11/2023 |           Adição da metodologia adotada para representar as ferramentas conforme sugerido na Verificação do grupo 4.           | [Mateus Orlando](https://github.com/MateusPy) | -- |
