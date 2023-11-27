@@ -1,8 +1,12 @@
 # Personas
 
-## Conceito
+## Introdução
 
 Persona, trata-se de uma  representação fictícia do cliente ideal, fundamentada em dados reais sobre o comportamento e as características demográficas dos seus clientes. Ela inclui a criação de histórias pessoais, motivações, metas, desafios e preocupações dessa persona.
+
+## Objetivo
+
+Em projetos de criação de produtos, as personas desempenham um papel vital ao proporcionar uma compreensão aprofundada dos usuários, incluindo suas necessidades e comportamentos. Essa compreensão é essencial para o sucesso do produto no mercado. Além disso, as personas orientam as decisões de design, permitindo que os desenvolvedores priorizem recursos de acordo com as exigências específicas de cada persona. A utilização de personas também facilita a comunicação eficaz das necessidades dos usuários para partes interessadas no projeto, como gerentes e investidores, assegurando um alinhamento contínuo e contribuindo para o desenvolvimento do produto em conformidade com tais demandas. Tendo em vista essas qualidades que as personas trazem para um projeto, é de vital importância o uso dela no desenvolvimento do projeto para o e-Título.
 
 ## Aplicação
 
@@ -69,6 +73,8 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 <font size="3"><p style="text-align: center">Fonte: [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta).</p>
 
 ---
+<p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Maria Andrade</p>
+
 
 |antiPersona|Enzo Rodrigues|
 | :--:|:--:|
@@ -89,9 +95,9 @@ Como embasamento para a construção das personas e da antipersona, foram utiliz
 Para melhor orientação na fase de elicitação de requisitos, foram definidas três personas como os principais usuários do sistema, às quais daremos nossa atenção principal. Além disso, também criamos uma antipersona para entender quem não é um usuário do sistema. A decisão de limitar o número de personas a três foi baseada na observação das necessidades dos usuários em relação ao aplicativo "e-título". Sobre esse assunto, as necessidades estavam se tornando cada vez mais semelhantes, já que o maior propósito do aplicativo é permitir que o usuário apresente-se apto para exercer o eleitorado ativo e consulte os locais de votação. 
 
 ## Referências
-> Personas. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas>. Acesso em: 04/10/2023 out. 2023.
+> Personas. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-personas>. Acesso em: 04 de outubro de 2023.
 
-> This Person Does Not Exist.  Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 04/10/2023 out. 2023.
+> This Person Does Not Exist.  Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 04 de outubro de 2023.
 
 
 ## Histórico de Versões
