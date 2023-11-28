@@ -30,7 +30,7 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
  
 | Identificador da entrevista | Identificador dos protótipos | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
-| Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | XX:XX | Raphael Mendes | Pelo Teams |
+| Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Pelo Teams |
 
 Fonte: Maria barbosa, 2023.
 
@@ -44,7 +44,7 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
  
 | Rastreabilidade do requisito | Descrição do requisito | Identificador do protótipo |  Ferramenta | Responsável |
 | ----------- | -------- | -------- | -------- | -------- | 
-| INT14 | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
+| [INT14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
 | XXXX | XXXX | Protótipo 2 | Figma | Maria Marques |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
@@ -57,14 +57,14 @@ Fonte: Maria barbosa, 2023.
 
 **Tabela 3** -  Perguntas para a entrevista.
  
-| Perguntas |
-| ----------- | 
-|  Você achou a funcionalidade intuitiva, ou seja, Fácil de ser utilizada? |
-|  O que te agradou na funcionalidade? |
-|  O que não lhe agradou na funcionalidade? |
-|  Você acha que a funcionalidade é realmente agregante para o aplicativo ou é redundante? |
-|  Você acha que a funcionalidade faz sentido fazer parte do aplicativo do e-título? |
-|  Tem alguma sugestão para melhoria? |
+| Numeração da pergunta | Pergunta |
+| -- | ----------- | 
+| 1 | Você achou a funcionalidade intuitiva, ou seja, Fácil de ser utilizada? |
+| 2 | O que te agradou na funcionalidade? |
+| 3 | O que não lhe agradou na funcionalidade? |
+| 4 | Você acha que a funcionalidade é realmente agregante para o aplicativo ou é redundante? |
+| 5 | Você acha que a funcionalidade faz sentido fazer parte do aplicativo do e-título? |
+| 6 | Tem alguma sugestão para melhoria? |
 
 Fonte: Maria barbosa, 2023.
 
@@ -78,13 +78,13 @@ Fonte: Maria barbosa, 2023.
 
 ### Apresentações iniciais
 
-Bem no início da gravação os entrevistadores devem se apresentar ao entrevistado e explicar o que seria feito na entrevista, pois nele contém os três passos.
+Bem no início da gravação os entrevistadores devem se apresentar ao entrevistado, fornecer links dos protótipos e do termo de consentimento e explicar o que seria feito na entrevista, pois nele contém os três passos.
 
 - Passo 1: é a leitura do termo.
 - Passo 2: Apresentação do protótipo.
 - Passo 3: é o entrevistador perguntar para o entrevistado as 6 perguntas presentes na **Tabela 3**. 
 
-Os entrevistadores devem dizer quais são os passos antes da realização dos passos.
+**IMPORTANTE:** Os entrevistadores devem dizer para o entrevistado quais são os passos antes da realização dos passos. Além de dizer que para cada protótipo será realizado as mesmas 6 perguntas simples, mas o termo de consentimento é apenas para o início não repetindo novamente quando for para o próximo protótipo disponibilizado na entrevista.
 
 ### Passo 1: Leitura do termo de consentimento
 
@@ -101,9 +101,9 @@ O contexto 2 é utilizado só se o contexto 1 não der certo.
 
 ### Passo 3: Execução das perguntas
 
-Após o entrevistado navegar pelo protótipo será realizado perguntas a ele. Como são em média 2 protótipos para cada entrevista, o entrevistador responsável pelo protótipo apresentado no momento realiza as perguntas presentes na **Tabela 3** deste artefato e o outro entrevistador (que não criou o protótipo), anotará as respostas obtidas do entrevistado, Assim vice-versa.
+Após o entrevistado navegar pelo protótipo será realizado perguntas a ele. Como são em média 2 protótipos para cada entrevista, o entrevistador responsável pelo protótipo apresentado no momento realiza as perguntas presentes na **Tabela 3** deste artefato e o outro entrevistador (que não criou o protótipo), anotará as respostas obtidas do entrevistado, Assim vice-versa. As respostas do entrevistado ficarão logo abaixo do vídeo da entrevista nas tabelas dos subtópicos **Respostas do protótipo N.º**
 
-Conforme forem realizando as perguntas, deve ser respeitado as respostas dos entrevistados.
+Conforme forem realizando as perguntas, deve ser respeitado as respostas dos entrevistados. 
 
 ### Encerramento
 
@@ -111,7 +111,7 @@ Os entrevistadores devem informar que a entrevista encerrou e agradecer o entrev
 
 ### Após a conclusão das entrevistas
 
-Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusões obtidas no tópico de conclusão.
+Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusões obtidas no tópico de **conclusão** a respeito da entrevista.
 
 ## Protótipos
 
@@ -119,22 +119,144 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 <iframe src="https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design" width="640" height="480"></iframe> 
 
-
 ### Protótipo 2
 
 ### Protótipo X
-
 
 
 ## Entrevistas 
 
 ### Entrevista 1
 
-(colocar vídeo)
+- Caso não consiga assistir dentro da gitPages, [Clique aqui]()
+
+
+<iframe width="560" height="315" src="     " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: .</p></font>
+
+
+#### Respostas do protótipo 1
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 1.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
+#### Respostas do protótipo 2
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 2.
+
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 | Sim achei fácil de ser utilizada e está bem nítido de ser encontrado |
+| 2 | Acho legal que é criativa e combina com o aplicativo |
+| 3 | Falta detalhes, mostrar o número do candidato, ter destaques a respeito do candidato, e no protótipo esta faltando a letra "n" na palavra "cadidatos" |
+| 4 | É muito agregante! |
+| 5 | Faz sentido com o e-título, já que é sobre informações dos candidatos entrando no mesmo contexto do aplicativo |
+| 6 | Trocar "Formação" por "Destaques", informando não só a formação mas outros dados do candidato, fazer também um pequeno resuminho do foco da propostas do candidato.  |
+
+Fonte: maria barbosa, 2023.
+
+</center> 
 
 ### Entrevista 2
 
+(colocar vídeo)
+
+#### Respostas do protótipo 1
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 1.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
+#### Respostas do protótipo 2
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 2.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
 ### Entrevista 3
+
+(colocar vídeo)
+
+#### Respostas do protótipo 1
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 1.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
+#### Respostas do protótipo 2
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 2.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
 
 ## Conclusão
 
@@ -153,4 +275,4 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
-| `1.0`  | 27/11/2023 | Adicionando prototipo 1. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.1`  | 27/11/2023 | Adicionando novos passos importantes no Roteiro das entrevistas e adicionando tabelas das respostas a respeito de cada protótipo. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |

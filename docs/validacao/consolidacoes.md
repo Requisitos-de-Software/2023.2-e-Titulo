@@ -61,14 +61,18 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-| Maria Barbosa e Maria marques | 27/11/2023 | XX:XX | cronograma | Teams |
+| Maria Barbosa e Maria marques | 27/11/2023 | 21:30 | cronograma | Teams |
 
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/AOqdOFZLgiI)
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+<iframe width="560" height="315" src="https://youtu.be/AOqdOFZLgiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Maria barbosa e Maria marques, 2023.</p></font>
+
+A maria marques, responsável pela criação do artefato cronograma, concolidou os erros e sugestões desenvolvidos na inspeção realizados pela maria Barbosa. Não só foi falado quais erros eram mas também foi demonstrado no artefato para que a responsável consiga entender a localização dos problemas.
 
 ### Gravação 3
 
