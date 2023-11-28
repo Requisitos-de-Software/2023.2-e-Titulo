@@ -146,14 +146,14 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
+| 1 | Fácil de se utilizar e fácil de ver menu e as rotas. |
+| 2 | Se volta a ser simples e cumpri isso, por ser minimalista não causa confusão. |
+| 3 | Endereços com fontes pequenas. |
+| 4 | Agrega muito ao app. Ter esse recurso no app facilita, por não precisar de um app externo de mapa, já tem tudo em lugar só. |
+| 5 | Faz sentido, ela é bem simples, da forma que está combina muito, e não se torna um app de mapa. |
+| 6 | Colocar uma opção (botão), dando mais alternativas para chegar ao local, não só de carro, mas também a pé, de ônibus, bicicleta, entre outros. |
 
-Fonte: nome do responsável, 2023.
+Fonte: Maria Marques, 2023.
 
 </center> 
 
@@ -278,4 +278,5 @@ Fonte: nome do responsável, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 27/11/2023 | Adicionando novos passos importantes no Roteiro das entrevistas e adicionando tabelas das respostas a respeito de cada protótipo. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
-| `1.2`  | 27/11/2023 | Add info na tabela 2 e add protótipo 2 | [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
+| `1.2`  | 27/11/2023 | Add info na tabela 2 e add protótipo 2 da entrevista 1 | [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
+| `1.3`  | 28/11/2023 | Add entrevista 1 e respostas obtidas no protótipo 1 da entrevista 1| [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
