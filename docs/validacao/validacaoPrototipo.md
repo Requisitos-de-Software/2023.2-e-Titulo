@@ -45,11 +45,11 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
 | Rastreabilidade do requisito | Descrição do requisito | Identificador do protótipo |  Ferramenta | Responsável |
 | ----------- | -------- | -------- | -------- | -------- | 
 | [INT14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
-| XXXX | XXXX | Protótipo 2 | Figma | Maria Marques |
+| [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O usuário deve visualizar o candidato eleito referente ao ano da votação. | Protótipo 2 | Figma | Maria Marques |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
 
-Fonte: Maria barbosa, 2023.
+Fonte: Autores, 2023.
 
 </center>
 
@@ -80,9 +80,9 @@ Fonte: Maria barbosa, 2023.
 
 Bem no início da gravação os entrevistadores devem se apresentar ao entrevistado, fornecer links dos protótipos e do termo de consentimento e explicar o que seria feito na entrevista, pois nele contém os três passos.
 
-- Passo 1: é a leitura do termo.
+- Passo 1: É a leitura do termo.
 - Passo 2: Apresentação do protótipo.
-- Passo 3: é o entrevistador perguntar para o entrevistado as 6 perguntas presentes na **Tabela 3**. 
+- Passo 3: É o entrevistador perguntar para o entrevistado as 6 perguntas presentes na **Tabela 3**. 
 
 **IMPORTANTE:** Os entrevistadores devem dizer para o entrevistado quais são os passos antes da realização dos passos. Além de dizer que para cada protótipo será realizado as mesmas 6 perguntas simples, mas o termo de consentimento é apenas para o início não repetindo novamente quando for para o próximo protótipo disponibilizado na entrevista.
 
@@ -94,8 +94,8 @@ Um dos entrevistadores pede para o entrevistado ler o termo de consentimento em 
 
 Primeiro um dos entrevistadores vai dizer o nome da funcionalidade que será utilizada no protótipo, após isso existe dois contextos diferentes e pra cada há uma abordagem diferente.
 
-- contexto 1 (o ideal): Um dos entrevistadores deve passar o link do protótipo para o entrevistado para ele interagir com o protótipo.
-- contexto 2 (se ocorrer problemas técnicos): Para o entrevistado que não consiga por motivos técnicos, acessar o link do protótipo, um dos próprios entrevistadores pode apresentar o protótipo compartilhando a tela para o entrevistado, demonstrando o fluxo.
+- Contexto 1 (o ideal): Um dos entrevistadores deve passar o link do protótipo para o entrevistado para ele interagir com o protótipo.
+- Contexto 2 (se ocorrer problemas técnicos): Para o entrevistado que não consiga por motivos técnicos, acessar o link do protótipo, um dos próprios entrevistadores pode apresentar o protótipo compartilhando a tela para o entrevistado, demonstrando o fluxo.
 
 O contexto 2 é utilizado só se o contexto 1 não der certo.
 
@@ -121,6 +121,8 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 2
 
+<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design" width="640" height="480"></iframe> 
+
 ### Protótipo X
 
 
@@ -128,12 +130,12 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Entrevista 1
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui]()
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/MlN2f-EnJgw)
 
 
-<iframe width="560" height="315" src="     " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/MlN2f-EnJgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: .</p></font>
+<font size="3"><p style="text-align: center">Fonte: Maria Barbosa, Maria Marques , 2023. .</p></font>
 
 
 #### Respostas do protótipo 1
@@ -276,3 +278,4 @@ Fonte: nome do responsável, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 27/11/2023 | Adicionando novos passos importantes no Roteiro das entrevistas e adicionando tabelas das respostas a respeito de cada protótipo. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.2`  | 27/11/2023 | Add info na tabela 2 e add protótipo 2 | [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
