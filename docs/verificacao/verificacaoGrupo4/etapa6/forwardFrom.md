@@ -31,8 +31,8 @@ O Checklist da inspeção segue o modelo especificado em Planejamento da Verific
 | FF1 | O artefato possui legendas para a identificação dos requisitos ou de outros artefatos? | Sim |  |
 | FF2 | Existe a representação dos requisitos funcionais e não funcionais? | Sim |  |
 | FF3 | Cada integrante do grupo elaborou um prototipo para um requistos não implementado? | Não |  |
-| FF4 | No artefato diz se o requisito foi implementado ou não?  | Não  |  |
-| FF5 | Os requistos estão alinhados com os requistos do backward-from? | Não |  |
+| FF4 | No artefato diz se o requisito foi implementado ou não?  | Não  | Observação abaixo |
+| FF5 | Os requistos estão alinhados com os requistos do backward-from? | Não | Observação abaixo |
 
 Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
@@ -46,6 +46,7 @@ Tendo em vista os problemas abordados anteriormente, fica como sugestão a reali
   - G6: As tabelas de legendas estão sem fontes e numeração.
   - G7: As tabelas das legendas e dos requistos não são chamados no texto, além de que não estão de acordo com a norma da ABNT e nem padronizados de acordo com o restante do projeto e alguns protótipos não pussuem fonte e legendas.
   - FF4: Por falta dessa identificação, ficou um pouco mais complicado de identificar se o protótipo de fato era de um requisito não implementado.
+  - FF5: Alguns requistos que estão no backward não estão no forward, e vice-versa, seria bom esses requisitos estarem alinhados.
 
 
 
