@@ -23,7 +23,7 @@ Logo após essa parte, foi realizado gravações das consolidações. E abaixo d
 | ----------- | -------- | -------- | 
 | Maria marques | João e Mateus | Forward-from |
 | Maria Barbosa | Maria marques | cronograma |
-| Esther | Maria Marques e Mariiana Siqueira | $100 |
+|  [Esther Sena](https://github.com/esmsena) |  [Maria Marques ](https://github.com/EduardaSMarques) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | $100 |
 | Mary | João e Mateus | histórias de usuário |
 | João |  |  |
 | Mateus | Esther e Madu | Entrevista |
@@ -78,7 +78,7 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+|  [Esther Sena](https://github.com/esmsena),  [Maria Marques ](https://github.com/EduardaSMarques),  [Mariiana Siqueira](https://github.com/Maryyscreuza) | 26/11/2023 | 20:00 | [100$](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/%24100.md) | Teams |
 
 </center>
 
