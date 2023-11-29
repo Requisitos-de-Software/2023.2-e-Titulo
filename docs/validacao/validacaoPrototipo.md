@@ -323,3 +323,5 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 27/11/2023 | Adicionando novos passos importantes no Roteiro das entrevistas e adicionando tabelas das respostas a respeito de cada protótipo. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.2000`  | 28/11/2023 | Adicionando protótipo 6 e o vídeo da entrevista de validação do mesmo. | [Mateus Orlando](https://github.com/MateusPy) | -- |
+
