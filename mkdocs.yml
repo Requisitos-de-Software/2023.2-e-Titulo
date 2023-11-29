@@ -5,8 +5,10 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 
 site_name: e-Título
 nav:
+  - Teste: verificacao/referenciasVerificacao
   - Início: index.md
-  - Documentação do Aplicativo: E-titulo/documentacaoetitulo.md
+  - Documentação do Aplicativo: 
+    - Etapa1: verificacao/referenciasVerificacao/referenciasEtapa1.md
   - Atas:
     - Ata 01: atas/ata_reuniao_01.md
     - Ata 02: atas/ata_reuniao_02.md
