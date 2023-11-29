@@ -53,9 +53,15 @@ Será utilizado as normas da ABNT para as citações nas bibliografias e referê
 Exemplo ao Fazer citação em figuras, diagramas e tabelas:
 
 ```
-Figura 1 - nome descritivo referente a figura
+<center>
+
+**Figura 1** - nome descritivo referente a figura
+
 (colocar a figura aqui!)
-Fonte: citar a fonte.
+
+Fonte: SOBRENOME, nome. 2023.
+
+</center>
 ```
 Observando o exemplo logo acima, é preciso que mude a palavra Figura de acordo com qual for usar, se é diagrama ou tabelas.
 
@@ -98,6 +104,8 @@ Utilize tags para definir o propósito do commit:
 
 - `UPDATE` : Quando atualizar algum documento ou algo 
 
+- `FIX` : Quando corrigir  algum documento ou algo
+
 - `PAGES` : quando for algo específico relacionado ao gitHub Pages
 
 A estrutura do commit é:
@@ -136,6 +144,7 @@ O pull request é onde serão feitas as revisões do que foi feito, deverá ter 
 
 A estrutura a ser seguida ao criar um Pull request:
 
+
 ```
 ## Descrição 
 
@@ -157,9 +166,9 @@ Issues que foram resolvidas com o pull request
 ```
 
 ## Bibliografia
-> PEREIRA Paulo; TORREÃO Paula; MARÇAL Ana. Entendendo Scrum para Gerenciar Projetos de Forma Ágil. MundoPM, 2007. Disponível em: https://d1wqtxts1xzle7.cloudfront.net/49393858/EntendendoScrumparaGerenciarProjetosdeFormaAgil-libre.pdf?1475741991=&response-content-disposition=inline%3B+filename%3DEntendendo_Scrum_para_Gerenciar_Projetos.pdf&Expires=1694639672&Signature=WvZeA2J4NVoTgddZl8hQHX-6eix~poH8BhEUBmJ1o8H-8VKfizN7CpEOIGS2i1PLHjqKl5OsoN7kRdlu0DUVnE~Ey3XVVk-fGccHVnTETOBa~m5Tf59CSVX2N3AISWAg7UOBL~C-muBHuPj-oJUmmgo88ckl736j9HgjePbqgRyOQVpC9sgysyUMmo4cCusaEOMMXIYE3qE709wrXXuJfXYmS-GPdP3e1jgau1oQSG~OyJluVy9gVG99G9hwX-0L9Jd~i8J4PLJZZ5p~oD30702fQleBNeSCliyAxi9UJydZB5NnhNQ3BEF8sGR7B8ao1WB6co1LtSyLcINFpeBuPg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA. Acesso em: 12 de setembro de 2023.
+> PEREIRA Paulo; TORREÃO Paula; MARÇAL Ana. Entendendo Scrum para Gerenciar Projetos de Forma Ágil. MundoPM, 2007. Disponível em: https://futurepages.org/wiki/lib/exe/fetch.php?media=quickstart:scrum_mundopm-abril-maio-2007.pdf. Acesso em: 12 de setembro de 2023.
 
-> 2021.2-Sigaa-Plus. GitHub. Disponível em: https://github.com/Madu01/2021.2-Sigaa-Plus/blob/main/docs/CONTRIBUTING.md. Acesso em: 12 de setembro de 2023.  
+> Sigaa-Plus. GitHub, 2021. Disponível em: https://github.com/Madu01/2021.2-Sigaa-Plus/blob/main/docs/CONTRIBUTING.md. Acesso em: 12 de setembro de 2023.  
 
 ## Histórico de Versões
 
@@ -169,3 +178,4 @@ Issues que foram resolvidas com o pull request
 | `1.1`  | 12/09/2023  | atualização e adicionamento de novo tópico | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.2`  | 12/09/2023  | atualização no documento, adicionamento de padrões | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.3`  | 12/09/2023  | atualização no documento, alterando tags  e explicação para o commit | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.4`  | 27/11/2023  | Correção nos links, na ABNT e no padrão | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
