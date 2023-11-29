@@ -31,6 +31,7 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
 | Identificador da entrevista | Identificador dos protótipos | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
 | Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | XX:XX | Raphael Mendes | Pelo Teams |
+| Entrevista 2 | Protótipo 6 |  [Mateus Orlando](https://github.com/MateusPy) | 28/11/2023 | 13:30 | Winniver Castro | Pelo Teams |
 
 Fonte: Maria barbosa, 2023.
 
@@ -48,6 +49,8 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
 | XXXX | XXXX | Protótipo 2 | Figma | Maria Marques |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
 | XXXX | XXXX | Protótipo X | Figma | XXXX |
+| XXXX | XXXX | Protótipo X | Figma | XXXX |
+| INT20 | O usuário deve realizar download da comprovação de sua justificativa. | Protótipo 6 | Figma | [Matheus Orlando](https://github.com/MateusPy) |
 
 Fonte: Maria barbosa, 2023.
 
@@ -119,8 +122,21 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 2
 
-### Protótipo X
 
+
+
+
+
+
+
+
+### Protótipo 6
+
+### O usuário deve realizar download da comprovação de sua justificativa.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=XqoEYTG3wVk1X3cT-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 ## Entrevistas 
 
@@ -248,9 +264,48 @@ Fonte: nome do responsável, 2023.
 
 Fonte: nome do responsável, 2023.
 
+</center>
+
+
+
+
+
+
+
+
+### Entrevista 4
+
+O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
+
+<iframe width="560" height="315" src="https://youtu.be/_B4fk8remwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
+
+#### Respostas do protótipo 6
+
+<center>
+
+**Tabela 10** -  respostas obtidas no protótipo 6.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 | Sim, fácil de ser utilizado e entendido por qualquer usuário. |
+| 2 | Gostou da facilidade de acesso à funcionalidade a ser implementada. |
+| 3 | O entrevistado não apontou nenhum ponto negativo. |
+| 4 | Acha que é agregante pois facilita na apresentação da justificativa. |
+| 5 | Acha que a funcionalidade condiz com o conceito do aplicativo. |
+| 6 | Não apontou nenhuma melhoria. |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
 </center> 
 
+#### Conclusão da entrevista 4
+
+- Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário deve realizar download da comprovação de sua justificativa. A entrevistada achou bastante pertinente a disponibilização dessa opção de download dentro do aplicativo, pois acredita que facilitaria a sua vida quando for necessário apresentar essa justificativa em algum local  como por exemplo, no trabalho.
+
 ## Conclusão
+
 
 
 ## Bibliografia
