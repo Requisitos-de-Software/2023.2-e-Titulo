@@ -294,9 +294,9 @@ O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com 
 | 3 | O entrevistado não apontou nenhum ponto negativo. |
 | 4 | Acha que é agregante pois facilita na apresentação da justificativa. |
 | 5 | Acha que a funcionalidade condiz com o conceito do aplicativo. |
-| 6 | Não apontou nenhuma melhoria. |
+| 6 | Não apontou nenhuma melhoria. | 
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023. 
 
 </center> 
 
