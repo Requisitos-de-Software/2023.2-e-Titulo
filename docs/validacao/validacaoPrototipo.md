@@ -117,9 +117,13 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 1
 
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
 <iframe src="https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design" width="640" height="480"></iframe> 
 
 ### Protótipo 2
+
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design)
 
 <iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design" width="640" height="480"></iframe> 
 
@@ -130,8 +134,7 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Entrevista 1
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/MlN2f-EnJgw)
-
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/MlN2f-EnJgw)
 
 <iframe width="560" height="315" src="https://youtu.be/MlN2f-EnJgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
