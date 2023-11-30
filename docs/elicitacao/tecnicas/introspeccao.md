@@ -11,7 +11,7 @@ O objetivo dele é descobrir os requisitos funcionais e não funcionais de forma
 
 ## Metodologia
 
-Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. 
+Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. Os requisitos funcionais e não funcionais estão presentes nas Tabelas 12 e 13.
 
 Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbosa utilizou o celular Mototola g(9) play e a esther usou o celular Mototola g(30), ambas as duas no sistema android.
 
