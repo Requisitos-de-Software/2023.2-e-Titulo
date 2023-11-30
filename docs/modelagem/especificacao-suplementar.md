@@ -1,30 +1,15 @@
 # 1. Introdução:
 
-| Aplicativo    | Versão do Aplicativo |  Documento                | Data       |
-|---------------|----------------------|---------------------------|------------|
-|  e-Título     |         2.6.2        | Especificação Suplementar | 23/10/2023 |
+Este documento, datado de 23/10/2023, fornece uma estrutura abrangente para o desenvolvimento e utilização do aplicativo "e-título" (versão 2.6.2). O objetivo é facilitar o acesso e a gestão de informações relacionadas à participação cidadã em processos eleitorais. O escopo abrange todas as características, requisitos e funcionalidades do aplicativo, definindo claramente seus limites. São apresentadas definições, acrônimos e abreviações, incluindo o significado do termo "e-título". As informações são fundamentadas nas diretrizes do TSE, nas melhores práticas de desenvolvimento de aplicativos móveis e nas normativas eleitorais. A visão geral destaca o "e-título" como uma solução inovadora para modernizar e simplificar a participação eleitoral, promovendo a cidadania digital e facilitando o exercício do voto.
 
-## 1.1 Finalidade:
-O presente documento tem como objetivo fornecer uma estrutura abrangente para o desenvolvimento e utilização do aplicativo "e-título", visando facilitar o acesso e a gestão de informações relacionadas à participação cidadã em processos eleitorais.
+# 2. Motivação e Objetivo:
 
-## 1.2 Escopo: 
-Este documento abrange todas as características, requisitos e funcionalidades do aplicativo "e-título". Define seus limites, especificando as áreas cobertas e excluídas no contexto da experiência do usuário e das funcionalidades eleitorais.
+Esse artefato de especificação suplementar é como um mapa do tesouro para os desenvolvedores. Ele não apenas fornece direções técnicas, mas também inspira e esclarece. A motivação é transformar requisitos em uma obra-prima funcional, enquanto o objetivo é ser claro, preciso e inspirador, guiando os desenvolvedores na construção de algo extraordinário. Cada palavra deve ser uma faísca de criatividade, transformando códigos em magia e prometendo uma experiência que deixará uma marca duradoura.
 
-## 1.3 Definições, Acrônimos e Abreviações:
-Para garantir uma compreensão uniforme, algumas definições importantes, acrônimos e abreviações são apresentados abaixo:
-- **e-título:** Aplicativo eletrônico para dispositivos móveis que visa oferecer serviços eleitorais de forma digital.
-- **TSE:** Tribunal Superior Eleitoral, a instância máxima da justiça eleitoral no Brasil.
-- **CPF:** Cadastro de Pessoa Física, documento de identificação fiscal no Brasil.
 
-## 1.4 Referências:
-As informações contidas neste documento baseiam-se nas diretrizes fornecidas pelo TSE, nas melhores práticas de desenvolvimento de aplicativos móveis e nas normativas eleitorais vigentes.
+# 3. Metodologia:
 
-## 1.5 Visão Geral:
-O "e-título" surge como uma solução inovadora para modernizar e simplificar a participação eleitoral, oferecendo aos cidadãos uma plataforma intuitiva e segura para acessar informações relevantes, como local de votação, situação cadastral e documentos eleitorais. Esta visão geral delineia os principais elementos do aplicativo, destacando seu papel na promoção da cidadania digital e na facilitação do exercício do voto.
-
-# 2. Metodologia:
-
-A definição dos requisitos foi elaborada com base no modelo FURPS+, que se relaciona a um sistema para a categorização de requisitos (*QualidadeBR, 2008*).
+A definição dos requisitos foi elaborada com base no modelo FURPS+, que se relaciona a um sistema para a categorização de requisitos (*QualidadeBR, 2008*) com base no conhecimento adquirido na referência  <a id=anchor_4 href="#REF4">[1]</a>.
 
 O acrônimo FURPS+ representa categorias que são aplicáveis na especificação de requisitos.
 
@@ -48,11 +33,13 @@ O acrônimo FURPS+ representa categorias que são aplicáveis na especificação
     
     - *Requisitos Físicos:* Especificam limitações físicas impostas pelo hardware, como material, forma, tamanho ou peso.
 
-# 3. Funcionalidade:
+Nessa versão os requisitos de interface, além da seção de componentes adquiridos serão omitidos, dado que são atributos já especificados em outros artefatos, como os requisitos não-funcionais elicitados pelas técnicas de [Entrevista](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) de [Introspecção](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/), de [Questionário](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) e de [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/).
+
+# 4. Funcionalidade:
 
 Os requisitos funcionais estão definidos por meio dos Casos de uso.
 
-# 4. Usabilidade:
+# 5. Usabilidade:
 
 Aborda a facilidade de uso do sistema, incluindo interface do usuário e experiência do usuário litados na Tabela 1.
 
@@ -63,17 +50,18 @@ Aborda a facilidade de uso do sistema, incluindo interface do usuário e experi�
 
 **Tabela 1 - requisitos de usabilidade**
 
-| ID         | Descrição                                                                               |
-|------------|-----------------------------------------------------------------------------------------|
-|  `USAB01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    | 
-|  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.        |
-|  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.                  |
-|  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.                             |
-|  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. |
-|  `USAB06`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |
+| ID         | Descrição        | Implementado |
+|------------|------------------|--------------|
+|  `USAB01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    |    |
+|  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.  |    |
+|  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.     |    |
+|  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.   |    |
+|  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. |  |   
+|  `USAB06`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |    |
 
-
-**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 # 5. Confiabilidade:
 
@@ -86,13 +74,15 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 
 **Tabela 2 - requisitos de confiabilidade**
 
-| ID         | Descrição   |
-|------------|----------|
-|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |
-|  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
-|  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|
+| ID         | Descrição        | Implementado |
+|------------|------------------|--------------|
+|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |    |
+|  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |    |
+|  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|    |
 
-**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 # 6. Desempenho:
 
@@ -105,12 +95,14 @@ Define os requisitos de desempenho esperados do sistema, como velocidade, efici�
 
 **Tabela 3 - requisitos de desempenho** 
 
-| ID        | Descrição                                                                                   |
-|-----------|---------------------------------------------------------------------------------------------|
-|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
-|  `DES02`  | O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.  |
+| ID         | Descrição        | Implementado |
+|------------|------------------|--------------|
+|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |    |
+|  `DES02`  | O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.  |    |
 
-**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 # 7. Suportabilidade:
 
@@ -123,15 +115,17 @@ Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do t
 
 **Tabela 4 - requisitos de suportabilidade**
 
-| ID        | Descrição                    |
-|-----------|------------------------------|
-|  `SUP01`  | O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.|
-|  `SUP02`  | O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.|
-|  `SUP03`  | O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.|
-|  `SUP03`  | O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.|
-|  `SUP03`  | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.|
+| ID         | Descrição        | Implementado |
+|------------|------------------|--------------|
+|  `SUP01`  | O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.|    |
+|  `SUP02`  | O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.|    |
+|  `SUP03`  | O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.|    |
+|  `SUP03`  | O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.|    |
+|  `SUP03`  | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.|    |
 
-**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 # 8. Restrições de Design :
 
@@ -152,17 +146,19 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 
 **Tabela 5 - requisitos físicos**
 
-| ID        | Descrição                    |
-|-----------|------------------------------|
-|  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |
-|  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |
-|  `FIS01`  | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |
+| ID         | Descrição        | Implementado |
+|------------|------------------|--------------|
+|  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |    |
+|  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |    |
+|  `FIS01`  | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |    |
 
-**Fonte:** SENA, Esther e SIQUEIRA, Mariiana 2023.
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 ## Referências Bibliográficas
 
-> FURPS+. Disponivél em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 23 de outubro de 2023.
+> <a id=anchor_4 href="#REF4">[1]</a>  FURPS+. Disponivél em: <https://qualidadebr.wordpress.com/2008/07/10/furps/>. Acesso em: 23 de outubro de 2023.
 
 > MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação Suplementar. Disponível em: <https://aprender3.unb.br/pluginfile.php/2754631/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acesso em: 23 out 2023.
 
@@ -179,3 +175,4 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 | `1.0` | 26/09/2023 | Montagem de estrutura com explicação, adicionando introdução completa, metodologia, modelo de resposta da Funcionalidade, e estrutura de tabela nos tópicos nescessário. | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1` | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Restrições de Design, Requisitos de Licenciamento e Requisitos Físicos | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2` | 24/10/2023 | Adição de referências bibliográficas | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.3` | 30/11/2023 | Correção em fontes das tabelas, refazendo a Introdução, adicionando Motivação e Objetivo adicionando descrição na metodologia e referênciando ela. |  [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
