@@ -168,8 +168,8 @@ Fonte: Maria Eduarda Marques, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
-| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? |  |  |
-| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ?|  |  |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? <a id=anchor_015 href="#anchor_03">03</a>  |  |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ? <a id=anchor_015 href="#anchor_03">03</a> |  |  |
 | M4 | O artefato apresenta a política e estrutura de commits? |  |  |
 | M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
 | M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? |  |  |
@@ -224,6 +224,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
+> <a id="anchor_03" href="#REF03">03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/ . Acesso em: 24 de novembro de 2023.
+
 ## Referência Bibliográfica
 
 > <a id=anchor_015 href="#REF015">[015]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
@@ -242,5 +244,6 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | `1.1`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Apresentação.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.2`  | 12/11/2023 | Adição do conteúdo do checklist de Metodologia  |  [João Victor](https://github.com/jvcostta) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.3`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação de Escolha do aplicativo.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| `1.4`  | 12/11/2023 | Adição do conteúdo do Checklist de Rich Picture. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-
+| `1.4`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação da Metodologia.  | [Mateus Orlando](https://github.com/MateusPy) |  [João Victor](https://github.com/jvcostta) |
+| `1.5`  | 12/11/2023 | Adição do conteúdo do Checklist de Rich Picture. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.6`  | 12/11/2023 | Adição das referências do Checklist de Metodologia. | [Mateus Orlando](https://github.com/MateusPy) | -- |
