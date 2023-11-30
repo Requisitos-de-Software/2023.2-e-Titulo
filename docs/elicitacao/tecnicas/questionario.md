@@ -12,7 +12,8 @@ O objetivo principal dos questionários na elicitação de requisitos é obter u
 
 ## Metodologia
 
-A metodologia iniciou-se com a contextualização do projeto e a definição clara de seus objetivos, identificando os stakeholders envolvidos para se obter um questionário com o intuitor de conhecer o perfil de usuário do aplicativo e-Titulo. Em seguida, desenvolve-se um questionário estruturado com 2 partes, uma que foi apenas para os que já utilizaram o aplicativo possuindo apenas 5 questões rápidas e simples, e a segunda parte é apenas para os que nunca usaram com apenas 3 questões. A implementação do questionário foi feita por meio online, usando o aplicativo google-forms e foi liberado durante os dias 01/10/2023 até 03/10/2023 e obteve XX respostas durante esse tempo. Os resultados foram analisados, categorizados e interpretados, culminando em um relatório final detalhado. A conclusão do processo envolveu a sumarização dos requisitos identificados e considerações finais, proporcionando uma abordagem abrangente e iterativa para a coleta eficaz de requisitos por meio de questionários.
+A metodologia iniciou-se com a contextualização do projeto e a definição clara de seus objetivos, identificando os stakeholders envolvidos para se obter um questionário com o intuitor de conhecer o perfil de usuário do aplicativo e-Titulo com base no conhecimento adquirido na referência  <a id=anchor_4 href="#REF4">[1]</a>. Em seguida, desenvolve-se um questionário estruturado com 2 partes, uma que foi apenas para os que já utilizaram o aplicativo possuindo apenas 5 questões rápidas e simples, e a segunda parte é apenas para os que nunca usaram com apenas 3 questões. A implementação do questionário foi feita por meio online, usando o aplicativo google-forms e foi liberado durante os dias 01/10/2023 até 03/10/2023 e obteve 10 respostas durante esse tempo. Os resultados foram analisados, categorizados e interpretados, culminando em um relatório final detalhado. A conclusão do processo envolveu a sumarização dos requisitos identificados e considerações finais, proporcionando uma abordagem abrangente e iterativa para a coleta eficaz de requisitos por meio de questionários.
+
 
 ## Resultados
 
@@ -24,7 +25,9 @@ Imagem 1 - print da primeira pergunta
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img1_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ### Pessoas que utilizaram o aplicativo
 
@@ -32,31 +35,41 @@ Imagem 2 - print da primeira pergunta para os que usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img2_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 3 - print da segunda pergunta para os que usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img3_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 4 - print da terceira pergunta para os que usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img4_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 5 - print da quarta pergunta para os que usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img5_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 6 - print da quinta pergunta para os que usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img6_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ### Pessoas que nunca utilizaram o aplicativo
 
@@ -64,19 +77,25 @@ Imagem 7 - print da primeira pergunta para os que não usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img7_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 8 - print da segunda pergunta para os que não usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img8_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 Imagem 9 - print da terceira pergunta para os que não usam o aplicativo
 
 ![imagem_q1](../../../assets/perguntasQuestTecnica/img9_questionario.png)
 
-Fonte: Autoria Própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ## Análise dos resultados
 
@@ -112,7 +131,9 @@ Tabela 1 - Requisitos Funcionais
 |  QST4 | O usuário deve poder realizar o login com o CPF e senha |  RF4 | Sim |
 |  QST5 | O usuário deve conseguir visualizar os dados do título eleitoral |  RF5 | Sim |
 
-Fonte: Autoria própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 
 ### Requisitos Não-Funcionais
@@ -125,19 +146,22 @@ Tabela 2 - Requisitos Não Funcionais
 | QSTNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
 | QSTNF3 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | RNF3 | Não |
 
-Fonte: Autoria própria, 2023.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ## Bibliografia
 
-> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de Outubro de 2023.</br>
+> <a id=anchor_4 href="#REF4">[1]</a> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de Outubro de 2023.</br>
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor(es)                                                                                     | Revisor(es)                                      |
-| ------ | ---------- | ----------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
-| 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.4 | 04/09/2023 | Adicionando conteúdos no tópico e subtópicos de Resultados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| Versão | Data       | Descrição         | Autor(es)            | Revisor(es)          |
+| ------ | ---------- | ------------ | -------------------------- | -------------------------- |
+| 1.0 | 25/09/2023 | Adicionando estrutura do documento e introdução | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| 1.1 | 04/10/2023 | Adicionando metodologia e alterando introdução| [Esther Sena](https://github.com/esmsena) |[João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
+| 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos Análise dos resultados e Requisitos Elicitados | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
+| 1.4 | 04/09/2023 | Adicionando conteúdos no tópico e subtópicos de Resultados | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.5 | 19/11/2023 | mudando o ID dos requisitos | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
+| 1.6 | 03/09/2023 |  Correção em fontes das tabelas e na metodologia. |[Esther Sena](https://github.com/esmsena)|[João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
