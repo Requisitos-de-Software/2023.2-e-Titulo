@@ -59,7 +59,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -107,7 +107,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -155,7 +155,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -199,7 +199,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -283,7 +283,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -322,7 +322,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -361,7 +361,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -401,7 +401,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -441,7 +441,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -478,7 +478,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -535,7 +535,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INT34 |  Deve ser possível o usuário ver o histórico de dados apagados. | RF34 |
 
 <div style="text-align: center">
-<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+<p> Fonte: SENA, Esther; BARBOSA, Maria. 2023.</p>
 </div>
 
 <div style="text-align: center">
@@ -550,14 +550,14 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INTNF4 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF4 |
 
 <div style="text-align: center">
-<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+<p> Fonte: SENA, Esther; BARBOSA, Maria. 2023.</p>
 </div>
 
 ## Referências Bibliográficas
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023.
 
-> Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
-
+> Guia-Bolso. Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
 
 
 ## Histórico de Versões
@@ -569,4 +569,4 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
 | 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.4 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
-| 1.5 | 28/11/2023 | Correção em fontes das tabelas e nos requisitos funcionais e não funcionais  | [Maria Barbosa](https://github.com/Madu01)  | [Esther Sena](https://github.com/esmsena) |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos requisitos funcionais e não funcionais  | [Maria Barbosa](https://github.com/Madu01)  | [Esther Sena](https://github.com/esmsena) |

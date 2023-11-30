@@ -25,7 +25,7 @@ As gravações das entrevistas podem serem visualizadas nos links [entrevista 1]
 | Entrevista 1 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:00 | Raphael Mendes | Pelo Teams |
 | Entrevista 2 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:40 | Anthony Tavares | Pelo Teams |
 
-Fonte: BARBOSA. Maria; SENA. Esther, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
@@ -45,7 +45,7 @@ Para desenvolver as perguntas nas entrevistas, foi utilizado a metodologia 5W2H 
 | How      | Como     |
 | How much | Quanto   |
 
-Fonte: BARBOSA. Maria; SENA. Esther, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
@@ -65,7 +65,7 @@ Fonte: BARBOSA. Maria; SENA. Esther, 2023.
 | How(Como): | 6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral? <br> 7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?<br> 8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis?<br> 9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? <br>|
 | How Much (Quanto): | 10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral?<br> 11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? |
 
-Fonte: BARBOSA. Maria; SENA. Esther, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
@@ -139,7 +139,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
   
 </table>
 
-<p> Fonte:  BARBOSA. Maria; SENA. Esther, 2023. </p>
+<p> Fonte:  BARBOSA, Maria; SENA, Esther. 2023. </p>
 
 </center>
 
@@ -204,7 +204,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
       </tbody>
    </table>
     <div style="text-align: center">
-      <p>Fonte:  BARBOSA. Maria. 2023.</p>
+      <p>Fonte:  BARBOSA, Maria. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -269,7 +269,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
       </tbody>
    </table>
     <div style="text-align: center">
-      <p>Fonte: SENA. Esther, 2023.</p>
+      <p>Fonte: SENA, Esther. 2023.</p>
    </div>
 </details>
     
@@ -284,7 +284,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
 
 <iframe width="560" height="315" src="https://youtu.be/Plv7-4JBWgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: BARBOSA. Maria; SENA. Esther, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
@@ -298,7 +298,7 @@ Fonte: BARBOSA. Maria; SENA. Esther, 2023.
 
 <iframe width="560" height="315" src="https://youtu.be/WXOG8QaRswY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: BARBOSA. Maria; SENA. Esther, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
@@ -329,7 +329,7 @@ Fonte: BARBOSA. Maria; SENA. Esther, 2023.
 | ENT9 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | RF9 | Não |
 
 
-Fonte: BARBOSA. Maria. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -345,7 +345,7 @@ Fonte: BARBOSA. Maria. 2023.
 | ENTNF4 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | RNF4 | Sim |
 | ENTNF5 | O aplicativo deve oferecer suporte ao usuário | RNF5 | Sim |
 
-Fonte: BARBOSA. Maria. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -354,9 +354,9 @@ Fonte: BARBOSA. Maria. 2023.
 
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
 
-> Simplenote. Disponivel em: <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
+> Simplenote. 2023. Disponivel em: <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
 
-> Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
+> Lichess. GitHub. 2023. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
 
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de outubro de 2023.</br>
 
@@ -370,4 +370,4 @@ Fonte: BARBOSA. Maria. 2023.
 | 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
-| 1.5 | 28/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  Mateus Orlando e João Victor Costa  |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  Mateus Orlando e João Victor Costa  |
