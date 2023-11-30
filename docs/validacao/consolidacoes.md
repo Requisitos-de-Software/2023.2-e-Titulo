@@ -25,7 +25,7 @@ Logo após essa parte, foi realizado gravações das consolidações. E abaixo d
 | Maria Barbosa | Maria marques | cronograma |
 | Esther | Maria Marques e Mariiana Siqueira | $100 |
 | Mary | João e Mateus | histórias de usuário |
-| João |  |  |
+| João | Mateus | Casos de uso |
 | Mateus | Esther e Madu | Entrevista |
 
 Fonte: Maria barbosa, 2023.
@@ -113,15 +113,16 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+| João Costa e Mateus | 28/11/2023 | 20:00 | Casos de uso | Teams |
 
 </center>
 
 **(COLOCA VIDEO ABAIXO DA TABELA)**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
-
+Em primeira análise, o artefato não possui tópicos de "introdução" e "objetivo" assim como deveria ser de acordo com a metodologia citada no projeto. Porém essas informações estão contidas nos tópicos de "conceito" e "metodologia. Foi abordado também o fato de que as fontes das tabelas não possuem data, saindo assim da norma ABNT. Por fim pode-se concluir que o artefato foi bem desenvolvido, faltando apenas detalhes para uma melhor entrega.
 
 ### Gravação 6
 
