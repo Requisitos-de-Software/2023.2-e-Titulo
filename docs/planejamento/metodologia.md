@@ -178,4 +178,4 @@ Issues que foram resolvidas com o pull request
 | `1.1`  | 12/09/2023  | atualização e adicionamento de novo tópico | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.2`  | 12/09/2023  | atualização no documento, adicionamento de padrões | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.3`  | 12/09/2023  | atualização no documento, alterando tags  e explicação para o commit | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
-| `1.4`  | 27/11/2023  | Correção nos links, na ABNT e no padrão | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.4`  | 27/11/2023  | Correção nos links, na ABNT e no padrão | [Maria Barbosa](https://github.com/Madu01) | [João Costa ](https://github.com/jvcostta) |

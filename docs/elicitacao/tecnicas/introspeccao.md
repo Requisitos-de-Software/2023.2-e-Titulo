@@ -569,4 +569,4 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
 | 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.4 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
-| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos requisitos funcionais e não funcionais  | [Maria Barbosa](https://github.com/Madu01)  | [Esther Sena](https://github.com/esmsena) |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos requisitos funcionais e não funcionais  | [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |

@@ -354,12 +354,11 @@ Fonte: BARBOSA, Maria. 2023.
 
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023. </br>
+
 > Simplenote. 2023. Disponivel em: <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
 
 > Lichess. GitHub. 2023. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
-
-> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de outubro de 2023.</br>
-
 
 ### Histórico de versão
 
@@ -369,5 +368,5 @@ Fonte: BARBOSA, Maria. 2023.
 | 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
-| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  Mateus Orlando e João Victor Costa  |
+| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) e João Victor Costa |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  [João Costa ](https://github.com/jvcostta)  |

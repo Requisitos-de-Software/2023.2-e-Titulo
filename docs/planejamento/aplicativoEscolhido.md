@@ -56,4 +56,4 @@ O termo está disponível em [Cópia_do_Termo_E-Título](../../docs/E-titulo/doc
 | `1.0`  | 17/10/2023  | adição de conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 18/10/2023  | Atualização no conteúdo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2`  | 20/10/2023  | ajuste na tabela  | [João Costa](https://github.com/jvcostta) | [João Costa](https://github.com/jvcostta) |
-| `1.3`  | 26/11/2023  | Correções em metodologia, na ABNT e na linkagem do termo  | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.3`  | 26/11/2023  | Correções em metodologia, na ABNT e na linkagem do termo  | [Maria Barbosa](https://github.com/Madu01) | [João Costa ](https://github.com/jvcostta) |

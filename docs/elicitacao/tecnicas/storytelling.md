@@ -13,35 +13,73 @@ O objetivo do storytelling é tornar as mensagens mais impactantes, memoráveis 
 Ao usar storytelling, você transforma suas mensagens em experiências, criando uma ligação mais profunda e duradoura com seu público. Essa técnica é valiosa em uma variedade de contextos, desde apresentações de negócios até educação e marketing.
 
 ## Metodologia
-Foi criado 3 histórias com base no artefato personas envolvendo três personas, o antipersona não foi utilizado neste artefato por não ser o foco dos requisitos do aplicativo. As histórias contém informações interessantes de forma a envolver o leitor com os personagens.
 
-Após a criação das histórias, foi investigado as informações presentes nelas, de forma a se colocar no lugar dos personas para conseguir elicitar os requisitos presentes nas tabelas 1 e 2 conforme o storytelling.
+Foram realizadas duas gravações com pessoas que se encaixam no perfil de usuário do aplicativo e-título, e no final resultou em 3 histórias reais a respeito do aplicativo relatados pelos participantes. Na tabela 1, demonstra o cronograma das gravações além de informações como horário e participantes.
+
+Em ambas as gravações o responsável pela gravação perguntou para o participante a seguinte pergunta:
+
+- **"me conte uma história que você passou ao utilizar o e-título."**
+
+Após esta pergunta, que servia para orientar os participantes, foi ao rumo das histórias contadas por eles. Quando terminou as duas gravações, foi investigado as informações presentes nelas, para serem colocadas nos Storytellings de forma a elicitar os requisitos que foram identificados durante os storytellings. Os requisitos elicitados estão presentes nas tabelas 2 e 3 conforme o storytelling de cada vídeo.
+
+<center>
+
+**Tabela 1** -  cronograma das gravações.
+ 
+| Identificador da gravação | Responsável pela gravação | data | horário | Participante | Local |
+| ----------- | -------- | -------- | -------- | -------- | ----- |
+| Gravação 1 |  Maria Eduarda Barbosa  | 30/11/2023 | 15:00 | Raphael Mendes | Pelo Teams |
+| Gravação 2 |  Maria Eduarda Barbosa  | 30/11/2023 | 16:00 | Maria Valdina | Pelo Teams |
+
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
+
+</center>
+
+## Gravações
+
+No Vídeo 1, contém duas histórias e consequentemente resultou em dois Storytellings, pois o participante que estava contando a história disse que tinha duas e não só uma. No Vídeo 2, a participante optou por não ser gravada, apenas pela gravação da voz, ela estava fisicamente presente com a responsável pela gravação.
+
+### Gravação 1
+
+Nessa gravação 1, foi passado o resultado da história para os Storytellings seguintes: **"Primeira votação"** e **"Em busca da aprovação do emprego"**. 
+
+<center>
+
+**Vídeo 1** - Gravação 1.
+
+<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: BARBOSA, Maria. 2023.
+
+</center>
+
+### Gravação 2
+
+Nessa gravação 2, foi passado o resultado da história para o Storytelling **"Período das votações"**. 
+
+<center>
+
+**Vídeo 2** - Gravação 2.
+
+<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: BARBOSA, Maria. 2023.
+
+</center>
 
 ## Storytelling
 
-### Em busca da aprovação
-Felipe Augusto, tem 22 anos e está se graduando em administração além de fazer um estágio em uma corretora de imóveis. Ele gosta muito da área de gestão de empresas, pois desde pequeno via o seu pai trabalhando nesse ramo o deixando com boas lembranças. A sua mãe morreu quando ele ainda tinha 4 anos e seu pai não gostava de deixar outras pessoas cuidando dele enquanto ia trabalhar, portanto sempre que podia levava seu filho para o trabalho. O Felipe sempre via que seu pai era muito esforçado e determinado, e por isso se inspirou nele para seguir na carreira bancária. 
+### Primeira votação
 
-Por ser muito focado e estudioso, o Felipe busca ser aprovado no concurso da área bancária cujo a prova será um dia antes do dia das votações. A ansiedade tomou conta dele já que estava muito ocupado com os estudos não só do concurso mas também da faculdade e tinha também o estágio que começava às 14h e terminava 18h. Fazia 3 anos que ele se preparava para a tão sonhada aprovação, era muito difícil dele conseguir tempo para verificar quais são os candidatos para a eleição, no fundo ele não se importava muito com as eleições, mas sabia que precisava votar.
+Sou o Raphael Mendes. Na última eleição, eu baixei o aplicativo do e-título, era a primeira vez que eu ia votar na vida e eu não sabia muito bem o que fazer. Quais documentos tenho que levar? Onde eu tinha que ir? Aí eu usei o e-título, mais especificamente a funcionalidade de "onde votar" que fica no menu inferior do aplicativo, para descobrir onde eu deveria ir. Também usei o "imprimir o título eleitoral", que está no mesmo menu em "mais opções", fiz isso para caso não aceitassem o QR Code que valida o título eleitoral. Assim, usei esses três recursos: o de identificar o local da votação, o QR Code do título de eleitor e ele na forma impressa. O aplicativo me auxiliou para a minha primeira votação, e deu tudo certo ao utilizá-lo, apesar das minhas inseguranças do início.
 
-O dia da prova foi muito exaustivo, Felipe mal tinha conseguido dormir direito no dia anterior a prova, assim que terminou de realizá-la, só pensava em dormir por causa do cansaço. No dia seguinte João foi acordado pelo pai que o questionava se tinha ido votar, o Felipe percebeu que acordou tarde de mais e se desesperou por não saber onde ia votar e nem lembrava onde estava o título eleitoral, foi aí que teve a ideia de pesquisar se existia alguma coisa que pudesse ajudá-lo, assim ele descobriu o aplicativo do e-título, após instalar fez o processo de cadastramento e já estava com o documento digital, e a informação do local de voto, facilitando muito na vida dele. Um mês após esse dia, ele recebeu a notícia que tinha passado no concurso, e se lembrou do quão importante foi o aplicativo.  
+### Em busca da aprovação do emprego
 
-### Amizades 
-Pai de dois filhos e uma carreira de servidor no TSE (Tribunal Superior Eleitoral), Diego Carvalho sempre pensa no futuro de seus filhos, é muito inteligente possuindo conhecimentos avançados sobre constituição, poder executivo e legislativo.  Ele está o tempo inteiro utilizando dados relacionados a votação, constantemente fica verificando os documentos emitidos pela Justiça Eleitoral. 
+Sou o Raphael Mendes. Essa é outra história real que tive com o aplicativo e-título. Precisei de um documento para ser aceito na vaga de emprego, a certidão de quitação eleitoral. Acessei o aplicativo indo no menu inferior e selecionei "mais opções", onde emiti o certificado de quitação eleitoral. Em poucos minutos, já estava com o certificado pronto para ser enviado no período em que eu estava para ser aceito na vaga. Foi muito importante, pois sem isso eu não teria conseguido o que tenho hoje. O aplicativo facilitou muito. Se eu não tivesse emitido a certidão por ele, teria que ir ao local físico, o que apenas atrasaria o processo, podendo me prejudicar.
 
-Apesar de ser muito ocupado, ele mantém suas relações em dia, não só com a sua família, mas também com seus amigos de longa data, ele os conheceu na época da faculdade, porém tinha um amigo chamado Roberto que ele não tinha visto a uns anos, esse amigo lhe ajudou a estudar e a passar no emprego que ele tem hoje. 
+### Período das votações
 
-No dia da votação já estava preparado com o aplicativo do e-título que lhe guiava com a localização para votar, durante o percurso ele recebeu uma ligação de um amigo muito querido chamado carlos que estava desesperado por ter sumido o documento do título eleitoral, como Diego já conhecia o aplicativo, o instruiu a instalar o app no celular.
-
-No dia seguinte o Diego acordou com sua esposa o chamando para ir tomar o café da manhã, assim que ele saiu do quarto, viu que estava o carlos com um sorriso grande no rosto dizendo o quão grato estava pela ajuda do dia anterior e que tinha preparado uma surpresa e logo em seguida surgiu o Roberto, diego se emocionou e agradeceu o carlos por ter possibilitado o reencontro do amigo que não via a uns anos.
-
-### Adaptação
-A Maria Andrade é uma viúva que se preocupa com o futuro dos filhos, ela é pós-graduada em letras e professora na rede pública. É muito estudiosa, sempre em busca do conhecimento e de se adapitar a novas tecnologias, e seus filhos lhe admiram. Ela já contribuiu bastante para o estado com seu conhecimento. Sonha em se aposentar e viajar para vários países.
-
-Ela nasceu em uma hera que não era tão tecnológica, tendo preferência a papéis físicos do que de forma digital, seus filhos incentivaram a se manter atualizada a respeito da tecnologia, e com isso ela descobriu o aplicativo do e-título, percebeu que continha funcionalidades interessantes, como visualizar documento de forma digital, a quitação eleitoral, a localização para votação, a notificação de datas e horários das eleições, com isso ela disse para seus filhos sobre o aplicativo. 
-
-Por estar sempre em busca do conhecimento, decidiu se adaptar ao aplicativo, com isso, no dia da votação ela foi para o local da votação conforme o aplicativo indicava, porém não queria apresentar o documento do e-título pelo app, e decidiu imprimir o documento pelo aplicativo, assim ela descobriu que só porque se adaptou não significa que vai utilizar tudo de forma virtual e que é possível pelo app essa escolha de se decidir se quer manter-se no papel físico ou não. 
-
+Sou a Maria Valdina e nunca passei por uma história fora do comum ao usar o aplicativo, eu conheci o e-título quando minha filha me apresentou ele, é bastante útil nos dias das votações, quando eu abro o aplicativo logo no início consigo ver o documento do título eleitoral de forma digital, no menu inferior tem umas opções interessantes, mas as que eu mais achei interessantes foi a de saber o local da votação e a notificação, então nos períodos das votações eu abro o aplicativo, seleciono essa opção de onde votar para saber o local e sala e se caso eu esquecesse o documento do título eleitoral eu usaria o aplicativo com o documento na forma digital, nunca esqueci o documento na forma física, mas  sempre levo o celular com o aplicativo para evitar problemas. Nesses períodos de votações eu também observo as notificações que me avisa a data e horário da votação.
 
 
 ## Elicitação de Requisitos
@@ -62,11 +100,10 @@ Tabela 1 - Requisitos Funcionais
 |  ID  |  Descrição  | Código | Implementado |  
 | ------ | ------- | ---------| --------- |
 |  ST1 | eu como usuário, quero poder visualizar a localização do local de votação |  RF1 | Sim |
-|  ST2 | eu como usuário, gostaria de imprimir o documento do e-título presente no aplicativo |  RF2 | Sim |
-|  ST3 | eu como usuário, quero poder visualizar a documentação do e-título pelo aplicativo |  RF3 | Sim |
-|  ST4 | eu como usuário, quero poder visualizar as notificação de datas e horários das eleições |  RF4 | sim |
+|  ST2 | eu como usuário, gostaria de imprimir o documento do título eleitoral presente no aplicativo |  RF2 | Sim |
+|  ST3 | eu como usuário, quero poder visualizar a documentação do título eleitoral pelo aplicativo |  RF3 | Sim |
+|  ST4 | eu como usuário, quero poder visualizar as notificação de datas e horários das votações |  RF4 | sim |
 |  ST5 | eu como usuário, gostaria de realizar a quitação eleitoral |  RF5 | Sim |
-|  ST6 | eu como usuário, gostaria de acompanhar a quitação eleitoral vizsualizando a situação da quitação |  RF6 | sim |
 
 Fonte: Autoria própria, 2023.
 
@@ -84,6 +121,8 @@ Fonte: Autoria própria, 2023.
 
 ## Bibliografia
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023.
+
 > Lichess. Disponivel em: <https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>.  Acesso em: 26 setembro de 2023. </br>
 
 > VLC Media Player. Disponivel em: <https://requisitos-de-software.github.io/2023.1-VLC/#/elicitacao/storytelling>. Acesso em: 02 de outubro de 2023.
@@ -91,7 +130,8 @@ Fonte: Autoria própria, 2023.
 ## Histórico de versão
 | Versão |    Data    |                            Descrição                            |      Autor       |              Revisor              |
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
-| 1.0 | 26/09/2023 | Motagenm de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
+| 1.0 | 26/09/2023 | Montagem de estrutura e adicionando introdução | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
+| 1.4 | 30/11/2023 | Correção em metodologia, adicionando videos e alterando os Storytellings |  [João Costa ](https://github.com/jvcostta)  |
