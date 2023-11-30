@@ -164,4 +164,4 @@ Tabela 2 - Requisitos Não Funcionais
 | 1.3 | 04/10/2023 | Adicionando motivação e objetivo| [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
 | 1.4 | 04/09/2023 | Adicionando conteúdos no tópico e subtópicos de Resultados | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.5 | 19/11/2023 | mudando o ID dos requisitos | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
-| 1.6 | 03/09/2023 |  Correção em fontes das tabelas e na metodologia. |[Esther Sena](https://github.com/esmsena)|[João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| 1.6 | 29/11/2023 |  Correção em fontes das tabelas e na metodologia. |[Esther Sena](https://github.com/esmsena)|[João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
