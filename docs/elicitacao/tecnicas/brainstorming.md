@@ -24,7 +24,9 @@ Imagem 1 - Apresentação do miro
 
 ![imagem_miro](../../../docs/assets/imgMiro.png)
 
-Fonte: Autoria Própria.
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 
 ## Palavras-chave usadas na sessão de Brainstorming
@@ -47,7 +49,9 @@ Fonte: Autoria Própria.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Autoria própria, 2023. </p></font>
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ## Participantes
 
@@ -67,7 +71,9 @@ Fonte: Autoria Própria.
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Autoria própria, 2023.</p></font>
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ## Perguntas / Respostas
 
@@ -102,7 +108,9 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 3: Respostas pergunta 1 (Fonte: Autor, 2023).</p>
+      <p> Tabela 3: Respostas pergunta 1 <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>.</p>
    </div>
 </details>
 
@@ -138,7 +146,9 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 4: Respostas pergunta 2 (Fonte: Autor, 2023).</p>
+      <p> Tabela 4: Respostas pergunta 2 <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>.</p>
    </div>
 </details>
 
@@ -173,7 +183,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 5: Respostas pergunta 3 (Fonte: Autor, 2023).</p>
+      <p> Tabela 5: Respostas pergunta 3 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div> </p>
    </div>
 </details>
 
@@ -208,7 +221,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 6: Respostas pergunta 4 (Fonte: Autor, 2023).</p>
+      <p> Tabela 6: Respostas pergunta 4 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -243,7 +259,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 7: Respostas pergunta 5 (Fonte: Autor, 2023).</p>
+      <p> Tabela 7: Respostas pergunta 5 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -278,7 +297,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 8: Respostas pergunta 6 (Fonte: Autor, 2023).</p>
+      <p> Tabela 8: Respostas pergunta 6 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -313,7 +335,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 9: Respostas pergunta 7 (Fonte: Autor, 2023).</p>
+      <p> Tabela 9: Respostas pergunta 7 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -348,7 +373,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 10: Respostas pergunta 8 (Fonte: Autor, 2023).</p>
+      <p> Tabela 10: Respostas pergunta 8 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -383,7 +411,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 11: Respostas pergunta 9 (Fonte: Autor, 2023).</p>
+      <p> Tabela 11: Respostas pergunta 9 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -418,7 +449,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 12: Respostas pergunta 10 (Fonte: Autor, 2023).</p>
+      <p> Tabela 12: Respostas pergunta 10 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -453,7 +487,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 13: Respostas pergunta 11 (Fonte: Autor, 2023).</p>
+      <p> Tabela 13: Respostas pergunta 11 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -488,7 +525,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 14: Respostas pergunta 12 (Fonte: Autor, 2023).</p>
+      <p> Tabela 14: Respostas pergunta 12 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -523,7 +563,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 15: Respostas pergunta 13 (Fonte: Autor, 2023).</p>
+      <p> Tabela 15: Respostas pergunta 13 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -558,7 +601,10 @@ Fonte: Autoria Própria.
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Tabela 16: Respostas pergunta 14 (Fonte: Autor, 2023).</p>
+      <p> Tabela 16: Respostas pergunta 14 (Fonte: Autor, 2023).
+      <div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div></p>
    </div>
 </details>
 
@@ -568,10 +614,10 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 **Legenda das Tabelas 17 e 18:**
 
-- RFx: Requisito Funcional nºx
-- RNFx: Requisito Não-Funcional nºx
 - BSx: Requisito funcionais nºx elicitado pelo Brainstorming
 - BSNx: Requisito não funcionais nºx elicitado pelo Brainstorming
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito não funcional nºx
 - Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
 <font size="3"><p style="text-align: center">**Tabela 17 - requisitos funcionais** </p></font>
@@ -580,43 +626,46 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
-| BS1                                            |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
-| BS2                                            |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
-| BS3                                            | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |     Sim     |
-| BS4                                            | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |   Sim       |
-| BS5                                            | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |     Sim     | 
-| BS6                                            | No aplicativo deve possível o usuário receber notificações        | RF6    |    Sim      |
-| BS7                                            | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |    Sim      |
-| BS8                                            | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |    Sim      | 
-| BS9                                            | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |      Sim    | 
-| BS10                                            | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |    Sim      |
-| BS11                                           | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |   Sim       | 
-| BS12                                            | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |    Sim      | 
-| BS13                                           | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
+| BS1   |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
+| BS2  |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
+| BS3   | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |     Sim     |
+| BS4   | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título  | RF4    |   Sim       |
+| BS5   | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação         | RF5    |     Sim     | 
+| BS6   | No aplicativo deve possível o usuário receber notificações        | RF6    |    Sim      |
+| BS7   | No aplicativo deve ser possível o usuário vizualizar os termos de uso      | RF7    |    Sim      |
+| BS8   | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso    | RF8    |    Sim      | 
+| BS9  | No aplicativo deve ser possível o usuário trocar a senha      | RF9    |      Sim    | 
+| BS10   | No aplicativo deve ser possível o usuário realizar a recuperação da senha   | RF10    |    Sim      |
+| BS11   | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |   Sim       | 
+| BS12   | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |    Sim      | 
+| BS13   | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
+| BSF14 |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |     Sim     |
 
 
 
 </center>
 
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 <font size="3"><p style="text-align: center">**Tabela 18 - requisitos não funcionais** </p></font>
 
 <center>
 
 | <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                         | Código | Implementado |
-| ----------------------------------------------- | --------------------------------------------------------------------------------- | ------ | :------: |
-| BSNF1                                          | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |     Sim     |
-| BSNF2                                          |  O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários | RNF2   |   Não       |
-| BSNF3                                          |  O aplicativo deve ser confiável para o usuário | RNF3   |    Sim      |
-| BSNF4                                          |  Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |      Sim    |
-| BSNF5                                          |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |     Sim     |
+| ---------------------------- | --------------------------------------- | ------ | :------: |
+| BSNF1  | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | RNF1   |     Sim     |
+| BSNF2  | O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários | RNF2   |   Não       |
+| BSNF3 |  O aplicativo deve ser confiável para o usuário | RNF3   |    Sim      |
+| BSNF4   | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |      Sim    |
 
 
 </center>
 
-<font size="3"><p style="text-align: center">**Fonte:** Autor, 2023.</p></font>
-
+<div style="text-align: center">
+<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
+</div>
 
 ## Referências Bibliográficas
 
@@ -641,3 +690,4 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.7 | 01/09/2023 | Modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.8 | 03/09/2023 | Correção nos requisitos não funcionais e adicionando se os reuisitos foram ou não implementados | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.8 | 03/09/2023 |  Correção em fontes das tabelas e nos requisitos funcionais e não funcionais |[Esther Sena](https://github.com/esmsena)| Mateus Orlando e João Victor Costa |
