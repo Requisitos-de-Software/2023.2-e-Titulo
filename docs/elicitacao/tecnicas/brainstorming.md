@@ -639,7 +639,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | BS11   | O aplicativo deve disponibilizar ao usuário realizar a atualização de suas informações pessoais por meio do site do TSE | RF11    |   Sim       | 
 | BS12   | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo            | RF12    |    Sim      | 
 | BS13   | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
-| BSF14 |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RNF5   |     Sim     |
+| BSF14 |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RF14  |     Sim     |
 
 
 
