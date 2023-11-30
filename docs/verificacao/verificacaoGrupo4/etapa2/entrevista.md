@@ -20,7 +20,7 @@ Neste artefato, é apresentado o checklist referente à etapa de Inspeção do F
 | ---| -------- | --------- | ------------ |
 | **Letra inicial do artefato + Nº do ID** (caso houver mais de um artefato com mesma letra inicial, coloque a segunda também) | **Descrever o item** | **Sim/Não/Incompleto** | Colocar alguma observação a respeito da avaliação (Opcional), no caso de não possuir observação insere o seguinte símbolo: **--** |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
