@@ -50,14 +50,14 @@ Aborda a facilidade de uso do sistema, incluindo interface do usuário e experi�
 
 **Tabela 1 - requisitos de usabilidade**
 
-| ID         | Descrição        | Implementado |
-|------------|------------------|--------------|
-|  `USAB01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    |    |
-|  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.  |    |
-|  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.     |    |
-|  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.   |    |
-|  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. |  |   
-|  `USAB06`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |    |
+| ID         | Descrição        | 
+|------------|------------------|
+|  `USAB01`  | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    |    
+|  `USAB02`  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.  |    
+|  `USAB03`  | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.     |    
+|  `USAB04`  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.   |    
+|  `USAB05`  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. | 
+|  `USAB06`  | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |    
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
@@ -74,11 +74,11 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 
 **Tabela 2 - requisitos de confiabilidade**
 
-| ID         | Descrição        | Implementado |
-|------------|------------------|--------------|
-|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |    |
-|  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |    |
-|  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|    |
+| ID         | Descrição        | 
+|------------|------------------|
+|  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |    
+|  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas.|
+|  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|  
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
@@ -95,10 +95,10 @@ Define os requisitos de desempenho esperados do sistema, como velocidade, efici�
 
 **Tabela 3 - requisitos de desempenho** 
 
-| ID         | Descrição        | Implementado |
-|------------|------------------|--------------|
-|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |    |
-|  `DES02`  | O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.  |    |
+| ID         | Descrição        | 
+|------------|------------------|
+|  `DES01`  | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |  
+|  `DES02`  | O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.  |  
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
@@ -115,13 +115,13 @@ Avalia a facilidade com que o sistema pode ser mantido e suportado ao longo do t
 
 **Tabela 4 - requisitos de suportabilidade**
 
-| ID         | Descrição        | Implementado |
-|------------|------------------|--------------|
-|  `SUP01`  | O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.|    |
-|  `SUP02`  | O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.|    |
-|  `SUP03`  | O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.|    |
-|  `SUP03`  | O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.|    |
-|  `SUP03`  | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.|    |
+| ID         | Descrição        | 
+|------------|------------------|
+|  `SUP01`  | O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.|    
+|  `SUP02`  | O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.|  
+|  `SUP03`  | O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.|    
+|  `SUP03`  | O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.|  
+|  `SUP03`  | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.|    
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
@@ -146,11 +146,11 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 
 **Tabela 5 - requisitos físicos**
 
-| ID         | Descrição        | Implementado |
-|------------|------------------|--------------|
-|  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |    |
-|  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |    |
-|  `FIS01`  | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |    |
+| ID         | Descrição        | 
+|------------|------------------|
+|  `FIS01`  | O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários. |  
+|  `FIS01`  | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. |  
+|  `FIS01`  | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. |  
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
