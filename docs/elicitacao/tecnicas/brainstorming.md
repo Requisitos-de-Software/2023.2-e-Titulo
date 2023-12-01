@@ -624,8 +624,8 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 <center>
 
-| TESTE: <a id="anchor_BS" style="visibility: hidden;"></a> ID  | Descrição                                                                          | Código | Implementado |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | :------: |
+| <a id="anchor_BS" style="visibility: hidden;"></a> ID  | Descrição                                                                          | Código | Implementado |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ------- |
 | BS1   |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
 | BS2  |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
 | BS3   | Deve ser possível realizar a emissão do Título do usuário no aplicativo | RF3    |     Sim     |
@@ -641,13 +641,10 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | BS13   | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
 | BSF14 |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RF14  |     Sim     |
 
-
-
 </center>
 
-<div style="text-align: center">
-<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p></font>
+
 
 <font size="3"><p style="text-align: center">**Tabela 18 - requisitos não funcionais** </p></font>
 
@@ -665,7 +662,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 <div style="text-align: center">
 <p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
-</div>
+
 
 ## Referências Bibliográficas
 
