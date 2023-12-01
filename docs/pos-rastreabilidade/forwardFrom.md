@@ -69,7 +69,7 @@ Tabela 2
 | Épico                 | E          |
 | História de usuário   | US         |
 | Tema                  | Assunto    |
-| Elicitação            | INT/B/C/ES/L/P/Q |
+| Elicitação            | Item da tabela 1 |
 | Léxico                | L           |
 | Casos de Uso          | UC          |
 | Funcionalidade        | Representação em imagem/video + Implementado/ Não implementado      |
@@ -109,12 +109,12 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS1</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>,<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS1</a>,
+            <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT1</a>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td>-</a></td>
+        <td><a href= "https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L03</a></td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -162,13 +162,14 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS2</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS2</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/">QST04</a>
         </td>
       </tr>
       <tr>
         <td>Léxico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L04</a></td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Caso de Uso</td>
@@ -217,8 +218,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS3</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS3</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/">ST02</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -273,7 +275,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
         <td>Elicitação</td>
         <td><a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT10</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS4</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS04</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -325,8 +327,12 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT13</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT4</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/">QST1</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/">ST1</a>
+        </td>
+        </td>
         </td>
       </tr>
       <tr>
@@ -380,7 +386,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT4</a>/<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT4</a>,<a
             href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a>
         </td>
       </tr>
@@ -438,8 +444,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS7/BS8</a>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT</a>,<a
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS7</a>
         </td>
       </tr>
       <tr>
@@ -494,7 +500,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS9/BS10</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS10</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -599,8 +605,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a></td>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -676,7 +681,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 </details>
 
-<details>
+<!--<details>
   <summary> RF12 - Usuários apenas acima de 16 anos</summary>
 <p>Tabela 14: Requisito funcional 12.</p>
   <table>
@@ -779,6 +784,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
 
 </details>
+-->
 
 <details>
   <summary> RF14 - Realizar a quitação eleitoral</summary>
@@ -806,7 +812,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a>,
+            <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT05</a>,
+            <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">ST5</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -910,7 +918,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF5</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS</a>,
+            <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -962,7 +971,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT19/INT20</a><td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT19</a><td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1062,7 +1071,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT9</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1113,8 +1122,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT5</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS5</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT07</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1181,7 +1189,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
-        <td><iframe src="https://drive.google.com/file/d/1OfE82CU3MmLPXASfDClF1D47qvS6KW9M/view?usp=sharing" width="640" height="480"></iframe></td>
+        <td><a href="https://youtube.com/shorts/OoPy48TFiac?si=JFCpIPgKnAZx0Kv7">Clique aqui</a></td>
       </tr>
     </tbody>
   </table>
@@ -1217,10 +1225,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a>/<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT9</a>
-            /<a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF2</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT9</a>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1247,6 +1252,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 </details>
 
+<!--
 <details>
   <summary> RF23 - Proteção de dados</summary>
 <p>Tabela 25: Requisito funcional 23.</p>
@@ -1292,7 +1298,6 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
     </tbody>
   </table>
-
   <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
 
 </details>
@@ -1347,7 +1352,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 </details>
 
-</details>
+-->
 
 <details>
   <summary> RF25 - Local de partida</summary>
@@ -1362,12 +1367,11 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     <tbody>
       <tr>
         <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E02</a></td>
+        <td>-</td>
       </tr>
       <tr>
         <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US02</a>
-        </td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Tema</td>
@@ -1376,7 +1380,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       <tr>
         <td>Elicitação</td>
         <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a></td>
+            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT14</a></td>
       </tr>
       <tr>
         <td>Léxico</td>
@@ -1388,7 +1392,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C03</a></td>
+        <td>-</td>
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
@@ -1467,6 +1471,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 29:
 
 <p>Tabela 29: Modelo para os requisitos não funcionais.</p>
+
 | Tópico                | Referência |
 | :--                   | :--        |
 | Especificação Suplementar   | USAB, CONF, DES, SUP ou FIS |
@@ -2030,3 +2035,4 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 | `1.2`  | 20/11/2023 | Adicionando Bibliografia | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.3`  | 20/11/2023 | Concertando rotas das imagens e dos protótipos | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.4`  | 30/11/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.5`  | 1/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
