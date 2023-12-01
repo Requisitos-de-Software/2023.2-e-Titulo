@@ -2,7 +2,7 @@
 
 ## Introdução:
 
-A compilação de imagens de referências citadas desempenha um papel crucial na verificação de artefatos, proporcionando uma abordagem visual para enriquecer a compreensão das informações apresentadas. Este arquivo tem como propósito centralizar todas as imagens associadas a referências numeradas em um artefato específico, facilitando o acesso e a análise visual das fontes mencionadas no artefato [PlanejamentoVerificacaoEtapa3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo4/etapa3/PlanejamentoVerificacaoEtapa3.md), realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) .
+A compilação de imagens de referências citadas desempenha um papel crucial na verificação de artefatos, proporcionando uma abordagem visual para enriquecer a compreensão das informações apresentadas. Este arquivo tem como propósito centralizar todas as imagens associadas a referências numeradas em um artefato específico, facilitando o acesso e a análise visual das fontes mencionadas no artefato [PlanejamentoVerificacaoEtapa4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo4/etapa4/PlanejamentoVerificacaoEtapa4.md), realizados pelo [Grupo 4 - e-título](https://github.com/Requisitos-de-Software/2023.2-e-Titulo) .
 
 ## Objetivo:
 
@@ -14,13 +14,10 @@ A metodologia adotada para a criação deste arquivo envolve a associação dire
 
 ### Participantes
 
-Os participantes desta verificação da etapa 3 são:
+Os participantes desta verificação da etapa 4 são:
 
-- [João Victor](https://github.com/jvcostta)
-- [Esther Sena](https://github.com/esmsena)
-- [Mateus Orlando](https://github.com/MateusPy)
-- [Maria Eduarda Marques](https://github.com/EduardaSMarques)
-
+- [Maria Eduarda Barbosa](https://github.com/Madu01)
+- [Mariiana Siqueira](https://github.com/Maryyscreuza)
 
 ## Imagens das Referências
 
@@ -52,11 +49,11 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 </center>
 
 
-### Perguntas e Imagens das Referências de Cenários
+### Perguntas e Imagens das Referências do Histórias de Usuário
 
 <center>
 
-**Tabela 2** - Perguntas e Imagens para as perguntas de Cenários.
+**Tabela 2** - Perguntas e Imagens para as perguntas do Histórias de Usuário.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -74,10 +71,10 @@ Fonte: SOBRENOME, nome. 2023.
 
 </center>
 
-### Perguntas e Imagens das Referências do Casos de Uso
+### Perguntas e Imagens das Referências do Backlog
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas do Casos de Uso.
+**Tabela x** - Perguntas e Imagens para as perguntas do Backlog.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -95,11 +92,11 @@ Fonte: SOBRENOME, nome. 2023.
 
 </center>
 
-### Perguntas e Imagens das Referências da Especificação Suplementar
+### Perguntas e Imagens das Referências do NFR Framework
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas da Especificação Suplementar.
+**Tabela x** - Perguntas e Imagens para as perguntas do NFR Framework.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -117,27 +114,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 </center>
 
-### Perguntas e Imagens das Referências de Léxicos
 
-<center>
-
-**Tabela x** - Perguntas e Imagens para as perguntas de Léxicos.
-
-| ID | Pergunta | 
-| ---| -------- |
-| [X]  | (PERGUNTA(S) |
-
-Fonte: SOBRENOME, nome. 2023.
-
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
-
-<td><img src=./imgs/---></td> 
-
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
-
-</center>
 
 
 
@@ -145,4 +122,4 @@ Fonte: SOBRENOME, nome. 2023.
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 3| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+| `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 4| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
