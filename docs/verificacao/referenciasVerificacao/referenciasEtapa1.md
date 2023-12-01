@@ -43,7 +43,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Imagem 1 - Imagem da pergunta exemplo.
 
-<td><img src=../imgs/referencias.avif></td> 
+<td><img src=./imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -67,7 +67,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---f></td> 
+<td><img src=./imgs/---f></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
@@ -89,7 +89,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---></td> 
+<td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
@@ -110,7 +110,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---></td> 
+<td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
@@ -132,7 +132,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---></td> 
+<td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
@@ -152,7 +152,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---></td> 
+<td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
@@ -174,7 +174,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-<td><img src=../imgs/---></td> 
+<td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
