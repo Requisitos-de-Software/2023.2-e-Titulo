@@ -34,8 +34,8 @@ Para o passo 2 e passo 3 gravamos uma reunião na qual a [Mariiana Siqueira](htt
 Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de [elicitação](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-Backlogs/docs/elicitacao/tecnicas), juntamente com a origem de cada requisito.
 
 ### Legenda:
-* BS: Requisitos de [Brainstorming]((https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) )
-* BSNF: Requisitos não-funcionais de [Brainstorming]((https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) )
+* BS: Requisitos de [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) 
+* BSNF: Requisitos não-funcionais de [Brainstorming](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
 * ENT: Requisitos de [Entrevista](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md)
 * ENTNF: Requisitos não-funcionais de [Entrevista](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md)
 * INT: Requisitos de [Introspecção](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
