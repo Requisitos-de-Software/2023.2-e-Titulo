@@ -168,8 +168,8 @@ Fonte: Maria Eduarda Marques, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |  |  |
-| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? <a id=anchor_015 href="#anchor_03">03</a>  |  |  |
-| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ? <a id=anchor_015 href="#anchor_03">03</a> |  |  |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? <a id="anchor_03" href="#anchor_03">[03]</a>  |  |  |
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento ? <a id="anchor_03" href="#anchor_03">[03]</a>|  |  |
 | M4 | O artefato apresenta a política e estrutura de commits? |  |  |
 | M5 | O artefato apresenta a política e estrutura de branchs? |  |  |
 | M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? |  |  |
@@ -224,7 +224,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
-> <a id="anchor_03" href="#REF03">03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/ . Acesso em: 24 de novembro de 2023.
+> <a id="anchor_03" href="#REF03">[03]</a>03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/ . Acesso em: 24 de novembro de 2023.
 
 ## Referência Bibliográfica
 

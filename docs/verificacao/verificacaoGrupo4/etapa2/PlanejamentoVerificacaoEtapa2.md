@@ -187,7 +187,26 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 ### Checklist de Entrevista
 
+**Tabela 7** - Checklist para os Itens da Entrevista.
 
+<center>
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| E1 | O artefato possui um conograma das entrevistas ? |  |  |
+| E2 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? |  |  |
+| E3 | O artefato possui os links disponíveis para as entrevistas ? |  |  |
+| E4 | A metodologia do artefato possui a tabela dos acrônimos da técnica 5W2H ? |  |  |
+| E5 | O artefato possui dados demográficos ?  |  |  |
+| E6 | Todas as perguntas e respostas geradas durante a entrevista foram documentadas de forma clara e concisa?|  |  |
+| E7 | O artefato apresenta o roteiro da entrevista? |  |  |
+| E8 | Dentre o roteiro elaborado encontra os Materiais Utilizados, Termo de Concentimento, Etapas e Conclusões ? |  |  |
+| E9 | Os requisitos identificados foram expostos? |  |  |
+| E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+</center>
 
 ### Checklist da Verificação de Personas
 
@@ -195,7 +214,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 <center>
 
 
-**Tabela 7** - Checklist para os Itens da Entrevista.
+**Tabela 8** - Checklist para os Itens das Personas.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -415,3 +434,5 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 | `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.3`  | 25/11/2023 | Criando tabela de $100, adicionando o checklist e acrescentado referência bibliográficas e bibliografia das tabelas $100, Three Level Scale e firt things firt.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 25/11/2023 | Adicionando itens na tabela de brainstorming e questionário e acrescentando referências bibliográficas e bibliografia das tabelas. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques](https://github.com/EduardaSMarques) |
+| `1.5`  | 25/11/2023 | Adição do Checklist de Storutelling e Entrevista. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
+| `1.6`  | 28/11/2023 | Adição das referências do Checklist de  Personas. | [Mateus Orlando](https://github.com/MateusPy) | -- |
