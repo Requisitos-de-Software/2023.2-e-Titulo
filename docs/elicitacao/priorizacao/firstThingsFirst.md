@@ -75,12 +75,12 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria E
 
 ## Resultados
 
-A Tabela 1 contém a priorização dos requisitos elicitados utilizando a técnica First Things First. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.
+A Tabela 2 e a figura 1, contém a priorização dos requisitos elicitados utilizando a técnica First Things First. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.
 
 ### Link para planilha: 
 [https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0](https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0)
 
-Tabela 1: Priorização de requisitos utilizando a técnica First Things First.
+Tabela 2: Priorização de requisitos utilizando a técnica First Things First.
 | Peso relativo | | 2 | 1 | |  | 1 |  | 1 |  | |
 | :-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | **ID** | **Benefício Relativo** | **Penalidade Relativa** | **Valor Total** | **Valor %** | **Custo Relativo** | **Custo %** | **Risco Relativo**  | **Risco %** |**Prioridade** |
