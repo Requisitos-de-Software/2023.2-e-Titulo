@@ -43,11 +43,13 @@ No Vídeo 1, contém duas histórias e consequentemente resultou em dois Storyte
 
 Nessa gravação 1, foi passado o resultado da história para os Storytellings seguintes: **"Primeira votação"** e **"Em busca da aprovação do emprego"**. 
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/4uvRdLP4QOA).
+
 <center>
 
 **Vídeo 1** - Gravação 1.
 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/4uvRdLP4QOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -57,11 +59,13 @@ Fonte: BARBOSA, Maria. 2023.
 
 Nessa gravação 2, foi passado o resultado da história para o Storytelling **"Período das votações"**. 
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/H079aM5646o).
+
 <center>
 
 **Vídeo 2** - Gravação 2.
 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/H079aM5646o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
