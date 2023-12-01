@@ -34,7 +34,7 @@ Tabela 1 - Explicação da regra por tipo com a regra geral.
 | OBJETO | Definir o objeto e identificar outros objetos com os quais se relaciona | Ações que podem ser aplicadas ao objeto |
 | ESTADO | O que significa e quais ações levaram a esse estado | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve |
 
-Fonte: SERRANO Milene e SERRANO Maurício.
+Fonte: SERRANO Milene; SERRANO Maurício.
 
 Tabela 2 - Modelo de tabela para os léxicos
 
@@ -45,7 +45,7 @@ Tabela 2 - Modelo de tabela para os léxicos
 | Impacto(s) | São os impactos do léxico conforme o tipo ( VERBO/OBJETO/ESTADO ) presente na tabela 1 |
 | Sinônimo(s) | são os sinônimos do símbolo |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 ## Léxicos definidos
 
@@ -66,7 +66,7 @@ Tabela 3 - exemplo
 | Impacto(s) |Se encaixa no critério de ter mais de 16 anos ([BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)). <br> O usuário possui acesso  as [funcionalidades](#funcionalidades) do aplicativo. |
 | Sinônimo(s) | Cliente e consumidor. |
 
-Fonte: Maria eduarda Marques, 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ### L02: Dispositivo
 
@@ -81,7 +81,7 @@ Tabela 4 - exemplo
 | Impacto(s) | O [usuário](#usuário) instala o aplicativo. <br> O usuário consegue ter acesso as [funcionalidades](#funcionalidades) do aplicativo. |
 | Sinônimo(s) | Aparelho e equipamento. |
 
-Fonte: Maria eduarda Marques, 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ### L03: Cadastrar 
 
@@ -96,7 +96,7 @@ Tabela 5 - exemplo
 | Impacto(s) | O usuário tem acesso as funcionalidades do aplicativo. <br> O usuário armazena suas informações no aplicativo. <br> O usuário tem um acesso mais rápido as funcionalidades do sistema com a biometria. |
 | Sinônimo(s) | Registrar e inscrever.|
 
-Fonte: Maria eduarda Marques, 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ### L04: Visualizar documento
 
@@ -111,7 +111,7 @@ Tabela  6 - exemplo
 | Impacto(s) | O usuário consegue ver os dados de seu interesse no documento. |
 | Sinônimo(s) | Ver, observar, contemplar, constatar e verificar. |
 
-Fonte: Maria eduarda Marques, 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ### L05: Visualizar local
 
@@ -126,7 +126,7 @@ Tabela 7 - exemplo
 | Impacto(s) | O usuário visualiza local da votação. <br> O usuário encontra a melhor rota para chegar ao local. |
 | Sinônimo(s) | Ver, observar, contemplar, constatar e verificar. |
 
-Fonte: Maria eduarda Marques, 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ### L06: Notificação
 
@@ -141,7 +141,7 @@ Tabela 8 - exemplo
 | Impacto(s) | As funcionalidades [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) são utilizadas |
 | Sinônimo(s) | Comunicar, informar e transmitir |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 ### L07: Ajuda
 
@@ -156,7 +156,7 @@ Tabela 9 - exemplo
 | Impacto(s) | O [usuário](#l01:-usuario) visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) <br> O [usuário](#l01:-usuario) visualiza termo de uso presente no aplicativo quando acessar a funcionalidade [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) |
 | Sinônimo(s) |  Amparo e auxílio |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 ### L08: Emitir certificado
 
@@ -171,7 +171,7 @@ Tabela 10 - exemplo
 | Impacto(s) | O [usuário](#l01:-usuario) visualiza o documento emitido pela função []() |
 | Sinônimo(s) | Enviar, lançar, quitamento e remitir |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 ### L09: Aplicativo está aberto
 
@@ -190,7 +190,7 @@ Tabela 11 - exemplo
 | Impacto(s) | Quando o [usuário](#l01:-usuario) entra no aplicativo por meio do [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) todas as [funcionalidades](#funcionalidades) presentes podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o [usuário](#l01:-usuario) sai do aplicativo realizando a funcionalidade [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados): ESTADO - Apricativo está desligado  e funcionalidades não disponíveis |
 | Sinônimo(s) | Acesso e desconexão |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 ### L10: Desbloqueio com biometria está ativado
 
@@ -205,29 +205,30 @@ Tabela 12 - exemplo
 | Impacto(s) | Quando o [usuário](#l01:-usuario) desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
 | Sinônimo(s) | Liberado e despertar |
 
-Fonte: Maria eduarda Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 
 ## Bibliografia
 
-> 2022.2-MEI. GitHub. Disponível em: https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/. Acesso em: 18 de outubro de 2023.
-
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > SERRANO M.; SERRANO M. Requisitos - Aula 10. Aprender 3. Disponível em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 18 de outubro de 2023.
+
+> 2022.2-MEI. GitHub. Disponível em: https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/Lexicos/. Acesso em: 18 de outubro de 2023.
+
 
 
 ## Histórico de Versões
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 17/10/2023  |  Criação da estrutura do artefato e tabela exemplo | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `0.2`  | 18/10/2023  |  Criação do conteúdo do tópico introdução | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `0.3`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `0.4`  | 18/10/2023  |  Adicionando conteúdo nas tabelas dos léxicos L06 até L10 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `0.5`  | 19/10/2023  |  Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| `0.6` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
-| `0.7` | 20/10/2023  |  Adicionando léxico L01 à L05 | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
-| `0.8` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
-
+| `1.0`  | 17/10/2023  |  Criação da estrutura do artefato e tabela exemplo | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.1`  | 18/10/2023  |  Criação do conteúdo do tópico introdução | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.2`  | 18/10/2023  |  Criação do conteúdo do tópico metodologia e adicionando tabelas em léxicos definidos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.3`  | 18/10/2023  |  Adicionando conteúdo nas tabelas dos léxicos L06 até L10 | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.4`  | 19/10/2023  |  Adicionando conteúdo de contexto nos léxicos L06 até L10 com hyperlinks | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.5` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
+| `1.6` | 20/10/2023  |  Adicionando léxico L01 à L05 | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
+| `1.7` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
+| `1.8`  | 01/11/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 

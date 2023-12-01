@@ -138,4 +138,4 @@ Fonte: Autoria própria, 2023.
 | 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
-| 1.4 | 30/11/2023 | Correção em metodologia, adicionando videos e alterando os Storytellings |  [João Costa ](https://github.com/jvcostta)  |
+| 1.4 | 30/11/2023 | Correção em metodologia, adicionando videos e alterando os Storytellings |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
