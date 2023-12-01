@@ -29,11 +29,11 @@ Passo 8: Ordenar a lista de funcionalidades em ordem decrescente de prioridade c
 
 Para o passo 2 e passo 3 gravamos uma reunião na qual a [Mariiana Siqueira](https://github.com/Maryyscreuza) foi a gerente e utilizamos a persona Maria Andrade, interpretada por [Esther Sena](https://github.com/esmsena) como representante dos clientes, para a obtenção de respostas. Para o passo 5 e o passo 6 a gerente se reuniu com a representante dos desenvolvedores [Maria Eduarda Marques](https://github.com/EduardaSMarques) para montagem, porém não pôde ser gravado. Por fim, novamente foram reunidas [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Maria Eduarda Marques](https://github.com/EduardaSMarques) para o total preenchimento da tabela.
 
-## Resultados 
-A Figura 1 contém a priorização dos requisitos elicitados utilizando o FTF. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.
+## Requisitos Elicitados
+
+Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo de [elicitação](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-Backlogs/docs/elicitacao/tecnicas), juntamente com a origem de cada requisito.
 
 ### Legenda:
-
 * BS: Requisitos de Brainstorming
 * BSNF: Requisitos não-funcionais de Brainstorming
 * ENT: Requisitos de Entrevista
@@ -41,7 +41,78 @@ A Figura 1 contém a priorização dos requisitos elicitados utilizando o FTF. N
 * INT: Requisitos de Introspecção
 * INTNF: Requisitos não-funcionais de Introspecção
 
-Link para planilha: https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0
+<p> Tabela 1: Requisitos elicitados </p>
+  
+| Identificador | Requisito | Rastreabilidade |
+| :-: | :-: | :-: |
+| <a id=anchor_2 href="#RF01">RF01</a> | No aplicativo deve ser possível realizar o cadastro do usuário. | [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_3 href="#RF02">RF02</a> | Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado. | [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_4 href="#RF03">RF03</a> | Deve ser possível realizar a emissão do Título do usuário no aplicativo. | [BS3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_5 href="#RF04">RF04</a> | No aplicativo deve ser possível o usuário acessar o QR Code para a leitura do seu título. | [BS4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_6 href="#RF05">RF05</a> | No aplicativo deve ser possível o usuário vizualizar a localização do Local de Votação. | [BS5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_7 href="#RF06">RF06</a> | No aplicativo deve possível o usuário receber notificações. | [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_8 href="#RF07">RF07</a> | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. | [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_9 href="#RF08">RF08</a> | No aplicativo deve ser possível o usuário realizar a recuperação da senha. | [BS10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)|
+| <a id=anchor_10 href="#RF09">RF09</a> | O aplicativo deve ter a opção de sair/logoff disponível para o usuário. | [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_11 href="#RF10">RF10</a> | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo. | [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)|
+| <a id=anchor_12 href="#RF11">RF11</a> | O usuário deve conseguir fazer alterações em seus dados cadastrais. | [INT8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_13 href="#RF12">RF12</a> | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar. | [BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_14 href="#RF13">RF13</a> | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet. | [BSNF4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) |
+| <a id=anchor_15 href="#RF14">RF14</a> | No aplicativo deve ser possível que o usuário realize a quitação eleitoral. | [ENT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_16 href="#RF15">RF15</a> | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele. | [ENTNF4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_17 href="#RF16">RF16</a> | O aplicativo deve oferecer suporte ao usuário. | [ENT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_18 href="#RF17">RF17</a> | O usuário deve conseguir informar a sua justificativa no aplicativo. | [INT19](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_19 href="#RF18">RF18</a> | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. | [INTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_20 href="#RF19">RF19</a> |O aplicativo deve mostrar ao usuário as autenticidades de seus documentos. | [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_21 href="#RF20">RF20</a> | O aplicativo deve notificar o horário da votação para o usuário. | [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_22 href="#RF21">RF21</a> | Deve ser possível o usuário acompanhar a apuração de votos.| [ENT8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_23 href="#RF22">RF22</a> | O usuário deve visualizar o candidato eleito referente ao ano da votação. | [ENT9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+| <a id=anchor_24 href="#RF23">RF23</a> | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | [INTNF13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |
+| <a id=anchor_25 href="#RF24">RF24</a> | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados. | [ENTNF2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md) |
+
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
+
+
+## Resultados
+
+A Tabela 1 contém a priorização dos requisitos elicitados utilizando a técnica First Things First. Nem todos os requisitos estão presentes na tabela pois diferentes métodos elicitaram requisitos semelhantes.
+
+### Link para planilha: 
+[https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0](https://docs.google.com/spreadsheets/d/1IaulZhzmAaYoMchSbfAYqr7WoQPFcA7TdL3vA5ieUT4/edit#gid=0)
+
+Tabela 1: Priorização de requisitos utilizando a técnica First Things First.
+| Peso relativo | | 2 | 1 | |  | 1 |  | 1 |  | |
+| :-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | **ID** | **Benefício Relativo** | **Penalidade Relativa** | **Valor Total** | **Valor %** | **Custo Relativo** | **Custo %** | **Risco Relativo**  | **Risco %** |**Prioridade** |
+| | <a id="RF01" href="#anchor_2">RF01</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF02" href="#anchor_3">RF02</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF03" href="#anchor_4">RF03</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF04" href="#anchor_5">RF04</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF05" href="#anchor_6">RF05</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF06" href="#anchor_7">RF06</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF07" href="#anchor_8">RF07</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF08" href="#anchor_9">RF08</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF09" href="#anchor_10">RF09</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF10" href="#anchor_11">RF10</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF11" href="#anchor_12">RF11</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF12" href="#anchor_13">RF12</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF13" href="#anchor_14">RF13</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF14" href="#anchor_15">RF14</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF15" href="#anchor_16">RF15</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF16" href="#anchor_17">RF16</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF17" href="#anchor_18">RF17</a> |  |  |  |  |  |  |  |  | | 
+| | <a id="RF18" href="#anchor_19">RF18</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF19" href="#anchor_20">RF19</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF20" href="#anchor_21">RF20</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF21" href="#anchor_22">RF21</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF22" href="#anchor_23">RF22</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF23" href="#anchor_24">RF23</a> |  |  |  |  |  |  |  |  | |
+| | <a id="RF24" href="#anchor_25">RF24</a> |  |  |  |  |  |  |  |  | |
+| | **Total** |  |  |  |  |  |  |  |  | |
+
+Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
+
+
 
 Figura 1: Priorização de requisitos utilizando a técnica First Things First.
 
@@ -66,3 +137,4 @@ Abaixo é onde se encontra a gravação da técnica.
 | ------ | ----------- | ----------- | --------- | ----------- |
 | `1.0`  | 02/10/2023  | Realização da intro. , metologia e uma das técnicas  | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.1`  | 04/10/2023  | Edição de metodologia, adicionando a gravação | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
+| `1.2`  | 04/10/2023  | Adicionando tabela do FTF | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
