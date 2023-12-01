@@ -23,7 +23,7 @@ Logo após essa parte, foi realizado gravações das consolidações. E abaixo d
 | ----------- | -------- | -------- | 
 | Maria marques | João e Mateus | Forward-from |
 | Maria Barbosa | Maria marques | cronograma |
-| Esther | Maria Marques e Mariiana Siqueira | $100 |
+|  [Esther Sena](https://github.com/esmsena) |  [Maria Marques ](https://github.com/EduardaSMarques) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [100$](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/%24100.md) |
 | Mary | João e Mateus | histórias de usuário |
 | João |  |  |
 | Mateus | Esther e Madu | Entrevista |
@@ -78,14 +78,20 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+|  Esther Sena, Maria Marques,  Mariiana Siqueira | 26/11/2023 | 20:00 | $100 | Teams |
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/mtVaFQkfL7c?si=KqmAkYufbc6UVUSH)
+  
+**Vídeo 3** - Vídeo da cosolidação.
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+<iframe width="560" height="315" src="https://youtu.be/mtVaFQkfL7c?si=KqmAkYufbc6UVUSH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+Fonte: [SENA, Esther](https://github.com/esmsena),  [MARQUES, Maria ](https://github.com/EduardaSMarques) e  [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) 2023.
+
+Foi realizado a consolidação entre a responsável pela inspeção Esther Sena e as responsáveis pelo artefato Maria Marques e Mariiana Siqueira. Com a reunião foi possível mostrar e falar os erros e obter a explicação e concordancia de quem produziu o artefato $100, possibilitando identificarem os erros e concertalos. 
 
 ### Gravação 4
 
