@@ -39,11 +39,16 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 | ---| -------- |
 | **Número de indêtificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
 
-<td><img src=../imgs/ajuda_suporte.jpeg></td> (Imagem Selecionada) 
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem 1 - Imagem da pergunta exemplo.
+
+<td><img src=../imgs/referencias.avif></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
@@ -58,11 +63,15 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
+
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+
+<td><img src=../imgs/---f></td> 
+
+Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
-
-Fonte: Autoria Pŕopria, 2023.
 
 </center>
 
@@ -76,11 +85,15 @@ Fonte: Autoria Pŕopria, 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
 
-(CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-Fonte: Autoria Pŕopria, 2023.
+<td><img src=../imgs/---></td> 
+
+Fonte: SOBRENOME, nome. 2023.
+
+(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -89,16 +102,19 @@ Fonte: Autoria Pŕopria, 2023.
 <center>
   
 **Tabela x** - Perguntas e Imagens para as perguntas do Cronograma.
-
 | ID | Pergunta | 
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
 
-(CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-Fonte: Autoria Pŕopria, 2023.
+<td><img src=../imgs/---></td> 
+
+Fonte: SOBRENOME, nome. 2023.
+
+(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -112,11 +128,15 @@ Fonte: Autoria Pŕopria, 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
 
-(CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-Fonte: Autoria Pŕopria, 2023.
+<td><img src=../imgs/---></td> 
+
+Fonte: SOBRENOME, nome. 2023.
+
+(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -124,17 +144,19 @@ Fonte: Autoria Pŕopria, 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas das Ferramentas.
-
 | ID | Pergunta | 
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
 
-(CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-Fonte: Autoria Pŕopria, 2023.
+<td><img src=../imgs/---></td> 
+
+Fonte: SOBRENOME, nome. 2023.
+
+(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -148,11 +170,16 @@ Fonte: Autoria Pŕopria, 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-(AQUI FICARÁ A IMAGEM RESPONSÁVEL PELA(S) PERGUNTA(S))
+Fonte: SOBRENOME, nome. 2023.
 
-(CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
 
-Fonte: Autoria Pŕopria, 2023.
+<td><img src=../imgs/---></td> 
+
+Fonte: SOBRENOME, nome. 2023.
+
+
+(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
