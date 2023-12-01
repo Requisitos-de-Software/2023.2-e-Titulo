@@ -208,26 +208,33 @@ Fonte: nome do responsável, 2023.
 
 </center> 
 
-### Entrevista 3
+### Entrevista 4
+A seguir, o vídeo da entrevista apresentando o protótipo para o usuário.
 
-(colocar vídeo)
+<center>
+**Tabela 1** - Inspeção para os Itens das Ferramentas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+</center>
 
 #### Respostas do protótipo 1
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 1.
+**Tabela 3** -  Perguntas para a entrevista.
  
-| Numeração da pergunta | Resposta |
-| -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
+| Numeração da pergunta | Pergunta | Respostas |
+| -- | ----------- | -------------- |
+| 1 | Você achou a funcionalidade intuitiva, ou seja, Fácil de ser utilizada? | Sim |
+| 2 | O que te agradou na funcionalidade? | estrutura bem desenvolvida, de fácil entendimento. | 
+| 3 | O que não lhe agradou na funcionalidade? | Simbolos das regiões (norte, sul...) |
+| 4 | Você acha que a funcionalidade é realmente agregante para o aplicativo ou é redundante? | sim, importante |
+| 5 | Você acha que a funcionalidade faz sentido fazer parte do aplicativo do e-título? | Sim, assim fica fácil fazer o acompanhamento das apurações. |
+| 6 | Tem alguma sugestão para melhoria? | Ao invés da simbologia da região, seria bom ter a foto do candidato. |
 
-Fonte: nome do responsável, 2023.
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center> 
 
@@ -268,3 +275,4 @@ Fonte: nome do responsável, 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e o Roteiro para as entrevistas. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 27/11/2023 | Adicionando novos passos importantes no Roteiro das entrevistas e adicionando tabelas das respostas a respeito de cada protótipo. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.2` | 30/11/2023 | fazendo entrevista 4 |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

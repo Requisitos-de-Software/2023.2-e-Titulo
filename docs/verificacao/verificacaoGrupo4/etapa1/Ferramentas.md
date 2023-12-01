@@ -8,6 +8,8 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 <center>
 
+**Tabela 1** - Inspeção para os Itens das Ferramentas.
+
  ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | G1  | O artefato possui Introdução? | Sim | -- |
@@ -27,9 +29,8 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? | Sim | -- |
 | F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | -- |
 
-**Tabela 1** - Inspeção para os Itens das Ferramentas.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 
