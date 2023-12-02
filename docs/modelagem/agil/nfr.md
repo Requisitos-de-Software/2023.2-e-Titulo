@@ -204,11 +204,14 @@ Figura 8 - Diagrama do Sig com impactos propagados
 Fonte: Maria Eduarda Marques. 2023.
   
 ### NFR02 - Confiabilidade
+
+Foi utilizados os requisitos , para a realização do SIG.
+
 #### Sem impactos propagados
 
 <center>
 
-Figura 9 - SIG de Confiabilidade sem impactos.
+Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
 
 ![confGrafoSIG1](../../planejamento/img/confGrafoSIG1.png)
 
@@ -231,6 +234,9 @@ Fonte: BARBOSA, maria. 2023.
 
 
 ### NFR03 - Segurança
+
+Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
+
 #### Sem impactos propagados
 
 <center>
@@ -336,4 +342,4 @@ Fonte: BARBOSA, maria. 2023.
 | 1.5  | 06/11/2023  | Adicionando diagramas geral e de usabilidade e cartões | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | 1.6  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | 1.7  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) |
-| 1.8 | 30/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
+| 1.8 | 02/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
