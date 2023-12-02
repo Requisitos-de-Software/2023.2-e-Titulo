@@ -146,21 +146,22 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Personas
+**Tabela 6** - Perguntas e Imagens para as perguntas de Personas
   
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ?  |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?   | 
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Fonte: SOBRENOME, nome. 2023.
+Imagem 6 - Imagem da pergunta P1,2 e 5.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+<td><img src=./imgs/ref_personas.PNG></td> 
 
-<td><img src=./imgs/---></td> 
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Fonte: SOBRENOME, nome. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -208,48 +209,28 @@ Fonte: SOBRENOME, nome. 2023.
 
 </center>
 
-### Perguntas e Imagens das Referências da Verificação de Observação
-
-<center>
-  
-**Tabela x** - Perguntas e Imagens para as perguntas de Observação.
-
-| ID | Pergunta | 
-| ---| -------- |
-| [X]  | (PERGUNTA(S) |
-
-Fonte: SOBRENOME, nome. 2023.
-
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
-
-<td><img src=./imgs/---></td> 
-
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
-
-</center>
-
 
 ### Perguntas e Imagens das Referências da Verificação de Storytelling
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Storytelling.
+**Tabela 9** - Perguntas e Imagens para as perguntas de Storytelling.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? | 
+| ST2 | Os requisitos tem identificadores ? |  
+| ST3 | Foram elicitados requisitos funcionais ? |  
+| ST4 | Foram elicitados requisitos não-funcionais ? | 
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? |  
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 8 - Imagem das pergunta ST1,2,3,4,5. 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/ref_storytelling.PNG></td> 
 
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 

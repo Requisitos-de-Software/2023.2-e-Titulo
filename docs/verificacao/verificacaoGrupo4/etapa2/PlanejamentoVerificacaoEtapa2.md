@@ -277,29 +277,12 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
-### Checklist de Observação
-
-<center>
-
-**Tabela 10** - Checklist para os Itens da Observação.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?|  |  |
-| O2 | O artefato apresenta a gravação da técnica com o voluntário ? |  |  |
-| O3 | O artefato possui um termo de consentimento do usuário observado ? |  | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
-| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  |  |  |
-| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? |  |  |
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-
-</center>
 
 ### Checklist de Storytelling
 
 <center>
 
-**Tabela x** - Checklist para os Itens da Storytelling.
+**Tabela 10** - Checklist para os Itens da Storytelling.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |

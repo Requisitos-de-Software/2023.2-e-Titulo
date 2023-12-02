@@ -121,21 +121,29 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas de Léxicos.
+**Tabela 5** - Perguntas e Imagens para as perguntas de Léxicos.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | 
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**)   | 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 5 - Imagem da pergunta L1 e L6. 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/ref_lexicos3.PNG></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem 6 - Imagem da pergunta L3, L4, L5. 
+
+<td><img src=./imgs/ref_lexicos2.PNG></td> 
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
 
