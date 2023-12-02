@@ -26,7 +26,9 @@ A explicação da regra por tipo está na tabela 1, conforme a regra geral. Para
 
 O identificador do léxico tem a estrutura **Lxx** no qual os x são números.
 
-Tabela 1 - Explicação da regra por tipo com a regra geral.
+<center>
+
+**Tabela 1** - Explicação da regra por tipo com a regra geral.
 
 | **tipo** <br> (sujeito) | **Noção** <br> (quem é o sujeito?) | **Impacto** <br> (quais ações executa?) |
 | -------- | --------- | ----------- |
@@ -36,7 +38,11 @@ Tabela 1 - Explicação da regra por tipo com a regra geral.
 
 Fonte: SERRANO Milene; SERRANO Maurício.
 
-Tabela 2 - Modelo de tabela para os léxicos
+</center>
+
+<center>
+
+**Tabela 2** - Modelo de tabela para os léxicos
 
 | **identificador do léxico** | **descrição** |
 | --------------------------- | ------------- |
@@ -47,9 +53,11 @@ Tabela 2 - Modelo de tabela para os léxicos
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
+
 ## Léxicos definidos
 
-###  L01: Usuário
+### L01: Usuário <a id=anchor_11 href="#REF1"></a>
 
 No primeiro léxico(tabela 3), a funcionalidade utilizada é o usuário precisa ter acima de 16 anos ([BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)), estando essa funcionalidade implementada no aplicativo.
 
@@ -57,7 +65,9 @@ No primeiro léxico(tabela 3), a funcionalidade utilizada é o usuário precisa 
 
 Para acessar todas as funcionalidades presentes podem serem acessadas na pasta de [técnicas](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main/docs/elicitacao/tecnicas).
 
-Tabela 3 - exemplo
+<center>
+
+**Tabela 3** - exemplo
 
 | **L01** | **descrição** |
 | --------------------------- | ------------- |
@@ -67,6 +77,8 @@ Tabela 3 - exemplo
 | Sinônimo(s) | Cliente e consumidor. |
 
 Fonte: MARQUES, Maria. 2023.
+
+</center>
 
 ### L02: Dispositivo
 
@@ -130,83 +142,103 @@ Fonte: MARQUES, Maria. 2023.
 
 ### L06: Notificação
 
-Neste léxico(tabela 8) as funcionalidades apresentados são o aplicativo notifica o horário da votação para o usuário, o usuario visualiza a notificação e deve ser possível o usuário receber a notificação ( [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. 
+Neste léxico presente na Tabela 8 as funcionalidades apresentadas são o aplicativo notifica o horário da votação para o usuário, o usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes, e no aplicativo deve ser possível o usuário receber notificações ( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT7</a>, <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a> ), sendo que o primeiro não foi implementado no aplicativo e o restante sim. 
 
-Tabela 8 - exemplo
+<center>
+
+**Tabela 8** - exemplo
 
 | **L06** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O [usuário](#l01:-usuario) recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O [usuário](#l01:-usuario) seleciona as funcionalidades [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) para poder visualizar as notificações  |
+| Noção | O <a id="REF1" href="#anchor_11">usuário</a> recebe a notificação quando o aplicativo carrega os dados de informações importantes como data da votação <br> O <a id="REF1" href="#anchor_11">usuário</a> seleciona as funcionalidades <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT7</a>, <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a> para poder visualizar as notificações  |
 | Classificação | Verbo |
-| Impacto(s) | As funcionalidades [ENT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados), [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) são utilizadas |
+| Impacto(s) | As funcionalidades <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENT7</a>, <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT6</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a> são utilizadas |
 | Sinônimo(s) | Comunicar, informar e transmitir |
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
+
 ### L07: Ajuda
 
-O sétimo léxico(tabela 9) utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a utilidade do aplicativo ( [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. 
+O sétimo léxico(tabela 9) utiliza as funcionalidades de visualizar dúvidas frequentes e o termo de uso com explicações sobre a sua utilidade ( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a> ). Nas dúvidas frequentes foi implementado e no termo de uso não foi. 
 
-Tabela 9 - exemplo
+<center>
+
+**Tabela 9** - exemplo
 
 | **L07** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O aplicativo oferece a ajuda para o [usuário](#l01:-usuario) quando o [usuário](#l01:-usuario) seleciona a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) ou a [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) <br> A funcionalidade [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) é acessada pelo [usuário](#l01:-usuario) quando a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) não está selecionada <br> É acessado pelo [usuário](#l01:-usuario) a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) e a [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados)  não estará selecionada |
+| Noção | O aplicativo oferece a ajuda para o <a id="REF1" href="#anchor_11">usuário</a> quando o <a id="REF1" href="#anchor_11">usuário</a> seleciona a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a> ou a <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a> <br> A funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a> é acessada pelo <a id="REF1" href="#anchor_11">usuário</a> quando a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a> não está selecionada <br> É acessado pelo <a id="REF1" href="#anchor_11">usuário</a> a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a> e a <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a>  não estará selecionada |
 | Classificação | Verbo |
-| Impacto(s) | O [usuário](#l01:-usuario) visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) <br> O [usuário](#l01:-usuario) visualiza termo de uso presente no aplicativo quando acessar a funcionalidade [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> visualiza as perguntas e respostas disponíveis no aplicativo quando acessar a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS12</a> <br> O <a id="REF1" href="#anchor_11">usuário</a> visualiza termo de uso presente no aplicativo quando acessar a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF1</a> |
 | Sinônimo(s) |  Amparo e auxílio |
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
+
 ### L08: Emitir certificado
 
-A funcionalidade usada nesse léxico(tabela 10) é  vizualizar as informações da quitação eleitoral ( [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ) em que está implementado no aplicativo.
+A funcionalidade usada nesse léxico presente na Tabela 10 é  vizualizar as informações da quitação eleitoral ( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a> ) em que está implementado no aplicativo.
 
-Tabela 10 - exemplo
+<center>
+
+**Tabela 10** - exemplo
 
 | **L08** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O [usuário](#l01:-usuario) emite o cetificado quando acessa a funcionalidade [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) <br> O [usuário](#l01:-usuario) vai para o menu inferior e seleciona a função [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) |
+| Noção | O <a id="REF1" href="#anchor_11">usuário</a> emite o cetificado quando acessa a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a> <br> O <a id="REF1" href="#anchor_11">usuário</a> vai para o menu inferior e seleciona a função <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT17</a> |
 | Classificação | Verbo |
-| Impacto(s) | O [usuário](#l01:-usuario) visualiza o documento emitido pela função []() |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> visualiza o documento emitido pela função []() |
 | Sinônimo(s) | Enviar, lançar, quitamento e remitir |
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
+
 ### L09: Aplicativo está aberto
 
-No léxico L09(tabela 11) as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ), ambos são implementados.
+No léxico L09 presente na Tabela 11 as funcionalidades utilizadas são o usuário realizar login e o sair/logoff ( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a> ), ambos são implementados.
+
 
 #### Funcionalidades
 
 Para acessar todas as funcionalidades presentes podem serem acessadas na pasta de [técnicas](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main/docs/elicitacao/tecnicas).
 
-Tabela 11 - exemplo
+<center>
+
+**Tabela 11** - exemplo
 
 | **L09** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O aplicativo encontra-se em uso por um [usuário](#l01:-usuario) Acontece quando o [usuário](#l01:-usuario) faz um login bem sucedido no aplicativo |
+| Noção | O aplicativo encontra-se em uso por um <a id="REF1" href="#anchor_11">usuário</a> Acontece quando o <a id="REF1" href="#anchor_11">usuário</a> faz um login bem sucedido no aplicativo |
 | Classificação | Estado |
-| Impacto(s) | Quando o [usuário](#l01:-usuario) entra no aplicativo por meio do [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) todas as [funcionalidades](#funcionalidades) presentes podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o [usuário](#l01:-usuario) sai do aplicativo realizando a funcionalidade [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados): ESTADO - Apricativo está desligado  e funcionalidades não disponíveis |
+| Impacto(s) | Quando o <a id="REF1" href="#anchor_11">usuário</a> entra no aplicativo por meio do <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT3</a> todas as [funcionalidades](#funcionalidades) presentes podem ser acessadas: ESTADO - Funcionalidades estão disponíveis <br> Quando o <a id="REF1" href="#anchor_11">usuário</a> sai do aplicativo realizando a funcionalidade <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a>: ESTADO - Apricativo está desligado  e funcionalidades não disponíveis |
 | Sinônimo(s) | Acesso e desconexão |
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
+
 ### L10: Desbloqueio com biometria está ativado
 
-Nesse léxico(tabela 12) a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) ).
+Nesse léxico presente na Tabela 12 a funcionalidade em uso que é implementada no aplicativo é a realização do login com a biometria ( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/">QST3</a> ).
 
-Tabela 12 - exemplo
+<center>
+
+**Tabela 12** - exemplo
 
 | **L10** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O desbloqueio com biometria encontra-se em uso por um [usuário](#l01:-usuario) <br> Ocorre quando o [usuário](#l01:-usuario) seleciona a opção de ativar biometria, exercendo a função [Q3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/questionario.md#requisitos-funcionais) |
+| Noção | O desbloqueio com biometria encontra-se em uso por um <a id="REF1" href="#anchor_11">usuário</a> <br> Ocorre quando o <a id="REF1" href="#anchor_11">usuário</a> seleciona a opção de ativar biometria, exercendo a função <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/">QST3</a> |
 | Classificação | Estado |
-| Impacto(s) | Quando o [usuário](#l01:-usuario) desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
+| Impacto(s) | Quando o <a id="REF1" href="#anchor_11">usuário</a> desativa a opção de realizar desbloqueio por biometria no aplicativo: ESTADO - Biometria desativada <br>  |
 | Sinônimo(s) | Liberado e despertar |
 
 Fonte: BARBOSA, Maria. 2023.
 
+</center>
 
 ## Bibliografia
 
@@ -230,5 +262,5 @@ Fonte: BARBOSA, Maria. 2023.
 | `1.5` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `1.6` | 20/10/2023  |  Adicionando léxico L01 à L05 | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `1.7` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
-| `1.8`  | 01/11/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.8`  | 01/11/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos L06 até L10| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 
