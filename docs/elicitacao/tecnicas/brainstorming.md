@@ -624,7 +624,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 <center>
 
-| <a id="anchor_BS" style="visibility: hidden;"></a> ID  | Descrição                                                                          | Código | Implementado |
+| ID  | Descrição                                                                          | Código | Implementado |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ------- |
 | BS1   |  No aplicativo deve ser possível realizar o cadastro do usuário    | RF1    |    Sim      |
 | BS2  |  Deve ser possível o usuário realizar o login por senha ou biometria para acessar o aplicativo, com a condição de já ter se cadastrado | RF2    |      Sim    |
