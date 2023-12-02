@@ -154,7 +154,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+**Tabela 2** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -189,7 +189,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
-**Tabela 7** - Checklist para os Itens dos léxicos.
+**Tabela 3** - Checklist para os Itens dos léxicos.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |

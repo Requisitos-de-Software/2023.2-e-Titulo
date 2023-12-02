@@ -218,13 +218,13 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
-| P3 | O artefato possui persona primária ? |  |  |
-| P4 | O artefato possui antipersona ? |  |  |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ?  <a id="anchor_13" href="#REF13">[13].</a>|  |  |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| P3 | O artefato possui persona primária ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| P4 | O artefato possui antipersona ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
-| P6 | O artefato possui uma conclusão?  |  |  |
-| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? |  |  |
+| P6 | O artefato possui uma conclusão? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -277,37 +277,20 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
 
-### Checklist de Observação
-
-<center>
-
-**Tabela 10** - Checklist para os Itens da Observação.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| O1 | Um cronograma com data e horário e plataforma foram estabelecidos para a realização da elicitação de requisitos(Observação) com o cliente e/ou persona utilizada no desenvolvimento da técnica?|  |  |
-| O2 | O artefato apresenta a gravação da técnica com o voluntário ? |  |  |
-| O3 | O artefato possui um termo de consentimento do usuário observado ? |  | Em nenhum momento do vídeo ou no próprio artefato é explicitado a concordância, por parte do usuário, com o termo de consentimento. |
-| O4 | O artefato apresenta uma tabela com os requisitos elicitados ?  |  |  |
-| O5 | O artefato possui legenda para a tabela dos requisitos elicitados  ? |  |  |
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-
-</center>
 
 ### Checklist de Storytelling
 
 <center>
 
-**Tabela x** - Checklist para os Itens da Storytelling.
+**Tabela 10** - Checklist para os Itens da Storytelling.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
-| ST2 | Os requisitos tem identificadores ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
-| ST3 | Foram elicitados requisitos funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
-| ST4 | Foram elicitados requisitos não-funcionais ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
-| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="FTF3" href="#FTF3Ref">567</a>|  |    |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
+| ST2 | Os requisitos tem identificadores ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
+| ST3 | Foram elicitados requisitos funcionais ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
+| ST4 | Foram elicitados requisitos não-funcionais ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -403,6 +386,9 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 
 > <a id="REF12" href="#anchor_12">[12].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
 
+> <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+
+> <a id="REF14" href="#anchor_14">[14]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - Storytelling. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/storytelling. Acesso em: 24 nov, 2023.
 
 > <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
