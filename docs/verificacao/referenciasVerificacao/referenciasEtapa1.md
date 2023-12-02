@@ -128,15 +128,9 @@ Fonte: SOBRENOME, nome. 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
-
-<td><img src=./imgs/---></td> 
-
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+- Como metodologia se trata de um artefato simples e com enfoque na diciplina, as perguntas foram feitas com base nas estruturas dos documentos de semestres passados.
 
 </center>
 
