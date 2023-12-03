@@ -153,6 +153,12 @@ Tabela 9 - Requisitos Não-Funcionais
 
 | ID | Descrição    | 
 | -- | --- | 
+|  USAB01 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    |    
+|  USAB02 | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.  |    
+|  USAB03 | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.|  
+|  USAB04  | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.   |    
+|  USAB05 | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. | 
+|  USAB06 | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |    
 | CONF01 |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
 | CONF02 | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
 | DES01 | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
@@ -161,7 +167,7 @@ Tabela 9 - Requisitos Não-Funcionais
 | CONF04 | O usuário deve poder alterar os seus dados pessoais caso desejar. |
 | CONF05 | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
 
-Fonte: BARBOSA, maria. 2023. 
+Fonte: BARBOSA, maria;MARQUES,maria. 2023. 
 
 </center>
 
@@ -175,33 +181,36 @@ Figura 6 - Diagrama Geral do Sig
 
 ![geral](../../planejamento/img/DiagramaGeralSig.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
 
 ### NFR01 - Usabilidade
-Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados das entrevistas realizadas pelo grupo na parte de elicitação.
+Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados da especificação suplementar.
 
-- ENTNF1: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo
-
-- ENTNF2: O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados
+- USAB01: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.
+- USAB02: O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.     
+- USAB03: Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.  
+- USAB04: O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.       
+- USAB05: As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. 
+- USAB06: A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.    
 
 #### Sem impactos propagados
-A figura 7, se encontra o diagrama do SIG sem impactos propagados 
+A figura 7, se encontra o diagrama do SIG de usabilidade sem impactos propagados 
 
-Figura 7 - Diagrama do Sig sem impactos propagados
+Figura 7 - Diagrama do Sig de usabilidade sem impactos propagados
 
-![semPropa](../../planejamento/img/DiagramaSig1.png)
+![semPropa](../../planejamento/img/usasempropa.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES, maria. 2023.
 
 #### Com impactos propagados
 
-A figura 8, se encontra o diagrama do SIG com impactos propagados
+A figura 8, se encontra o diagrama do SIG de usabilidade com impactos propagados
 
-Figura 8 - Diagrama do Sig com impactos propagados 
+Figura 8 - Diagrama do Sig de usabilidade com impactos propagados 
 
-![ComPropa](../../planejamento/img/DiagramaPropaErro.png)
+![ComPropa](../../planejamento/img/usacomPropa.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
   
 ### NFR02 - Confiabilidade
 
@@ -213,7 +222,7 @@ Foi utilizados os requisitos , para a realização do SIG.
 
 Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
 
-![confGrafoSIG1](../../planejamento/img/confGrafoSIG1.png)
+![confGrafoSIG1](../../planejamento/img/confiaSem.png)
 
 Fonte: BARBOSA, maria. 2023.
 
@@ -226,9 +235,9 @@ Fonte: BARBOSA, maria. 2023.
 
 Figura 10 - SIG de Confiabilidade com impactos.
 
-![confGrafoSIG2](../../planejamento/img/confGrafoSIG2.png)
+![confGrafoSIG2](../../planejamento/img/confiaComimpacto.png)
 
-Fonte: BARBOSA, maria. 2023.
+Fonte: MARQUES, maria. 2023.
 
 </center>
 
@@ -278,7 +287,7 @@ Tabela 3 - Cartão de especificação da Usabilidade
 | **Conflitos:** | nenhum |
 | **História:** | 06/11/2023 |
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
 
 </center>
 
@@ -297,7 +306,7 @@ Tabela 4 - Cartão de especificação da Usabilidade
 | **Conflitos:** | Nenhum |
 | **História:** | 06/11/2023 |
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
 
 </center>
 
@@ -343,3 +352,4 @@ Fonte: BARBOSA, maria. 2023.
 | 1.6  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | 1.7  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) |
 | 1.8 | 02/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
+| 1.9  | 03/12/2023  | Corrigindo sig de usabilidade e de confiabilidade com impacto | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) |
