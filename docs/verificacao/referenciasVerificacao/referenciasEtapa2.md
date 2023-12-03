@@ -84,17 +84,43 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [9] | A definição de prioridades foi feita em colaboração com um usuário real? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "[9]". 
 
 <td><img src=./imgs/---></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [9] | O artefato possui link para as ferramentas utilizadas? <br> Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação?  <br> O processo de priorização considerou as interdependências entre os requisitos?  <br> Os requisitos listados como não funcionais, são realmente não testaveis?  <br>	Os indentificadores possuem likagem de rastreabilidade?  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[9]". 
+
+<td><img src=./imgs/---></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [9] |O usuário envolvido correspondia ao perfil predefinido? <br> O artefato possui gravação da dinâmica ? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[9]". 
+
+<td><img src=./imgs/---></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
