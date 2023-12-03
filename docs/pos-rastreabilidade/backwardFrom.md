@@ -1,16 +1,18 @@
 # Backward From
 
 ## Introdução
-Neste documento, exploraremos a abordagem "Backward From" na elicitação de requisitos, que nos leva do resultado desejado às raízes dos requisitos. Diferente das metodologias convencionais, essa técnica oferece uma compreensão mais profunda do contexto e das variáveis que influenciam os requisitos. Este artefato busca uma abordagem inovadora na engenharia reversa de requisitos, revelando as camadas subjacentes de necessidades para construir uma base sólida utilizando o método de rastreabilidade backward from descritos no Slide "Requisitos-Aula 26" <a id=anchor_1 href="#REF1">[1]</a> da Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
+
+Neste documento, exploraremos a abordagem "Backward From" na elicitação de requisitos, que nos leva do resultado desejado às raízes dos requisitos. Diferente das metodologias convencionais, essa técnica oferece uma compreensão mais profunda do contexto e das variáveis que influenciam os requisitos.
 
 ## Objetivo 
+
 Este documento é um guia para usar a técnica "Backward From" na obtenção de requisitos. Vamos explorar como essa abordagem nos ajuda a entender melhor o que um sistema precisa, começando pelo resultado desejado e retrocedendo até as necessidades fundamentais. A ideia é oferecer uma ferramentas para aplicar essa técnica de engenharia reversa de requisitos de forma inovadora, ajudando no desenvolvimento de sistemas mais sólidos e claros. 
 
 ## Metodologia
 
-A rastreabilidade transcende sua função na gestão de requisitos; ela emerge como um aliado crucial na busca pela excelência na GERÊNCIA DA QUALIDADE. O Meta-modelo proposto por Toranzo, habilmente, proporciona uma metodologia que simplifica a especificação do rastro, tornando o processo mais claro e eficiente.
+A rastreabilidade vai além de apenas gerenciar requisitos; ela se torna um importante aliado na busca pela excelência na gerência de qualidade. O Meta-modelo proposto por Toranzo oferece uma abordagem que facilita a especificação do rastreamento, tornando o processo mais simples e eficaz.
 
-Ao seguir o Meta-modelo de Toranzo para a elaboração do artefato, embarcamos em duas etapas fundamentais, delineadas nos slides 19 e 21 do arquivo "Requisitos-Aula 26" de Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
+Ao usar o Meta-modelo de Toranzo para a elaboração do artefato, passamos por dois passos importantes, que estão explicados nos slides 19 e 21 do arquivo "Requisitos-Aula 26"<a id=anchor_1 href="#REF1">[1]</a> de Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
 
 Essas etapas iniciais compreendem os conceitos de níveis e elos, fundamentais para a construção de um rastro eficaz.
 
@@ -92,7 +94,7 @@ Tabela 1: Requisitos funcionais
 | RF34 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. |  [INT24](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
 | RF35 | O aplicativo deve permitir que o usuário altere o local de partida. |  [INT25](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
 | RF36 | O aplicativo deve notificar sobre atualizações eleitorais. |  [INT26](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
-| RF37 | O aplicativo deve demonstrar ao usuário os lembretes de votação e de mudanças de localização para votação. |  [INT27](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | SIM |
+| RF37 | O aplicativo deve demonstrar ao usuário os lembretes de votação e de mudanças de localização para votação. |  [INT27](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
 | RF38 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos. |  [INT28](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
 | RF39 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.|  [INT29](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
 | <a id=anchor_41 href="#RF40">RF40</a> | O aplicativo deve permitir a leitura do qr code do título eleitoral. |  [INT30](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
