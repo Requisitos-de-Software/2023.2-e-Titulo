@@ -27,7 +27,13 @@ A técnica de priorização first things first (FTF) tem como objetivo apresenta
 
 **Passo 8:** Ordenar a lista de funcionalidades em ordem decrescente de prioridade calculada. 
 
-Para o passo 2 e passo 3 gravamos uma reunião na qual a [Mariiana Siqueira](https://github.com/Maryyscreuza) foi a gerente e utilizamos a persona Felipe Augusto, interpretada por [João Victor](https://github.com/jvcostta) como representante dos clientes, para a obtenção de respostas. Para o passo 5 e o passo 6 a gerente se reuniu com a representante dos desenvolvedores [Maria Eduarda Marques](https://github.com/EduardaSMarques) para montagem. Por fim, novamente foram reunidas [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Maria Eduarda Marques](https://github.com/EduardaSMarques) para o total preenchimento da tabela disponível neste documento, de onde foi transferido os dados da planilha para markdown.
+- Para o passo 2 e passo 3 gravamos uma reunião na qual a [Mariiana Siqueira](https://github.com/Maryyscreuza) foi a gerente e utilizamos a persona Felipe Augusto, interpretada por [João Victor](https://github.com/jvcostta) como representante dos clientes, para a obtenção de respostas. Para o passo 5 e o passo 6 a gerente se reuniu com a representante dos desenvolvedores [Maria Eduarda Marques](https://github.com/EduardaSMarques) para montagem. Por fim, novamente foram reunidas [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Maria Eduarda Marques](https://github.com/EduardaSMarques) para o total preenchimento da tabela disponível neste documento, de onde foi transferido os dados da planilha para markdown.
+
+- Para a priorização foi definido:
+
+    - Alta = 1 ou mais;
+    - Média = 0,50 até 0,99;
+    - Baixa = 0,49 ou menos.
 
 **Link para planilha:**[https://docs.google.com/spreadsheets/d/e/2PACX-1vTrkooXhe3LtDRe1x7E2ZCuzIunN-dLViwi6FxfRSX_KoGhP0fSiT1S4JJ1xgfN5oYwq4r40GNap6S9/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrkooXhe3LtDRe1x7E2ZCuzIunN-dLViwi6FxfRSX_KoGhP0fSiT1S4JJ1xgfN5oYwq4r40GNap6S9/pubhtml)
 
@@ -107,62 +113,79 @@ Tabela 2: Priorização de requisitos utilizando a técnica First Things First.
 | Peso relativo | 2| 1 |  | | 1 |  | 1 |  |  | 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **ID** | **Benefício Relativo** | **Penalidade Relativa** | **Valor Total** | **Valor %** | **Custo Relativo** | **Custo %** | **Risco Relativo**  | **Risco %** |**Prioridade** |
- | <a id="RF01" href="#anchor_2">RF01</a> | 9 | 9 |  27 | 2,94% |  |  |  |  | |
- | <a id="RF02" href="#anchor_3">RF02</a> | 7 | 1 |  15| 1,63% |  |  |  |  | |
- | <a id="RF03" href="#anchor_4">RF03</a> | 8 | 9 | 25 | 2,72% |  |  |  |  | |
- | <a id="RF04" href="#anchor_5">RF04</a> | 9 | 5 | 23 | 2,50% |  |  |  |  | |
- | <a id="RF05" href="#anchor_6">RF05</a> | 9 | 3 | 21 | 2,29% |  |  |  |  | |
- | <a id="RF06" href="#anchor_7">RF06</a> | 7 | 5 | 19 | 2,07% |  |  |  |  | |
- | <a id="RF07" href="#anchor_8">RF07</a> | 8 | 1 | 17 | 1,85% |  |  |  |  | |
- | <a id="RF08" href="#anchor_9">RF08</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF09" href="#anchor_10">RF09</a> | 7 | 5 | 19 | 2,07% |  |  |  |  | |
- | <a id="RF10" href="#anchor_11">RF10</a> | 5 | 1 | 11 | 1,20% |  |  |  |  | |
- | <a id="RF11" href="#anchor_12">RF11</a> | 8 | 5 | 21 |2,29%  |  |  |  |  | |
- | <a id="RF12" href="#anchor_13">RF12</a> | 7 | 1 | 15 | 1,63% |  |  |  |  | |
- | <a id="RF13" href="#anchor_14">RF13</a> | 6 | 1 | 13 | 1,41% |  |  |  |  | |
- | <a id="RF14" href="#anchor_15">RF14</a> | 9 | 7 | 25 | 2,72% |  |  |  |  | |
- | <a id="RF15" href="#anchor_16">RF15</a> | 8 | 7 | 23 | 2,50% |  |  |  |  | |
- | <a id="RF16" href="#anchor_17">RF16</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF17" href="#anchor_18">RF17</a> | 5 | 2 | 12 | 1,31% |  |  |  |  | | 
- | <a id="RF18" href="#anchor_19">RF18</a> | 6 | 5 | 17 | 1,85% |  |  |  |  | |
- | <a id="RF19" href="#anchor_20">RF19</a> | 6 | 2 | 14 | 1,52% |  |  |  |  | |
- | <a id="RF20" href="#anchor_21">RF20</a> | 8 | 9 | 25 | 2,72% |  |  |  |  | |
- | <a id="RF21" href="#anchor_22">RF21</a> | 2 | 2 | 6 | 0,65% |  |  |  |  | |
- | <a id="RF22" href="#anchor_23">RF22</a> | 1 | 1 | 2 | 0,33% |  |  |  |  | |
- | <a id="RF23" href="#anchor_24">RF23</a> | 3 | 1 | 7 | 0,76% |  |  |  |  | |
- | <a id="RF24" href="#anchor_25">RF24</a> | 8 | 8 | 24 | 2,61% |  |  |  |  | |
- | <a id="RF25" href="#anchor_26">RF25</a> | 9 | 5 | 23 | 2,50% |  |  |  |  | |
- | <a id="RF26" href="#anchor_27">RF26</a> | 7 | 6 | 20 | 2,18% |  |  |  |  | |
- | <a id="RF27" href="#anchor_28">RF27</a> | 7 | 7 | 21 | 2,29% |  |  |  |  | |
- | <a id="RF28" href="#anchor_29">RF28</a> | 9 | 9  | 27 | 2,94% |  |  |  |  | |
- | <a id="RF29" href="#anchor_30">RF29</a> | 5 | 4 | 14 | 1,52% |  |  |  |  | |
- | <a id="RF30" href="#anchor_31">RF30</a> | 5 | 5 | 15 | 1,63% |  |  |  |  | |
- | <a id="RF31" href="#anchor_32">RF31</a> | 9 | 8 | 26 | 2,83% |  |  |  |  | |
- | <a id="RF32" href="#anchor_33">RF32</a> | 8 | 5 | 21 | 2,26% |  |  |  |  | |
- | <a id="RF33" href="#anchor_34">RF33</a> | 1 | 1 | 3 | 0,33% |  |  |  |  | |
- | <a id="RF34" href="#anchor_35">RF34</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF35" href="#anchor_36">RF35</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF36" href="#anchor_37">RF36</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF37" href="#anchor_38">RF37</a> | 8 | 4 | 20 | 2,18% |  |  |  |  | |
- | <a id="RF38" href="#anchor_39">RF38</a> | 7 | 3 | 17 | 1,85% |  |  |  |  | |
- | <a id="RF39" href="#anchor_40">RF39</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF40" href="#anchor_41">RF40</a> | 7 | 7 | 21 | 2,29% |  |  |  |  | |
- | <a id="RF41" href="#anchor_42">RF41</a> | 5 | 7  | 17 | 1,85% |  |  |  |  | |
- | <a id="RF42" href="#anchor_43">RF42</a> | 6 | 4 | 16 | 1,74% |  |  |  |  | |
- | <a id="RF43" href="#anchor_44">RF43</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF44" href="#anchor_45">RF44</a> | 9 | 9 | 27 | 2,94% |  |  |  |  | |
- | <a id="RF45" href="#anchor_46">RF45</a> | 9 | 7 | 25 | 2,72% |  |  |  |  | |
- | <a id="RF46" href="#anchor_47">RF46</a> | 3 | 3 | 9 | 0,98% |  |  |  |  | |
- | <a id="RF47" href="#anchor_48">RF47</a> | 9 | 8 | 26 | 2,83% |  |  |  |  | |
- | **Total** | 332 | 255 | 919 | 100% |  |  |  |  | | 
+ | <a id="RF01" href="#anchor_2">RF01</a> | 9 | 9 |  27 | 2,94% | 3 |	3,09%	|3|	2,31%|	0,54|
+ | <a id="RF02" href="#anchor_3">RF02</a> | 7 | 1 |  15| 1,63% |  5	|5,15%|7	|5,38%	|0,15|
+ | <a id="RF03" href="#anchor_4">RF03</a> | 8 | 9 | 25 | 2,72% |  1	|1,03%|	2	|1,54%	|1,06|
+ | <a id="RF04" href="#anchor_5">RF04</a> | 9 | 5 | 23 | 2,50% |  2	|2,06%|	3	|2,31%	|0,57|
+ | <a id="RF05" href="#anchor_6">RF05</a> | 9 | 3 | 21 | 2,29% |  2	|2,06%	|1 |	0,77%	|0,81| 
+ | <a id="RF06" href="#anchor_7">RF06</a> | 7 | 5 | 19 | 2,07% |  4	|4,12%	|6	|4,62%	|0,24| 
+ | <a id="RF07" href="#anchor_8">RF07</a> | 8 | 1 | 17 | 1,85% | 1	|1,03%	|1	|0,77%	|1,03| 
+ | <a id="RF08" href="#anchor_9">RF08</a> | 9 | 9 | 27 | 2,94% | 3 |3,09%	|5	|3,85%	|0,42|  
+ | <a id="RF09" href="#anchor_10">RF09</a> | 7 | 5 | 19 | 2,07% | 1	|1,03%	|2	|1,54%	|0,80|
+ | <a id="RF10" href="#anchor_11">RF10</a> | 5 | 1 | 11 | 1,20% | 1	|1,03%|	1	|0,77%	|0,66|
+ | <a id="RF11" href="#anchor_12">RF11</a> | 8 | 5 | 21 |2,29%  | 1	|1,03%	|2	|1,54%	|0,89| 
+ | <a id="RF12" href="#anchor_13">RF12</a> | 7 | 1 | 15 | 1,63% |3	|3,09%	|3	|2,31%	|0,30|  
+ | <a id="RF13" href="#anchor_14">RF13</a> | 6 | 1 | 13 | 1,41% | 1	|1,03%	|3|	2,31%	|0,42| 
+ | <a id="RF14" href="#anchor_15">RF14</a> | 9 | 7 | 25 | 2,72% | 1 |	1,03%|	1|	0,77%	|1,51|  
+ | <a id="RF15" href="#anchor_16">RF15</a> | 8 | 7 | 23 | 2,50% | 1	|1,03% |	1|	0,77% |	1,39| 
+ | <a id="RF16" href="#anchor_17">RF16</a> | 9 | 9 | 27 | 2,94% | 2|	2,06%|	1	|0,77%	|1,04|  
+ | <a id="RF17" href="#anchor_18">RF17</a> | 5 | 2 | 12 | 1,31% | 2	|2,06%|	2	|1,54%	|0,36| 
+ | <a id="RF18" href="#anchor_19">RF18</a> | 6 | 5 | 17 | 1,85% | 1|	1,03%|	1	|0,77%	|1,03| 
+ | <a id="RF19" href="#anchor_20">RF19</a> | 6 | 2 | 14 | 1,52% | 1	|1,03%	|1	|0,77%	|0,85|
+ | <a id="RF20" href="#anchor_21">RF20</a> | 8 | 9 | 25 | 2,72% | 2	|2,06%|	4	|3,08%	|0,53|  
+ | <a id="RF21" href="#anchor_22">RF21</a> | 2 | 2 | 6 | 0,65% | 1	|1,03%	|1	|0,77%	|0,36|  
+ | <a id="RF22" href="#anchor_23">RF22</a> | 1 | 1 | 2 | 0,33% | 2	|2,06%	|3	|2,31%|	0,07|  
+ | <a id="RF23" href="#anchor_24">RF23</a> | 3 | 1 | 7 | 0,76% | 2	|2,06%|	2	|1,54%	|0,21|  
+ | <a id="RF24" href="#anchor_25">RF24</a> | 8 | 8 | 24 | 2,61% | 3	|3,09%|	4|	3,08%	|0,42| 
+ | <a id="RF25" href="#anchor_26">RF25</a> | 9 | 5 | 23 | 2,50% | 5	|5,15%|	7|	5,38%|	0,24| 
+ | <a id="RF26" href="#anchor_27">RF26</a> | 7 | 6 | 20 | 2,18% | 3	|3,09%|	3	|2,31%	|0,40|   
+ | <a id="RF27" href="#anchor_28">RF27</a> | 7 | 7 | 21 | 2,29% | 2	|2,06%	|3	|2,31%	|0,52| 
+ | <a id="RF28" href="#anchor_29">RF28</a> | 9 | 9  | 27 | 2,94% | 2	|2,06%	|4	|3,08%	|0,57| 
+ | <a id="RF29" href="#anchor_30">RF29</a> | 5 | 4 | 14 | 1,52% | 1	|1,03%	|2	|1,54%	|0,59|  
+ | <a id="RF30" href="#anchor_31">RF30</a> | 5 | 5 | 15 | 1,63% | 2	|2,06%	|2	|1,54%	|0,45| 
+ | <a id="RF31" href="#anchor_32">RF31</a> | 9 | 8 | 26 | 2,83% | 1	|1,03%	|1	|0,77%	|1,57|  
+ | <a id="RF32" href="#anchor_33">RF32</a> | 8 | 5 | 21 | 2,26% | 4	|4,12%	|6	|4,62%	|0,26|   
+ | <a id="RF33" href="#anchor_34">RF33</a> | 1 | 1 | 3 | 0,33% | 1	|1,03%	|3	|2,31%	|0,10|  
+ | <a id="RF34" href="#anchor_35">RF34</a> | 9 | 9 | 27 | 2,94% | 1	|1,03%	|1	|0,77%	|1,63| 
+ | <a id="RF35" href="#anchor_36">RF35</a> | 9 | 9 | 27 | 2,94% | 1	|1,03%	|1	|0,77%	|1,63|  
+ | <a id="RF36" href="#anchor_37">RF36</a> | 9 | 9 | 27 | 2,94% | 2	|2,06%	|4	|3,08%	|0,57| 
+ | <a id="RF37" href="#anchor_38">RF37</a> | 8 | 4 | 20 | 2,18% | 1	|1,03%	|3	|2,31%	|0,65| 
+ | <a id="RF38" href="#anchor_39">RF38</a> | 7 | 3 | 17 | 1,85% | 1	|1,03%	|1	|0,77%	|1,03|  
+ | <a id="RF39" href="#anchor_40">RF39</a> | 9 | 9 | 27 | 2,94% | 1	|1,03%	|1	|0,77%	|1,63|  
+ | <a id="RF40" href="#anchor_41">RF40</a> | 7 | 7 | 21 | 2,29% | 3	|3,09%	|3	|2,31%	|0,42|
+ | <a id="RF41" href="#anchor_42">RF41</a> | 5 | 7  | 17 | 1,85% | 2	|2,06%	|2	|1,54%	|0,51| 
+ | <a id="RF42" href="#anchor_43">RF42</a> | 6 | 4 | 16 | 1,74% | 1	|1,03%	|4	|3,08%	|0,42| 
+ | <a id="RF43" href="#anchor_44">RF43</a> | 9 | 9 | 27 | 2,94% | 4	|4,12%	|6	|4,62%	|0,34| 
+ | <a id="RF44" href="#anchor_45">RF44</a> | 9 | 9 | 27 | 2,94% | 6	|6,19%	|6	|4,62%	|0,27| 
+ | <a id="RF45" href="#anchor_46">RF45</a> | 9 | 7 | 25 | 2,72% | 2	|2,06%	|2	|1,54%	|0,76|  
+ | <a id="RF46" href="#anchor_47">RF46</a> | 3 | 3 | 9 | 0,98% | 2	|2,06%	|1	|0,77%	|0,35|  
+ | <a id="RF47" href="#anchor_48">RF47</a> | 9 | 8 | 26 | 2,83% | 3	|3,09%	|4	|3,08%	|0,46|  
+ | **Total** | 332 | 255 | 919 | 100% | 97 |100%	|130	|100%	|31,08|
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
 
 
-## Gravação
+## Gravação da técnica First Things First
 
-Abaixo é onde se encontra a gravação da técnica.
-[Link](https://youtu.be/H8lFp5S03gk)
+Para a elaboração desta técnica, foram feitas duas gravações. A primeira, presente no vídeo 1, foi realizada com o cliente; e a segunda parte, que está no vídeo 2, foi feita com o desenvolvedor.
+
+- Caso não consiga assistir dentro da gitPages, [Clique aqui para assistir a elaboração da técnica com o cliente](https://youtu.be/A-0zXLsl0Mw)
+  
+**Vídeo 1** - elaboração da técnica com o cliente.
+  
+<iframe width="560" height="315" src="https://youtu.be/A-0zXLsl0Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques).</p></font>
+
+
+- Caso não consiga assistir dentro da gitPages, [Clique aqui para assistir a elaboração da técnica com o desenvolvedor](https://youtu.be/3XISq-vDI6M)
+
+**Vídeo 2** - elaboração da técnica com o desenvolvedor.
+  
+<iframe width="560" height="315" src="https://youtu.be/3XISq-vDI6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques).</p></font>
+
 
 ## Bibliografia
 
@@ -181,3 +204,4 @@ Abaixo é onde se encontra a gravação da técnica.
 | `1.2`  | 01/12/2023  | Adicionando tabela do FTF | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.3`  | 01/12/2023  | Adição dos novos requisitos elicitados | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 02/12/2023  | Adição na tabela dos resultados obtidos com a persona  | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
+| `1.5`  | 03/12/2023  | Add o resultado com o desenvolvedor e add os vídeos da técnica | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
