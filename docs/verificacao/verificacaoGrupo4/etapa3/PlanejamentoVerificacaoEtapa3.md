@@ -220,7 +220,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
 
-> <a id="REF3" href="#anchor_3">[3].</a> ORLANDO, Mateus . 2023.2-e-Título. Verificação grupo + 1 - Léxicos. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3.md. Acesso em: 23 de novembro de 2023.
+> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
 ## Hitórico de versão
 
