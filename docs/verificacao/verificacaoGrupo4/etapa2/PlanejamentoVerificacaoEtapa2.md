@@ -124,8 +124,8 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| PU1 | O artefato demonstra os resultados por meio de gráficos/figuras/tabelas? |  |  |
-| PU2 | O artefato explica os resultados? |  |  |
+| PU1 | O artefato demonstra os resultados obtidos por meio de gráficos/figuras/tabelas? |  |  |
+| PU2 | O artefato explica os resultados obtidos? |  |  |
 | PU3 | O artefato possui a definição do usuário? |  |  |
 | PU4 | O perfil de usuário identifica características de interesse como cargo, experiência, faixa etária, gênero, principais tarefas realizadas, entre outras?  <a id=anchor_1 href="#REF1">[1]</a> |  |  |
 | PU5 | O artefato apresenta as ferramentas utilizadas para a realização do Perfil do Usuário? |  |  |
@@ -135,7 +135,7 @@ Fonte: Maria Barbosa, 2023.
 | PU9 | Foi definido prazo para que o questionário/entrevista fosse realizado?  <a id=anchor_2 href="#REF2">[2]</a> |  |  |
 | PU10 | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários? <a  id=anchor_21 href="#REF2">[2]</a> |  |  |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -223,10 +223,10 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | P3 | O artefato possui persona primária ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | P4 | O artefato possui antipersona ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
-| P6 | O artefato possui uma conclusão? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
-| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| P6 | O artefato possui uma conclusão? |  |  |
+| P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas?  |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: ORLANDO, Mateus; BARBOSA, Maria. 2023.
 
 </center>
 
@@ -357,15 +357,23 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 > BilheteriaDigital. GitHub, 2023. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 
-
-
-## Referência Bibliográfica
+## Referência Bibliográfica do Perfil de usuário
 
 > <a id="REF1" href="#anchor_1">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega2/verificacao-perfil-de-usuario/#anchor_2. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF3" href="#anchor_3">[3]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
+
+## Referência Bibliográfica de Personas
+
+> <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
+
+## Referência Bibliográfica
 
 > <a id="REF4" href="#anchor_4">[4]</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
@@ -385,8 +393,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
 
 > <a id="REF12" href="#anchor_12">[12].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
-
-> <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
 > <a id="REF14" href="#anchor_14">[14]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - Storytelling. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/storytelling. Acesso em: 24 nov, 2023.
 
@@ -422,3 +428,5 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 | `1.4`  | 25/11/2023 | Adicionando itens na tabela de brainstorming e questionário e acrescentando referências bibliográficas e bibliografia das tabelas. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques](https://github.com/EduardaSMarques) |
 | `1.5`  | 25/11/2023 | Adição do Checklist de Storutelling e Entrevista. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
 | `1.6`  | 28/11/2023 | Adição das referências do Checklist de  Personas. | [Mateus Orlando](https://github.com/MateusPy) | -- |
+| `1.7`  | 03/11/2023 | Alterando os itens do cheklist de Perfil de usuário e colocando link para referência de imagens em Referência Bibliográfica do Perfil de usuário e personas | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
+

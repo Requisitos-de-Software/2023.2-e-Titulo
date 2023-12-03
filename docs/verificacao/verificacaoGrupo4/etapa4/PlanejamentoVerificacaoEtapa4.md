@@ -133,12 +133,12 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+| BL1 | No Backlog há a participação do cliente e/ou persona na elicitação de requisitos? <a  id=anchor_5 href="#REF4">[5]</a> |  |  |
+| BL2 | O Backlog possui épicos e temas bem definidos e descritos? <a  id=anchor_5 href="#REF4">[5]</a>  |  |  |
+| BL3 | No Backlog os itens do backlog estão priorizados com base em critérios claros? |  |  |
+| BL4 | No Backlog há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
 | BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_4 href="#REF4">[4]</a> |  |  |
-| BL6 | Existe a linkagem para o artefato de histórias de usuário? |  |  |
+| BL6 | Existe a linkagem para o artefato de histórias de usuário? <a  id=anchor_5 href="#REF4">[5]</a>  |  |  |
 | BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? |  |  |
 
 Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
@@ -174,6 +174,8 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
+
+
 ## Referência Bibliográfica
 
 > <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
@@ -182,7 +184,15 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
 
+## Referência Bibliográfica do Backlog
+
 > <a id="REF4" href="#anchor_4">[4]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF4" href="#anchor_4">[5]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega4/verificacao-pdbacklog/. Acesso em: 23 de novembro de 2023.>
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
+
+
 
 ## Histórico de Versões
 
@@ -191,3 +201,4 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2`  | 25/11/2023 | Adicionando itens na tabela de histórias de usuário e NFR Framework e acrescentando referências bibliográficas e bibliografia das tabelas. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques](https://github.com/EduardaSMarques) |
+| `1.3`  | 03/11/2023 | Alterando os itens do cheklist de Backlog e colocando link para referência de imagens em Referência Bibliográfica do Backlog | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
