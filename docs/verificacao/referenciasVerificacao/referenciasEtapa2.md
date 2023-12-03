@@ -309,17 +309,57 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [12] | No artefato há a participação do cliente e/ou persona? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "[12]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/1TLS.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [12] |No artefato as três categorias de prioridade estão claramente definidas? <br> No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência? <br> No artefato a ordem dos níveis de prioridade segue uma lógica clara? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[12]". 
+
+<td><img src=./imgs/2TLS.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [12] | No artefato há a rastreabilidade dos requisitos elicitados? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[12]". 
+
+<td><img src=./imgs/2$100.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [12] | No artefato há a gravação e o registro da atividade de priorização dos requisitos? <br> O artefato possui gravação da dinâmica ? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[12]". 
+
+<td><img src=./imgs/3$100.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
