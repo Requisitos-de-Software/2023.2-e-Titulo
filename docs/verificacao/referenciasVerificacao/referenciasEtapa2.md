@@ -287,17 +287,111 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [10]  | O artefato tem a participação do cliente ou persona na priorização dos requisitos? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "[10]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/1TLS.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | O artefato possui a gravação e registro da atividade de priorização dos requisitos? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/3$100.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/3FTF.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/4FTF.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | O artefato foi validado por partes relevantes antes de sua finalização? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/5FTF.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | O artefato é acompanhado por documentação explicativa quando necessário? <br> 	É possível rastrear as origens e alterações feitas no artefato? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/6FTF.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | As partes interessadas tiveram a oportunidade de fornecer feedback?  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/7FTF.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+| ID | Pergunta | 
+| ---| -------- |
+| [10] | Os indentificadores possuem likagem de rastreabilidade? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[10]". 
+
+<td><img src=./imgs/2$100.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
