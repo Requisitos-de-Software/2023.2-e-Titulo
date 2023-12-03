@@ -1,4 +1,4 @@
-5# Backward From
+# Backward From
 
 ## Introdução
 Neste documento, exploraremos a abordagem "Backward From" na elicitação de requisitos, que nos leva do resultado desejado às raízes dos requisitos. Diferente das metodologias convencionais, essa técnica oferece uma compreensão mais profunda do contexto e das variáveis que influenciam os requisitos. Este artefato busca uma abordagem inovadora na engenharia reversa de requisitos, revelando as camadas subjacentes de necessidades para construir uma base sólida utilizando o método de rastreabilidade backward from descritos no Slide "Requisitos-Aula 26" <a id=anchor_1 href="#REF1">[1]</a> da Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
