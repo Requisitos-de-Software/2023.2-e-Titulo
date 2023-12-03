@@ -323,12 +323,12 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? <a id="anchor_101" href="#REF10">[10].</a> |  |  |
 | FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona? <a id="anchor_102" href="#REF10">[10].</a> |  |  |
 | FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? <a id="anchor_103" href="#REF10">[10].</a> |  |  |
-| FTF5 | O artefato foi validado por partes relevantes antes de sua finalização?  <a id="anchor_11" href="#REF11">[11].</a> |  |  |
-| FTF6 | O artefato é acompanhado por documentação explicativa quando necessário?  <a id="anchor_112" href="#REF11">[11].</a> |  |  |
-| FTF7 | É possível rastrear as origens e alterações feitas no artefato?  <a id="anchor_113" href="#REF11">[11].</a> |  |  |
-| FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback?  <a id="anchor_114" href="#REF11">[11].</a> |  |  |
+| FTF5 | O artefato foi validado por partes relevantes antes de sua finalização?  <a id="anchor_11" href="#REF11">[10].</a> |  |  |
+| FTF6 | O artefato é acompanhado por documentação explicativa quando necessário?  <a id="anchor_112" href="#REF11">[10].</a> |  |  |
+| FTF7 | É possível rastrear as origens e alterações feitas no artefato?  <a id="anchor_113" href="#REF11">[10].</a> |  |  |
+| FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback?  <a id="anchor_114" href="#REF11">[10].</a> |  |  |
 | FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
-| FTF6 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
+| FTF6 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_114" href="#REF11">[10].</a> |  |  |
 | FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
@@ -375,9 +375,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="REF7" href="#anchor_7">[7]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF9" href="#anchor_9">[9].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+> <a id="REF9" href="#anchor_9">[9].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
-> <a id="REF10" href="#anchor_10">[10].</a> MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
+> <a id="REF10" href="#anchor_10">[10].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 > <a id="REF11" href="#anchor_11">[11].</a> GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
 de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
