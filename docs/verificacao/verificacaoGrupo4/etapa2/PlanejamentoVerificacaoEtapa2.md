@@ -148,13 +148,13 @@ Fonte: Maria Barbosa, 2023.
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="anchor_9" href="#REF9">[9].</a>  |  |  |
-| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="anchor_8" href="#REF8">[8].</a> |  ||
+| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="anchor_8" href="#REF8">[9].</a> |  ||
 | $3 | O artefato possui link para as ferramentas utilizadas?  <a id="REF9" href="#anchor_91">[9].</a>  |  |  |
 | $4 | Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação?  <a id="anchor_92" href="#REF9">[9].</a>  |  |  |
 | $5 | O processo de priorização considerou as interdependências entre os requisitos?  <a id="anchor_93" href="#REF9">[9].</a>  |  |  |
 | $6 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="anchor_94" href="#REF9">[9].</a>  |  |  |
-| $7 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_81" href="#REF8">[8].</a> |  |  |
-| $8 | O artefato possui gravação da dinâmica ?  <a id="anchor_82" href="#REF8">[8].</a> |  |  |
+| $7 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_81" href="#REF8">[9].</a> |  |  |
+| $8 | O artefato possui gravação da dinâmica ?  <a id="anchor_82" href="#REF8">[9].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -374,8 +374,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 > <a id="REF6" href="#anchor_6">[6]</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
 > <a id="REF7" href="#anchor_7">[7]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
-
-> <a id="REF8" href="#anchor_8">[8].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
 
 > <a id="REF9" href="#anchor_9">[9].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
