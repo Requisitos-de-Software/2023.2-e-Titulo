@@ -406,7 +406,7 @@ Tabela 3 - Elos de rastreabilidade.
 
 > LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: <https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf>. Acesso em: 15 Novembro. 2023.
 
-# Referências
+## Referências
 
 > <a id="REF1" href="#anchor_1">[1]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 15 Novembro. 2023.
 
