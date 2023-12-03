@@ -153,13 +153,14 @@ Tabela 9 - Requisitos Não-Funcionais
 
 | ID | Descrição    | 
 | -- | --- | 
-| CONF01 |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
-| CONF02 | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
-| DES01 | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
-| SUP03 | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
-| CONF03 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. | 
-| CONF04 | O usuário deve poder alterar os seus dados pessoais caso desejar. |
-| CONF05 | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+| <a id=anchor_c1 href="#REF1">CONF01</a> |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
+| <a id=anchor_c2 href="#REF2">CONF02</a> | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+| <a id=anchor_d1 href="#REF3">DES01</a> | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+| <a id=anchor_s3 href="#REF4">SUP03</a> | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
+| <a id=anchor_c3 href="#REF5">CONF03</a> | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. | 
+| <a id=anchor_c4 href="#REF6">CONF04</a> | O usuário deve poder alterar os seus dados pessoais caso desejar. |
+| <a id=anchor_c5 href="#REF7">CONF05</a> | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+
 
 Fonte: BARBOSA, maria. 2023. 
 
@@ -205,7 +206,8 @@ Fonte: Maria Eduarda Marques. 2023.
   
 ### NFR02 - Confiabilidade
 
-Foi utilizados os requisitos , para a realização do SIG.
+Foi utilizados os requisitos <a id="REF1" href="#anchor_c1">CONF01</a>, <a id="REF2" href="#anchor_c2">CONF02</a>, <a id="REF3" href="#anchor_d1">DES01</a> e <a id="REF4" href="#anchor_s3">SUP03</a>, para a realização do SIG de confiabilidade com e sem impactos.
+
 
 #### Sem impactos propagados
 
@@ -235,7 +237,8 @@ Fonte: BARBOSA, maria. 2023.
 
 ### NFR03 - Segurança
 
-Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
+Foi utilizado os requisitos <a id="REF5" href="#anchor_c3">CONF03</a>, <a id="REF6" href="#anchor_c4">CONF04</a> e <a id="REF7" href="#anchor_c5">CONF05</a>  para a criação do SIG de segurança com e sem impactos.
+
 
 #### Sem impactos propagados
 
