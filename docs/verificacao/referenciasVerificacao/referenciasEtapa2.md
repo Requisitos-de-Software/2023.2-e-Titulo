@@ -90,7 +90,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Imagem X - Imagem da pergunta "[9]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/1$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -104,7 +104,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Imagem X - Imagem da pergunta "[9]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -118,7 +118,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Imagem X - Imagem da pergunta "[9]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/3$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
