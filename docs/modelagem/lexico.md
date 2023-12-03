@@ -264,3 +264,4 @@ Fonte: BARBOSA, Maria. 2023.
 | `1.7` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `1.8`  | 01/11/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos L06 até L10| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 
+corrigir
