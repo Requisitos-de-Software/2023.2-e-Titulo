@@ -22,8 +22,6 @@ Os participantes desta verificação da etapa 2 são:
 - [João Victor](https://github.com/jvcostta)
 - [Mariiana Siqueira](https://github.com/Maryyscreuza)
 
-
-
 ## Imagens das Referências
 
 As imagens das referências estão seguindo os padrões específicos de cada artefato.
@@ -38,7 +36,7 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 
 | ID | Pergunta | 
 | ---| -------- |
-| **Número de indêtificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
+| **Número de indêntificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -106,17 +104,19 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [4]  |  <br> - O artefato possui as Palavras-chave usadas na sessão de Brainstorming? <br> - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <br> |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: SIQUEIRA, Neris. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 1 - Imagem das perguntas "[4]". 
 
 <td><img src=./imgs/---></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+| ID | Pergunta | 
+| ---| -------- |
+| [B1]  | (PERGUNTA(S) |
 
 </center>
 
