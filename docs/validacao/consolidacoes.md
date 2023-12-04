@@ -21,12 +21,12 @@ Logo após essa parte, foi realizado gravações das consolidações. E abaixo d
  
 | Responsável pela inspeção | Responsável pelo artefato | Artefato |
 | ----------- | -------- | -------- | 
-| Maria Marques | João Costa e Mateus Orlando | Forward-from |
-| Maria Barbosa | Maria marques | Cronograma |
-| Esther Sena |  Maria Marques e  Mariiana Siqueira | $100 |
-| Mariiana Siqueira | João Costa e Mateus Orlando | Histórias de usuário |
-| João Costa |  |  |
-| Mateus | Esther Sena e Maria Barbosa | Entrevista |
+| Maria marques | João e Mateus | Forward-from |
+| Maria Barbosa | Maria marques | cronograma |
+|  [Esther Sena](https://github.com/esmsena) |  [Maria Marques ](https://github.com/EduardaSMarques) e  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [100$](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/%24100.md) |
+| Mary | João e Mateus | histórias de usuário |
+| João | Mateus | Casos de uso |
+| Mateus | Esther e Madu | Entrevista |
 
 Fonte: Maria barbosa, 2023.
 
@@ -127,15 +127,16 @@ A consolidação feita por Mariiana Siqueira com os autores João Costa e Mateus
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+| João Costa e Mateus | 28/11/2023 | 20:00 | Casos de uso | Teams |
+
+
+Caso nao consiga assistir, [Clique aqui](https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
-
-
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
-
+Em primeira análise, o artefato não possui tópicos de "introdução" e "objetivo" assim como deveria ser de acordo com a metodologia citada no projeto. Porém essas informações estão contidas nos tópicos de "conceito" e "metodologia. Foi abordado também o fato de que as fontes das tabelas não possuem data, saindo assim da norma ABNT. Por fim pode-se concluir que o artefato foi bem desenvolvido, faltando apenas detalhes para uma melhor entrega.
 
 ### Gravação 6
 

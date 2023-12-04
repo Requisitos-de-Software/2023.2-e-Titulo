@@ -246,7 +246,7 @@ Fonte: SENA, Esther, 2023.
 
 </center> 
 
-### Entrevista 4
+### Entrevista 3
 
 O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
 
@@ -254,11 +254,11 @@ O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com 
 
 <font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
 
-#### Respostas do protótipo 6
+#### Respostas do protótipo 5
 
 <center>
-
-**Tabela 10** -  respostas obtidas no protótipo 6.
+  
+**Tabela 10** -  respostas obtidas no protótipo 5.
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
@@ -273,13 +273,48 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center> 
 
-#### Conclusão da entrevista 4
+#### Conclusão da entrevista 3
 
 - Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário deve realizar download da comprovação de sua justificativa. A entrevistada achou bastante pertinente a disponibilização dessa opção de download dentro do aplicativo, pois acredita que facilitaria a sua vida quando for necessário apresentar essa justificativa em algum local  como por exemplo, no trabalho.
 
-## Conclusão
+  
+  ### Entrevista 4
 
+O vídeo abaixo apresenta a entrevista com a entrevistada Gustavo Marocolo e com o entrevistador [João Costa.](https://github.com/jvcostta) de validação da funcionalidade não implementada de:  O usuário deve ser capaz de acompanhar a apuração de votos.
 
+A seguir, o vídeo da entrevista apresentando o protótipo para o usuário.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+
+Caso não consiga assistir, [Clique aqui](https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP)
+  
+ </center>
+   
+#### Respostas do protótipo 6
+
+<center>
+  
+**Tabela 3** -  Perguntas para a entrevista.
+ 
+| Numeração da pergunta | Pergunta | Respostas |
+| -- | ----------- | -------------- |
+| 1  | Sim |
+| 2 | Estrutura bem desenvolvida, de fácil entendimento. | 
+| 3 | Simbolos das regiões (norte, sul...) |
+| 4 | Sim, importante |
+| 5 | Sim, assim fica fácil fazer o acompanhamento das apurações. |
+| 6 | Ao invés da simbologia da região, seria bom ter a foto do candidato. |
+
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+</center>
+
+#### Conclusão da entrevista 4
+
+- Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário achou viável retirar simbolos de representação das regiões. Entretanto, acredita ser uma funcionalidade importante a ser implementada.
 
 ## Bibliografia
 
@@ -301,4 +336,5 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | `1.4`  | 28/11/2023 | Add respostas obtidas no protótipo 2 da entrevista 1, adicionado o Protótipo 1 e atualizado o cronograma da entrevista 1 | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.5`  | 28/11/2023 | Adicionando o Protótipo 3 e 4 e atualizado o cronograma da entrevista 2 e adicionando respostas obtidas no protótipo 3 e protótipo 4 da entrevista 2. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.6`  | 28/11/2023 | Adicionando protótipo 6 e o vídeo da entrevista de validação do mesmo. | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.7` | 30/11/2023 | Add entrevista 4 |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
 

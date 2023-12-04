@@ -196,12 +196,12 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
 | F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF54" href="#anchor_54">54</a> |  |  |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de vídeos? |  |  |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
-| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
+| F4 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
+| F6 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F8 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
+| F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
 
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
@@ -250,7 +250,7 @@ S
 
 > <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-> <a id="anchor_53" href="#REF53">53.</a>2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
+> <a id="anchor_53" href="#REF53">53.2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
 
 > <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 

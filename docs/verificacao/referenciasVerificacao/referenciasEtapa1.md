@@ -125,11 +125,22 @@ Fonte: BARBOSA, Maria. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| M1 | O artefato apresenta as metodologias para o desenvolvimento da disciplina? |
+| M2 | A razão pela qual as metodologias foram escolhidas é discutida no artefato? | 
+| M3 | O artefato descreve as metodologia de maneira concisa e de fácil entendimento?| 
+| M4 | O artefato apresenta a política e estrutura de commits? | 
+| M5 | O artefato apresenta a política e estrutura de branchs? | 
+| M6 | O artefato apresenta a política e estrutura para o desenvolvimento dos artefatos da disciplina ? | 
+| M7 | O artefato apresenta a política e estrutura para a criação de issues ? |
+| M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-- Como metodologia se trata de um artefato simples e com enfoque na diciplina, as perguntas foram feitas com base nas estruturas dos documentos de semestres passados.
+**Imagem X** - Imagem das perguntas M1, M3, M4 e M5
+
+<td><img src=./imgs/a3.jpeg></td> 
+
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 
@@ -137,19 +148,27 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
 <center>
 
+**Tabela x** - Perguntas e Imagens para as perguntas das Ferramentas.
+
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |
+| F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? | 
+| F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? | 
+| F5 | Foi escolhida uma ferramenta adequada para reuniões? |
+| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |
+| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? |
+| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? |
+| F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? |
+| F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem X** - Imagem das perguntas F2, F4, F6, F7
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/a2.jpeg></td> 
 
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 

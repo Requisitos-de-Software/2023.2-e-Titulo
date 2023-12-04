@@ -416,10 +416,10 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 
 > <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
-  
 ## Referências Bibliografia de $100
 
-
+> <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/elicitacao/instrospec%C3%A7%C3%A3o/. Acesso em: 24 de novembro de 2023.
+  
 > <a id="REF11" href="#anchor_11">[11].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
 
 > <a id="REF21" href="#anchor_21">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
@@ -463,5 +463,5 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 | `1.5`  | 25/11/2023 | Adição do Checklist de Storutelling e Entrevista. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
 | `1.6`  | 28/11/2023 | Adição das referências do Checklist de  Personas. | [Mateus Orlando](https://github.com/MateusPy) | -- |
 | `1.7`  | 03/11/2023 | Alterando os itens do cheklist de Perfil de usuário e colocando link para referência de imagens em Referência Bibliográfica do Perfil de usuário e personas | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
-
+| `1.8` | 04/12/2023 | Ajustando referências |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
 
