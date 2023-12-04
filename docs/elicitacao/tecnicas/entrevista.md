@@ -1,6 +1,6 @@
 # Entrevista
 
-## Introdução
+## Introdução 
 
 Neste artefato será abordado a técnica de entrevista que é muito importante no decobrimento de informações detalhadas dos requisitos de software diretamente dos stakeholders. 
 
@@ -16,21 +16,24 @@ A entrevista foi realizada de forma estruturada, que é baseada em perguntas já
 
 As gravações das entrevistas podem serem visualizadas nos links [entrevista 1](https://youtu.be/WXOG8QaRswY) e [entrevista 2 ](https://youtu.be/Plv7-4JBWgo) ou no final deste artefato, o cronograma da entrevista pode ser conferida na tabela 1:
 
-Tabela 1 -  cronograma das entrevistas
+<center>
+
+**Tabela 1** -  cronograma das entrevistas
  
 | Identificador da entrevista | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- |
 | Entrevista 1 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:00 | Raphael Mendes | Pelo Teams |
 | Entrevista 2 |  Maria Eduarda Barbosa e Esther Sena   | 02/10/2023 | 21:40 | Anthony Tavares | Pelo Teams |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
+</center>
 
 Para desenvolver as perguntas nas entrevistas, foi utilizado a metodologia 5W2H que é uma técnica que ajuda no gerenciamento de um projeto, guiando na descoberta de informações importantes de uma tarefa ou projeto, a descoberta é realizada por meio da responsta de 7 perguntas presentes na tabela 2. 
 
 <center>
  
-Tabela 2 -  Acrônimos da técnica 5W2H
+**Tabela 2** -  Acrônimos da técnica 5W2H
  
 | Acrônimo | Pergunta |
 | -------- | -------- |
@@ -42,13 +45,15 @@ Tabela 2 -  Acrônimos da técnica 5W2H
 | How      | Como     |
 | How much | Quanto   |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 </center>
 
 ## Perguntas feitas na entrevista utilizando a técnica 5W2H:
 
-Tabela 3 -  Perguntas para entrevista
+<center>
+
+**Tabela 3** -  Perguntas para entrevista
 
 | Tipo          | Perguntas       |
 | ------------- | --------------- |
@@ -60,7 +65,9 @@ Tabela 3 -  Perguntas para entrevista
 | How(Como): | 6. Como você descreveria sua experiência geral ao usar o aplicativo e-Título para acessar seus dados eleitorais e realizar serviços relacionados à sua situação eleitoral? <br> 7. Como você avaliaria a usabilidade do aplicativo e-Título em termos de facilidade de navegação, clareza das informações e acessibilidade?<br> 8. Você já teve a necessidade de buscar informações adicionais ou suporte ao usar o aplicativo? Se sim, como foi sua experiência com o suporte ao cliente ou canais de ajuda disponíveis?<br> 9. Você já encontrou algum desafio ou dificuldade ao usar o e-Título? Se sim, poderia compartilhar alguns exemplos e como você lidou com eles? <br>|
 | How Much (Quanto): | 10. Em sua opinião, quanto a facilidade de acesso ao e-Título influencia na participação cívica e no envolvimento dos cidadãos no processo eleitoral?<br> 11. Quanto a utilização do e-Título tem potencial para otimizar a eficiência dos procedimentos eleitorais no geral? |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
+
+</center>
 
 Não utilizamos todos os tipos de perguntas da técnica 5W2H, por não haver necessidades, e também pela questão estratégica já que se tivesse muitas perguntas poderia ser desmotivador e cansativo para o entrevistado.
 
@@ -93,6 +100,8 @@ Logo após realizam a elicitação de requisitos presentes nas tabelas 7 e 8 com
 ## Dados Demográficos
 
 Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados demográficos obtidos. Os quais servirão para a compreenção do tipo de usuário que participou da entrevista.
+
+<center>
 
 <table>
      <p>
@@ -130,7 +139,9 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
   
 </table>
 
-<p> Fonte: Autoria própria, 2023. </p>
+<p> Fonte:  BARBOSA, Maria; SENA, Esther. 2023. </p>
+
+</center>
 
 
 ## Respostas coletadas na entrevista utilizando a técnica 5W2H:
@@ -193,7 +204,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
       </tbody>
    </table>
     <div style="text-align: center">
-      <p>Fonte: Autoria própria, 2023.</p>
+      <p>Fonte:  BARBOSA, Maria. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -258,29 +269,52 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
       </tbody>
    </table>
     <div style="text-align: center">
-      <p>Fonte: Autoria própria, 2023.</p>
+      <p>Fonte: SENA, Esther. 2023.</p>
    </div>
 </details>
     
 
 ## Entrevista 1:
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/Plv7-4JBWgo)
+
+<center>
+
+**Vídeo 1** - Entrevista 1.
+
 <iframe width="560" height="315" src="https://youtu.be/Plv7-4JBWgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
+
+</center>
 
 ## Entrevista 2:
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/WXOG8QaRswY)
+
+<center>
+
+**Vídeo 2** - Entrevista 2.
+
 <iframe width="560" height="315" src="https://youtu.be/WXOG8QaRswY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Fonte: BARBOSA, Maria; SENA, Esther. 2023.
+
+</center>
 
 ## Requisitos elicitados
 
 ### Legenda
 
-- ENTx: Entrevista nºx
+- ENTx: nºx do Requisito funcional em Entrevista
+- ENTNx: nºx do Requisito não funcional em Entrevista
 - RFx: Requisito funcional nºx
 - RNFx: Requisito não funcional nºx
 - Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
-Tabela 7 - requisitos funcionais
+<center>
+
+**Tabela 7** - requisitos funcionais
 
 | ID | Descrição   | Código | Implementado |
 | -- | --- | -- | --- |
@@ -288,17 +322,20 @@ Tabela 7 - requisitos funcionais
 | ENT2 | O usuário deve conseguir logar com a biometria digital no aplicativo | RF2 | Sim |
 | ENT3 | O usuário deve poder conseguir visualizar os dados de seu título eleitoral | RF3 | Sim |
 | ENT4 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | RF4 | Sim |
-| ENT5 | No aplicativo deve ser possível que o usuário visualize a sua situação da quitação eleitoral | RF5 | -- |
+| ENT5 | No aplicativo deve ser possível que o usuário visualize a sua situação da quitação eleitoral | RF5 | Sim |
 | ENT6 | O aplicativo deve disponibilizar a localização do local da votação para o usuário | RF6 | Sim |
 | ENT7 | O aplicativo deve notificar o horário da votação para o usuário | RF7 | Não |
 | ENT8 | Deve ser possível o usuário acompanhar a apuração de votos | RF8 | Não |
 | ENT9 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | RF9 | Não |
 
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
+</center>
 
-Tabela 8 - requisitos não funcionais
+<center>
+
+**Tabela 8** - requisitos não funcionais
 
 | ID | Descrição   | Código | Implementado |
 | -- | --- | -- | --- |
@@ -308,19 +345,20 @@ Tabela 8 - requisitos não funcionais
 | ENTNF4 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | RNF4 | Sim |
 | ENTNF5 | O aplicativo deve oferecer suporte ao usuário | RNF5 | Sim |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
+
+</center>
 
 
 # Bibliografia
 
 > Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades>. Acesso em: 27 setembro de 2023. </br>
 
-> Simplenote. Disponivel em: <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023. </br>
 
-> Repositório do aplicativo Lichess dentro de Requisitos-de-software. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
+> Simplenote. 2023. Disponivel em: <https://requisitos-de-software.github.io/2023.1-Simplenote/elicitacao/entrevista/> Acesso em: 27 setembro de 2023. </br>
 
-> Guia facetado de técnicas elicitação de requisitos. Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista> Acesso em: 02 de outubro de 2023.</br>
-
+> Lichess. GitHub. 2023. Disponível em: <https://github.com/Requisitos-de-Software/2022.2-Lichess/blob/main/docs/elicitacao/entrevista.md>. Acesso em: 30 setembro de 2023.</br>
 
 ### Histórico de versão
 
@@ -330,4 +368,5 @@ Fonte: Autoria própria, 2023.
 | 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
+| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) e João Victor Costa |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  [João Costa ](https://github.com/jvcostta)  |

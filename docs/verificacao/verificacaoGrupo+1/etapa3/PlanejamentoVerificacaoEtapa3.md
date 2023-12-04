@@ -154,7 +154,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+**Tabela 2** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -189,16 +189,16 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
-**Tabela 7** - Checklist para os Itens dos léxicos.
+**Tabela 3** - Checklist para os Itens dos léxicos.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |  |  |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 | L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? |  |  |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  |  |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  |  |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**)  <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 | L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  |  |
 | L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  |  |
 
@@ -225,10 +225,16 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 > <a id="REF00000122" href="#anchor_00000122">[00000122]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023.
 
+> <a id="REF03" href="#anchor_03">[03]</a>03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/personas . Acesso em: 24 de novembro de 2023.
+
+> <a id="REF04" href="#anchor_04">[04]</a>03.2023.1-BilheteriaDigital. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega3/lexicos/ . Acesso em: 24 de novembro de 2023.
+
 ## Hitórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist da Verificação de Cenários  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.1`  | 12/11/2023 |  Checklist Geral e Checklist Verificação de Especificação Suplementar.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 12/11/2023 | Adição do Checklist de Léxicos. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
+| `1.3`  | 24/11/2023 | Adição das referências do Checklist de Léxicos. | [Mateus Orlando](https://github.com/MateusPy) | -- |
 

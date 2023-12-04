@@ -189,6 +189,44 @@ Fonte: maria barbosa, 2023.
 
 </center> 
 
+#### Respostas do protótipo 1
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 1.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
+#### Respostas do protótipo 2
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 2.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
 ### Entrevista 2
 
 - Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/pv1ckIClxos)
@@ -299,3 +337,5 @@ Fonte: nome do responsável, 2023.
 | `1.3`  | 28/11/2023 | Add entrevista 1 e respostas obtidas no protótipo 1 da entrevista 1| [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.4`  | 28/11/2023 | Add respostas obtidas no protótipo 2 da entrevista 1, adicionado o Protótipo 1 e atualizado o cronograma da entrevista 1 | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.5`  | 28/11/2023 | Adicionando o Protótipo 3 e 4 e atualizado o cronograma da entrevista 2 e adicionando respostas obtidas no protótipo 3 e protótipo 4 da entrevista 2. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) |
+=======
+
