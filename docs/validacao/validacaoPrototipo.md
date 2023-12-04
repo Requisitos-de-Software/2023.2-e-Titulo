@@ -129,7 +129,6 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo X
 
-
 ## Entrevistas 
 
 ### Entrevista 1
@@ -176,6 +175,44 @@ Fonte: Maria Marques, 2023.
 | 6 | Trocar "Formação" por "Destaques", informando não só a formação mas outros dados do candidato, fazer também um pequeno resuminho do foco da propostas do candidato.  |
 
 Fonte: maria barbosa, 2023.
+
+</center> 
+
+#### Respostas do protótipo 1
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 1.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
+
+</center> 
+
+#### Respostas do protótipo 2
+
+<center>
+
+**Tabela X** -  respostas obtidas no protótipo 2.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+
+Fonte: nome do responsável, 2023.
 
 </center> 
 
@@ -284,3 +321,4 @@ Fonte: nome do responsável, 2023.
 | `1.2`  | 27/11/2023 | Add info na tabela 2 e add protótipo 2 da entrevista 1 | [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.3`  | 28/11/2023 | Add entrevista 1 e respostas obtidas no protótipo 1 da entrevista 1| [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.4`  | 28/11/2023 | Add respostas obtidas no protótipo 2 da entrevista 1, adicionado o Protótipo 1 e atualizado o cronograma da entrevista 1 | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+
