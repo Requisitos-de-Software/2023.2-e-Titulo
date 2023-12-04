@@ -156,26 +156,26 @@ Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O documento adere ao formato FURPS+? |  |  |
-| B2 | Existe uma seção dedicada à funcionalidade no documento? |   |  |
-| B3 | Há uma seção referente à usabilidade no documento? |   |  |
-| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? |  |  |
-| B5 | O documento inclui uma seção abordando a confiabilidade? |  |  |
-| B6 | Os requisitos identificados foram claramente apresentados? |  |  |
-| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? |  |  |
-| B8 | São explicitados requisitos relacionados à segurança no documento? |  |  |
-| B9 | Existe uma seção de desempenho no documento?|  |  |
-| B10 | São apresentados requisitos relacionados aos tempos de resposta? |  |  |
-| B11 | O documento inclui uma seção sobre suportabilidade? |  |  |
-| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? |  |  |
-| B13 | Há uma seção dedicada a restrições de design no documento? |  |  |
-| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?|  |  |
-| B15 | Existe uma seção de requisitos de implementação no documento? |  |  |
-| B16 | Os requisitos apresentados são testáveis? |  |  |
-| B17 | Há uma seção de requisitos de interface no documento? |  |  |
-| B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
-| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
-| B20 | O documento contempla requisitos físicos? |  |  |
+| B1 | O documento adere ao formato FURPS+?  <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento?  <a id="anchor_49" href="#REF49">[49].</a> |   |  |
+| B49 | Há uma seção referente à usabilidade no documento? <a id="anchor_49" href="#REF49">[49].</a> |   |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B6 | Os requisitos identificados foram claramente apresentados? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B9 | Existe uma seção de desempenho no documento? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B11 | O documento inclui uma seção sobre suportabilidade?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B149 | Há uma seção dedicada a restrições de design no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema? <a id="anchor_49" href="#REF49">[49].</a>|||
+| B15 | Existe uma seção de requisitos de implementação no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B16 | Os requisitos apresentados são testáveis? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B17 | Há uma seção de requisitos de interface no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B20 | O documento contempla requisitos físicos? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
 
 
 Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
@@ -221,6 +221,8 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
 > <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
+
+>  <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EspecificaçãoSuplementar. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/. Acesso em: 03 de dezembro de 2023. 
 
 ## Hitórico de versão
 
