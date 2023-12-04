@@ -283,3 +283,6 @@ Fonte: SOBRENOME, nome. 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+
+
+| `1.3`  | 02/12/2023 | Adicoando as imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2(Storytelling e Personas)| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
