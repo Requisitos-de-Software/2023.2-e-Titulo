@@ -156,26 +156,26 @@ Fonte: [João Victor](https://github.com/jvcostta), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O documento adere ao formato FURPS+? |  |  |
-| B2 | Existe uma seção dedicada à funcionalidade no documento? |   |  |
-| B3 | Há uma seção referente à usabilidade no documento? |   |  |
-| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? |  |  |
-| B5 | O documento inclui uma seção abordando a confiabilidade? |  |  |
-| B6 | Os requisitos identificados foram claramente apresentados? |  |  |
-| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? |  |  |
-| B8 | São explicitados requisitos relacionados à segurança no documento? |  |  |
-| B9 | Existe uma seção de desempenho no documento?|  |  |
-| B10 | São apresentados requisitos relacionados aos tempos de resposta? |  |  |
-| B11 | O documento inclui uma seção sobre suportabilidade? |  |  |
-| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? |  |  |
-| B13 | Há uma seção dedicada a restrições de design no documento? |  |  |
-| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema?|  |  |
-| B15 | Existe uma seção de requisitos de implementação no documento? |  |  |
-| B16 | Os requisitos apresentados são testáveis? |  |  |
-| B17 | Há uma seção de requisitos de interface no documento? |  |  |
-| B18 | São descritas as características físicas do ambiente onde o sistema operará? |  |  |
-| B19 | Todos os requisitos mencionados nas seções são passíveis de teste?|  |  |
-| B20 | O documento contempla requisitos físicos? |  |  |
+| B1 | O documento adere ao formato FURPS+?  <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento?  <a id="anchor_49" href="#REF49">[49].</a> |   |  |
+| B49 | Há uma seção referente à usabilidade no documento? <a id="anchor_49" href="#REF49">[49].</a> |   |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B6 | Os requisitos identificados foram claramente apresentados? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B9 | Existe uma seção de desempenho no documento? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B11 | O documento inclui uma seção sobre suportabilidade?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B149 | Há uma seção dedicada a restrições de design no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema? <a id="anchor_49" href="#REF49">[49].</a>|||
+| B15 | Existe uma seção de requisitos de implementação no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B16 | Os requisitos apresentados são testáveis? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
+| B17 | Há uma seção de requisitos de interface no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
+| B20 | O documento contempla requisitos físicos? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
 
 
 Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
@@ -212,20 +212,9 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-
 > <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 > <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
-
-## Hitórico de versão
-
-| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`  | 24/11/2023 | Alterando tabela da especificação suplementar | [Maria Marques ](https://github.com/EduardaSMarques) |[Maria Barbosa](https://github.com/Madu01) | 
-| `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.3`  | 25/11/2023 | Adicionando o checklist Léxico e acrescentado referência bibliográficas e bibliografia da tabela Léxicos.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 
