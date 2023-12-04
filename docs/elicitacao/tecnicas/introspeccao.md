@@ -531,8 +531,6 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INT30 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RF30 |
 | INT31 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RF31 |
 | INT32 | O aplicativo deve permitir que o usuário envie dúvidas.| RF32 |
-| INT33 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RF33 |
-| INT34 |  Deve ser possível o usuário ver o histórico de dados apagados. | RF34 |
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; BARBOSA, Maria. 2023.</p>

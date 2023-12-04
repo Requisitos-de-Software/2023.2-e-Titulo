@@ -144,7 +144,6 @@ Tabela 2 - Requisitos Não Funcionais
 | ------ | ------- | ---------| --------- |
 | QSTNF1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
 | QSTNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
-| QSTNF3 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | RNF3 | Não |
 
 <div style="text-align: center">
 <p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
