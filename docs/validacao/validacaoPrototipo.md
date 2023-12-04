@@ -32,7 +32,7 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
 | Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Teams |
 | Entrevista 2 | Protótipo 3 e Protótipo 4 | Esther Sena Martins e Mariiana Siqueira Neris | 30/11/2023 | 23:00 | Anthony Tavares | Teams |
-| Entrevista 3 | Protótipo 5 |  João Costa | xx/xx/2023 | xx:xx |  | Teams |
+| Entrevista 3 | Protótipo 5 |  João Costa | 30/11/2023 | 09:00 | Gustavo Marocolo  | Teams |
 | Entrevista 4 | Protótipo 6 |  Mateus Orlando | 28/11/2023 | 13:30 | Winniver Castro | Teams |
 
 Fonte: Autores, 2023.
@@ -51,7 +51,7 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O usuário deve visualizar o candidato eleito referente ao ano da votação. | Protótipo 2 | Figma | Maria Marques |
 | [INT15](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) |  O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | Protótipo 3 | Figma | Mariiana Siqueira |
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O aplicativo deve notificar o horário da votação para o usuário | Protótipo 4 | Figma | Esther Sena |
-|  |  | Protótipo 5 | Figma | João Costa |
+| [ENT8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Deve ser possível o usuário acompanhar a apuração de votos | Protótipo 5 | Figma | João Costa |
 | [INT20](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao) | O usuário deve realizar download da comprovação de sua justificativa. | Protótipo 6 | Figma | Matheus Orlando |
 
 
@@ -147,7 +147,9 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 5
 
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=28-119&t=Z9SK8k4KBmMHdsfH-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A2)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCXfHJkukhJwlLwr9Rbx6t%2FUntitled%3Ftype%3Ddesign%26node-id%3D28-119%26t%3DdbuEbPDiZMrCFB4O-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Protótipo 6
 
