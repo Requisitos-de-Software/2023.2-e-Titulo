@@ -31,8 +31,9 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
 | Identificador da entrevista | Identificador dos protótipos | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
 | Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Pelo Teams |
+| Entrevista 2 | Protótipo 3 e Protótipo 4 | Esther Sena Martins e Mariiana Siqueira Neris | 30/11/2023 | 23:00 | Anthony Tavares | Pelo Teams |
 
-Fonte: Maria barbosa, 2023.
+Fonte: Autores, 2023.
 
 </center>
 
@@ -44,10 +45,10 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
  
 | Rastreabilidade do requisito | Descrição do requisito | Identificador do protótipo |  Ferramenta | Responsável |
 | ----------- | -------- | -------- | -------- | -------- | 
-| [INT14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
+| [INT14](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | O usuário deve conseguir escolher o local de partida. | Protótipo 1 | Figma | Maria Barbosa |
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O usuário deve visualizar o candidato eleito referente ao ano da votação. | Protótipo 2 | Figma | Maria Marques |
-| XXXX | XXXX | Protótipo X | Figma | XXXX |
-| XXXX | XXXX | Protótipo X | Figma | XXXX |
+| [INT15](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) |  O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | Protótipo 3 | Figma | Mariiana Siqueira |
+| [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O aplicativo deve notificar o horário da votação para o usuário | Protótipo 4 | Figma | Esther Sena |
 
 Fonte: Autores, 2023.
 
@@ -127,7 +128,17 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 <iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design" width="640" height="480"></iframe> 
 
-### Protótipo X
+### Protótipo 3
+
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1)
+
+<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
+
+### Protótipo 4
+
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1)
+
+<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
 
 ## Entrevistas 
 
@@ -144,7 +155,7 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 1.
+**Tabela 4** -  respostas obtidas no protótipo 1.
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
@@ -163,7 +174,7 @@ Fonte: Maria Marques, 2023.
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 2.
+**Tabela 5** -  respostas obtidas no protótipo 2.
 
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
@@ -218,43 +229,47 @@ Fonte: nome do responsável, 2023.
 
 ### Entrevista 2
 
-(colocar vídeo)
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/pv1ckIClxos)
 
-#### Respostas do protótipo 1
+<iframe width="560" height="315" src="https://youtu.be/pv1ckIClxos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: SENA, Esther; SIQUEIRA, Mariiana, 2023. .</p></font>
+
+#### Respostas do protótipo 3
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 1.
+**Tabela 6** -  respostas obtidas no protótipo 3.
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
+| 1 | Com certeza, muito fácil. |
+| 2 | Acho que a estética bem clean, achei interessante. Também é bem intuitibo,s endo simples e fácil de chegar onde eu buscava. |
+| 3 | Acho que nada, nada me desagradou. |
+| 4 | Agrega ao aplicativo, pois tem tudo a ver com a questão eleitoral, que é a proposta do aplicativo. |
+| 5 | Sim. |
+| 6 | Talvez se o link ficasse um pouco maior ficaria mais legal. |
 
-Fonte: nome do responsável, 2023.
+Fonte: SIQUEIRA, Mariiana, 2023.
 
 </center> 
 
-#### Respostas do protótipo 2
+#### Respostas do protótipo 4
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 2.
+**Tabela 7** -  respostas obtidas no protótipo 2.
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
+| 1 | Sim, bastante intuitiva. |
+| 2 | A opção de poder ativar as notificações, para gerar o lembrete para não esquecer de votar, as informações muito claras também me agradou legal. |
+| 3 | Talvez pudesse estar agregado também o local de votação em alguma parte, mas acredito que esteja em outra aba do aplicativo. |
+| 4 | Agrega muito ao aplicativo, principalmente a opção de ativar as notificações. |
+| 5 | Sim, com certeza. |
+| 6 | A questão do local juntamente com esse, mas sei que essa é a aba do horário de votação. Mas em questão ao horário de votação está perfeita. |
 
-Fonte: nome do responsável, 2023.
+Fonte: SENA, Esther, 2023.
 
 </center> 
 
@@ -321,4 +336,6 @@ Fonte: nome do responsável, 2023.
 | `1.2`  | 27/11/2023 | Add info na tabela 2 e add protótipo 2 da entrevista 1 | [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.3`  | 28/11/2023 | Add entrevista 1 e respostas obtidas no protótipo 1 da entrevista 1| [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.4`  | 28/11/2023 | Add respostas obtidas no protótipo 2 da entrevista 1, adicionado o Protótipo 1 e atualizado o cronograma da entrevista 1 | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.5`  | 28/11/2023 | Adicionando o Protótipo 3 e 4 e atualizado o cronograma da entrevista 2 e adicionando respostas obtidas no protótipo 3 e protótipo 4 da entrevista 2. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) |
+=======
 
