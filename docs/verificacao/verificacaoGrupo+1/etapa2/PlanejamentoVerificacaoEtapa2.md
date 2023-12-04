@@ -67,7 +67,7 @@ A verificação será realizada apartir o dia 10 de novembro de 2023 até dia 12
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação do Brainstorming. | [Esther Sena](https://github.com/esmsena) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Introspecção. | [João Victor](https://github.com/jvcostta) |
-| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | -- |
+| 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Observação. | [Mateus Orlando](https://github.com/MateusPy) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de MoSCoW. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de First Things First. | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 | 10/11/2023 | 12/11/2023 | 13/11/2023 |  Verificação de Three Level Scale. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
@@ -144,11 +144,11 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? |  |  |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? |  |  |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ? <a id="REF03" href="#anchor_03">[03]</a>|  |  |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 | P3 | O artefato possui persona primária ? |  |  |
 | P4 | O artefato possui antipersona ? |  |  |
-| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
+| P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -318,6 +318,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
+## Referência Bibliográfica
+
 > <a id=anchor_0150 href="#REF0150">[0150]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
 
 > <a id="REF444" href="#anchor_444">[444].</a> . REtraining.  Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 12 de novembro de 2023.
@@ -338,6 +340,8 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 > <a id="REF7329990" href="#anchor_7329990">[7329990]</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+> <a id="REF03" href="#anchor_03">[03]</a>03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/personas . Acesso em: 24 de novembro de 2023.
+
 
 ## Histórico de Versões
 
@@ -348,3 +352,5 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | `1.2`  | 12/11/2023 | Adição do conteúdo do Verificação de Entrevista. | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.3`  | 12/11/2023 | Adição do conteúdo do Checklist Verificação do Perfil do Usuário.  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
 | `1.4`  | 12/11/2023 | Adição do conteúdo do Checklist de MoSCoW e Three Level Scale | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.5`  | 12/11/2023 | Adição do Checklist de Observação e Personas. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
+| `1.6`  | 24/11/2023 | Adição das referências do Checklist de Observação e Personas. | [Mateus Orlando](https://github.com/MateusPy) | -- |
