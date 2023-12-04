@@ -62,17 +62,36 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+|  PU4 | O perfil de usuário identifica características de interesse como cargo, experiência, faixa etária, gênero, principais tarefas realizadas, entre outras? |
+| PU7 | O termo de consentimento foi utilizado? |
+| PU9 | Foi definido prazo para que o questionário/entrevista fosse realizado? |
+| PU10 | Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "PU4". 
 
-<td><img src=./imgs/---f></td> 
+<td><img src= ./imgs/perfilUsuarioRef1.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "PU7". (referência presente na página 141)
+
+<td><img src= ./imgs/perfilUsuarioRef2.jpeg></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "PU9". 
+
+<td><img src= ./imgs/perfilUsuarioRef3.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "PU10". 
+
+<td><img src= ./imgs/perfilUsuarioRef4.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 

@@ -57,17 +57,45 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| B2 | Os requisitos presentes estão sendo ligados às suas fontes? |
+| B4 | A metodologia referencia o Meta-modelo proposto por Toranzo? |
+| B5 | As informações rastreadas estão classificadas em quatro níveis: ambiental, organizacional, gerencial e desenvolvimento? |
+| B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? |
+| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "B2". (Referência presente na página 38)
 
-<td><img src=./imgs/---f></td> 
+<td><img src=./imgs/backwardRef1.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "B4". 
+
+<td><img src=./imgs/backwardRef2.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "B5". 
+
+<td><img src=./imgs/backwardRef3.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "B6". 
+
+<td><img src=./imgs/backwardRef4.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "B9". 
+
+<td><img src=./imgs/backwardRef5.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+
 
 </center>
 
