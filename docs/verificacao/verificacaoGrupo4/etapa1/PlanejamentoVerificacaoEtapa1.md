@@ -196,12 +196,12 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
 | F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF54" href="#anchor_54">54</a> |  |  |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de vídeos? |  |  |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
-| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
+| F4 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
+| F6 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F8 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
+| F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
 
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.

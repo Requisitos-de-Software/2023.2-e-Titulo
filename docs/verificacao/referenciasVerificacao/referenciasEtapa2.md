@@ -217,17 +217,19 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| I1 | O processo de elicitação foi devidamente explicado e documentado? | 
+| I2 | Os requisitos elicitados foram classificados corretamente? |
+| I3 | Foram elicitados requisitos que não estão presentes no aplicativo? |
+| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  
+| I5 | Algum usuário participou dessa técnica além dos integrantes do grupo? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem das perguntas de I1 a I4.
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/a5.jpeg></td> 
 
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 </center>
 

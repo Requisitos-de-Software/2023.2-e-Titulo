@@ -81,17 +81,26 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| C1 | O diagrama de caso de uso possui atores?| 
+| C2 | O ator principal está do lado esquerdo do sistema? | 
+| C3 | Os atores estão fora da fronteira do sistema? | 
+| C4 | Os atores interagem com os Casos de Uso corretamente? | 
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? |
+| C6 | Existe limite do sistema? | 
+| C7 | Os casos de uso possuem especificações? | 
+| C8 | Os casos de uso possuem rastreabilidade? | 
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |
+| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | 
 
-Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-<td><img src=./imgs/---></td> 
+Imagem X - Imagem das perguntas C1 a C9
 
-Fonte: SOBRENOME, nome. 2023.
+<td><img src=./imgs/a6.jpeg></td> 
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+
 
 </center>
 
