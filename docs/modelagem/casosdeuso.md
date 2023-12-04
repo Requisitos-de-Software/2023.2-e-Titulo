@@ -1,10 +1,12 @@
 # Casos de Uso
 
-## Conceito
+## Introdução
 
 Casos de uso é uma técnica de modelagem de requisitos que descreve as interações entre um sistema e seus atores (usuários, sistemas externos, etc.). Eles ajudam a identificar e documentar as funcionalidades do sistema a partir de uma perspectiva de alto nível. Cada caso de uso descreve um cenário de interação entre o sistema e um ator, representando o que o sistema faz em resposta a ações do ator. Os diagramas de casos de uso são usados para visualizar esses casos de uso e suas relações, fornecendo uma visão geral do sistema e facilitando a comunicação entre os stakeholders. Em resumo, os casos de uso são uma ferramenta eficaz para capturar e comunicar os requisitos funcionais de um sistema de software.
 
-## Metodologia
+Cabe ressaltar que, em um diagrama de caso de uso, "includes" e "extends" são relações que modelam interdependências entre casos de uso. "Includes" denota uma inclusão de funcionalidade, indicando que o caso de uso base sempre envolve a execução do caso de uso incluído. Por outro lado, "extends" representa uma extensão opcional, permitindo que o caso de uso base seja ampliado pelo caso de uso extensor para acomodar cenários adicionais. Esses relacionamentos são fundamentais para representar de maneira clara as dinâmicas e interações entre os diversos casos de uso em um sistema.
+
+## Metodologia e objetivo
 
 Como já exposto no tópico de Conceito, um diagrama de caso de uso é uma representação visual que resume as interações entre os usuários(atores) e o sistema, destacando suas funcionalidades e o seu comportamento. Ele é composto por atores, que representam os usuários, e casos de uso, que descrevem as ações realizadas pelos usuários e as respostas do sistema. Para criar um caso de uso, frequentemente se utiliza uma persona, como o [Diego Carvalho](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/), para melhor compreender as necessidades e desejos dos usuários finais do sistema. Ao incorporar a persona [Diego Carvalho](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/), criada previamente e disponível na documentação de Personas, em um diagrama de caso de uso, é possível modelar cenários realistas de uso do sistema que levam em consideração as diferentes necessidades e objetivos do tipo de usuário que ela representa. Agora, voltando ao tópico sobre os elementos do diagrama de caso de uso, eles podem ser encontrados na Tabela 1.
 
@@ -17,7 +19,7 @@ A figura 1 representa o diagrama de casos de uso do e-Título.
 <div style="text-align: center">
  <p>Figura 1: Diagrama de Casos de Uso do e-Título.</p>
 </div>
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 ## Legenda
 
@@ -30,7 +32,7 @@ A figura 1 representa o diagrama de casos de uso do e-Título.
 | Casos de Uso (Elipse) | É usada para representar os casos de uso no diagrama. Um caso de uso descreve uma funcionalidade ou uma ação específica que o sistema pode realizar em resposta às interações dos atores. A elipse contém o nome do caso de uso | <figure class="usecaseElement" style="width: 30%; display: flex;">![Elipse](../assets/casosdeUso/elipse.png)</figure>
 | Relações (Setas) | As flechas são usadas para representar as relações ou interações entre atores e casos de uso | <figure class="usecaseElement" style="width: 30%; display: flex;">![Setas](../assets/casosdeUso/setas.png)</figure>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 ## Casos de Uso
 
@@ -51,7 +53,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 23/10/2023 |
 | Rastreabilidade | INT19 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 3: Visualizar Título</p></font>
 
@@ -70,7 +72,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 23/10/2023 |
 | Rastreabilidade | INT5 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 4: Verificar Local de Votação</p></font>
 
@@ -87,7 +89,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 23/10/2023 |
 | Rastreabilidade | BS5 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 5: Emitir Certidão de Quitação Eleitoral</p></font>
 
@@ -105,7 +107,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 21/10/2023 |
 | Rastreabilidade | ENT4 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 6: Receber Notificação</p></font>
 
@@ -122,7 +124,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 22/10/2023 |
 | Rastreabilidade | BS6 |
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 7: Acessar Ajuda</p></font>
 
@@ -142,7 +144,7 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 | Data de Criação | 20/05/2023 |
 | Rastreabilidade | INT19, BS12, ENTNF1, ENT5, BS4, BS7|
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
 ## Bibliografia
 
@@ -160,7 +162,8 @@ A seguir, as tabelas de 2 a 7 mostram as especificações dos casos de uso.
 
 | Versão | Data       | Descrição                                      | Autor(es)                                        | Revisor(es)                                                       |
 | ------ | ---------- | ---------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------- |
-| 1.0    | 18/10/2023 | Criação da página | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| 1.1    | 21/10/2023 | Hospedagem do Diagrama de Casos de Uso e da legenda | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| 1.2    | 23/10/2023 | Início das especificações dos casos de Uso | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| 1.3    | 23/10/2023 | Finalizando as especificações dos casos de Uso | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.0    | 18/10/2023 | Criação da página. | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.1    | 21/10/2023 | Hospedagem do Diagrama de Casos de Uso e da legenda. | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.2    | 23/10/2023 | Início das especificações dos casos de Uso. | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.3    | 23/10/2023 | Finalizando as especificações dos casos de Uso. | [Mateus Orlando](https://github.com/MateusPy)   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| 1.4    | 28/11/2023 | Correção dos erros apontados na etapa de verificação do grupo 4(e-Título). | [Mateus Orlando](https://github.com/MateusPy)   | -- |

@@ -27,10 +27,10 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | G6  | As imagens/Figuras/vídeos/tabelas estão na norma ABNT no artefato, com legendas e fontes? (isso no caso do artefato possuir tais elementos) | Não | -- |
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) | Incompleto | No texto fala sobre uma tabela 2 mas não exite tabela 2 e sim 6 |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  | Incompleto | Não são chamados no texto |
-| BL1 | No artefato há a participação do cliente para a validação do backlog? | Não | -- |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? | Sim | -- |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? | Não | devia informar de qual técnica foi utilizado na priorização ou se foi com o usuário |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? | Sim | -- |
+| BL1 | No Backlog há a participação do cliente e/ou persona na elicitação de requisitos? | Não | -- |
+| BL2 | O Backlog possui épicos e temas bem definidos e descritos? | Sim | -- |
+| BL3 | No Backlog os itens do backlog estão priorizados com base em critérios claros? | Não | devia informar de qual técnica foi utilizado na priorização ou se foi com o usuário |
+| BL4 | No Backlog há uma rastreabilidade clara entre os itens do backlog e os requisitos? | Sim | -- |
 | BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? | Sim | -- |
 | BL6 | Existe a linkagem para o artefato de histórias de usuário? | Não | O link está com erro e não leva ao histórias de usuário  |
 | BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? | Sim | -- |

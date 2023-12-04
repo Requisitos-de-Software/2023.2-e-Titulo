@@ -11,7 +11,7 @@ O objetivo dele é descobrir os requisitos funcionais e não funcionais de forma
 
 ## Metodologia
 
-Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. 
+Essa técnica foi realizada por duas integrantes do grupo, a Esther Sena e a Maria eduarda Barbosa. A primeiro etapa foi com as duas integrantes decidirem quais são os "títulos" das tarefas que pensaram estarem presentes no aplicativo. A segundo etapa, foi as respostas do que elas acharam que deveria ter de funcionalidade naquele título em específico. Na terceiro etapa era cada uma abrir o aplicativo e procurar as funcionalidades que elas acharam que teriam no aplicativo e descobrir se o aplicativo implementou ou não tal funcionalidade. No último passo, foi adicionado os requisitos elicitados e informado se eles estão ou não presentes no e-título. Os requisitos funcionais e não funcionais estão presentes nas Tabelas 12 e 13.
 
 Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbosa utilizou o celular Mototola g(9) play e a esther usou o celular Mototola g(30), ambas as duas no sistema android.
 
@@ -59,7 +59,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -107,7 +107,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -155,7 +155,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -199,7 +199,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -244,7 +244,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA. Maria; SENA. Esther, 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -283,7 +283,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -322,7 +322,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -361,7 +361,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -401,7 +401,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -441,7 +441,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -478,7 +478,7 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
       </tbody>
    </table>
    <div style="text-align: center">
-      <p> Fonte: Autoria própria, 2023.</p>
+      <p> Fonte: BARBOSA, Maria; SENA, Esther. 2023.</p>
    </div>
 </details>
 <p style=" text-align: justify">
@@ -488,12 +488,13 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 
 **Legenda**:
 
-* INTx: Introspecção nºx
-* RFx: Requisito Funcional nºx
-* RNFx: Requisito não funcional nºx
+- INTx: nºx do Requisito funcional em Introspecção
+- INTNx: nºx do Requisito não funcional em Introspecção
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito não funcional nºx
 
 <div style="text-align: center">
-<p>Tabela 12: Requisitos Funcionais </p>
+<p>Tabela 12 - Requisitos Funcionais </p>
 </div>
 
 | ID | Descrição | Código |
@@ -521,41 +522,40 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | INT21|O usuário deve poder alterar seus dados pessoais.| RF21 |
 | INT22|Deve ser possível o usuário apagar seus dados pessoais.| RF22 |
 | INT23| Deve ser possível o usuário ver o histórico de dados apagados.| RF23 |
-
+| INT24 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.| RNF24 |
+| INT25 |O aplicativo deve permitir que o usuário altere o local de partida.| RF25 |
+| INT26 |O aplicativo deve notificar sobre atualizações eleitorais.| RF26 |
+| INT27 | O aplicativo deve demonstrar ao usuário os lembretes de votação e de mudanças de localização para votação. | RF27 |
+| INT28 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.| RF28 |
+| INT29 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.| RF29 |
+| INT30 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RF30 |
+| INT31 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RF31 |
+| INT32 | O aplicativo deve permitir que o usuário envie dúvidas.| RF32 |
 
 <div style="text-align: center">
-<p> Fonte: Autor, 2023.</p>
+<p> Fonte: SENA, Esther; BARBOSA, Maria. 2023.</p>
 </div>
 
 <div style="text-align: center">
-<p>Tabela 13: Requisitos Não Funcionais</p>
+<p>Tabela 13 - Requisitos Não Funcionais</p>
 </div>
 
 | ID | Descrição | Código |
 |----|:---------:|------|
 | INTNF1 |O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários.| RNF1 |
-| INTNF2 |O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral.| RNF2 |
-| INTNF3 |O aplicativo deve permitir que o usuário altere o local de partida.| RNF3 |
-| INTNF4 |O aplicativo deve notificar sobre atualizações eleitorais.| RNF4 |
-| INTNF5 |O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | RNF5 |
-| INTNF6 |O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários| RNF6 |
-| INTNF7 |O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.| RNF7 |
-| INTNF8 |O aplicativo deve permitir que o usuário receba a comprovação de seus débitos.| RNF8 |
-| INTNF9 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.| RNF9 |
-| INTNF10 | O aplicativo deve permitir a leitura do qr code do título eleitoral.| RNF10 |
-| INTNF11 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos. | RNF11 |
-| INTNF12 | O aplicativo deve permitir que o usuário envie dúvidas.| RNF12 |
-| INTNF13 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF13 |
-| INTNF14 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento.| RNF14 |
-| INTNF15 |  Deve ser possível o usuário ver o histórico de dados apagados. | RNF15 |
+| INTNF2 | O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários| RNF2 |
+| INTNF3 | O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.| RNF3 |
+| INTNF4 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| RNF4 |
 
 <div style="text-align: center">
-<p> Fonte: Autor, 2023.</p>
+<p> Fonte: SENA, Esther; BARBOSA, Maria. 2023.</p>
 </div>
 
 ## Referências Bibliográficas
 
-> Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 7. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 23 de novembro de 2023.
+
+> Guia-Bolso. Introspecção. Disponivél em: <https://fga-disciplinas.github.io/2019.1-Guia-Bolso/elicitacao-de-requisitos/introspeccao/>. Acesso em: 26 setembro de 2023.
 
 
 ## Histórico de Versões
@@ -567,3 +567,4 @@ Foi utilizado dois aparelhos para a execução da terceira etapa, a maria Barbos
 | 1.2 | 03/09/2023 | adicionando as respostas da maria barbosa referentes ao título em específico  | [Maria Barbosa](https://github.com/Madu01)  | Mateus Orlando e João Victor Costa |
 | 1.3 | 26/09/2023 | adicionando elicitações de requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.4 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos requisitos funcionais e não funcionais  | [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
