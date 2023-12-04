@@ -99,17 +99,31 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [3]  | No artefato há uma tabela com ID, Descrição, Artefatos relacionados (Origem), Pré-Rastreabilidade, Implementado e os ELOS ? <br> Os indentificadores possuem likagem de rastreabilidade? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem x - Imagem da pergunta "[3]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/1Matriz.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+**Tabela x** - Perguntas e Imagens para as perguntas da matriz.
+
+| ID | Pergunta | 
+| ---| -------- |
+| [3]  | Os requisitos listados como não funcionais, são realmente não testaveis? <br> O artefato possui legenda ? |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem x - Imagem da pergunta "[3]". 
+
+<td><img src=./imgs/2Matriz.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+
 
 </center>
 
