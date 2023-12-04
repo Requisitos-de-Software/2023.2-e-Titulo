@@ -118,8 +118,26 @@ A tabela 6 detalha as modificações e o que se manteve do cronograma planejado.
 | Pós-Rastreabilidade - Gerência II: Matriz Geral | 19/11 |  20/11  |  20/11  | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | Gravação da apresentação | 20/11 | 20/11 | 20/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Correções após o feedback da apresentação |  21/11 |  23/11 | 24/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
-
 Fonte: Maria Marques, 2023
+
+### Entrega 5.2
+
+A tabela 7 detalha as modificações e o que se manteve do cronograma planejado.
+
+**Tabela 7:** Cronograma detalhado da entrega 5.2
+
+|  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
+|  --- |  --- |  --- |  --- |  --- |  --- | 
+| Verificação e Validação - Grupo 4 - Artefatos:$100, First Things First, Three Level Scale, Léxicos e Matriz  |   |   |    |   [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| Verificação e Validação - Grupo 4 - Artefatos: Metodologia, Ferramentas, instropecção e casos de uso |   |    |  | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
+| Verificação e Validação - Grupo 4 - Artefatos: cronograma,perfil de usuário,personas,backlog e backward-from  |   |   |    | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| Verificação e Validação - Grupo 4 - Artefatos: Escolha do aplicativo,Rich Picture, Especificação Suplementar e forward-from |   |  |   | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
+| Verificação e Validação - Grupo 4 - Artefatos: brainstorming,questionário, história de usuário e nfr framework |   |    |   | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| Verificação e Validação - Grupo 4 - Artefatos: apresentação, entrevista, storytelling e cenários |  |    |    | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+| Gravação da apresentação |    |    |    |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
+| Correções após o feedback da apresentação |   |   |   | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
+
+Fonte: MARQUES,maria.2023.
 
 ## Bibliografia
 
@@ -135,3 +153,4 @@ Fonte: Maria Marques, 2023
 | `1.1`  | 03/09/2023  | Realização do tópico da etapa 2  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
 | `1.2`  | 06/11/2023  | Realização do tópico da etapa 3 e etapa 4 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |[Mateus Orlando](https://github.com/MateusPy)|
 | `1.3`  | 20/11/2023  | Realização do tópico da etapa 5.1 e etapa 6 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.4`  | 03/12/2023  | Correções e adição da etapa 5.2  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
