@@ -79,6 +79,9 @@ Explora a capacidade do sistema em ser confiável, estável e resistente a falha
 |  `CONF01`  | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |    
 |  `CONF02`  | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas.|
 |  `CONF03`  | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.|  
+|  `CONF04`  | O usuário deve poder alterar os seus dados pessoais caso desejar.| 
+|  `CONF05`  | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. | 
+
 
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
@@ -135,7 +138,7 @@ O aplicativo "e-Título", desenvolvido pelo Tribunal Superior Eleitoral (TSE) do
 
 O sistema deve restringir o uso através de termos de uso.
 
-# 10. Requisitos Físicos:
+# 10. Requisitos de Implementação:
 
 Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo será executado, garantindo que seja otimizado para diferentes plataformas, como smartphones Android e iOS, e que atenda a requisitos mínimos de hardware para funcionar de maneira eficaz, mostrados na Tabela 5.
 
@@ -144,7 +147,7 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 - Identificador: FISxx
 - Descrição: Informa qual o requisito em específico foi elicitado.
 
-**Tabela 5 - requisitos físicos**
+**Tabela 5 - requisitos de Implementação**
 
 | ID         | Descrição        | 
 |------------|------------------|
@@ -155,6 +158,10 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 <div style="text-align: center">
 <p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
 </div>
+
+# 11. Requisitos físicos:
+
+O sistema deve funcionar em tablets e smartphones com loja de aplicativo online.
 
 ## Referências Bibliográficas
 
@@ -176,3 +183,4 @@ Relaciona-se aos requisitos de hardware e dispositivos nos quais o aplicativo se
 | `1.1` | 24/10/2023 | Montagem das tabelas de Usabilidade, Confiabilidade, Desempenho, Suportabilidade, Restrições de Design, Requisitos de Licenciamento e Requisitos Físicos | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2` | 24/10/2023 | Adição de referências bibliográficas | [Mariiana Siqueira](https://github.com/Maryyscreuza) e [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.3` | 30/11/2023 | Correção em fontes das tabelas, refazendo a Introdução, adicionando Motivação e Objetivo adicionando descrição na metodologia e referênciando ela. |  [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.3` | 01/12/2023 | Adicionando requisitos em confiabilidade (CONF04 e CONF05) e alterando os requisitos fisicos para de implementação e add outra descrição de requisitos físicos. |  [Esther Sena](https://github.com/esmsena)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
