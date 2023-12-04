@@ -157,7 +157,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Tema</td>
-        <td>Segurança</td>
+        <td>Funcionalidade</td>
       </tr>
       <tr>
         <td>Elicitação</td>
@@ -681,114 +681,10 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 </details>
 
-<!--<details>
-  <summary> RF12 - Usuários apenas acima de 16 anos</summary>
+
+<details>
+  <summary> RF12 - Realizar a quitação eleitoral</summary>
 <p>Tabela 14: Requisito funcional 12.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E06</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US06</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Segurança</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/">L01</a></td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C06</a></td>
-      </tr>
-      <tr>
-        <td>Funcionalidade</td><td>Não implementada</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary> RF13 - Acesso a internet para o uso</summary>
-<p>Tabela 15: Requisito funcional 13.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E06</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td>-</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Funcionalidade</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a
-            href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td>-</a></td>
-      </tr>
-      <tr>
-        <td>Funcionalidade</td><td>Implementado</td>
-        <td><img src=../imgs/internet.jpeg></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
--->
-
-<details>
-  <summary> RF14 - Realizar a quitação eleitoral</summary>
-<p>Tabela 16: Requisito funcional 14.</p>
   <table>
     <thead>
       <tr>
@@ -841,8 +737,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF15 - Links para app/sites externos</summary>
-<p>Tabela 17: Requisito funcional 15.</p>
+  <summary> RF13 - Links para app/sites externos</summary>
+<p>Tabela 15: Requisito funcional 13.</p>
   <table>
     <thead>
       <tr>
@@ -892,8 +788,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF16 - Suporte ao usuário</summary>
-<p>Tabela 18: Requisito funcional 16.</p>
+  <summary> RF14 - Suporte ao usuário</summary>
+<p>Tabela 16: Requisito funcional 14.</p>
   <table>
     <thead>
       <tr>
@@ -946,8 +842,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF17 - Justificativa no app</summary>
-<p>Tabela 19: Requisito funcional 17.</p>
+  <summary> RF15 - Justificativa no app</summary>
+<p>Tabela 17: Requisito funcional 15.</p>
   <table>
     <thead>
       <tr>
@@ -996,8 +892,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF18 - Alterar foto do documento</summary>
-<p>Tabela 20: Requisito funcional 18.</p>
+  <summary> RF16 - Alterar foto do documento</summary>
+<p>Tabela 18: Requisito funcional 16.</p>
   <table>
     <thead>
       <tr>
@@ -1046,8 +942,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF19 - Autenticidade do documento</summary>
-<p>Tabela 21: Requisito funcional 19.</p>
+  <summary> RF17 - Autenticidade do documento</summary>
+<p>Tabela 19: Requisito funcional 17.</p>
   <table>
     <thead>
       <tr>
@@ -1097,8 +993,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF20 - Horário da votação</summary>
-<p>Tabela 22: Requisito funcional 20.</p>
+  <summary> RF18 - Horário da votação</summary>
+<p>Tabela 20: Requisito funcional 18.</p>
   <table>
     <thead>
       <tr>
@@ -1148,8 +1044,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF21 - Acompanhar apuração</summary>
-<p>Tabela 23: Requisito funcional 21.</p>
+  <summary> RF19 - Acompanhar apuração</summary>
+<p>Tabela 21: Requisito funcional 19.</p>
   <table>
     <thead>
       <tr>
@@ -1200,8 +1096,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF22 - Visualizar candidato eleito</summary>
-<p>Tabela 24: Requisito funcional 22.</p>
+  <summary> RF20 - Visualizar candidato eleito</summary>
+<p>Tabela 22: Requisito funcional 20.</p>
   <table>
     <thead>
       <tr>
@@ -1252,111 +1148,10 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 </details>
 
-<!--
-<details>
-  <summary> RF23 - Proteção de dados</summary>
-<p>Tabela 25: Requisito funcional 23.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E09</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US09</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Segurança</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT7</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C08</a></td>
-      </tr>
-      <tr>
-        <td>Funcionalidade</td><td>Não implementada</td>
-      </tr>
-    </tbody>
-  </table>
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
 
 <details>
-  <summary> RF24 - Design intuitivo</summary>
-<p>Tabela 26: Requisito funcional 24.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Épico</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro">E10</a></td>
-      </tr>
-      <tr>
-        <td>História de usuário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/">US10</a>
-        </td>
-      </tr>
-      <tr>
-        <td>Tema</td>
-        <td>Documento</td>
-      </tr>
-      <tr>
-        <td>Elicitação</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/">ENTNF2</a></td>
-      </tr>
-      <tr>
-        <td>Léxico</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Caso de Uso</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <td>Cenário</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C10</a></td>
-      </tr>
-      <tr>
-        <td>Funcionalidade</td><td>Não implementada</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
--->
-
-<details>
-  <summary> RF25 - Local de partida</summary>
-<p>Tabela 27: Requisito funcional 25.</p>
+  <summary> RF21 - Local de partida</summary>
+<p>Tabela 23: Requisito funcional 21.</p>
   <table>
     <thead>
       <tr>
@@ -1410,8 +1205,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 </details>
 
 <details>
-  <summary> RF26 - Visualizar documentação necessária</summary>
-<p>Tabela 28: Requisito funcional 26.</p>
+  <summary> RF22 - Visualizar documentação necessária</summary>
+<p>Tabela 24: Requisito funcional 22.</p>
   <table>
     <thead>
       <tr>
