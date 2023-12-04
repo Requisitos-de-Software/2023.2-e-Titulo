@@ -212,25 +212,12 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-
 > <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 > <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
-> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
->  <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EspecificaçãoSuplementar. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/. Acesso em: 03 de dezembro de 2023. 
-
-## Bibliografia de Léxico
-
-> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
-> <a id="REF3" href="#anchor_3">[77].</a> Orlando, Mateus. 2023.2-e-Título. Verificação grupo + 1 - Léxico. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-refeMaduB/docs/verificacao/verificacaoGrupo%2B1/etapa3. Acesso em: 23 de novembro de 2023.
-
-- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-refeMaduB/docs/verificacao/referenciasVerificacao/referenciasEtapa3.md.
-  
 ## Hitórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
