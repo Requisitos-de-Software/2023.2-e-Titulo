@@ -134,7 +134,6 @@ Fonte: BARBOSA, Maria. 2023.
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |
 
-
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 **Imagem X** - Imagem das perguntas M1, M3, M4 e M5
