@@ -340,14 +340,14 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona?  <a id="anchor_12" href="#REF12">[12].</a>  | Sim | -- |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="anchor_121" href="#REF12">[12].</a>  | Sim | -- |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="anchor_122" href="#REF12">[12].</a>  | Sim | -- |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência?  <a id="anchor_123" href="#REF12">[12].</a>  | Sim | -- |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados?  <a id="anchor_124" href="#REF12">[12].</a>| Não | observação abaixo |
-| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara?  <a id="anchor_124" href="#REF12">[12].</a> | Sm | -- |
-| TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis?  | Incompleto | observação abaixo |
-| TLS8 | O artefato possui gravação da dinâmica ?  <a id="anchor_124" href="#REF12">[12].</a>| Sim |  |
+| TLS1 | No artefato há a participação do cliente e/ou persona?  <a id="anchor_12" href="#REF12">[12].</a>  |  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="anchor_12" href="#REF12">[12].</a> |  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="anchor_12" href="#REF12">[12].</a>  |  |  |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência?  <a id="anchor_12" href="#REF12">[12].</a> |  |  |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? <a id="anchor_12" href="#REF12">[12].</a> |  | |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? <a id="anchor_12" href="#REF12">[12].</a>  |  | -- |
+| TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis?  |  | |
+| TLS8 | O artefato possui gravação da dinâmica ? <a id="anchor_12" href="#REF12">[12].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -357,9 +357,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
 
-
-
-## Referências de Perfil de Usuário
+## Referências Bibliografia de Perfil de Usuário
 
 
 > <a id="REF1" href="#anchor_1">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
@@ -388,12 +386,15 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
     * Para visualizar as imagens de referências do artefato acesse aqui: 
 
 
-## Referências de Questionário
+## Referências Bibliografia de Questionário
+
+> <a id="REF11" href="#anchor_11">[11].</a> GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
+de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
 
 > <a id="REF7" href="#anchor_7">[7]</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
 > <a id="REF8" href="#anchor_8">[8]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
-=======
+
 > <a id="REF9" href="#anchor_9">[9].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 > <a id="REF10" href="#anchor_10">[10].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
@@ -404,7 +405,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
     * Para visualizar as imagens de referências do artefato acesse aqui: 
 
-## Referências de Personas
+## Referências Bibliografia de Personas
 
 > <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
@@ -415,7 +416,8 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
 
-## Referências de $100
+  
+## Referências Bibliografia de $100
 
 
 > <a id="REF11" href="#anchor_11">[11].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
@@ -423,6 +425,10 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 > <a id="REF21" href="#anchor_21">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 > <a id="REF4" href="#anchor_4">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
+
+## Referências Bibliografia de FirtThingsFirst
 
 
 ## Referências de FirtThingsFirst
@@ -434,12 +440,16 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
 
 
+> <a id="REF10" href="#anchor_10">[10].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
+
 ## Referências Bibliografia de Three Level Scale
 
+>  <a id="REF12" href="#anchor_12">[12].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
-## Referências de Three Level Scale
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
-> <a id="REF12" href="#anchor_12">[12].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
   
 ## Histórico de Versões
 
