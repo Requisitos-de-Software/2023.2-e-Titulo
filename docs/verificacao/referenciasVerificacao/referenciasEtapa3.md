@@ -125,17 +125,44 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [3]  | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "[9]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/1Lexico.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [3] | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ?  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[3]". 
+
+<td><img src=./imgs/2Lexico.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+**Tabela x** 
+
+| ID | Pergunta | 
+| ---| -------- |
+| [3] | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (Verbo, Objeto e Estado) <br> O artefato possui pelo menos um tipo de cada léxico ? (Verbo, Objeto e Estado) <br>	No artefato os léxicos possuem a estrutura padrão ? (Noção, Classificação, Impacto(s) e Sinônimo(s)) <br>	No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (Noção, Classificação, Impacto(s) e Sinônimo(s)) <br>	No artefato a noção e o impacto(s) dos léxicos possuem coerência ?  |
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
+Imagem X - Imagem da pergunta "[3]". 
+
+<td><img src=./imgs/3Lexico.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
 
 </center>
 

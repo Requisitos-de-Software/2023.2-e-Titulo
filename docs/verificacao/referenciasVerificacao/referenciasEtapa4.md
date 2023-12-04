@@ -94,17 +94,36 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+|  BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? |
+| BL1 | No Backlog há a participação do cliente e/ou persona na elicitação de requisitos? |
+| BL2 | O Backlog possui épicos e temas bem definidos e descritos? |
+| BL6 | Existe a linkagem para o artefato de histórias de usuário? |
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem X - Imagem da pergunta "BL5". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/backlogRef1.png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Imagem X - Imagem da pergunta "BL1". 
+
+<td><img src=./imgs/backlogRef2.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "BL2". 
+
+<td><img src=./imgs/backlogRef3.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
+
+Imagem X - Imagem da pergunta "BL6". 
+
+<td><img src=./imgs/backlogRef4.png></td> 
+
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
