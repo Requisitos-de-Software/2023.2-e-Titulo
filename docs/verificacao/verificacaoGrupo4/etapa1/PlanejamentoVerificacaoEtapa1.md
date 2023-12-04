@@ -134,9 +134,9 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
-| EA2 | O artefato possui o Termo de Uso? |  |  |
-| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?<a id="REF49" href="#anchor_49">49</a>|  |  |
+| EA2 | O artefato possui o Termo de Uso?<a id="REF49" href="#anchor_49">49</a> |  |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso?<a id="REF49" href="#anchor_49">49</a> |  |  |
 | EA4 | O artefato mostra se o aplicativo é do governo ou de código aberto? <a id=anchor_39 href="#REF39">[39]</a> |  |  |
 | EA5 | O artefato explica aplicativo se os usuários do app são acessíveis para o projeto ? <a id=anchor_34 href="#REF34">[34]</a> |  |  |
 
@@ -214,14 +214,14 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| RP1 | O artefato possui a ferramenta utilizada? |  |  |
-| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
-| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
-| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
-| RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
-| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
+| RP1 | O artefato possui a ferramenta utilizada?<a id="REF81" href="#anchor_81">81</a> |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? <a id="REF81" href="#anchor_81">81</a>|  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes?<a id="REF81" href="#anchor_81">81</a> |  ||
+| RP4 | O artefato uma legenda de explicação dos componentes? <a id="REF81" href="#anchor_81">81</a>|  |  |
+| RP5 | A legenda fornece informações suficientes para entender os elementos visuais?<a id="REF81" href="#anchor_81">81</a> |  |  |
+| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo?<a id="REF81" href="#anchor_81">81</a> |  |  |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ## Bibliografia
 
@@ -230,6 +230,10 @@ S
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
 ## Referência Bibliográfica 
+
+> <a id="REF81" href="#anchor_81">[81].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - RichPicture. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/. Acesso em: 03 de dezembro de 2023.
+
+> > <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EscolhaDoAplicativo. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/. Acesso em: 03 de dezembro de 2023.
 
 > <a id=anchor_39 href="#REF39">[39]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
