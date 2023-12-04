@@ -220,11 +220,9 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 
 
-## Bibliografia
+## Referência Bibliográfica
 
 > <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
-
-## Referência Bibliográfica
 
 > <a id=anchor_015 href="#REF015">[015]</a> SALES, André. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em: 24 de novembro de 2023
 

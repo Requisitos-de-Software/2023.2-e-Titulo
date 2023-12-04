@@ -137,15 +137,15 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| C1 | O diagrama de caso de uso possui atores?|  |  |
-| C2 | O ator principal está do lado esquerdo do sistema? |  |  |
-| C3 | Os atores estão fora da fronteira do sistema? | | |
-| C4 | Os atores interagem com os Casos de Uso corretamente? |  |  |
-| C5 | Há algum nome associado ao(s) usuário(s) do sistema? |  |  |
-| C6 | Existe limite do sistema? |  |  |
-| C7 | Os casos de uso possuem especificações? |  |  |
-| C8 | Os casos de uso possuem rastreabilidade? |  |  |
-| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |  |  |
+| C1 | O diagrama de caso de uso possui atores? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C3 | Os atores estão fora da fronteira do sistema? <a id="REF53" href="#anchor_53">53</a>| | |
+| C4 | Os atores interagem com os Casos de Uso corretamente? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C6 | Existe limite do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C7 | Os casos de uso possuem especificações? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C8 | Os casos de uso possuem rastreabilidade? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
 
 Fonte: [João Costa.](https://github.com/jvcostta)
 </center>
@@ -211,15 +211,10 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 > <a id="REF4" href="#anchor_4">4.</a> . MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES- Especificação Suplementar-Versão 1.0.  Disponível em: https://aprender3.unb.br/pluginfile.php/2754631/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf. Acesso em: 12 de novembro de 2023.
 
 
-## Bibliografia
-
-> <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
-
-> <a id="anchor_51" href="#REF51">51.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
-> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
-
 ## Referência Bibliográfica
+
+
+> <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 > <a id="REF000001" href="#anchor_000001">[000001]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 10 de novembro de 2023.
 
