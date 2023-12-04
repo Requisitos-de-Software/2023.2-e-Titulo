@@ -32,6 +32,7 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
 | Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Pelo Teams |
 | Entrevista 2 | Protótipo 3 e Protótipo 4 | Esther Sena Martins e Mariiana Siqueira Neris | 30/11/2023 | 23:00 | Anthony Tavares | Pelo Teams |
+| Entrevista 3 | Protótipo 6 |  [Mateus Orlando](https://github.com/MateusPy) | 28/11/2023 | 13:30 | Winniver Castro | Pelo Teams |
 
 Fonte: Autores, 2023.
 
@@ -49,6 +50,8 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O usuário deve visualizar o candidato eleito referente ao ano da votação. | Protótipo 2 | Figma | Maria Marques |
 | [INT15](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) |  O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | Protótipo 3 | Figma | Mariiana Siqueira |
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O aplicativo deve notificar o horário da votação para o usuário | Protótipo 4 | Figma | Esther Sena |
+| INT20 | O usuário deve realizar download da comprovação de sua justificativa. | Protótipo 6 | Figma | [Matheus Orlando](https://github.com/MateusPy) |
+
 
 Fonte: Autores, 2023.
 
@@ -140,6 +143,14 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 <iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
 
+### Protótipo 6
+
+### O usuário deve realizar download da comprovação de sua justificativa.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=XqoEYTG3wVk1X3cT-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
+
 ## Entrevistas 
 
 ### Entrevista 1
@@ -189,44 +200,6 @@ Fonte: maria barbosa, 2023.
 
 </center> 
 
-#### Respostas do protótipo 1
-
-<center>
-
-**Tabela X** -  respostas obtidas no protótipo 1.
- 
-| Numeração da pergunta | Resposta |
-| -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
-
-Fonte: nome do responsável, 2023.
-
-</center> 
-
-#### Respostas do protótipo 2
-
-<center>
-
-**Tabela X** -  respostas obtidas no protótipo 2.
- 
-| Numeração da pergunta | Resposta |
-| -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
-
-Fonte: nome do responsável, 2023.
-
-</center> 
-
 ### Entrevista 2
 
 - Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/pv1ckIClxos)
@@ -273,49 +246,39 @@ Fonte: SENA, Esther, 2023.
 
 </center> 
 
-### Entrevista 3
+### Entrevista 4
 
-(colocar vídeo)
+O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
 
-#### Respostas do protótipo 1
+<iframe width="560" height="315" src="https://youtu.be/_B4fk8remwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<center>
+<font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
 
-**Tabela X** -  respostas obtidas no protótipo 1.
- 
-| Numeração da pergunta | Resposta |
-| -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
-
-Fonte: nome do responsável, 2023.
-
-</center> 
-
-#### Respostas do protótipo 2
+#### Respostas do protótipo 6
 
 <center>
 
-**Tabela X** -  respostas obtidas no protótipo 2.
+**Tabela 10** -  respostas obtidas no protótipo 6.
  
 | Numeração da pergunta | Resposta |
 | -- | ----------- | 
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
-| 5 |  |
-| 6 |  |
+| 1 | Sim, fácil de ser utilizado e entendido por qualquer usuário. |
+| 2 | Gostou da facilidade de acesso à funcionalidade a ser implementada. |
+| 3 | O entrevistado não apontou nenhum ponto negativo. |
+| 4 | Acha que é agregante pois facilita na apresentação da justificativa. |
+| 5 | Acha que a funcionalidade condiz com o conceito do aplicativo. |
+| 6 | Não apontou nenhuma melhoria. | 
 
-Fonte: nome do responsável, 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023. 
 
 </center> 
+
+#### Conclusão da entrevista 4
+
+- Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário deve realizar download da comprovação de sua justificativa. A entrevistada achou bastante pertinente a disponibilização dessa opção de download dentro do aplicativo, pois acredita que facilitaria a sua vida quando for necessário apresentar essa justificativa em algum local  como por exemplo, no trabalho.
 
 ## Conclusão
+
 
 
 ## Bibliografia
@@ -337,5 +300,5 @@ Fonte: nome do responsável, 2023.
 | `1.3`  | 28/11/2023 | Add entrevista 1 e respostas obtidas no protótipo 1 da entrevista 1| [Maria Marques ](https://github.com/EduardaSMarques) |  [Esther Sena](https://github.com/esmsena) |
 | `1.4`  | 28/11/2023 | Add respostas obtidas no protótipo 2 da entrevista 1, adicionado o Protótipo 1 e atualizado o cronograma da entrevista 1 | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.5`  | 28/11/2023 | Adicionando o Protótipo 3 e 4 e atualizado o cronograma da entrevista 2 e adicionando respostas obtidas no protótipo 3 e protótipo 4 da entrevista 2. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) |
-=======
+| `1.6`  | 28/11/2023 | Adicionando protótipo 6 e o vídeo da entrevista de validação do mesmo. | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
 

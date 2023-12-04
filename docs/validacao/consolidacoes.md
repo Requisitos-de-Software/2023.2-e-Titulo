@@ -145,14 +145,18 @@ Foi realizado a consolidação entre a responsável pela inspeção Esther Sena 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+| [Mateus Orlando](https://github.com/MateusPy) ,[Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena). | 28/11/2023 | 23:44 | Entrevista | Teams |
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Mateus Orlando](https://github.com/MateusPy) que inspecionou o artefato em questão e pelas autoras do artefato, [Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena). 
+
+<iframe width="560" height="315" src="https://youtu.be/W3_HeS93aXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
 
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+- Através da etapa de consolidação, as autoras concordaram com os pontos levantados na inspeção, agradeceram pelo feedback do inspetor,[Mateus Orlando](https://github.com/MateusPy), além disso a própria autora [Maria Barbosa](https://github.com/Madu01) apontou um pequeno erro não observado peo inspetor , erro, o qual foi prontamente anotado para ser corrigido.
 
 
 
@@ -164,3 +168,5 @@ Foi realizado a consolidação entre a responsável pela inspeção Esther Sena 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e as tabelas do tópico Gravações de consolidações. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.1`  | 28/11/2023 | Adicionando a entrevista de consolidação do artefato de entrevista. | [Mateus Orlando](https://github.com/MateusPy) | -- |
+
