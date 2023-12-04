@@ -219,8 +219,13 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
+## Bibliografia de Léxico
 
 > <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
+
+> <a id="REF3" href="#anchor_3">[77].</a> Orlando, Mateus. 2023.2-e-Título. Verificação grupo + 1 - Léxico. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-refeMaduB/docs/verificacao/verificacaoGrupo%2B1/etapa3. Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-refeMaduB/docs/verificacao/referenciasVerificacao/referenciasEtapa3.md.
 
 ## Hitórico de versão
 
