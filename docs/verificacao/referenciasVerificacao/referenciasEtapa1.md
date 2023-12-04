@@ -101,20 +101,19 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas do Cronograma.
+**Tabela x** - Perguntas para as perguntas do Cronograma.
+
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| CM10 | As atividades tem duração realistas? |
+ 
+Fonte: BARBOSA, Maria. 2023.
 
-Fonte: SOBRENOME, nome. 2023.
+Imagem X - Imagem da pergunta "CM10". 
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+<td><img src=./imgs/cronogramRef1.png></td> 
 
-<td><img src=./imgs/---></td> 
-
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -128,15 +127,9 @@ Fonte: SOBRENOME, nome. 2023.
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
-
-<td><img src=./imgs/---></td> 
-
-Fonte: SOBRENOME, nome. 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+- Como metodologia se trata de um artefato simples e com enfoque na diciplina, as perguntas foram feitas com base nas estruturas dos documentos de semestres passados.
 
 </center>
 

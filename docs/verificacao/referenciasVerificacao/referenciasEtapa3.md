@@ -121,48 +121,47 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas de Léxicos.
+**Tabela 5** - Perguntas e Imagens para as perguntas de Léxicos.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [3]  | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | 
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**)   | 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem X - Imagem da pergunta "[9]". 
+Imagem 5 - Imagem da pergunta L1 e L6. 
+
+<td><img src=./imgs/ref_lexicos3.PNG></td> 
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+Imagem 6 - Imagem da pergunta L3, L4, L5. 
+
+<td><img src=./imgs/ref_lexicos2.PNG></td> 
+
+Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+
+Imagem X - Imagem da pergunta "L1". 
 
 <td><img src=./imgs/1Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Tabela x** 
-
-| ID | Pergunta | 
-| ---| -------- |
-| [3] | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ?  |
-
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-Imagem X - Imagem da pergunta "[3]". 
+Imagem X - Imagem da pergunta "L2". 
 
 <td><img src=./imgs/2Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Tabela x** 
-
-| ID | Pergunta | 
-| ---| -------- |
-| [3] | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (Verbo, Objeto e Estado) <br> O artefato possui pelo menos um tipo de cada léxico ? (Verbo, Objeto e Estado) <br>	No artefato os léxicos possuem a estrutura padrão ? (Noção, Classificação, Impacto(s) e Sinônimo(s)) <br>	No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (Noção, Classificação, Impacto(s) e Sinônimo(s)) <br>	No artefato a noção e o impacto(s) dos léxicos possuem coerência ?  |
-
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-Imagem X - Imagem da pergunta "[3]". 
+Imagem X - Imagem da pergunta "L3", "L4", "L5" e "L6". 
 
 <td><img src=./imgs/3Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
 
 </center>
 
@@ -173,3 +172,4 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 3| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+| `1.1`  | 02/12/2023 | Adicoando as imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2(léxicos)| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |

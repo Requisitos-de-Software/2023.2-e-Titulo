@@ -1,16 +1,18 @@
 # Backward From
 
 ## Introdução
-Neste documento, exploraremos a abordagem "Backward From" na elicitação de requisitos, que nos leva do resultado desejado às raízes dos requisitos. Diferente das metodologias convencionais, essa técnica oferece uma compreensão mais profunda do contexto e das variáveis que influenciam os requisitos. Este artefato busca uma abordagem inovadora na engenharia reversa de requisitos, revelando as camadas subjacentes de necessidades para construir uma base sólida utilizando o método de rastreabilidade backward from descritos no Slide ["Requisitos-Aula 26"](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
+
+Neste documento, exploraremos a abordagem "Backward From" na elicitação de requisitos, que nos leva do resultado desejado às raízes dos requisitos. Diferente das metodologias convencionais, essa técnica oferece uma compreensão mais profunda do contexto e das variáveis que influenciam os requisitos.
 
 ## Objetivo 
+
 Este documento é um guia para usar a técnica "Backward From" na obtenção de requisitos. Vamos explorar como essa abordagem nos ajuda a entender melhor o que um sistema precisa, começando pelo resultado desejado e retrocedendo até as necessidades fundamentais. A ideia é oferecer uma ferramentas para aplicar essa técnica de engenharia reversa de requisitos de forma inovadora, ajudando no desenvolvimento de sistemas mais sólidos e claros. 
 
 ## Metodologia
 
-A rastreabilidade transcende sua função na gestão de requisitos; ela emerge como um aliado crucial na busca pela excelência na GERÊNCIA DA QUALIDADE. O Meta-modelo proposto por Toranzo, habilmente, proporciona uma metodologia que simplifica a especificação do rastro, tornando o processo mais claro e eficiente.
+A rastreabilidade vai além de apenas gerenciar requisitos; ela se torna um importante aliado na busca pela excelência na gerência de qualidade. O Meta-modelo proposto por Toranzo oferece uma abordagem que facilita a especificação do rastreamento, tornando o processo mais simples e eficaz.
 
-Ao seguir o Meta-modelo de Toranzo para a elaboração do artefato, embarcamos em duas etapas fundamentais, delineadas nos slides 19 e 21 do arquivo "Requisitos-Aula 26" de Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
+Ao usar o Meta-modelo de Toranzo para a elaboração do artefato, passamos por dois passos importantes, que estão explicados nos slides 19 e 21 do arquivo "Requisitos-Aula 26"<a id=anchor_1 href="#REF1">[1]</a> de Miriam Sayão e Julio Cesar Sampaio do Prado Leite.
 
 Essas etapas iniciais compreendem os conceitos de níveis e elos, fundamentais para a construção de um rastro eficaz.
 
@@ -37,13 +39,18 @@ Para colocar em prática a metodologia, inicialmente elaboramos duas tabelas dis
 Este segmento tem como foco a criação da tabela de rastreamento de requisitos funcionais, a qual é apresentada de forma detalhada na Tabela 1 abaixo:
 
 ### Legendas:
-* RF : Requisito funcional;
-* RNF : Requisito não funcional;
-* [QST](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) : Questionário;
-* [ST](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) : Storytelling;
-* [ENT](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) : Entrevista;
-* [BS](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) : Brainstorming;
-* [INT](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  : Introspecção;
+* RFnº : Requisito funcional;
+* RNFnº : Requisito não funcional;
+* [QSTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) : Questionário;
+* [QSTNFnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) : Questionário não-funcional;
+* [STnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) : Storytelling;
+* [STNFnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) : Storytelling não-funcional;
+* [ENTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) : Entrevista;
+* [ENTNFnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) : Entrevista não-funcional;
+* [BSnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) : Brainstorming;
+* [BSNFnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) : Brainstorming não-funcional;
+* [INTnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  : Introspecção;
+* [INTNFnº](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  : Introspecção não-funcional;
 
 ### Requisitos funcionais:
 
@@ -51,43 +58,53 @@ Tabela 1: Requisitos funcionais
 
 | ID | Descrição | Origem | Implementado | 
 | :--: | :--: | :--: | :--: |
-| RF01 | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG | [INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ENT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)  | Sim |
-| RF02 | Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. |  [INT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RF03 | O usuário deve poder escolher a forma de realizar o login. | [QST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) | Sim |
-| RF04 | O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. | [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) ,  [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF05 | O usuário deve poder realizar o login com a biometria | [QST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) ,  [ENT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) ,  [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)| Sim |
-| RF06 | Deve ser possível o usuário vizualizar a localização da votação. | [INT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [ST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
-| RF07 | Deve ser possível o usuário vizualizar seu documento do título eleiroral. | [INT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [ENT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [QST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [ST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
-| RF08 | Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. | [INT9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
-| RF09 | O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. | [INT6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF10 | O aplicativo deve ter a opção de sair/logoff disponível para o usuário. | [INT7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF11 | O usuário deve conseguir fazer alterações em seus dados cadastrais. | [INT8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF12 | No aplicativo deve ser possível o usuário realizar a recuperação da senha. | [BS10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF13 | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo | [BS12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF14 | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo | [BS13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF15 | No aplicativo deve ser possível o usuário vizualizar os termos de uso. | [BS7](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF16 | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso. | [BS8](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim | 
-| RF17 | Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. | [INT10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF18 | O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. | [INT11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RF19 | Deve ser possível o usuário vizualizar o endereço da localização do local para a votação no aplicativo. | [INT12](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF20 |  Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. | [INT13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [ENT06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Não |
-| RF21 | O usuário deve conseguir escolher o local de partida. | [INT14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Não |
-| RF22 | O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | [INT15](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RF23 | O usuário deve conseguir vizualizar os dados documentais. | [INT16](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RF24 | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | [ENT04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [ST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)  | Não |
-| RF25 | O usuário deve conseguir vizualizar as informações da quitação eleitoral. | [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [ENT05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) , [ST06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)  | Sim |
-| RF26 | O usuário deve conseguir vizualizar dados referentes ao criminal eleitoral. | [INT18](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF27 | O usuário deve conseguir informar a sua justificativa no aplicativo. | [INT19](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Sim |
-| RF28 | O usuário deve realizar download da comprovação de sua justificativa. | [INT20](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RF29 | O usuário deve poder alterar seus dados pessoais, por meio do site do TSE. | [INT21](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RF30 | Deve ser possível o usuário apagar seus dados pessoais. | [INT22](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RF31 | Deve ser possível o usuário ver o histórico de dados apagados. | [INT23](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  | Não |
-| RF32 | Deve ser possível o usuário acompanhar a apuração de votos | [ENT08](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Não |
-| RF33 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | [ENT09](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Não |
-| RF34 | Eu como usuário, quero poder visualizar as notificação de datas e horários das eleições | [ST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)  | Sim |
-| RNF35 | O aplicativo deve notificar o horário da votação para o usuário | [ENT07](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Não |
+|  <a id=anchor_2 href="#RF01">RF01</a> | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG | [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) , [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Sim |
+| RF02 | Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro. |  [INT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| RF03 | O usuário deve poder escolher a forma de realizar o login. | [QST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) | Sim |
+| <a id=anchor_5 href="#RF04">RF04</a> | O usuário deve conseguir fazer o login preenchendo os campos de entrada como senha e CPF para acessar o aplicativo caso já tenha se cadastrado. | [INT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [QST4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) ,  [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| <a id=anchor_6 href="#RF05">RF05</a> | O usuário deve poder realizar o login com a biometria | [QST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) ,  [ENT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) ,  [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)| Sim |
+| <a id=anchor_7 href="#RF06">RF06</a> | Deve ser possível o usuário vizualizar a localização da votação. | [INT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [QST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) , [ST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) , [ENT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) , [BS5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| <a id=anchor_8 href="#RF07">RF07</a> | Deve ser possível o usuário vizualizar seu documento do título eleitoral. | [INT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [ENT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) , [QST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) , [ST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) | Sim |
+| <a id=anchor_9 href="#RF08">RF08</a> | Deve ser possível o usuário realizar o download do documento título eleitoral no aplicativo. | [INT9](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) , [ST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) | Sim |
+| RF09 | O usuário deve conseguir visualizar as notificações do aplicativo, que alertam sobre datas ou informações importantes. | [INT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) ,  [BS6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)  | Sim |
+| RF10 | O aplicativo deve ter a opção de sair/logoff disponível para o usuário. | [INT7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| <a id=anchor_12 href="#RF11">RF11</a> | O usuário deve conseguir fazer alterações em seus dados cadastrais. | [INT8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/), [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF12 | No aplicativo deve ser possível o usuário realizar a recuperação da senha. | [BS10](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF13 | Deve ser possível o usuário visualizar as dúvidas frequentes do aplicativo | [BS12](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF14 | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo | [BS13](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF15 | No aplicativo deve ser possível o usuário vizualizar os termos de uso. | [BS7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF16 | No aplicativo deve ser possível o usuário concordar ou não com os termos de uso. | [BS8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim | 
+| RF17 | Deve ser possível o usuário escolher o formato do arquivo, como pdf ou doc, a ser baixado do aplicativo. | [INT10](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | Sim |
+| RF18 | O usuário deve conseguir visualizar no aplicativo todos os dados presentes em um documento de título eleitoral. | [INT11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| RF19 |  Deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo. | [INT13](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF20 | O usuário deve conseguir escolher o local de partida. | [INT14](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | Não |
+| RF21 | O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | [INT15](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF22 | O usuário deve conseguir vizualizar os dados documentais. | [INT16](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| <a id=anchor_24 href="#RF23">RF23</a> | No aplicativo deve ser possível que o usuário realize a quitação eleitoral | [ENT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) , [ST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)  | Não |
+| <a id=anchor_25 href="#RF24">RF24</a> | O usuário deve conseguir vizualizar as informações da quitação eleitoral. | [INT17](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [ENT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Sim |
+| RF25 | O usuário deve conseguir vizualizar dados referentes ao criminal eleitoral. | [INT18](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | Sim |
+| RF26 | O usuário deve conseguir informar a sua justificativa no aplicativo. | [INT19](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | Sim |
+| RF27 | O usuário deve realizar download da comprovação de sua justificativa. | [INT20](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| <a id=anchor_29 href="#RF28">RF28</a> | O usuário deve poder alterar seus dados pessoais, por meio do site do TSE. | [INT21](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF29 | Deve ser possível o usuário apagar seus dados pessoais. | [INT22](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| RF30 | Deve ser possível o usuário ver o histórico de dados apagados. | [INT23](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | Não |
+| RF31 | Deve ser possível o usuário acompanhar a apuração de votos | [ENT8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Não |
+| RF32 | O usuário deve visualizar o candidato eleito referente ao ano da votação. | [ENT9](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Não |
+| <a id=anchor_34 href="#RF33">RF33</a> | Eu como usuário, quero poder visualizar as notificação de datas e horários das eleições | [ST4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) , [ENT7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Não |
+| RF34 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. |  [INT24](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF35 | O aplicativo deve permitir que o usuário altere o local de partida. |  [INT25](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF36 | O aplicativo deve notificar sobre atualizações eleitorais. |  [INT26](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF37 | O aplicativo deve demonstrar ao usuário os lembretes de votação e de mudanças de localização para votação. |  [INT27](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| RF38 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos. |  [INT28](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| RF39 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento.|  [INT29](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| <a id=anchor_41 href="#RF40">RF40</a> | O aplicativo deve permitir a leitura do qr code do título eleitoral. |  [INT30](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RF41 | O aplicativo deve permitir que o usuário visualize tutoriais a respeito de seus documentos. |  [INT31](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF42 | O aplicativo deve permitir que o usuário envie dúvidas. | [INT32](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RF43 | O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | [BS14](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Não |
 
-(Fonte: Autores, 2023)
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 A tabela de rastreamento de requisitos não-funcionais, está apresentada de forma detalhada na Tabela 2 abaixo:
 
@@ -97,27 +114,24 @@ Tabela 2: Requisitos não funcionais
 
 | ID | Descrição | Origem | Implementado |
 | :--: | :--: | :--: | :--: |
-| RNF01 | O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. (suporte) | [INTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) ,  [BSNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [ENTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Não |
-| RNF02 | O aplicativo deve permitir que os usuários alterem a foto do documento do título eleitoral. | [INTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RNF03 | O aplicativo deve permitir que o usuário altere o local de partida. | [INTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RNF04 | O aplicativo deve notificar sobre atualizações eleitorais. | [INTNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RNF05 | O aplicativo deve ter lembretes de votação e de mudanças de localização para votação. | [INTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [QSTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [STNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
-| RNF06 | O aplicativo deve contribuir para a transparência e informações sobre os candidatos sendo disponíveis para os usuários | [INTNF06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BSNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RNF07 | O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê. | [INTNF07](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Sim |
-| RNF08 | O aplicativo deve permitir que o usuário receba a comprovação de seus débitos. | [INTNF08](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RNF09 | O aplicativo deve permitir a leitura do qr code do título eleitoral. | [INTNF10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) , [BS04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RNF10 | O aplicativo deve permitir que o usuário visualiza tutoriais a respeito de seus documentos.| [INTNF11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) | Não |
-| RNF11 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | [INTNF13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)  [BSNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [QSTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [STNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) | Sim |
-| RNF12 | Deve ser possível o aplicativo permitir que o usuário desloga a qualquer momento. | [INTNF15](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) |  Sim |
-| RNF13 | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | [BSNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
-| RNF14 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | [ENTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
-| RNF15 |  O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados | [ENTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
-| RNF16 |  A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários| [ENTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
-| RNF17 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | [ENTNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) | Sim |
-| RNF17 | O aplicativo deve possuir uma navegabilidade que não leve o usuário para fora do app | [QSTNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) | Não |
-| RNF18 | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet. | [BSNF04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) | Sim |
+| <a id=anchor_42 href="#RNF01">RNF01</a> | O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. | [INTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [ENTNF5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Não |
+| RNF02 | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | [BSNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)  | Sim |
+| <a id=anchor_43 href="#RNF03">RNF03</a> | O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários | [BSNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) , [INTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Não |
+| RNF04 | O aplicativo deve ser confiável para o usuário | [BSNF3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Sim |
+| RNF05 | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | [BSNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)  | Sim |
+| RNF06 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. | [ENTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Sim |
+| RNF07 | O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados | [ENTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Sim |
+| RNF08 | A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários. | [ENTNF3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)  | Sim |
+| RNF09 | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele.| [ENTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)  | Sim |
+| RNF10 | O aplicativo deve oferecer suporte ao usuário. | [ENTNF5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)  | Sim |
+| RNF11 | O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê. | [INTNF3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) | Sim |
+| <a id=anchor_44 href="#RNF12">RNF12</a> | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | [INTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [QSTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) , [STNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) | Sim |
+| <a id=anchor_45 href="#RNF13">RNF13</a> | O aplicativo deve manter a atualização das informações do local da votação de cada usuário. | [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) , [STNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) | Sim |
 
-(Fonte: Autores, 2023)
+
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 ## Elos
 
@@ -136,7 +150,9 @@ Tabela 3 - Elos de rastreabilidade.
 | Responsabilidade | documenta o envolvimento, responsabilidade e ação de indivíduos em relação aos artefatos |
 | Alocado | a classe de origem está associada à classe de destino, representando um subsistema |
 
-(Fonte: Autores, 2023)
+<div style="text-align: center">
+<p> Fonte: SENA, Esther; SIQUEIRA, Mariiana. 2023.</p>
+</div>
 
 ## Elos Funcionais
 
@@ -145,147 +161,188 @@ Tabela 3 - Elos de rastreabilidade.
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF01:
-        * Introspecção: [INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) 
-        * Brainstorming: [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-        * Entrevista: [ENT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
+    * <a id="RF01" href="#anchor_2">RF01</a> :
+        * Introspecção: [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) 
+        * Brainstorming: [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+        * Entrevista: [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
         
 * Elos:
-    * Agregacão: [INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-    * Agregação: [INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [ENT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
-    * Representação: [BS1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) representa [ENT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
+    * Agregacão: [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+    * Agregação: [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+    * Representação: [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) representa [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
  
 ### EF02
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF04:
-        * Introspecção: [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-        * Questionário: [QST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-        * Brainstorming: [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) 
+    * <a id="RF04" href="#anchor_5">RF04</a> :
+        * Introspecção: [INT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Questionário: [QST4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/)
+        * Brainstorming: [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) 
         
 * Elos:
-    * Representação: [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representação [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-    * Agregação: [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) agrega [QST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-    * Agregação: [INT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [QST04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
+    * Representação: [INT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representação [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+    * Agregação: [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) agrega [QST04](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/)
+    * Agregação: [INT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [QST04](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/)
 
 ### EF03
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF05:
-        * Entrevista: [ENT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
-        * Questionário: [QST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-        * Brainstorming: [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
+    * <a id="RF05" href="#anchor_6">RF05</a> :
+        * Entrevista: [ENT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+        * Questionário: [QST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+        * Brainstorming: [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
         
 * Elos:
-    * Representação: [QST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) representa [ENT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
-    * Agregação: [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) agrega [ENT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
-    * Agregação: [BS2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) agrega [QST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
+    * Representação: [QST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) representa [ENT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+    * Agregação: [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) agrega [ENT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+    * Agregação: [BS2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) agrega [QST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/)
       
 ### EF04
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF06:
-        * Introspecção: [INT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-        * Questionário: [QST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-        * Storytelling: [ST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
+    * <a id="RF06" href="#anchor_7">RF06</a> :
+        * Introspecção: [INT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Questionário: [QST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+        * Storytelling: [ST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+        * Entrevista: [ENT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+        * Brainstorming: [BS5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
         
 * Elos:
-    * Representação: [INT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [QST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-    * Representação: [QST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) representa [ST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-    * Representação: [ST01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) representa [INT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
+    * Representação: [INT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [QST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+    * Representação: [QST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) representa [ST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+    * Representação: [ST1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) representa [ENT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+    * Representação: [ENT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) representa [BS5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+    * Representação: [BS5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) representa [INT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
 
 ### EF05
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF07:
-        * Introspecção: [INT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-        * Entrevista: [ENT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
-        * Questionário: [QST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-        * Storytelling: [ST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
+    * <a id="RF07" href="#anchor_8">RF07</a> :
+        * Introspecção: [INT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Entrevista: [ENT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+        * Questionário: [QST05](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+        * Storytelling: [ST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
         
 * Elos:
-    * Representação: [INT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [ENT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-    * Representação: [ENT3](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [QST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) 
-    * Representação: [QST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) representa [ST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-    * Representação: [ST03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) representa [INT5](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
+    * Representação: [INT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [ENT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+    * Representação: [ENT3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [QST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+    * Representação: [QST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) representa [ST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+    * Representação: [ST3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) representa [INT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
 
 ### EF06
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF08:
-        * Introspecção: [INT09](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-        * Brainstorming: [BS03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-        * Storytelling: [ST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
+    * <a id="RF08" href="#anchor_9">RF08</a> :
+        * Introspecção: [INT9](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Brainstorming: [BS3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+        * Storytelling: [ST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
         
 * Elos:
-    * Representação: [INT09](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [BS03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-    * Representação: [BS03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) representa [ST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-    * Representação: [ST02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) representa [INT09](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
+    * Representação: [INT9](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [BS3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+    * Representação: [BS3](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) representa [ST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+    * Representação: [ST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) representa [INT9](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
 
-
- ### EF07
+### EF07
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF20:
-        * Introspecção: [INT13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) 
-        * Entrevista: [ENT06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
+    * <a id="RF09" href="#anchor_10">RF09</a> :
+        * Introspecção: [INT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Brainstorming: [BS6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
         
 * Elos:
-    * Recurso: [INT13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) recursa [ENT06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
- 
+    * Agregação: [INT6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [BS6](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
 
 ### EF08
-
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF24:
-        * Entrevista: [ENT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
-        * Storytelling: [ST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-           
+    * <a id="RF11" href="#anchor_12">RF11</a> :
+        * Introspecção: [INT](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Brainstorming: [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+        
 * Elos:
-     * Representação: [ENT4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) representa [ST05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
- 
-       
+    * Agregação: [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) agrega [INT8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+
+
 ### EF09
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF25:
-        * Introspecção: [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) 
-        * Entrevista: [ENT05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
-        * Storytelling: [ST06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
+    * <a id="RF23" href="#anchor_24">RF23</a> :
+        * Entrevista: [ENT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+        * Storytelling: [ST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
            
-
- * Elos:
-    * Representação: [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [ENT05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
-    * Representação: [ENT05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) representa [ST06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-    * Representação: [ST06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md) representa [INT17](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-
+* Elos:
+     * Representação: [ENT4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) representa [ST5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+ 
+       
 ### EF10
 
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RF29:
-        * Introspecção: [INT21](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-        * Brainstorming: [BS11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)       
+    * <a id="RF24" href="#anchor_25">RF24</a> :
+        * Introspecção: [INT17](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) 
+        * Entrevista: [ENT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+
+           
 
  * Elos:
-    * Agregação: [BS11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) agrega [INT21](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
+    * Representação: [INT17](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [ENT5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+    
+
+### EF11
+
+* Nível: Desenvolvimento
+
+* Elementos Rastreáveis: 
+    * <a id="RF28" href="#anchor_29">RF28</a> :
+        * Introspecção: [INT21](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Brainstorming: [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)       
+
+ * Elos:
+    * Agregação: [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) agrega [INT21](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+
+### EF12
+
+* Nível: Desenvolvimento
+
+* Elementos Rastreáveis: 
+    * <a id="RF33" href="#anchor_34">RF33</a> :
+       * Storytelling: [ST4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+       * Entrevista: [ENT7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+
+           
+
+ * Elos:
+    * Agregação: [ST4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/) agrega [ENT7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
+    
+### EF13
+
+* Nível: Desenvolvimento
+
+* Elementos Rastreáveis: 
+    * <a id="RF40" href="#anchor_41">RF40</a> :
+        * Introspecção: [INT30](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Brainstorming: [BS04](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)       
+
+ * Elos:
+    * Representação : [BS04](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) representa [INT30](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+
+
       
 ## Elos não funcionais
 
@@ -294,71 +351,64 @@ Tabela 3 - Elos de rastreabilidade.
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RNF01: 
-       * Introspecção: [INTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-       * Brainstorming: [BSNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-       * Entrevista: [ENTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md) 
+    * <a id="RNF01" href="#anchor_42">RNF01</a> : 
+       * Introspecção: [INTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+       * Entrevista: [ENTNF5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) 
 * Elos:  
-    * Agregação: [INTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [BSNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-    * Agregação: [INTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [ENTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
-    * Representação: [BSNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) representa [ENTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/entrevista.md)
+
+    * Agregação: [INTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [ENTNF5](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/)
+
 
 ### ENF02
  
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RNF05: 
-       * Introspecção: [INTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-       *  Questionário: [QSTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-       *  Storytelling: [STNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
+    * <a id="RNF03" href="#anchor_43">RNF03</a> : 
+       * Introspecção: [INTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+       * Brainstorming: [BSNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) 
+
 * Elos:  
-    * Agregação: [INTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [QSTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-    * Agregação: [INTNF05](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [STNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-    * Representação: [QSTNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) representa [STNF01](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
 
- ### ENF03
+    * Representação: [INTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) representa [BSNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
+
+### ENF03
  
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RNF06: 
-       * Introspecção: [INTNF06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-       * Brainstorming: [BSNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-* Elos: 
-    * Representação: [INTNF06](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [BSNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
+    * <a id="RNF12" href="#anchor_44">RNF12</a> : 
+       * Introspecção: [INTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+       * Questionário: [QSTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+       * Storytelling: [STNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
 
- ### ENF04
+
+* Elos:  
+
+    * Agregação: [INTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [QSTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+     * Agregação: [INTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) agrega [STNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+    * Representação:  [QSTNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/)  representa [STNF2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
+
+### ENF04
  
 * Nível: Desenvolvimento
 
 * Elementos Rastreáveis: 
-    * RNF09: 
-       * Introspecção: [INTNF10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-       * Brainstorming: [BS04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-* Elos: 
-    * Representação: [INTNF10](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) representa [BS04](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
+    * <a id="RNF13" href="#anchor_45">RNF13</a> : 
+       * Questionário: [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) 
+       * Storytelling: [STNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
 
-### ENF05
- 
-* Nível: Desenvolvimento
 
-* Elementos Rastreáveis: 
-    * RNF11: 
-       * Introspecção: [INTNF13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md)
-       * Brainstorming: [BSNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-       * Questionário: [QSTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-       * Storytelling: [STNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)
-* Elos:
-    * Agregação: [INTNF13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md) agrega [BSNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md)
-    * Representação: [BSNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) representa [QSTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md)
-    * Representação: [QSTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) representa [STNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md)  
+* Elos:  
+    * Representação: [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) representa [STNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/)
   
-## Referências
+## Bibliografia
 
 > LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: <https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf>. Acesso em: 15 Novembro. 2023.
 
-> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 15 Novembro. 2023.
+## Referências
+
+> <a id="REF1" href="#anchor_1">[1]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 15 Novembro. 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
@@ -366,3 +416,4 @@ Tabela 3 - Elos de rastreabilidade.
 | `1.0`  | 15/11/2023 |  Criando estrutura do documento com formatação de tabelas, introdução, objetivo e metodologia. | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | `1.1`  | 17/11/2023 |  Adicionando RF e RNF nas tabelas | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | `1.2`  | 17/11/2023 |  Adicionando e preenchendo os Elos | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| `1.3`  | 02/12/2023 |  Correções de rastreabilidade e elos após inspeção | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |

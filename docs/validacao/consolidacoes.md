@@ -45,13 +45,17 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-| Maria marques, João e Mateus | XX/11/2023 | XX:XX | Forward-from | Teams |
+| Maria marques, João e Mateus | 28/11/2023 | 20:20 | Forward-from | Teams |
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/9seMT4oUxr4)
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+<iframe width="560" height="315" src="https://youtu.be/9seMT4oUxr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Maria marques, 2023.</p></font>
+
+Os responsáveis pelo artefato "forward-from", Mateus e João, consolidaram o documento após a inspeção realizada por Maria Marques. Durante a gravação, cada resultado da inspeção foi apresentado, e alguns erros identificados no checklist foram corrigidos. Durante o processo de consolidação, ficou evidente se o artefato possuía ou não possuía os elementos verificados.
 
 ### Gravação 2
 
@@ -61,14 +65,18 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-| Maria Barbosa e Maria marques | 27/11/2023 | XX:XX | cronograma | Teams |
+| Maria Barbosa e Maria marques | 27/11/2023 | 21:30 | cronograma | Teams |
 
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/AOqdOFZLgiI)
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+<iframe width="560" height="315" src="https://youtu.be/AOqdOFZLgiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Maria barbosa e Maria marques, 2023.</p></font>
+
+A maria marques, responsável pela criação do artefato cronograma, concolidou os erros e sugestões desenvolvidos na inspeção realizados pela maria Barbosa. Não só foi falado quais erros eram mas também foi demonstrado no artefato para que a responsável consiga entender a localização dos problemas.
 
 ### Gravação 3
 
@@ -137,14 +145,18 @@ Foi realizado a consolidação entre a responsável pela inspeção Esther Sena 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  |  |  |  | Teams |
+| [Mateus Orlando](https://github.com/MateusPy) ,[Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena). | 28/11/2023 | 23:44 | Entrevista | Teams |
 
 </center>
 
-**(COLOCA VIDEO ABAIXO DA TABELA)**
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Mateus Orlando](https://github.com/MateusPy) que inspecionou o artefato em questão e pelas autoras do artefato, [Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena). 
+
+<iframe width="560" height="315" src="https://youtu.be/W3_HeS93aXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
 
 
-**(COLOCA UM PARAGRAFO EXPLICANDO O QUE FOI CONCLUIDO DO VÍDEO)**
+- Através da etapa de consolidação, as autoras concordaram com os pontos levantados na inspeção, agradeceram pelo feedback do inspetor,[Mateus Orlando](https://github.com/MateusPy), além disso a própria autora [Maria Barbosa](https://github.com/Madu01) apontou um pequeno erro não observado peo inspetor , erro, o qual foi prontamente anotado para ser corrigido.
 
 
 
@@ -156,3 +168,5 @@ Foi realizado a consolidação entre a responsável pela inspeção Esther Sena 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e as tabelas do tópico Gravações de consolidações. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.1`  | 28/11/2023 | Adicionando a entrevista de consolidação do artefato de entrevista. | [Mateus Orlando](https://github.com/MateusPy) | -- |
+

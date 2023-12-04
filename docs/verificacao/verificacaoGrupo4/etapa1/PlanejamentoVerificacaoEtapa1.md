@@ -151,7 +151,7 @@ Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CM1 | Existe o cronograma planejado e executado no projeto? |  |  |
+| CM1 | Existe o cronograma planejado e o cronograma executado no projeto? |  |  |
 | CM2 | O cronograma de planejamento possue um cronograma geral? |  |  |
 | CM3 | O cronograma geral presente no artefato de cronograma de planejamento contém na tabela as seguintes informações: **Número da identificação da entrega, nome da atividade, a descrição dessa atividade e o período de entrega e da apresentação**? |  |  |
 | CM4 | O cronograma de planejamento e de executado possuem todas as atividades de todas as etapas, especeficando de forma detalhadamente, ou seja, possuindo atividades que não necessáriamente são artefatos do cronograma geral? |  |  |
@@ -229,6 +229,12 @@ Fonte: MARQUES, Maria. 2023.
 S
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+### Referência Bibliográfica do cronograma
+
+> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa1.md
+
 ## Referência Bibliográfica 
 
 > <a id="REF81" href="#anchor_81">[81].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - RichPicture. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/. Acesso em: 03 de dezembro de 2023.
@@ -239,7 +245,6 @@ S
 
 > <a id=anchor_34 href="#REF34">[34]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
-> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
 > <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
@@ -259,6 +264,6 @@ S
 | `1.1`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2 `  | 24/11/2023 | Acrescentado mais tópicos ao checklist do app escolhido. | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-
+| `1.5`  | 03/11/2023 | Alterando os itens do cronograma e colocando link para referência de imagens em Referência Bibliográfica do cronograma | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
 
 

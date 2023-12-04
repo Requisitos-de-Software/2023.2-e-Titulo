@@ -115,8 +115,8 @@ As tabelas 1 e 2, são os requisitos obtidos apartir das respostas e análise da
 
 - RFx: Requisito Funcional nºx
 - RNFx: Requisito Não-Funcional nºx
-- Qx: Requisito funcionais nºx elicitado pelo Questionário
-- QNx: Requisito não funcionais nºx elicitado pelo Questionário
+- QSTx: Requisito funcionais nºx elicitado pelo Questionário
+- QSTNFx: Requisito não funcionais nºx elicitado pelo Questionário
 - Na coluna de Implementado, informa se o requisito em específico está presente ou não no aplicativo
 
 ### Requisitos Funcionais

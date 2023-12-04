@@ -218,25 +218,3 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
-
-> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
->  <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EspecificaçãoSuplementar. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/. Acesso em: 03 de dezembro de 2023. 
-
-## Bibliografia de Léxico
-
-> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
-> <a id="REF3" href="#anchor_3">[77].</a> Orlando, Mateus. 2023.2-e-Título. Verificação grupo + 1 - Léxico. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-refeMaduB/docs/verificacao/verificacaoGrupo%2B1/etapa3. Acesso em: 23 de novembro de 2023.
-
-- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-refeMaduB/docs/verificacao/referenciasVerificacao/referenciasEtapa3.md.
-
-## Hitórico de versão
-
-| Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
-| ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.1`  | 24/11/2023 | Alterando tabela da especificação suplementar | [Maria Marques ](https://github.com/EduardaSMarques) |[Maria Barbosa](https://github.com/Madu01) | 
-| `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.3`  | 25/11/2023 | Adicionando o checklist Léxico e acrescentado referência bibliográficas e bibliografia da tabela Léxicos.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
-
