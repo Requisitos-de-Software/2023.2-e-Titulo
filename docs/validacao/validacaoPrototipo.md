@@ -30,9 +30,10 @@ O cronograma das entrevistas estão presentes na **Tabela 1**.
  
 | Identificador da entrevista | Identificador dos protótipos | Entrevistadores | data | horário | Entrevistado | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- | ----- |
-| Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Pelo Teams |
-| Entrevista 2 | Protótipo 3 e Protótipo 4 | Esther Sena Martins e Mariiana Siqueira Neris | 30/11/2023 | 23:00 | Anthony Tavares | Pelo Teams |
-| Entrevista 3 | Protótipo 6 |  [Mateus Orlando](https://github.com/MateusPy) | 28/11/2023 | 13:30 | Winniver Castro | Pelo Teams |
+| Entrevista 1 | Protótipo 1 e Protótipo 2 | Maria Eduarda Barbosa e Maria Eduarda Marques   | 27/11/2023 | 21:00 | Raphael Mendes | Teams |
+| Entrevista 2 | Protótipo 3 e Protótipo 4 | Esther Sena Martins e Mariiana Siqueira Neris | 30/11/2023 | 23:00 | Anthony Tavares | Teams |
+| Entrevista 3 | Protótipo 5 |  João Costa | xx/xx/2023 | xx:xx |  | Teams |
+| Entrevista 4 | Protótipo 6 |  Mateus Orlando | 28/11/2023 | 13:30 | Winniver Castro | Teams |
 
 Fonte: Autores, 2023.
 
@@ -50,7 +51,8 @@ Na **Tabela 2**, demonstra o requisito não implementado com sua identificação
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O usuário deve visualizar o candidato eleito referente ao ano da votação. | Protótipo 2 | Figma | Maria Marques |
 | [INT15](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) |  O usuário deve conseguir escolher visualizar sobre as documentações nescessárias. | Protótipo 3 | Figma | Mariiana Siqueira |
 | [ENT09](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | O aplicativo deve notificar o horário da votação para o usuário | Protótipo 4 | Figma | Esther Sena |
-| INT20 | O usuário deve realizar download da comprovação de sua justificativa. | Protótipo 6 | Figma | [Matheus Orlando](https://github.com/MateusPy) |
+|  |  | Protótipo 5 | Figma | João Costa |
+| [INT20](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao) | O usuário deve realizar download da comprovação de sua justificativa. | Protótipo 6 | Figma | Matheus Orlando |
 
 
 Fonte: Autores, 2023.
@@ -143,9 +145,11 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 <iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
 
-### Protótipo 6
+### Protótipo 5
 
-### O usuário deve realizar download da comprovação de sua justificativa.
+
+
+### Protótipo 6
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=XqoEYTG3wVk1X3cT-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design" allowfullscreen></iframe>
 
@@ -245,40 +249,8 @@ Fonte: SIQUEIRA, Mariiana, 2023.
 Fonte: SENA, Esther, 2023.
 
 </center> 
-
+  
 ### Entrevista 3
-
-O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
-
-<iframe width="560" height="315" src="https://youtu.be/_B4fk8remwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
-
-#### Respostas do protótipo 5
-
-<center>
-  
-**Tabela 10** -  respostas obtidas no protótipo 5.
- 
-| Numeração da pergunta | Resposta |
-| -- | ----------- | 
-| 1 | Sim, fácil de ser utilizado e entendido por qualquer usuário. |
-| 2 | Gostou da facilidade de acesso à funcionalidade a ser implementada. |
-| 3 | O entrevistado não apontou nenhum ponto negativo. |
-| 4 | Acha que é agregante pois facilita na apresentação da justificativa. |
-| 5 | Acha que a funcionalidade condiz com o conceito do aplicativo. |
-| 6 | Não apontou nenhuma melhoria. | 
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023. 
-
-</center> 
-
-#### Conclusão da entrevista 3
-
-- Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário deve realizar download da comprovação de sua justificativa. A entrevistada achou bastante pertinente a disponibilização dessa opção de download dentro do aplicativo, pois acredita que facilitaria a sua vida quando for necessário apresentar essa justificativa em algum local  como por exemplo, no trabalho.
-
-  
-  ### Entrevista 4
 
 O vídeo abaixo apresenta a entrevista com a entrevistada Gustavo Marocolo e com o entrevistador [João Costa.](https://github.com/jvcostta) de validação da funcionalidade não implementada de:  O usuário deve ser capaz de acompanhar a apuração de votos.
 
@@ -288,17 +260,17 @@ A seguir, o vídeo da entrevista apresentando o protótipo para o usuário.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João. 2023.
 
 Caso não consiga assistir, [Clique aqui](https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP)
   
  </center>
    
-#### Respostas do protótipo 6
+#### Respostas do protótipo 5
 
 <center>
   
-**Tabela 3** -  Perguntas para a entrevista.
+**Tabela 8** -  Perguntas para a entrevista.
  
 | Numeração da pergunta | Pergunta | Respostas |
 | -- | ----------- | -------------- |
@@ -309,12 +281,44 @@ Caso não consiga assistir, [Clique aqui](https://www.youtube.com/embed/hRX2Edqh
 | 5 | Sim, assim fica fácil fazer o acompanhamento das apurações. |
 | 6 | Ao invés da simbologia da região, seria bom ter a foto do candidato. |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João. 2023.
+
 </center>
 
 #### Conclusão da entrevista 4
 
 - Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário achou viável retirar simbolos de representação das regiões. Entretanto, acredita ser uma funcionalidade importante a ser implementada.
+
+### Entrevista 4
+
+O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
+
+<iframe width="560" height="315" src="https://youtu.be/_B4fk8remwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: ORLANDO, Mateus. 2023.</p></font>
+
+#### Respostas do protótipo 6
+
+<center>
+  
+**Tabela 9** -  respostas obtidas no protótipo 6.
+ 
+| Numeração da pergunta | Resposta |
+| -- | ----------- | 
+| 1 | Sim, fácil de ser utilizado e entendido por qualquer usuário. |
+| 2 | Gostou da facilidade de acesso à funcionalidade a ser implementada. |
+| 3 | O entrevistado não apontou nenhum ponto negativo. |
+| 4 | Acha que é agregante pois facilita na apresentação da justificativa. |
+| 5 | Acha que a funcionalidade condiz com o conceito do aplicativo. |
+| 6 | Não apontou nenhuma melhoria. | 
+
+Fonte: ORLANDO, Mateus. 2023.
+
+</center> 
+
+#### Conclusão da entrevista 4
+
+- Para a validação da funcionalidade, ainda não implementada no aplicativo: o usuário deve realizar download da comprovação de sua justificativa. A entrevistada achou bastante pertinente a disponibilização dessa opção de download dentro do aplicativo, pois acredita que facilitaria a sua vida quando for necessário apresentar essa justificativa em algum local  como por exemplo, no trabalho.
 
 ## Bibliografia
 
