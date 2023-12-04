@@ -104,19 +104,34 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [4]  |  <br> - O artefato possui as Palavras-chave usadas na sessão de Brainstorming? <br> - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <br> |
+| [4]  |  <br> - O artefato possui as Palavras-chave usadas na sessão de Brainstorming? <br> - O artefato possui gravação da sessão Brainstorming? <br> - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <br> - Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <br> - Os requisitos identificados foram expostos? <br> - Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? <br> - Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? <br> |
 
-Fonte: SIQUEIRA, Neris. 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 Imagem 1 - Imagem das perguntas "[4]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/BS[4].png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: FERREIRA, Rafael. 2023.1-BilheteriaDigital. Verificação grupo - entrega 2 - verificacao-brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md). Acesso em: 24 nov, 2023.
+
 
 | ID | Pergunta | 
 | ---| -------- |
-| [B1]  | (PERGUNTA(S) |
+| [5]  | <br> - Foram elicitados requisitos que não estão presentes no aplicativo? |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
+Imagem 2 - Imagem das perguntas "[5]". 
+
+<td><img src=./imgs/BS[5].png></td> 
+
+Fonte: 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md). Acesso em: 24 nov, 2023.
+
+| ID | Pergunta | 
+| ---| -------- |
+| [6]  | <br> - Todos os Requisitos Não-Funcionais são verificáveis? |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -194,17 +209,33 @@ Fonte: SOBRENOME, nome. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [7]  | <br> - No artefato foi informado o motivo da escolha do questionário? <br> - Os resultados foram tratados e apresentados? <br> - O artefato apresenta no texto o prazo em que ficou aberto ? <br> - O artefato apresenta no texto onde o questionário foi distribuído? <br> - As perguntas apresentam alguma ordem ou padrão estratégico? <br> - É explicitado como o questionário será utilizado? <br> |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 4 - Imagem da pergunta "[7]". 
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/QST[6].png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2/). Acesso em: 24 nov, 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+| ID | Pergunta | 
+| ---| -------- |
+| [8]  | <br> - O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <br> - O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <br> - Os requisitos foram qualificados em funcionais e não funcionais? |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
+Imagem 4 - Imagem da pergunta "[8]". 
+
+<td><img src=./imgs/QST[7].png></td> 
+
+Fonte: PENHA, Igor; GOBBI, Lucas. 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md). Acesso em: 24 nov, 2023.
+
+| ID | Pergunta | 
+| ---| -------- |
+| [9]  | <br> - No artefato, há as respostas do questionário? |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 

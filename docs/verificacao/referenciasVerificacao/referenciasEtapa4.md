@@ -53,21 +53,37 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <center>
 
-**Tabela 2** - Perguntas e Imagens para as perguntas do Histórias de Usuário.
+**Tabela 2 e 3** - Perguntas e Imagens para as perguntas do Histórias de Usuário.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [1] | <br> - A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? <br> - As histórias possuem um ID? <br> - Para validar as histórias foi utilizado o próprio usuário do e-Título? <br> - Existe o vídeo da reunião da validação com esse usuário do e-Título? <br> - É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <br> - Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <br> |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 1 - Imagem da pergunta "[1]". 
 
-<td><img src=./imgs/---f></td> 
+<td><img src=./imgs/US[1].png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/PlanejamentoVerificacaoEtapa4/). Acesso em: 24 nov, 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+| ID | Pergunta | 
+| ---| -------- |
+| [2]  | <br> - Os títulos das histórias de usuário são auto-explicativos? <br> - Todas as histórias de usuários podem ser testadas? <br> |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
+
+Imagem 2 - Imagem da pergunta "[2]". 
+
+<td><img src=./imgs/US[2].png></td> 
+
+Fonte: BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em: 24 nov, 2023.
+
+| ID | Pergunta | 
+| ---| -------- |
+| [3]  | <br> - O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? <br> - O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) <br> - As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? <br> |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -96,27 +112,27 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas do NFR Framework.
+**Tabela 4 e 5** - Perguntas e Imagens para as perguntas do NFR Framework.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [X]  | (PERGUNTA(S) |
+| [5] | <br> - A definição do RNF e as fontes de evidência na literatura? <br> - No artefato possui uma legendas explicando os símbolos utilizados?	<br> - O artefato possui cartão de especificação do RNF? <br> -Os softgoals condizem com o contexto? <br> - Estabelece uma ligação com o documento Especificação Suplementar? <br> - Os cartões de especificação representam requisitos não-funcionais verificáveis? <br> - Foram feitos SIG's com e sem propagação de impacto? <br> |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+Imagem 3 - Imagem da pergunta "[3]". (coloque o numero do ID)
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/NFR[3].png></td> 
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/). Acesso em: 24 nov, 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+| ID | Pergunta | 
+| ---| -------- |
+| [6] | <br> - O histórico de versões está padronizado? <br> |
+
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
-
-
-
-
 
 ## Histórico de versão 
 
