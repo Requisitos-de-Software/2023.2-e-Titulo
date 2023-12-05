@@ -42,18 +42,6 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 Fonte: SENA, Esther. 2023.
 
 </center>
-<center>
-
-**Vídeo 1** - Vídeo da inspeção feita em dupla.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k6jzMemoMNY?si=GpU_mQd7XhfDmMhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br> Fonte: SENA, Esther. SIQUEIRA, Mariiana. 2023.
-
- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/k6jzMemoMNY?si=tNJRn5Cv7ZkzyWdV)
-
-
-</center>
 
 ## Sugestões e melhorias
 
@@ -62,6 +50,18 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 - L9 - O histórico de versão não esta seguindo o padrão conforme planejado para o projeto, sendo utilizado "0.1", "0.2",... ao invés de "1,0" "1.1", ...  
 - L10 - Seria interessante adicionar uma linkagem entre os léxicos relacionados.
 - L11 - Seria interessante realocar os léxicos de forma alfabética.
+
+## Vídeo da inspeção
+
+Abaixo está presente a gravação do vídeo de histórias de usuário feito em dupla por [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza).
+
+Vídeo 1 - link do vídeo para a inspeção em dupla sobre Léxicos.
+
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/k6jzMemoMNY?si=tNJRn5Cv7ZkzyWdV).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6jzMemoMNY?si=GpU_mQd7XhfDmMhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: SENA, Esther. e SIQUEIRA, Mariiana. </p></font>
 
 ## Bibliografia
 
