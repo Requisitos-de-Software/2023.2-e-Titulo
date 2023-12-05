@@ -67,25 +67,25 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "PU4". 
+**Imagem 2 - Imagem da pergunta "PU4".** 
 
 <td><img src= ./imgs/perfilUsuarioRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "PU7". (referência presente na página 141)
+**Imagem 3 - Imagem da pergunta "PU7". (referência presente na página 141)**
 
 <td><img src= ./imgs/perfilUsuarioRef2.jpeg></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "PU9". 
+**Imagem 4 - Imagem da pergunta "PU9".** 
 
 <td><img src= ./imgs/perfilUsuarioRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "PU10". 
+**Imagem 5 - Imagem da pergunta "PU10".**
 
 <td><img src= ./imgs/perfilUsuarioRef4.png></td> 
 
@@ -97,7 +97,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas da Escolha do $100.
+**Tabela 3** - Perguntas e Imagens para as perguntas da Escolha do $100.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -112,20 +112,20 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "$1".**
+**Imagem 6 - Imagem da pergunta "$1".**
 
 <td><img src=./imgs/1$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "$3", "$4", "$5", "$6" e "$7".**
+**Imagem 7 - Imagem da pergunta "$3", "$4", "$5", "$6" e "$7".**
 
 <td><img src=./imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
-**Imagem X - Imagem da pergunta "$2" e "$8".** 
+**Imagem 8 - Imagem da pergunta "$2" e "$8".** 
 
 <td><img src=./imgs/3$100.png></td> 
 
@@ -137,7 +137,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Brainstorming.
+**Tabela 4** - Perguntas e Imagens para as perguntas de Brainstorming.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -145,12 +145,13 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 1 - Imagem das perguntas "[4]". 
+**Imagem 9 - Imagem das perguntas "[4]".**
 
 <td><img src=./imgs/BS[4].png></td> 
 
 Fonte: FERREIRA, Rafael. 2023.1-BilheteriaDigital. Verificação grupo - entrega 2 - verificacao-brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md). Acesso em: 24 nov, 2023.
 
+**Tabela 5**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -158,11 +159,13 @@ Fonte: FERREIRA, Rafael. 2023.1-BilheteriaDigital. Verificação grupo - entrega
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 2 - Imagem das perguntas "[5]". 
+**Imagem 10 - Imagem das perguntas "[5]".**
 
 <td><img src=./imgs/BS[5].png></td> 
 
 Fonte: 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md). Acesso em: 24 nov, 2023.
+
+**Tabela 6**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -176,7 +179,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas da Entrevista.
+**Tabela 7** - Perguntas e Imagens para as perguntas da Entrevista.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -184,7 +187,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem 11- Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---></td> 
 
@@ -198,7 +201,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela 6** - Perguntas e Imagens para as perguntas de Personas
+**Tabela 8** - Perguntas e Imagens para as perguntas de Personas
   
 | ID | Pergunta | 
 | ---| -------- |
@@ -207,13 +210,11 @@ Fonte: SOBRENOME, nome. 2023.
 | P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?   | 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem 6 - Imagem da pergunta P1,2 e 5.
+**Imagem 12 - Imagem da pergunta P1,2 e 5.**
 
 <td><img src=./imgs/ref_personas.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-
-
 
 </center>
 
@@ -221,7 +222,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Introspecção
+**Tabela 9** - Perguntas e Imagens para as perguntas de Introspecção
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -233,7 +234,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-Imagem X - Imagem das perguntas de I1 a I4.
+**Imagem 13 - Imagem das perguntas de I1 a I4.**
 
 <td><img src=./imgs/a5.jpeg></td> 
 
@@ -245,7 +246,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Questionário
+**Tabela 10** - Perguntas e Imagens para as perguntas de Questionário
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -253,11 +254,13 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 4 - Imagem da pergunta "[7]". 
+**Imagem 14 - Imagem da pergunta "[7]".**
 
 <td><img src=./imgs/QST[6].png></td> 
 
 Fonte: COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2/). Acesso em: 24 nov, 2023.
+
+**Tabela 11**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -265,11 +268,13 @@ Fonte: COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Qu
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 4 - Imagem da pergunta "[8]". 
+**Imagem 15 - Imagem da pergunta "[8]".** 
 
 <td><img src=./imgs/QST[7].png></td> 
 
 Fonte: PENHA, Igor; GOBBI, Lucas. 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md). Acesso em: 24 nov, 2023.
+
+**Tabela 12**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -284,7 +289,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 <center>
   
-**Tabela 9** - Perguntas e Imagens para as perguntas de Storytelling.
+**Tabela 13** - Perguntas e Imagens para as perguntas de Storytelling.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -296,7 +301,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
-Imagem 8 - Imagem das pergunta ST1,2,3,4,5. 
+**Imagem 16 - Imagem das pergunta ST1,2,3,4,5.** 
 
 <td><img src=./imgs/ref_storytelling.PNG></td> 
 
@@ -308,7 +313,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de First Things First.
+**Tabela 14** - Perguntas e Imagens para as perguntas de First Things First.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -325,49 +330,49 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF1".**
+**Imagem 17 - Imagem da pergunta "FTF1".**
 
 <td><img src=./imgs/1TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF2".** 
+**Imagem 18 - Imagem da pergunta "FTF2".** 
 
 <td><img src=./imgs/3$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF3".**
+**Imagem 19 - Imagem da pergunta "FTF3".**
 
 <td><img src=./imgs/3FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF4".** 
+**Imagem 20 - Imagem da pergunta "FTF4".** 
 
 <td><img src=./imgs/4FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF5".** 
+**Imagem 21 - Imagem da pergunta "FTF5".** 
 
 <td><img src=./imgs/5FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF6" e "FTF7".** 
+**Imagem 22 - Imagem da pergunta "FTF6" e "FTF7".** 
 
 <td><img src=./imgs/6FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF8".** 
+**Imagem 23 - Imagem da pergunta "FTF8".** 
 
 <td><img src=./imgs/7FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "FTF9".**
+**Imagem 24 - Imagem da pergunta "FTF9".**
 
 <td><img src=./imgs/2$100.png></td> 
 
@@ -379,7 +384,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas de Three Level Scale.
+**Tabela 15** - Perguntas e Imagens para as perguntas de Three Level Scale.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -393,25 +398,25 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "TLS1".** 
+**Imagem 25 - Imagem da pergunta "TLS1".** 
 
 <td><img src=./imgs/1TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "TLS3", "TLS4" e "TLS6".** 
+**Imagem 26 - Imagem da pergunta "TLS3", "TLS4" e "TLS6".** 
 
 <td><img src=./imgs/2TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "TLS5".** 
+**Imagem 27 - Imagem da pergunta "TLS5".** 
 
 <td><img src=./imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem X - Imagem da pergunta "TLS2" e "TLS8".** 
+**Imagem 28 - Imagem da pergunta "TLS2" e "TLS8".** 
 
 <td><img src=./imgs/3$100.png></td> 
 
@@ -424,6 +429,4 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
-
-
-| `1.3`  | 02/12/2023 | Adicoando as imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2(Storytelling e Personas)| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+| `1.1`  | 02/12/2023 | Adicoando as imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2($100, First Things First, e Three Level Scale | [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
