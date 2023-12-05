@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist da técnica First Things First, indicando sugestões e melhorias.
+Este documento verifica o [Firt things Firt](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/firstThingsFirst/) realizado pelo grupo 4 apresentando um Checklist da técnica First Things First, indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -36,7 +36,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | FTF6 | Os indentificadores possuem likagem de rastreabilidade? | Não | observação abaixo  |
 | FTF7 | O artefato possui link para as ferramentas utilizadas? | Sim |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -46,7 +46,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WSjIfYGxbGc?si=uEaUbMByLMtgnBq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
  Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/WSjIfYGxbGc)
 
