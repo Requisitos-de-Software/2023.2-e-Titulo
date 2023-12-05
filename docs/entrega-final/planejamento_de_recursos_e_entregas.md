@@ -318,4 +318,4 @@ Nas tabelas X e X estão os cronogramas planejado e executado da entrega X.
 
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
-| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [João Victor](https://github.com/jvcostta) |
