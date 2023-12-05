@@ -73,4 +73,4 @@ Tabela 1 - Ferramentas utilizadas
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
 | `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Esther Sena Martins](https://github.com/esmsena)  |
-| `1.0`  | 04/12/2023  | Escrevendo Motivações de escolha, Termo de uso e preenchendo a tabela de Ferramentas Utilizadas e linkando. | [Esther Sena Martins](https://github.com/esmsena) | [Esther Sena Martins](https://github.com/esmsena)  |
+| `1.0`  | 04/12/2023  | Escrevendo Motivações de escolha, Termo de uso e preenchendo a tabela de Ferramentas Utilizadas e linkando. | [Esther Sena Martins](https://github.com/esmsena) | [João Victor](https://github.com/jvcostta)  |
