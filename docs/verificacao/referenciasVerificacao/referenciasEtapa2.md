@@ -141,11 +141,19 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [4]  |  <br> - O artefato possui as Palavras-chave usadas na sessão de Brainstorming? <br> - O artefato possui gravação da sessão Brainstorming? <br> - Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? <br> - Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <br> - Os requisitos identificados foram expostos? <br> - Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? <br> - Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? <br> |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming? |
+| B2 | O artefato possui gravação da sessão Brainstorming? |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? |
+| B4 | A elicitação contou com moderador e um secretário? |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? |
+| B6 | Os requisitos identificados foram expostos? |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram? |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-**Imagem 9 - Imagem das perguntas "[4]".**
+**Imagem 9 - Imagem das perguntas "B1, B2, B3, B4, B5, B6, B7, B8 e B9".**
 
 <td><img src=./imgs/BS[4].png></td> 
 
@@ -155,11 +163,11 @@ Fonte: FERREIRA, Rafael. 2023.1-BilheteriaDigital. Verificação grupo - entrega
 
 | ID | Pergunta | 
 | ---| -------- |
-| [5]  | <br> - Foram elicitados requisitos que não estão presentes no aplicativo? |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? | 
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-**Imagem 10 - Imagem das perguntas "[5]".**
+**Imagem 10 - Imagem das pergunta "B11".**
 
 <td><img src=./imgs/BS[5].png></td> 
 
@@ -169,7 +177,7 @@ Fonte: 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstormin
 
 | ID | Pergunta | 
 | ---| -------- |
-| [6]  | <br> - Todos os Requisitos Não-Funcionais são verificáveis? |
+| B10 | Todos os Requisitos Não-Funcionais são verificáveis? | 
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -250,7 +258,12 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [7]  | <br> - No artefato foi informado o motivo da escolha do questionário? <br> - Os resultados foram tratados e apresentados? <br> - O artefato apresenta no texto o prazo em que ficou aberto ? <br> - O artefato apresenta no texto onde o questionário foi distribuído? <br> - As perguntas apresentam alguma ordem ou padrão estratégico? <br> - É explicitado como o questionário será utilizado? <br> |
+| Q1 | No artefato foi informado o motivo da escolha do questionário? |
+| Q2 | Os resultados foram tratados e apresentados? |
+| Q3 | O artefato apresenta no texto o prazo em que ficou aberto ? |
+| Q4 | O artefato apresenta no texto onde o questionário foi distribuído? |
+| Q5 | As perguntas apresentam alguma ordem ou padrão estratégico? |
+| Q6 | É explicitado como o questionário será utilizado? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -264,7 +277,9 @@ Fonte: COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Qu
 
 | ID | Pergunta | 
 | ---| -------- |
-| [8]  | <br> - O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <br> - O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <br> - Os requisitos foram qualificados em funcionais e não funcionais? |
+| Q7 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? |
+| Q8 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? |
+| Q9 | Os requisitos foram qualificados em funcionais e não funcionais? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -278,7 +293,7 @@ Fonte: PENHA, Igor; GOBBI, Lucas. 2023.1-VLC. GitHub. Verificacao - entrega_2 - 
 
 | ID | Pergunta | 
 | ---| -------- |
-| [9]  | <br> - No artefato, há as respostas do questionário? |
+| Q10 | No artefato, há as respostas do questionário? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
