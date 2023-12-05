@@ -125,25 +125,25 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 - Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
-<iframe src="https://www.figma.com/proto/cTKUqjqJUGwEaZ0QKIFyzw/Untitled?type=design&node-id=2-2&t=SOooZeJtRgXaPVJn-1&scaling=min-zoom&page-id=0%3A1&mode=design" width="640" height="480"></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcTKUqjqJUGwEaZ0QKIFyzw%2FUntitled%3Ftype%3Ddesign%26node-id%3D2-2%26t%3DacA9WZxUbbVzBKUZ-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Protótipo 2
 
 - Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design)
 
-<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=5-2&t=OxM6hCcV7nIewD8p-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design" width="640" height="480"></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCXfHJkukhJwlLwr9Rbx6t%2FUntitled%3Ftype%3Ddesign%26node-id%3D5-2%26t%3DIETjunOltCKaDU0m-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Protótipo 3
 
 - Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1)
 
-<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCXfHJkukhJwlLwr9Rbx6t%2FUntitled%3Ftype%3Ddesign%26node-id%3D93-47%26t%3DWwraKCFXm8Ll2Xwj-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D93%253A47%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Protótipo 4
 
 - Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1)
 
-<iframe src="https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=93-47&t=G7FzhwrtVOe7yJa7-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=93%3A47&show-proto-sidebar=1" width="640" height="480"></iframe> 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCXfHJkukhJwlLwr9Rbx6t%2FUntitled%3Ftype%3Ddesign%26node-id%3D93-47%26t%3DRtnNYRS9AGxWWJTt-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D93%253A47%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
 ### Protótipo 5
 
@@ -153,7 +153,9 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 ### Protótipo 6
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=XqoEYTG3wVk1X3cT-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design" allowfullscreen></iframe>
+- Caso não consiga visualizar o protótipo, [Clique aqui](https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=BW6HKlhSmCx6HGaD-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FHxi8RVk99MX0bfKlV916Qs%2FUntitled%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D5-161%26viewport%3D622%252C77%252C0.61%26t%3DBW6HKlhSmCx6HGaD-1%26scaling%3Dmin-zoom%26starting-point-node-id%3D5%253A161%26mode%3Ddesign" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/MateusPy">Mateus Orlando, 2023</a></b></p></font>
 
@@ -163,7 +165,7 @@ Os entrevistadores devem conferir o vídeo da entrevista e anotarem as conclusõ
 
 - Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/MlN2f-EnJgw)
 
-<iframe width="560" height="315" src="https://youtu.be/MlN2f-EnJgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MlN2f-EnJgw?si=ixinH49ajiEgzV7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Maria Barbosa, Maria Marques , 2023. .</p></font>
 
@@ -210,7 +212,7 @@ Fonte: maria barbosa, 2023.
 
 - Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/pv1ckIClxos)
 
-<iframe width="560" height="315" src="https://youtu.be/pv1ckIClxos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pv1ckIClxos?si=lI73W2a4rXXh2jYf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: SENA, Esther; SIQUEIRA, Mariiana, 2023. .</p></font>
 
@@ -295,7 +297,7 @@ Fonte: COSTA, João. 2023.
 
 O vídeo abaixo apresenta a entrevista com a entrevistada Winniver Castro e com o entrevistador [Mateus Orlando](https://github.com/MateusPy) de validação da funcionalidade não implementada de:  O usuário deve realizar download da comprovação de sua justificativa.
 
-<iframe width="560" height="315" src="https://youtu.be/_B4fk8remwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_B4fk8remwM?si=QnDX44NioYY4fXCn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: ORLANDO, Mateus. 2023.</p></font>
 
