@@ -172,13 +172,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
-
 ## Referências de Histórias de Usuário
-
-
-
-## Referência Bibliográfica
-
 
 > <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
 
@@ -186,16 +180,13 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > <a id="REF3" href="#anchor_3">[3]</a> Referência baseada em aulas na sala de aula.
 
-    * Para visualizar as imagens de referências do artefato acesse aqui: 
-
-## Referências de Backlog
+* Para visualizar as imagens de referências do artefato acesse aqui:  https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
 
 ## Referência Bibliográfica do Backlog
 
 > <a id="REF4" href="#anchor_4">[4]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
-
-    * Para visualizar as imagens de referências do artefato acesse aqui: 
+* Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
 
 ## Referências de NFR Framework
 
@@ -203,15 +194,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > <a id="REF6" href="#anchor_6">[6]</a> Referência baseada em aulas na sala de aula.
 
-    * Para visualizar as imagens de referências do artefato acesse aqui: 
-    
-
-> <a id="REF4" href="#anchor_4">[5]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega4/verificacao-pdbacklog/. Acesso em: 23 de novembro de 2023.>
-
-- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
-
-
-
+* Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md   
 
 ## Histórico de Versões
 
