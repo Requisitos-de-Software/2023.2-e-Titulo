@@ -1,18 +1,18 @@
-# Apresentação 5
+# Apresentação 6 (Entrega 6)
 
 ## Introdução
  Essa página tem como principal objetivo armazenar o vídeo de apresentação da quinta entrega, no qual se encontra no link a seguir.
 
 ## Vídeo
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/KW-HD_V2kEY)
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/51j0n5R4ug4?si=3WtQZ8BelNLBdgCb)
 
-<iframe width="560" height="315" src="https://youtu.be/KW-HD_V2kEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51j0n5R4ug4?si=LgHdHnICDPop6nFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
 
 ## Critérios de entrega
 
-<font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 5.1</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Critérios para a Entrega 6</p></font>
 
 A git page possui?  | Sim/Não/Incompleto
 --------- | ------
@@ -25,13 +25,9 @@ A git page possui?  | Sim/Não/Incompleto
 7 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim
 8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim
 9 - A gravação da reunião do grupo. | Sim
-10- Foi feita a verificação de todos os artefatos da equipe 5? | Sim
-11- A verificação tem metodologia? | Sim
-12- A verificação tem introdução? | Sim
-13- A verificação tem objetivo? | Sim
-14- A verificação tem planejamento? | Sim
-15- A verificação tem cronograma? | Sim
-16- A verificação tem checklist dos artefatos? | Sim
+10- Foi feito o Backward-from ? | Sim
+11- Foi feito o Forward-from ? | Sim
+11- Foi feita a Matriz de Rastreabilidade ? | Sim
 
 
 
@@ -39,5 +35,4 @@ A git page possui?  | Sim/Não/Incompleto
 
 | Versão |     Data    |          Descrição             |              Autor(es)                    |               Revisor(es)                            |
 | ------ | ----------- | ------------------------------ | ----------------------------------------- | ---------------------------------------------------- |
-| `1.0`  | 13/11/2023  | documentação da apresentação 5 | [Mateus Orlando](https://github.com/MateusPy)| [João Costa](https://github.com/jvcostta) |
-| `1.0`  | 13/11/2023  | tabela da apresentação 5 | [João Costa](https://github.com/jvcostta) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.0`  | 13/11/2023  | documentação da apresentação 6 | [Mateus Orlando](https://github.com/MateusPy)| [Mariiana Siqueira](https://github.com/Maryyscreuza) |
