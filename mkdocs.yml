@@ -61,6 +61,12 @@ nav:
     - Backlog: modelagem/agil/backlog.md
     - NFR Framework: modelagem/agil/nfr.md
   - Verificação:
+    - Referências:
+      - Etapa 1: verificacao/referenciasVerificacao/referenciasEtapa1.md
+      - Etapa 2: verificacao/referenciasVerificacao/referenciasEtapa2.md
+      - Etapa 3: verificacao/referenciasVerificacao/referenciasEtapa3.md
+      - Etapa 4: verificacao/referenciasVerificacao/referenciasEtapa4.md
+      - Etapa 5: verificacao/referenciasVerificacao/referenciasEtapa6.md
     - Verificação grupo 5:
       - Entrega 1:
         - Planejamento da Verificação da Primeira Entrega: verificacao/verificacaoGrupo+1/etapa1/PlanejamentoVerificacaoEtapa1.md
@@ -130,7 +136,7 @@ nav:
         - Histórias de Usuário: verificacao/verificacaoGrupo4/etapa4/historiasUsuario.md
         - NFR Framework: verificacao/verificacaoGrupo4/etapa4/nfrFramework.md
       - Entrega 6:
-        - Planejamenti da Verificação da Sexta Entrega: verificacao/verificacaoGrupo4/etapa6/PlanejamentoVerificacaoEtapa6.md
+        - Planejamento da Verificação da Sexta Entrega: verificacao/verificacaoGrupo4/etapa6/PlanejamentoVerificacaoEtapa6.md
         - Backward-from: verificacao/verificacaoGrupo4/etapa6/backwardFrom.md
         - Forward-from: verificacao/verificacaoGrupo4/etapa6/forwardFrom.md
         - Matriz de Rastreabilidade: verificacao/verificacaoGrupo4/etapa6/matriz.md
@@ -139,6 +145,11 @@ nav:
     - Backward-from: pos-rastreabilidade/backwardFrom.md
     - Forward-from: pos-rastreabilidade/forwardFrom.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
+
+  - Validação:
+    - Consolidações: validacao/consolidacoes.md
+    - Informal: validacao/informal.md
+    - Validação do protótipo: validacao/validacaoPrototipo.md
 
 plugins:
   - search:

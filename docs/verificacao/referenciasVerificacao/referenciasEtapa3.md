@@ -99,7 +99,8 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 <td><img src=./imgs/a6.jpeg></td> 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/)
+</center>
 
 
 </center>
