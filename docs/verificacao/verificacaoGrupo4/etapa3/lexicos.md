@@ -53,7 +53,7 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 
 ## Vídeo da inspeção
 
-Abaixo está presente a gravação do vídeo de histórias de usuário feito em dupla por [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza).
+Abaixo está presente a gravação do vídeo de Léxicos feito em dupla por [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza).
 
 Vídeo 1 - link do vídeo para a inspeção em dupla sobre Léxicos.
 
