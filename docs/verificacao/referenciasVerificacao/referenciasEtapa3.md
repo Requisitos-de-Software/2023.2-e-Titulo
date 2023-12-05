@@ -38,16 +38,13 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 | ---| -------- |
 | **Número de indêtificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=../imgs/referencias.avif></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
-
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -143,37 +140,25 @@ Fonte: SOBRENOME, nome. 2023.
 | L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) | 
 | L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**)   | 
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: SENA, Esther. 2023.
 
-**Imagem 5 - Imagem da pergunta L1 e L6.**
-
-<td><img src=../imgs/ref_lexicos3.PNG></td> 
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-
-**Imagem 6 - Imagem da pergunta L3, L4, L5.** 
-
-<td><img src=../imgs/ref_lexicos2.PNG></td> 
-
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
-
-**Imagem 7 - Imagem da pergunta "L1".** 
+**Imagem 5 - Imagem da pergunta "L1".** 
 
 <td><img src=../imgs/1Lexico.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+SERRANO, Milene. Requisitos – Aula 10. Disponivél em: [Link](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 23 de novembro de 2023.
 
-**Imagem 8 - Imagem da pergunta "L2".**
+**Imagem 6 - Imagem da pergunta "L2".**
 
 <td><img src=../imgs/2Lexico.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+SERRANO, Milene. Requisitos – Aula 10. Disponivél em: [Link](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 23 de novembro de 2023.
 
-**Imagem 9 - Imagem da pergunta "L3", "L4", "L5" e "L6".**
+**Imagem 7 - Imagem da pergunta "L3", "L4", "L5" e "L6".**
 
 <td><img src=../imgs/3Lexico.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+SERRANO, Milene. Requisitos – Aula 10. Disponivél em: [Link](https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf). Acesso em: 23 de novembro de 2023.
 
 </center>
 
