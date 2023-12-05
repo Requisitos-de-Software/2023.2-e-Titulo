@@ -59,7 +59,7 @@ A verificação será realizada apartir o dia 21 até dia 25 de novembro de 2023
 | 21/11/2023 | 25/11/2023 | 26/11/2023 | Verificação de Léxicos. | [Esther Sena](https://github.com/esmsena) |
 
 
-Fonte: Maria Barbosa, 2023
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -80,7 +80,7 @@ Neste artefato será apresentado os checklists que serão utilizados para a veri
 | ---| -------- | --------- | ------------ |
 | **Letra inicial do artefato + Nº do ID** (caso houver mais de um artefato com mesma letra inicial, coloque a segunda também) | **Descrever o item** | **Sim/Não/Incompleto** | Colocar alguma observação a respeito da avaliação (Opcional), no caso de não possuir observação insere o seguinte símbolo: **--** |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -101,7 +101,7 @@ Fonte: Maria Barbosa, 2023.
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -121,64 +121,7 @@ Fonte: Maria Barbosa, 2023.
 | CE6 | Os títulos dos cenários são requisitos funcionais? |  |  |
 | CE7 | É apresentado a técnica de priorização utilizada para os cenários referentes aos requisitos funcionais? |  |  |
 
-Fonte: Maria Barbosa, 2023.
-
-
-</center>
-
-### Checklist da Verificação do Casos de Uso
-
-<center>
-
-**Tabela 5** - Checklist para os Itens de Casos de Uso.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| C1 | O diagrama de caso de uso possui atores? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C2 | O ator principal está do lado esquerdo do sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C3 | Os atores estão fora da fronteira do sistema? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| C4 | Os atores interagem com os Casos de Uso corretamente? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C5 | Há algum nome associado ao(s) usuário(s) do sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C6 | Existe limite do sistema? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| C7 | Os casos de uso possuem especificações? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| C8 | Os casos de uso possuem rastreabilidade? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="REF54" href="#anchor_54">54</a>|  |  |
-| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? |  |  |
-
-Fonte: [João Victor](https://github.com/jvcostta), 2023.
-</center>
-
-### Checklist da Verificação da Especificação Suplementar
-
-<center>
-
-**Tabela 6** - Checklist para os Itens da Especificação Suplementar.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| B1 | O documento adere ao formato FURPS+?  <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B2 | Existe uma seção dedicada à funcionalidade no documento?  <a id="anchor_49" href="#REF49">[49].</a> |   |  |
-| B49 | Há uma seção referente à usabilidade no documento? <a id="anchor_49" href="#REF49">[49].</a> |   |  |
-| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B5 | O documento inclui uma seção abordando a confiabilidade? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B6 | Os requisitos identificados foram claramente apresentados? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B8 | São explicitados requisitos relacionados à segurança no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B9 | Existe uma seção de desempenho no documento? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B10 | São apresentados requisitos relacionados aos tempos de resposta? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B11 | O documento inclui uma seção sobre suportabilidade?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B149 | Há uma seção dedicada a restrições de design no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema? <a id="anchor_49" href="#REF49">[49].</a>|||
-| B15 | Existe uma seção de requisitos de implementação no documento? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B16 | Os requisitos apresentados são testáveis? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-| B17 | Há uma seção de requisitos de interface no documento?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B18 | São descritas as características físicas do ambiente onde o sistema operará?  <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B19 | Todos os requisitos mencionados nas seções são passíveis de teste? <a id="anchor_49" href="#REF49">[49].</a>|  |  |
-| B20 | O documento contempla requisitos físicos? <a id="anchor_49" href="#REF49">[49].</a> |  |  |
-
-
-Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -199,31 +142,86 @@ Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 | L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? <a id="anchor_37" href="#REF3">[3].</a> |  |  |
 | L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? <a id="anchor_38" href="#REF3">[3].</a> |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 </center>
 
+### Checklist da Verificação da Especificação Suplementar
 
-## Bibliografia
+<center>
 
-> <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
+**Tabela 6** - Checklist para os Itens da Especificação Suplementar.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| B1 | O documento adere ao formato FURPS+?  <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B2 | Existe uma seção dedicada à funcionalidade no documento?  <a id="anchor_4" href="#REF4">[4].</a>|   |  |
+| B49 | Há uma seção referente à usabilidade no documento? <a id="anchor_4" href="#REF4">[4].</a> |   |  |
+| B4 | Os requisitos apresentados são orientados a facilitar as tarefas dos usuários? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B5 | O documento inclui uma seção abordando a confiabilidade? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B6 | Os requisitos identificados foram claramente apresentados? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B7 | Os requisitos contribuem para reforçar a confiabilidade do sistema? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B8 | São explicitados requisitos relacionados à segurança no documento? <a id="anchor_4" href="#REF4">[4].</a>  |  |  |
+| B9 | Existe uma seção de desempenho no documento? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B10 | São apresentados requisitos relacionados aos tempos de resposta? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B11 | O documento inclui uma seção sobre suportabilidade?  <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B12 | São especificados os sistemas operacionais nos quais o sistema será compatível? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B149 | Há uma seção dedicada a restrições de design no documento? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B14 | Os requisitos especificados impõem limitações ou orientações para o design do sistema? <a id="anchor_4" href="#REF4">[4].</a> |||
+| B15 | Existe uma seção de requisitos de implementação no documento? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B16 | Os requisitos apresentados são testáveis? <a id="anchor_4" href="#REF4">[4].</a>|  |  |
+| B17 | Há uma seção de requisitos de interface no documento? <a id="anchor_4" href="#REF4">[4].</a>|  |  |
+| B18 | São descritas as características físicas do ambiente onde o sistema operará? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B19 | Todos os requisitos mencionados nas seções são passíveis de teste? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| B20 | O documento contempla requisitos físicos? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+
+Fonte: MARQUES, Maria. 2023.
+
+</center>
+
+### Checklist da Verificação do Casos de Uso
+
+<center>
+
+**Tabela 5** - Checklist para os Itens de Casos de Uso.
+
+| ID | Descrição | Avaliação | Observações |
+| ---| -------- | --------- | ------------ |
+| C1 | O diagrama de caso de uso possui atores? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C3 | Os atores estão fora da fronteira do sistema? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C4 | Os atores interagem com os Casos de Uso corretamente? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C6 | Existe limite do sistema? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C7 | Os casos de uso possuem especificações? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C8 | Os casos de uso possuem rastreabilidade? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="anchor_5" href="#REF5">[5].</a> |  |  |
+| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? |  |  |
+
+Fonte: VICTOR, João. 2023.
+</center>
+
+
+## Referências de Cenários 
 
 > <a id="REF1" href="#anchor_1">[1]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 23 de novembro de 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
 
-> <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
->  <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EspecificaçãoSuplementar. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/. Acesso em: 03 de dezembro de 2023. 
-
-## Bibliografia de Léxico
+## Referências de Léxico
 
 > <a id="REF3" href="#anchor_3">[3].</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 23 de novembro de 2023.
-
-> <a id="REF3" href="#anchor_3">[77].</a> Orlando, Mateus. 2023.2-e-Título. Verificação grupo + 1 - Léxico. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/feature-refeMaduB/docs/verificacao/verificacaoGrupo%2B1/etapa3. Acesso em: 23 de novembro de 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-refeMaduB/docs/verificacao/referenciasVerificacao/referenciasEtapa3.md.
-  
+
+## Referências de Especificação Suplementar
+
+> <a id="REF4" href="#anchor_4">[4].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EspecificaçãoSuplementar. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/. Acesso em: 03 de dezembro de 2023.
+
+## Referências de Casos de Uso
+
+> <a id="REF5" href="#REF5">[5].2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
+
 ## Hitórico de versão
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
@@ -233,3 +231,4 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | `1.2`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.3`  | 25/11/2023 | Adicionando o checklist Léxico e acrescentado referência bibliográficas e bibliografia da tabela Léxicos.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4` | 25/11/2023 | Atualizando referências |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| `1.5` | 25/11/2023 | Atualizando linkagem das referências | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Mateus Orlando](https://github.com/MateusPy) |
