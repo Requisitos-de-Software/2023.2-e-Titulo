@@ -44,7 +44,7 @@ Imagem 1 - Imagem da pergunta exemplo.
 
 <td><img src=../imgs/referencias.avif></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 
 </center>
@@ -114,20 +114,22 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <td><img src=../imgs/1$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023
+
 
 **Imagem 7 - Imagem da pergunta "$3", "$4", "$5", "$6" e "$7".**
 
 <td><img src=../imgs/2$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 
 **Imagem 8 - Imagem da pergunta "$2" e "$8".** 
 
 <td><img src=../imgs/3$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
+
 
 </center>
 
@@ -349,49 +351,49 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <td><img src=../imgs/1TLS.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 18 - Imagem da pergunta "FTF2".** 
 
 <td><img src=../imgs/3$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 19 - Imagem da pergunta "FTF3".**
 
 <td><img src=../imgs/3FTF.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 20 - Imagem da pergunta "FTF4".** 
 
 <td><img src=../imgs/4FTF.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 21 - Imagem da pergunta "FTF5".** 
 
 <td><img src=../imgs/5FTF.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 22 - Imagem da pergunta "FTF6" e "FTF7".** 
 
 <td><img src=../imgs/6FTF.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 23 - Imagem da pergunta "FTF8".** 
 
 <td><img src=../imgs/7FTF.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 24 - Imagem da pergunta "FTF9".**
 
 <td><img src=../imgs/2$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 </center>
 
@@ -417,25 +419,25 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <td><img src=../imgs/1TLS.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 26 - Imagem da pergunta "TLS3", "TLS4" e "TLS6".** 
 
 <td><img src=../imgs/2TLS.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 27 - Imagem da pergunta "TLS5".** 
 
 <td><img src=../imgs/2$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 28 - Imagem da pergunta "TLS2" e "TLS8".** 
 
 <td><img src=../imgs/3$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 </center>
 
