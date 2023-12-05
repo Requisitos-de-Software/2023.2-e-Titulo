@@ -45,9 +45,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
-
 </center>
-
 
 ### Perguntas e Imagens das Referências do Histórias de Usuário
 
@@ -57,11 +55,16 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [1] | <br> - A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? <br> - As histórias possuem um ID? <br> - Para validar as histórias foi utilizado o próprio usuário do e-Título? <br> - Existe o vídeo da reunião da validação com esse usuário do e-Título? <br> - É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <br> - Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <br> |
+| H1 | A estrutura das histórias de usuários informam a Rastreabilidade, Descrição, Motivo, Critérios de Aceitação e Status? |
+| H2 | As histórias possuem um ID? |
+| H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? |
+| H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? |
+| H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) |
+| H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-**Imagem 2 - Imagem da pergunta "[1]".** 
+**Imagem 2 - Imagem das perguntas "H1, H2, H4, H6, H7 e H8".** 
 
 <td><img src=./imgs/US[1].png></td> 
 
@@ -71,11 +74,12 @@ Fonte: BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de 
 
 | ID | Pergunta | 
 | ---| -------- |
-| [2]  | <br> - Os títulos das histórias de usuário são auto-explicativos? <br> - Todas as histórias de usuários podem ser testadas? <br> |
+| H3 | Os títulos das histórias de usuário são auto-explicativos? |
+| H10 | Todas as histórias de usuários podem ser testadas? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-**Imagem 3 - Imagem da pergunta "[2]".**
+**Imagem 3 - Imagem da pergunta "H3 e H10".**
 
 <td><img src=./imgs/US[2].png></td> 
 
@@ -85,7 +89,9 @@ Fonte: BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disp
 
 | ID | Pergunta | 
 | ---| -------- |
-| [3]  | <br> - O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? <br> - O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) <br> - As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? <br> |
+| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? |
+| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -139,7 +145,12 @@ Fonte: BARBOSA, Maria. 2023.
 
 | ID | Pergunta | 
 | ---| -------- |
-| [5] | <br> - A definição do RNF e as fontes de evidência na literatura? <br> - No artefato possui uma legendas explicando os símbolos utilizados?	<br> - O artefato possui cartão de especificação do RNF? <br> -Os softgoals condizem com o contexto? <br> - Estabelece uma ligação com o documento Especificação Suplementar? <br> - Os cartões de especificação representam requisitos não-funcionais verificáveis? <br> - Foram feitos SIG's com e sem propagação de impacto? <br> |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? |
+| NF3 | O artefato possui cartão de especificação do RNF? |
+| NF4 | Os softgoals condizem com o contexto? |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -153,7 +164,8 @@ Fonte: MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de 
 
 | ID | Pergunta | 
 | ---| -------- |
-| [6] | <br> - O histórico de versões está padronizado? <br> |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? |
+| NF8 | O histórico de versões está padronizado? |
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
@@ -164,3 +176,4 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 4| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+| `1.1`  | 04/12/2023 | Adicionando tabela e imagens de Histórias de Usuário e NFR Framework | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Mateus Orlando](https://github.com/MateusPy) |
