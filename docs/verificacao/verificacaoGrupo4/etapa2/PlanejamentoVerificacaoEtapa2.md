@@ -430,9 +430,6 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 
 ## Referências Bibliografia de FirtThingsFirst
 
-
-## Referências de FirtThingsFirst
-
 > <a id="REF10" href="#anchor_10">[10].</a> MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
 
 
