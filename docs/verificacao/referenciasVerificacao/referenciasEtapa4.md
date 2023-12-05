@@ -37,7 +37,7 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem 1 - Imagem da pergunta exemplo.
+**Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=./imgs/referencias.avif></td> 
 
@@ -53,7 +53,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 <center>
 
-**Tabela 2 e 3** - Perguntas e Imagens para as perguntas do Histórias de Usuário.
+**Tabela 2** - Perguntas e Imagens para as perguntas do Histórias de Usuário.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -61,11 +61,13 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 1 - Imagem da pergunta "[1]". 
+**Imagem 2 - Imagem da pergunta "[1]".** 
 
 <td><img src=./imgs/US[1].png></td> 
 
 Fonte: BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/PlanejamentoVerificacaoEtapa4/). Acesso em: 24 nov, 2023.
+
+**Tabela 3**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -73,11 +75,13 @@ Fonte: BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de 
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 2 - Imagem da pergunta "[2]". 
+**Imagem 3 - Imagem da pergunta "[2]".**
 
 <td><img src=./imgs/US[2].png></td> 
 
 Fonte: BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em: 24 nov, 2023.
+
+**Tabela 4**
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -90,7 +94,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 ### Perguntas e Imagens das Referências do Backlog
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas do Backlog.
+**Tabela 5** - Perguntas e Imagens para as perguntas do Backlog.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -99,27 +103,27 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 | BL2 | O Backlog possui épicos e temas bem definidos e descritos? |
 | BL6 | Existe a linkagem para o artefato de histórias de usuário? |
 
-Fonte: SOBRENOME, nome. 2023.
+Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "BL5". 
+**Imagem 4 - Imagem da pergunta "BL5".** 
 
 <td><img src=./imgs/backlogRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "BL1". 
+**Imagem 5 - Imagem da pergunta "BL1".** 
 
 <td><img src=./imgs/backlogRef2.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "BL2". 
+**Imagem 6 - Imagem da pergunta "BL2".**
 
 <td><img src=./imgs/backlogRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "BL6". 
+**Imagem 7 - Imagem da pergunta "BL6".**
 
 <td><img src=./imgs/backlogRef4.png></td> 
 
@@ -131,7 +135,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 <center>
   
-**Tabela 4 e 5** - Perguntas e Imagens para as perguntas do NFR Framework.
+**Tabela 6** - Perguntas e Imagens para as perguntas do NFR Framework.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -139,11 +143,13 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-Imagem 3 - Imagem da pergunta "[3]". (coloque o numero do ID)
+**Imagem 8** - Imagem da pergunta "[3]". 
 
 <td><img src=./imgs/NFR[3].png></td> 
 
 Fonte: MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/). Acesso em: 24 nov, 2023.
+
+**Tabela 7**
 
 | ID | Pergunta | 
 | ---| -------- |
