@@ -41,7 +41,7 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem 1 - Imagem da pergunta exemplo.
+**Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=./imgs/referencias.avif></td> 
 
@@ -65,7 +65,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem 2 - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---f></td> 
 
@@ -87,7 +87,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem X - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---></td> 
 
@@ -109,7 +109,7 @@ Fonte: SOBRENOME, nome. 2023.
  
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "CM10". 
+**Imagem X - Imagem da pergunta "CM10".** 
 
 <td><img src=./imgs/cronogramRef1.png></td> 
 
@@ -136,7 +136,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-**Imagem X** - Imagem das perguntas M1, M3, M4 e M5
+**Imagem X - Imagem das perguntas M1, M3, M4 e M5**
 
 <td><img src=./imgs/a3.jpeg></td> 
 
@@ -164,7 +164,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-**Imagem X** - Imagem das perguntas F2, F4, F6, F7
+**Imagem X - Imagem das perguntas F2, F4, F6, F7**
 
 <td><img src=./imgs/a2.jpeg></td> 
 
@@ -184,7 +184,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem X - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---></td> 
 
