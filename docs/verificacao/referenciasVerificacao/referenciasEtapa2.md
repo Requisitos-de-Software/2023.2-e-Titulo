@@ -445,3 +445,4 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 01/12/2023 | Criando documento e criando estrutura com Introdução, objetivo, metodologia e formato das tabelas responsavél pelas imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2| [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
 | `1.1`  | 02/12/2023 | Adicoando as imagens das referencia do grupo 4 referente ao checklist de verificação na etapa 2($100, First Things First, e Three Level Scale | [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)  |
+| `1.2`  | 04/12/2023 | Adicionando tabela e imagens de Brainstorming e Questionário | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Mateus Orlando](https://github.com/MateusPy) |
