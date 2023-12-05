@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento verifica o [Firt things Firt](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/firstThingsFirst/) realizado pelo grupo 4 apresentando um Checklist da técnica First Things First, indicando sugestões e melhorias.
+Este documento verifica o artefato de priorização realizado pelo grupo 4 apresentando um Checklist da técnica [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/firstThingsFirst/), indicando sugestões e melhorias.
 
 ## Metodologia
 
