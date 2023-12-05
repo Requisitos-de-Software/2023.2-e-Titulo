@@ -38,13 +38,13 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 | ---| -------- |
 | **Número de indêntificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 Imagem 1 - Imagem da pergunta exemplo.
 
 <td><img src=../imgs/referencias.avif></td> 
 
-WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
+Fonte: SENA, Esther. 2023.
 
 
 </center>
@@ -108,13 +108,13 @@ Fonte: BARBOSA, Maria. 2023.
 | $7 | Os indentificadores possuem likagem de rastreabilidade? |  |  |
 | $8 | O artefato possui gravação da dinâmica ?  |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 **Imagem 6 - Imagem da pergunta "$1".**
 
 <td><img src=../imgs/1$100.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023
+WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf). Acesso em: 23 de novembro de 2023.
 
 
 **Imagem 7 - Imagem da pergunta "$3", "$4", "$5", "$6" e "$7".**
@@ -345,7 +345,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | FTF9 | Os indentificadores possuem likagem de rastreabilidade?  |  |  |
 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 **Imagem 17 - Imagem da pergunta "FTF1".**
 
@@ -413,7 +413,7 @@ WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível e
 | TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara?  |  |  |
 | TLS8 | O artefato possui gravação da dinâmica ?  |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 **Imagem 25 - Imagem da pergunta "TLS1".** 
 
