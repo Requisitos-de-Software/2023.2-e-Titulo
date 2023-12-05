@@ -36,13 +36,13 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 | ---| -------- |
 | **Número de indêtificação da referência da pergunta**  | **Colocar a pergunta refênte a imagem a ser colocada abaixo** (caso houver mais de uma pergunta com mesmo número, coloque as perguntas no mesmo espaço e separe elas com um "< br >" no final de cada pergunta) Ex: <br> - Pergunta1 <br> - Pergunta2 <br> |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte:[SENA, Esther. 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=../imgs/referencias.avif></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
@@ -133,19 +133,19 @@ Fonte: SOBRENOME, nome. 2023.
 | MTZ3 | Os requisitos listados como não funcionais, são realmente não testaveis?   |  |   |
 | MTZ4 | O artefato possui legenda ? |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 **Imagem 8 - Imagem da pergunta "MTZ1" e "MTZ2".**
 
 <td><img src=../imgs/1Matriz.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 23 de novembro de 2023.
 
 **Imagem 9 - Imagem da pergunta "MTZ3" e "MTZ4".** 
 
 <td><img src=../imgs/2Matriz.png></td> 
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf). Acesso em: 23 de novembro de 2023.
 
 </center>
 
