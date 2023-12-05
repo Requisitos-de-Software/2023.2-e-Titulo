@@ -59,6 +59,7 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 
 <font size="3"><p style="text-align: center">Fonte: MARQUES, Maria. 2023.</p></font>
 
+
 * Os responsáveis pelo artefato "forward-from", Mateus e João, consolidaram o documento após a inspeção realizada por Maria Marques. Durante a gravação, cada resultado da inspeção foi apresentado, e alguns erros identificados no checklist foram corrigidos. Durante o processo de consolidação, ficou evidente se o artefato possuía ou não possuía os elementos verificados.
 
 ### Gravação 2
@@ -82,6 +83,7 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOqdOFZLgiI?si=Ow2hll7sLYFO4O55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: BARBOSA, Maria; MARQUES, Maria. 2023.</p></font>
+
 
 * A maria marques, responsável pela criação do artefato cronograma, consolidou os erros e sugestões desenvolvidos na inspeção realizados pela maria Barbosa. Não só foi falado quais erros eram mas também foi demonstrado no artefato para que a responsável consiga entender a localização dos problemas.
 
@@ -107,6 +109,7 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 
 <font size="3"><p style="text-align: center">Fonte: SENA, Esther,  MARQUES, Maria e  SIQUEIRA, Mariiana. 2023.</p></font>
 
+
 * Foi realizado a consolidação entre a responsável pela inspeção Esther Sena e as responsáveis pelo artefato Maria Marques e Mariiana Siqueira. Com a reunião foi possível mostrar e falar os erros e obter a explicação e concordancia de quem produziu o artefato $100, possibilitando identificarem os erros e consertá-los. 
 
 ### Gravação 4
@@ -131,6 +134,7 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 
 <font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana; COSTA, João e ORLANDO, Mateus. 2023.</p></font>
 
+
 * A consolidação feita por Mariiana Siqueira com os autores João Costa e Mateus Orlando do artefato histórias de usuário foi feita e ambos aceitaram a inspeção identificando possíveis erros e as sugestões feitas, assim podendo passar para a correção do artefato com melhorias.
 
 ### Gravação 5
@@ -143,6 +147,8 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 | ------------- | ---- | -------- | -------- | ----- | 
 | João Costa e Mateus | 28/11/2023 | 20:00 | Casos de uso | Teams |
 
+</center>
+
 **Vídeo 5** - Vídeo da cosolidação.
 
 O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [João Victor](https://github.com/jvcostta) que inspecionou o artefato em questão e pelo autor do artefato, [Mateus Orlando](https://github.com/MateusPy).
@@ -151,7 +157,7 @@ Caso nao consiga assistir, [Clique aqui](https://www.youtube.com/embed/uwswuKFMb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-</center>
+<font size="3"><p style="text-align: center">Fonte: COSTA, João e ORLANDO, Mateus. 2023.</p></font>
 
 * Em primeira análise, o artefato não possui tópicos de "introdução" e "objetivo" assim como deveria ser de acordo com a metodologia citada no projeto. Porém essas informações estão contidas nos tópicos de "conceito" e "metodologia. Foi abordado também o fato de que as fontes das tabelas não possuem data, saindo assim da norma ABNT. Por fim pode-se concluir que o artefato foi bem desenvolvido, faltando apenas detalhes para uma melhor entrega.
 
@@ -174,6 +180,7 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W3_HeS93aXw?si=onvWyKPu_hBKZZCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
+
 
 * Através da etapa de consolidação, as autoras concordaram com os pontos levantados na inspeção, agradeceram pelo feedback do inspetor, Mateus Orlando, além disso a própria autora Maria Barbosa apontou um pequeno erro não observado peo inspetor , erro, o qual foi prontamente anotado para ser corrigido.
 
