@@ -40,7 +40,7 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem 1 - Imagem da pergunta exemplo.
+**Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=./imgs/referencias.avif></td> 
 
@@ -64,7 +64,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem 2 - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---f></td> 
 
@@ -77,7 +77,7 @@ Fonte: SOBRENOME, nome. 2023.
 ### Perguntas e Imagens das Referências do Casos de Uso
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas do Casos de Uso.
+**Tabela 3** - Perguntas e Imagens para as perguntas do Casos de Uso.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -95,7 +95,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-Imagem X - Imagem das perguntas C1 a C9
+**Imagem 3 - Imagem das perguntas C1 a C9**
 
 <td><img src=./imgs/a6.jpeg></td> 
 
@@ -108,7 +108,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas da Especificação Suplementar.
+**Tabela 4** - Perguntas e Imagens para as perguntas da Especificação Suplementar.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -116,7 +116,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem 4 - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---></td> 
 
@@ -142,31 +142,31 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem 5 - Imagem da pergunta L1 e L6. 
+**Imagem 5 - Imagem da pergunta L1 e L6.**
 
 <td><img src=./imgs/ref_lexicos3.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem 6 - Imagem da pergunta L3, L4, L5. 
+**Imagem 6 - Imagem da pergunta L3, L4, L5.** 
 
 <td><img src=./imgs/ref_lexicos2.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
-Imagem X - Imagem da pergunta "L1". 
+**Imagem 7 - Imagem da pergunta "L1".** 
 
 <td><img src=./imgs/1Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "L2". 
+**Imagem 8 - Imagem da pergunta "L2".**
 
 <td><img src=./imgs/2Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem X - Imagem da pergunta "L3", "L4", "L5" e "L6". 
+**Imagem 9 - Imagem da pergunta "L3", "L4", "L5" e "L6".**
 
 <td><img src=./imgs/3Lexico.png></td> 
 
