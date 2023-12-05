@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica os léxicos utilizdas pelo grupo 4, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main), para a disciplina, apresentando um Checklist da Verificação dessas Personas indicando sugestões e melhorias. 
+Este artefato verifica os [léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/) utilizdas pelo grupo 4, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main), para a disciplina, apresentando um Checklist da Verificação e indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -42,7 +42,18 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 Fonte: SENA, Esther. 2023.
 
 </center>
+<center>
 
+**Vídeo 1** - Vídeo da inspeção feita em dupla.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6jzMemoMNY?si=GpU_mQd7XhfDmMhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br> Fonte: SENA, Esther. SIQUEIRA, Mariiana. 2023.
+
+ Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/k6jzMemoMNY?si=tNJRn5Cv7ZkzyWdV)
+
+
+</center>
 
 ## Sugestões e melhorias
 
