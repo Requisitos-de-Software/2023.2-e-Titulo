@@ -134,7 +134,7 @@ Tabela 2 - Exemplo de modelo do Cartão de especificação
 | **Origem:** | Origem do requisito |
 | **Critério de aceitação:** | métrica do requisito que possa ser testada e satisfeita |
 | **Dependência:** | Requisitos relacionados ao especificado |
-| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros, em uma escala de 0 a 10 seguindo o que foi realizado no artefato conforme o artefato [Three Level Scale](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md#three-level-scale) |
+| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros, em uma escala seguindo o que foi realizado no artefato conforme o artefato [Three Level Scale](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md#three-level-scale) |
 | **Conflitos:** | Requisitos conflitantes ao requisito especificado |
 | **História:** | Data da criação e de modificações |
 
@@ -319,7 +319,7 @@ Tabela X - Cartão de especificação de Confiabilidade
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | Durante testes, o sistema deve demonstrar uma disponibilidade mínima de 99,9% durante períodos simulados de alta demanda, como os observados em períodos eleitorais. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -338,7 +338,7 @@ Tabela X - Cartão de especificação de Confiabilidade
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** |  O sistema do aplicativo deve ser capaz de recuperar dados a partir de backups recentes em um tempo estabelecido. <br> Os backups devem ser realizados automaticamente em intervalos regulares conforme definido na política de backup, garantindo a retenção de dados |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -357,7 +357,7 @@ Tabela X - Cartão de especificação de Confiabilidade
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | Deve demonstrar um tempo de resposta médio para interações do usuário inferior a 2 segundos, assegurando uma experiência fluida. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -376,7 +376,7 @@ Tabela X - Cartão de especificação de Confiabilidade
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | As consultas e problemas reportados pelos usuários devem ser respondidos e resolvidos, garantindo um plano de suporte eficaz. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 8 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -398,7 +398,7 @@ Tabela X - Cartão de especificação de Segurança
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | Deve garantir a autenticação, atestando a proteção dos dados do usuário contra acessos não autorizados. <br> Deve haver etapas de segurança.|
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -417,7 +417,7 @@ Tabela X - Cartão de especificação de Segurança
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | deve permitir que o usuário modifique suas informações pessoais de forma intuitiva e segura, refletindo as atualizações realizadas. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
@@ -436,7 +436,7 @@ Tabela X - Cartão de especificação de Segurança
 | **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | Deve ser verificável e precisamente certificar a exatidão dos dados presentes nos documentos dos usuários, mantendo sua integridade e assegurando proteção contra manipulações não autorizadas. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
