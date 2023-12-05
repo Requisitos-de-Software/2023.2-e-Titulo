@@ -5,7 +5,6 @@ site_url: https://requisitos-de-software.github.io/2023.2-Grupo04/
 
 site_name: e-Título
 nav:
-  - Teste: verificacao/referenciasVerificacao
   - Início: index.md
   - Documentação do Aplicativo: 
     - Etapa1: verificacao/referenciasVerificacao/referenciasEtapa1.md
