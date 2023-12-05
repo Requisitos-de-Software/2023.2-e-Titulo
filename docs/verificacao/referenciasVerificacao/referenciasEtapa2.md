@@ -46,8 +46,6 @@ Imagem 1 - Imagem da pergunta exemplo.
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
-
 
 </center>
 
@@ -183,6 +181,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
+<!--
 ### Perguntas e Imagens das Referências da Entrevista
 
 <center>
@@ -197,14 +196,14 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem 11- Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
-
+-->
 ### Perguntas e Imagens das Referências da Verificação de Personas
 
 <center>

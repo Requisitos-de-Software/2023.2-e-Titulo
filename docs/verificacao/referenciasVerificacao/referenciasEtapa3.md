@@ -51,7 +51,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-
+<!--
 ### Perguntas e Imagens das Referências de Cenários
 
 <center>
@@ -66,13 +66,14 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem 2 - Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---f></td> 
+<td><img src=./imgs/></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
+-->
 
 ### Perguntas e Imagens das Referências do Casos de Uso
 <center>
@@ -105,6 +106,7 @@ Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúd
 
 </center>
 
+<!--
 ### Perguntas e Imagens das Referências da Especificação Suplementar
 
 <center>
@@ -119,14 +121,14 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem 4 - Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
-
+-->
 ### Perguntas e Imagens das Referências de Léxicos
 
 <center>

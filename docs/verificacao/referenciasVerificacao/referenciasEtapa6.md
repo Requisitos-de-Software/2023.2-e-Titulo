@@ -95,10 +95,9 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: BARBOSA, Maria. 2023.
 
-
-
 </center>
 
+<!--
 ### Perguntas e Imagens das Referências do forward-from
 <center>
 
@@ -111,11 +110,13 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem 7 - Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/-></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+
+-->
 
 </center>
 

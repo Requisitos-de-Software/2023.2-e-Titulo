@@ -52,7 +52,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-
+<!-- 
 ### Perguntas e Imagens das Referências da Verificação da Apresentação
 
 <center>
@@ -89,13 +89,15 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem X - Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/-></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
+
+--> 
 
 ### Perguntas e Imagens das Referências da Verificação do Cronograma
 
@@ -172,6 +174,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/ferramentas/)
 </center>
 
+<!-- 
 ### Perguntas e Imagens das Referências da Verificação do Rich Picture
 
 <center>
@@ -186,12 +189,13 @@ Fonte: SOBRENOME, nome. 2023.
 
 **Imagem X - Imagem da pergunta "ID".**
 
-<td><img src=./imgs/---></td> 
+<td><img src=./imgs/></td> 
 
 Fonte: SOBRENOME, nome. 2023.
 
 
 (OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
+-->
 
 </center>
 
