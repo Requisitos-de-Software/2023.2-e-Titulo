@@ -266,6 +266,8 @@ Fonte: BARBOSA, maria. 2023.
 
 ## Cartões de especificação Definidos
 
+### Cartões de especificação do NFR01 - Usabilidade
+
 <center>
 
 Tabela 3 - Cartão de especificação da Usabilidade
@@ -304,20 +306,139 @@ Fonte: Maria Eduarda Marques. 2023.
 
 </center>
 
+### Cartões de especificação do NFR02 - Confiabilidade
+
 <center>
 
-Tabela 5 - Cartão de especificação de Confiabilidade 
+Tabela X - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3** (  )  <br> **Classificação:**   | |
+| **Nº Requisito: 3**  <a id="REF1" href="#anchor_c1">(CONF01)</a>   <br> **Classificação:** Confiabilidade/Disponibilidade para uso  | |
 | ------------------------ | --------- |
-| **Descrição:** |  |
-| **Justificativa:** | |
-| **Origem:** |  |
-| **Critério de aceitação:** | |
+| **Descrição:** | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |
+| **Justificativa:** | É utilizado esse requisito, pois durante os momentos de alta demanda, interrupções não programadas podem comprometer a transparência do aplicativo e prejudicar a confiança do público.  |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Durante testes, o sistema deve demonstrar uma disponibilidade mínima de 99,9% durante períodos simulados de alta demanda, como os observados em períodos eleitorais. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** |  |
+| **Prioridade:** | 10 |
 | **Conflitos:** | Nenhum |
-| **História:** | /11/2023 |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela X - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 3**  <a id="REF2" href="#anchor_c2">(CONF02)</a>   <br> **Classificação:**  Confiabilidade/Tolerância a falhas | |
+| ------------------------ | --------- |
+| **Descrição:** | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+| **Justificativa:** | É fundamental para garantir a preservação e a disponibilidade contínua dos dados, prevenindo perdas catastróficas e assegurando a rápida recuperação em casos de falhas ou eventos inesperados. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** |  O sistema do aplicativo deve ser capaz de recuperar dados a partir de backups recentes em um tempo estabelecido. <br> Os backups devem ser realizados automaticamente em intervalos regulares conforme definido na política de backup, garantindo a retenção de dados |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela X - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 3**  <a id="REF3" href="#anchor_d1">(DES01)</a>  <br> **Classificação:** Confiabilidade/Tempo de resposta  | |
+| ------------------------ | --------- |
+| **Descrição:** | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+| **Justificativa:** | É essencial para garantir uma experiência de usuário ágil, favorecendo a interação contínua e minimizando a frustração com possíveis atrasos, mantendo uma confiabilidade no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve demonstrar um tempo de resposta médio para interações do usuário inferior a 2 segundos, assegurando uma experiência fluida. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela X - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 3**  <a id="REF4" href="#anchor_s3">(SUP03)</a> <br> **Classificação:** Confiabilidade/Suporte ao usuário  | |
+| ------------------------ | --------- |
+| **Descrição:** | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
+| **Justificativa:** | Um plano de suporte eficaz fortalece a confiabilidade do sistema ao garantir respostas rápidas e soluções para problemas, assegurando a continuidade e a confiança dos usuários na plataforma. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | As consultas e problemas reportados pelos usuários devem ser respondidos e resolvidos, garantindo um plano de suporte eficaz. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 8 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+
+## Cartões de especificação do NFR03 - Segurança
+
+<center>
+
+Tabela X - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 3**  <a id="REF5" href="#anchor_c3">CONF03</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. |
+| **Justificativa:** | Ajuda na proteção dos dados do usuário, promovendo uma experiência mais segura e confiável no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve garantir a autenticação, atestando a proteção dos dados do usuário contra acessos não autorizados. <br> Deve haver etapas de segurança.|
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela X - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 3**  <a id="REF6" href="#anchor_c4">CONF04</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| ------------------------ | --------- |
+| **Descrição:** | O usuário deve poder alterar os seus dados pessoais caso desejar. |
+| **Justificativa:** | Permitir que o usuário altere seus dados pessoais promove autonomia, controle e conformidade com regulamentações de privacidade, garantindo uma experiência personalizada e transparente reforçando a confiabilidade no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | deve permitir que o usuário modifique suas informações pessoais de forma intuitiva e segura, refletindo as atualizações realizadas. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela X - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 3**  <a id="REF7" href="#anchor_c5">CONF05</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+| **Justificativa:** | Assegurar a segurança dos dados presentes nos documentos do usuário é crucial para garantir a precisão, autenticidade e integridade das informações, fortalecendo a confiabilidade e a credibilidade do aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve ser verificável e precisamente certificar a exatidão dos dados presentes nos documentos dos usuários, mantendo sua integridade e assegurando proteção contra manipulações não autorizadas. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | 10 |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
 
 Fonte: BARBOSA, maria. 2023.
 
@@ -346,3 +467,4 @@ Fonte: BARBOSA, maria. 2023.
 | 1.6  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | 1.7  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) |
 | 1.8 | 02/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
+| 1.9 | 05/11/2023 | Correção em cartões de especificação de confiabilidade e segurança e correção na imagem do SIG sem impacto de confiabilidade |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
