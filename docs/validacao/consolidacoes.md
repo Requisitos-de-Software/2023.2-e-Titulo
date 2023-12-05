@@ -49,9 +49,13 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 </center>
 
+**Vídeo 1** - Vídeo da cosolidação.
+
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Maria Marques](https://github.com/EduardaSMarques) que inspecionou o artefato em questão e pelos autores do artefato, [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).
+
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/9seMT4oUxr4)
 
-<iframe width="560" height="315" src="https://youtu.be/9seMT4oUxr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9seMT4oUxr4?si=Nm1_MvJBVLg99lfb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: MARQUES, Maria. 2023.</p></font>
 
@@ -69,9 +73,13 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 </center>
 
+**Vídeo 2** - Vídeo da cosolidação.
+
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por[Maria Barbosa](https://github.com/Madu01) que inspecionou o artefato em questão e pela autora do artefato, [Maria Marques](https://github.com/EduardaSMarques).
+
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/AOqdOFZLgiI)
 
-<iframe width="560" height="315" src="https://youtu.be/AOqdOFZLgiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOqdOFZLgiI?si=Ow2hll7sLYFO4O55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: BARBOSA, Maria; MARQUES, Maria. 2023.</p></font>
 
@@ -85,15 +93,17 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 | Participantes | data | horário | Artefato | Local |
 | ------------- | ---- | -------- | -------- | ----- | 
-|  Esther Sena, Maria Marques,  Mariiana Siqueira | 26/11/2023 | 20:00 | $100 | Teams |
+|  Esther Sena, Maria Marques e Mariiana Siqueira | 26/11/2023 | 20:00 | $100 | Teams |
 
 </center>
 
-- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/mtVaFQkfL7c?si=KqmAkYufbc6UVUSH)
-  
 **Vídeo 3** - Vídeo da cosolidação.
 
-<iframe width="560" height="315" src="https://youtu.be/mtVaFQkfL7c?si=KqmAkYufbc6UVUSH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Esther Sena](https://github.com/esmsena) que inspecionou o artefato em questão e pelas autoras do artefato, [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza).
+
+- Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/mtVaFQkfL7c?si=KqmAkYufbc6UVUSH)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtVaFQkfL7c?si=A90TipqbT4Mg0T2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: SENA, Esther,  MARQUES, Maria e  SIQUEIRA, Mariiana. 2023.</p></font>
 
@@ -111,9 +121,13 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 
 </center>
 
+**Vídeo 4** - Vídeo da cosolidação.
+
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Mariiana Siqueira](https://github.com/Maryyscreuza) que inspecionou o artefato em questão e pelos autores do artefato, [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).
+
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/r6xJlf87K-A)
 
-<iframe width="560" height="315" src="https://youtu.be/r6xJlf87K-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6xJlf87K-A?si=df2aRPJZu8Befg2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana; COSTA, João e ORLANDO, Mateus. 2023.</p></font>
 
@@ -129,6 +143,9 @@ Nas tabelas de 2 a 7, é apresentado as informações referentes as respectivas 
 | ------------- | ---- | -------- | -------- | ----- | 
 | João Costa e Mateus | 28/11/2023 | 20:00 | Casos de uso | Teams |
 
+**Vídeo 5** - Vídeo da cosolidação.
+
+O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [João Victor](https://github.com/jvcostta) que inspecionou o artefato em questão e pelo autor do artefato, [Mateus Orlando](https://github.com/MateusPy).
 
 Caso nao consiga assistir, [Clique aqui](https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb)
 
@@ -150,17 +167,15 @@ Caso nao consiga assistir, [Clique aqui](https://www.youtube.com/embed/uwswuKFMb
 
 </center>
 
+**Vídeo 6** - Vídeo da cosolidação.
+
 O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo foi gravado por [Mateus Orlando](https://github.com/MateusPy) que inspecionou o artefato em questão e pelas autoras do artefato, [Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena). 
 
-<iframe width="560" height="315" src="https://youtu.be/W3_HeS93aXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3_HeS93aXw?si=onvWyKPu_hBKZZCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Orlando, Mateus.</p></font>
 
-
 * Através da etapa de consolidação, as autoras concordaram com os pontos levantados na inspeção, agradeceram pelo feedback do inspetor, Mateus Orlando, além disso a própria autora Maria Barbosa apontou um pequeno erro não observado peo inspetor , erro, o qual foi prontamente anotado para ser corrigido.
-
-## Bibliografia
-
 
 ## Histórico de Versões
 
@@ -169,3 +184,4 @@ O vídeo abaixo apresenta a consolidação do artefato de Entrevista, o vídeo f
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Motivação e Objetivo, Metodologia e as tabelas do tópico Gravações de consolidações. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 28/11/2023 | Adicionando a entrevista de consolidação do artefato de entrevista. | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)  |
 | `1.2`  | 04/12/2023 | Adicionando a entrevista de consolidação no artefato. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.3`  | 04/12/2023 | Arrumando videos pro git pages | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Mateus Orlando](https://github.com/MateusPy) |
