@@ -143,7 +143,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: SIQUEIRA, Mariiana. 2023.
 
-**Imagem 8** - Imagem da pergunta "[3]". 
+**Imagem 8 - Imagem da pergunta "[3]".** 
 
 <td><img src=./imgs/NFR[3].png></td> 
 
