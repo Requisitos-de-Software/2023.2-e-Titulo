@@ -231,8 +231,6 @@ Fonte: ORLANDO, Mateus; BARBOSA, Maria. 2023.
 
 </center>
 
-
-
 ### Checklist de Introspecção
 
 <center>
@@ -270,7 +268,7 @@ Fonte: COSTA, Joao. 2023.
 | Q9 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_11 href="#REF11">[11]</a> | | |
 | Q10 | No artefato, há as respostas do questionário? <a id=anchor_11 href="#REF11">[11]</a>| | |
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -289,7 +287,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | ST4 | Foram elicitados requisitos não-funcionais ? <a id="REF12" href="#anchor_12">[12]</a>|  |    |
 | ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="REF12" href="#anchor_12">[12]</a> |  |    |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: ORLANDO, Mateus. 2023.
 
 </center>
 
@@ -313,7 +311,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | FTF6 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -332,7 +330,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis?  |  | |
 | TLS8 | O artefato possui gravação da dinâmica ? <a id="anchor_14" href="#REF14">[14].</a> |  |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 ## Bibliografia
 
