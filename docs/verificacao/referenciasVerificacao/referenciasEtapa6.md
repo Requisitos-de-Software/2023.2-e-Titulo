@@ -1,4 +1,4 @@
-# Imagens das referências da Verificação da Etapa 3 do Grupo 4
+# Imagens das referências da Verificação da Etapa 6 do Grupo 4
 
 ## Introdução:
 
@@ -38,7 +38,7 @@ Neste artefato será apresentado as imagens das referências que serão utilizad
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-Imagem 1 - Imagem da pergunta exemplo.
+**Imagem 1 - Imagem da pergunta exemplo.**
 
 <td><img src=./imgs/referencias.avif></td> 
 
@@ -65,31 +65,31 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "B2". (Referência presente na página 38)
+**Imagem 2 - Imagem da pergunta "B2". (Referência presente na página 38)**
 
 <td><img src=./imgs/backwardRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "B4". 
+**Imagem 3 - Imagem da pergunta "B4".**
 
 <td><img src=./imgs/backwardRef2.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "B5". 
+**Imagem 4 - Imagem da pergunta "B5".** 
 
 <td><img src=./imgs/backwardRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "B6". 
+**Imagem 5 - Imagem da pergunta "B6".** 
 
 <td><img src=./imgs/backwardRef4.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
-Imagem X - Imagem da pergunta "B9". 
+**Imagem 6 - Imagem da pergunta "B9".** 
 
 <td><img src=./imgs/backwardRef5.png></td> 
 
@@ -102,14 +102,14 @@ Fonte: BARBOSA, Maria. 2023.
 ### Perguntas e Imagens das Referências do forward-from
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas do forward-from.
+**Tabela 3** - Perguntas e Imagens para as perguntas do forward-from.
 | ID | Pergunta | 
 | ---| -------- |
 | [X]  | (PERGUNTA(S) |
 
 Fonte: SOBRENOME, nome. 2023.
 
-Imagem X - Imagem da pergunta "ID". (coloque o numero do ID)
+**Imagem 7 - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/---></td> 
 
@@ -123,7 +123,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela x** - Perguntas e Imagens para as perguntas da matriz.
+**Tabela 4** - Perguntas e Imagens para as perguntas da matriz.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -134,24 +134,19 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem x - Imagem da pergunta "MTZ1" e "MTZ2".**
+**Imagem 8 - Imagem da pergunta "MTZ1" e "MTZ2".**
 
 <td><img src=./imgs/1Matriz.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-**Imagem x - Imagem da pergunta "MTZ3" e "MTZ4".** 
+**Imagem 9 - Imagem da pergunta "MTZ3" e "MTZ4".** 
 
 <td><img src=./imgs/2Matriz.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
-
-
 </center>
-
-
-
 
 
 ## Histórico de versão 
