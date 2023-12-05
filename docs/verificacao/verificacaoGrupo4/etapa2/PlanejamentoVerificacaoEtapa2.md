@@ -112,7 +112,7 @@ Fonte: Maria Barbosa, 2023.
 | G7  | As imagens/Figuras/vídeos/tabelas estão padronizados sendo chamados com a norma ABNT nos textos do artefato? (isso no caso do artefato possuir tais elementos) |  |  |
 | G8  | As bibliográfias/referências estão padronizados sendo chamados com a norma ABNT nos textos do artefato?  |  |  |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -147,18 +147,17 @@ Fonte: BARBOSA, Maria. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
+| $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="anchor_4" href="#REF4">[4].</a>  |  |  |
+| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="anchor_4" href="#REF4">[4].</a> |  ||
+| $3 | O artefato possui link para as ferramentas utilizadas?  <a id="anchor_4" href="#REF4">[4].</a>   |  |  |
+| $4 | Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação?  <a id="anchor_4" href="#REF4">[4].</a>  |  |  |
+| $5 | O processo de priorização considerou as interdependências entre os requisitos? <a id="anchor_4" href="#REF4">[4].</a>  |  |  |
+| $6 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="anchor_4" href="#REF4">[4].</a>  |  |  |
+| $7 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
+| $8 | O artefato possui gravação da dinâmica ? <a id="anchor_4" href="#REF4">[4].</a> |  |  |
 
-| $1 | A definição de prioridades foi feita em colaboração com um usuário real? <a id="anchor_21" href="#REF21">[21].</a>  |  |  |
-| $2 | O usuário envolvido correspondia ao perfil predefinido? <a id="anchor_11" href="#REF11">[11].</a> |  ||
-| $3 | O artefato possui link para as ferramentas utilizadas?  <a id="anchor_21" href="#REF21">[21].</a>   |  |  |
-| $4 | Cada requisito prioritário foi associado a uma técnica específica de identificação durante a elicitação?  <a id="anchor_21" href="#REF21">[21].</a>  |  |  |
-| $5 | O processo de priorização considerou as interdependências entre os requisitos? <a id="anchor_21" href="#REF21">[21].</a>  |  |  |
-| $6 | Os requisitos listados como não funcionais, são realmente não testaveis? <a id="anchor_21" href="#REF21">[21].</a>  |  |  |
-| $7 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_11" href="#REF11">[11].</a> |  |  |
-| $8 | O artefato possui gravação da dinâmica ? <a id="anchor_11" href="#REF11">[11].</a> |  |  |
 
-
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -171,19 +170,19 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B2 | O artefato possui gravação da sessão Brainstorming?  <a id=anchor_4 href="#REF4">[4]</a> | | |
-| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B4 | A elicitação contou com moderador e um secretário?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B6 | Os requisitos identificados foram expostos?  <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram?  <a id=anchor_4 href="#REF4">[4]</a> | | |
-| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? <a id=anchor_4 href="#REF4">[4]</a>   | | |
-| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming?   <a id=anchor_4 href="#REF4">[4]</a>  | | |
-| B10 | Todos os Requisitos Não-Funcionais são verificáveis? <a id=anchor_6 href="#REF6">[6]</a> | | |
-| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| B1 | O artefato apresenta as ferramentas utilizadas para a realização do Brainstorming?  <a id=anchor_5 href="#REF5">[5]</a>  | | |
+| B2 | O artefato possui gravação da sessão Brainstorming?  <a id=anchor_5 href="#REF5">[5]</a> | | |
+| B3 | O artefato possui um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto?  <a id=anchor_5 href="#REF5">[5]</a> | | |
+| B4 | A elicitação contou com moderador e um secretário?  <a id=anchor_5 href="#REF5">[5]</a>  | | |
+| B5 | Todas as perguntas e respostas geradas durante o brainstorming foram documentadas de forma clara e concisa? <a id=anchor_5 href="#REF5">[5]</a>  | | |
+| B6 | Os requisitos identificados foram expostos? <a id=anchor_5 href="#REF5">[5]</a>  | | |
+| B7 | Entre os requisitos identificados, foi feito a elicitação daqueles que já foram implementados e os que ainda não foram?  <a id=anchor_5 href="#REF5">[5]</a> | | |
+| B8 | Dentre os Requisitos elicitados estão os Funcionais e Não-Funcionais? <a id=anchor_5 href="#REF5">[5]</a>   | | |
+| B9 | O artefato informa a quantidade de respostas obtidas para a realização dos resultados do Brainstorming?   <a id=anchor_5 href="#REF5">[5]</a>  | | |
+| B10 | Todos os Requisitos Não-Funcionais são verificáveis? <a id=anchor_7 href="#REF7">[7]</a> | | |
+| B11 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id=anchor_6 href="#REF6">[6]</a> | | |
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 </center>
 
@@ -206,7 +205,7 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | E9 | Os requisitos identificados foram expostos? |  |  |
 | E10 | Entre os requisitos identificados, foi feito o levantamento daqueles que já foram implementados e os que ainda não foram? |  |  |
 
-Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
+Fonte: ORLANDO, Mateus. 2023.
 
 </center>
 
@@ -220,10 +219,10 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ?  <a id="anchor_13" href="#REF13">[13].</a>|  |  |
-| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
-| P3 | O artefato possui persona primária ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
-| P4 | O artefato possui antipersona ? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| P1 | As personas criadas foram embasadas nos dados do **Perfil do Usuário** ?  <a id="anchor_8" href="#REF8">[8].</a> |  |  |
+| P2 | As personas incluem os elementos característicos como: **identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas** ?  <a id="anchor_8" href="#REF8">[8].</a> |  |  |
+| P3 | O artefato possui persona primária ?  <a id="anchor_8" href="#REF8">[8].</a>|  |  |
+| P4 | O artefato possui antipersona ?  <a id="anchor_8" href="#REF8">[8].</a> |  |  |
 | P5 | O artefato especifica o porque da escolha da quantidade de personas no elenco ?  |  |  |
 | P6 | O artefato possui uma conclusão? |  |  |
 | P7 | O artefato apresenta as ferramentas utilizadas para a realização de personas?  |  |  |
@@ -242,14 +241,13 @@ Fonte: ORLANDO, Mateus; BARBOSA, Maria. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| I1 | O processo de elicitação foi devidamente explicado e documentado? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| I2 | Os requisitos elicitados foram classificados corretamente? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| I3 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? <a id="REF54" href="#anchor_54">54</a> |  |  | 
+| I1 | O processo de elicitação foi devidamente explicado e documentado? <a id="REF9" href="#anchor_9">[9]</a> |  |  |
+| I2 | Os requisitos elicitados foram classificados corretamente? <a id="REF9" href="#anchor_9">[9]</a> |  |  |
+| I3 | Foram elicitados requisitos que não estão presentes no aplicativo? <a id="REF9" href="#anchor_9">[9]</a> |  |  |
+| I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? <a id="REF9" href="#anchor_9">[9]</a> |  |  | 
 | I5 | Algum usuário participou dessa técnica além dos integrantes do grupo? | |  |
 
-
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, Joao. 2023.
 
 </center>
 
@@ -261,16 +259,16 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| Q1 | No artefato foi informado o motivo da escolha do questionário? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q2 | Os resultados foram tratados e apresentados? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q3 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_7 href="#REF7">[7]</a> | | |
-| Q4 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_7 href="#REF7">[7]</a>  | | |
-| Q5 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_7 href="#REF7">[7]</a>   | | |
-| Q6 | É explicitado como o questionário será utilizado? <a id=anchor_7 href="#REF7">[7]</a>  | | |
-| Q7 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_8 href="#REF8">[8]</a> | | |
-| Q8 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_8 href="#REF8">[8]</a> | | |
-| Q9 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_8 href="#REF8">[8]</a> | | |
-| Q10 | No artefato, há as respostas do questionário? <a id=anchor_9 href="#REF9">[9]</a> | | |
+| Q1 | No artefato foi informado o motivo da escolha do questionário? <a id=anchor_10 href="#REF10">[10]</a> | | |
+| Q2 | Os resultados foram tratados e apresentados? <a id=anchor_10 href="#REF10">[10]</a> | | |
+| Q3 | O artefato apresenta no texto o prazo em que ficou aberto ? <a id=anchor_10 href="#REF10">[10]</a> | | |
+| Q4 | O artefato apresenta no texto onde o questionário foi distribuído? <a id=anchor_10 href="#REF10">[10]</a>  | | |
+| Q5 | As perguntas apresentam alguma ordem ou padrão estratégico? <a id=anchor_10 href="#REF10">[10]</a>  | | |
+| Q6 | É explicitado como o questionário será utilizado? <a id=anchor_10 href="#REF10">[10]</a> | | |
+| Q7 | O questionário possui quantidade de perguntas adequadas, sem excessos que causem perda na qualidade da pesquisa? <a id=anchor_11 href="#REF11">[11]</a> | | |
+| Q8 | O questionário faz suas perguntas baseadas no perfil de usuário traçado pelo grupo? <a id=anchor_11 href="#REF11">[11]</a> | | |
+| Q9 | Os requisitos foram qualificados em funcionais e não funcionais? <a id=anchor_11 href="#REF11">[11]</a> | | |
+| Q10 | No artefato, há as respostas do questionário? <a id=anchor_11 href="#REF11">[11]</a>| | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
@@ -285,30 +283,15 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
-| ST2 | Os requisitos tem identificadores ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
-| ST3 | Foram elicitados requisitos funcionais ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
-| ST4 | Foram elicitados requisitos não-funcionais ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
-| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="REF14" href="#anchor_14">[14]</a>|  |    |
+| ST1 | As histórias estão em formato de narração de uma história real/cotidiana do aplicativo ? <a id="REF12" href="#anchor_12">[12]</a>|  |    |
+| ST2 | Os requisitos tem identificadores ? <a id="REF12" href="#anchor_12">[12]</a>|  |    |
+| ST3 | Foram elicitados requisitos funcionais ? <a id="REF12" href="#anchor_12">[12]</a>|  |    |
+| ST4 | Foram elicitados requisitos não-funcionais ? <a id="REF12" href="#anchor_12">[12]</a>|  |    |
+| ST5 | Os storytellings foram feitos baseados em personas ou em um usuário real ? <a id="REF12" href="#anchor_12">[12]</a> |  |    |
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 </center>
-
-### Checklist de MoSCoW
-
-**Tabela 11** - Checklist para os Itens do MoSCoW.
-
-| ID | Descrição | Avaliação | Observações |
-| ---| -------- | --------- | ------------ |
-| MS1 | No artefato há a participação do cliente e/ou persona? |  |  |
-| MS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos? |  |  |
-| MS3 | No artefato há a rastreabilidade dos requisitos elicitados? |  |  |
-| MS4 | No artefato as categorias Must-have, Should-have, Could-have e Won't-have estão claramente definidas? |  |  |
-| MS5 | No artefato existem critérios claros para classificar um requisito em cada categoria MoSCoW? |  |  |
-| MS6 | No artefato a ordem das categorias MoSCoW segue uma lógica clara? |  |  |
-
-Fonte: SIQUEIRA, Mariiana. 2023.
 
 ### Checklist do First Things First
 
@@ -318,16 +301,16 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? <a id="anchor_10" href="#REF10">[10].</a> |  |  |
-| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? <a id="anchor_101" href="#REF10">[10].</a> |  |  |
-| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona? <a id="anchor_102" href="#REF10">[10].</a> |  |  |
-| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? <a id="anchor_103" href="#REF10">[10].</a> |  |  |
-| FTF5 | O artefato foi validado por partes relevantes antes de sua finalização?  <a id="anchor_11" href="#REF11">[10].</a> |  |  |
-| FTF6 | O artefato é acompanhado por documentação explicativa quando necessário?  <a id="anchor_112" href="#REF11">[10].</a> |  |  |
-| FTF7 | É possível rastrear as origens e alterações feitas no artefato?  <a id="anchor_113" href="#REF11">[10].</a> |  |  |
-| FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback?  <a id="anchor_114" href="#REF11">[10].</a> |  |  |
+| FTF1 | O artefato tem a participação do cliente ou persona na priorização dos requisitos? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF2 | O artefato possui a gravação e registro da atividade de priorização dos requisitos? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF3 | O benefício relativo e a penalidade relativa foi estimado pelo cliente ou persona? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF4 | O custo relativo e o grau relativo foi estimado pelos desenvolvedores? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF5 | O artefato foi validado por partes relevantes antes de sua finalização?  <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF6 | O artefato é acompanhado por documentação explicativa quando necessário?  <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF7 | É possível rastrear as origens e alterações feitas no artefato?  <a id="anchor_13" href="#REF13">[13].</a> |  |  |
+| FTF8 | As partes interessadas tiveram a oportunidade de fornecer feedback?  <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | FTF5 | Os requisitos listados como não funcionais, são realmente não testaveis?|  |  |
-| FTF6 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_114" href="#REF11">[10].</a> |  |  |
+| FTF6 | Os indentificadores possuem likagem de rastreabilidade? <a id="anchor_13" href="#REF13">[13].</a> |  |  |
 | FTF7 | O artefato possui link para as ferramentas utilizadas? |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
@@ -340,14 +323,14 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| TLS1 | No artefato há a participação do cliente e/ou persona?  <a id="anchor_12" href="#REF12">[12].</a>  |  |  |
-| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="anchor_12" href="#REF12">[12].</a> |  |  |
-| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="anchor_12" href="#REF12">[12].</a>  |  |  |
-| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência?  <a id="anchor_12" href="#REF12">[12].</a> |  |  |
-| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? <a id="anchor_12" href="#REF12">[12].</a> |  | |
-| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? <a id="anchor_12" href="#REF12">[12].</a>  |  | -- |
+| TLS1 | No artefato há a participação do cliente e/ou persona?  <a id="anchor_14" href="#REF14">[14].</a>  |  |  |
+| TLS2 | No artefato há a gravação e o registro da atividade de priorização dos requisitos?  <a id="anchor_14" href="#REF14">[14].</a> |  |  |
+| TLS3 | No artefato as três categorias de prioridade estão claramente definidas? <a id="anchor_14" href="#REF14">[14].</a>  |  |  |
+| TLS4 | No artefato cada nível possui uma explicação de prioridade e representa um grau diferente de importância ou urgência?  <a id="anchor_14" href="#REF14">[14].</a> |  |  |
+| TLS5 | No artefato há a rastreabilidade dos requisitos elicitados? <a id="anchor_14" href="#REF14">[14].</a>|  | |
+| TLS6 | No artefato a ordem dos níveis de prioridade segue uma lógica clara? <a id="anchor_14" href="#REF14">[14].</a> |  | -- |
 | TLS7 | Os requisitos listados como não funcionais, são realmente não testaveis?  |  | |
-| TLS8 | O artefato possui gravação da dinâmica ? <a id="anchor_12" href="#REF12">[12].</a> |  |  |
+| TLS8 | O artefato possui gravação da dinâmica ? <a id="anchor_14" href="#REF14">[14].</a> |  |  |
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -355,10 +338,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > BilheteriaDigital. GitHub, 2023. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
-
-
 ## Referências Bibliografia de Perfil de Usuário
-
 
 > <a id="REF1" href="#anchor_1">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
@@ -369,81 +349,59 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
-## Referência Bibliográfica de Personas
+## Referências Bibliografia de $100
 
-> <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+> <a id="REF4" href="#anchor_4">[4].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
 
+## Referência Bibliográfica de Brainstorming
 
-> <a id="REF4" href="#anchor_4">[4]</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+> <a id="REF4" href="#anchor_4">[5]</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF5" href="#anchor_5">[5]</a> 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
+> <a id="REF5" href="#anchor_6">[6]</a> 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF6" href="#anchor_6">[6]</a> Referência baseada em aulas na sala de aula.
+> <a id="REF6" href="#anchor_7">[7]</a> Referência baseada em aulas na sala de aula.
 
-    * Para visualizar as imagens de referências do artefato acesse aqui: 
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
+## Referência Bibliográfica de Personas
+
+> <a id="anchor_8" href="#REF8">[8].</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
+
+## Referência Bibliográfica de Introspecção
+
+> <a id="REF9" href="#anchor_9">[9]</a> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
 ## Referências Bibliografia de Questionário
 
-> <a id="REF11" href="#anchor_11">[11].</a> GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
-de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
+> a id="REF10" href="#anchor_10">[10].</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF7" href="#anchor_7">[7]</a> COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
+> <a id=anchor_11 href="#REF11">[11]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
 
-> <a id="REF8" href="#anchor_8">[8]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md. Acesso em: 24 nov, 2023.
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md 
 
-> <a id="REF9" href="#anchor_9">[9].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+## Referências Bibliografia de Storytelling
 
-> <a id="REF10" href="#anchor_10">[10].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
-
-
-> <a id="REF9" href="#anchor_9">[9]</a> Referência baseada em aulas na sala de aula.
-
-
-    * Para visualizar as imagens de referências do artefato acesse aqui: 
-
-## Referências Bibliografia de Personas
-
-> <a id="REF13" href="#anchor_13">[13]</a> ORLANDO, Mateus.  2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 24 nov, 2023.
-
-> <a id="REF12" href="#anchor_12">[12].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
-
-
-> <a id="REF14" href="#anchor_14">[14]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - Storytelling. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/storytelling. Acesso em: 24 nov, 2023.
-
-> <a id="anchor_55" href="#REF55">55.2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
-
-## Referências Bibliografia de $100
-
-> <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/elicitacao/instrospec%C3%A7%C3%A3o/. Acesso em: 24 de novembro de 2023.
-  
-> <a id="REF11" href="#anchor_11">[11].</a> . 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/.  Acesso em: 23 de novembro de 2023.
-
-> <a id="REF21" href="#anchor_21">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
-
-> <a id="REF4" href="#anchor_4">[21].</a> . WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+> <a id="REF12" href="#anchor_12">[12]</a> 2023.1-VLC. GitHub. Verificacao - entrega_2 - Storytelling. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/storytelling. Acesso em: 24 nov, 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
+
 ## Referências Bibliografia de FirtThingsFirst
 
-> <a id="REF10" href="#anchor_10">[10].</a> MARQUES, Maria Eduarda. 2023.2-e-Título. Verificação grupo + 1 - FirtThingsFirst. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoMariiana/docs/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2.md. Acesso em: 23 de novembro de 2023.
-
-
-> <a id="REF11" href="#anchor_11">[11].</a> GOMES, Aline e POLICANI, André Luís. Priorização de requisitos e avaliação da qualidade
-de software segundo a percepção dos usuários. Disponível em: file:///home/esther/Downloads/grmb,+160-179%20(2).pdf. Acesso em: 24 nov, 2023.
-
-
-> <a id="REF10" href="#anchor_10">[10].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+> <a id="REF13" href="#anchor_13">[13].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
 ## Referências Bibliografia de Three Level Scale
 
->  <a id="REF12" href="#anchor_12">[12].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
+>  <a id="REF12" href="#anchor_12">[14].</a> WIEGERS, Karl e BEATTY, Joy. Software Requeriments- Third edition. Disponível em: https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf.  Acesso em: 23 de novembro de 2023.
 
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
@@ -461,4 +419,4 @@ de software segundo a percepção dos usuários. Disponível em: file:///home/es
 | `1.6`  | 28/11/2023 | Adição das referências do Checklist de  Personas. | [Mateus Orlando](https://github.com/MateusPy) | -- |
 | `1.7`  | 03/11/2023 | Alterando os itens do cheklist de Perfil de usuário e colocando link para referência de imagens em Referência Bibliográfica do Perfil de usuário e personas | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
 | `1.8` | 04/12/2023 | Ajustando referências |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
-
+| `1.9`  | 04/12/2023 | colocando link para as imagens de referência das tabela de $100, Three Level Scale e firt things firt.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
