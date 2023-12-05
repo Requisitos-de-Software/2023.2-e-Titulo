@@ -18,7 +18,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
-  | [Git Pages](https://requisitos-de-software.github.io/2023.2-e-Titulo/) | -- | -- | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | Todos |
+  | Planejamento | [Git Pages](https://requisitos-de-software.github.io/2023.2-e-Titulo/) | -- | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | Todos |
   | Planejamento | [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/) | -- | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques](https://github.com/EduardaSMarques) |
   | Planejamento |  |  |  |  |
   | Planejamento |  |  |  |  |
@@ -65,8 +65,146 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 
 <p style="text-align: justify"></p>
 
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa 3</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa 4</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa 5.1</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa 5.2</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa 6</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
+<details>
+ <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+  <summary>Etapa Final</summary>
+
+  <p>
+
+  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
+  | :--: | :--: | :--: | :--: | :--: |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+  |  |  |  |  |  |
+
+  </p>
+  <div style="text-align: center">
+    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+  </div>
+</details>
+
+<p style="text-align: justify"></p>
+
 ## Histórico de Versões
 
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
-| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
