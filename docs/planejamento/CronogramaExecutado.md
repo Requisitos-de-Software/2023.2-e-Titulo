@@ -28,7 +28,7 @@ A tabela 1 detalha as modificações e o que se manteve do cronograma planejado.
 | Gravação da apresentação | 18/09 | 18/09   |  19/09 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Correções após o feedback da apresentação |  21/09  |  03/10 |  04/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-Fonte: Maria Marques, 2023
+Fonte: MARQUES,maria.2023.
 
 ## Entrega 2
 
@@ -51,7 +51,7 @@ A tabela 2 detalha as modificações e o que se manteve do cronograma planejado.
 | Gravação da apresentação |  04/10  |  04/10  |  04/10  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 | Correções após o feedback da apresentação |   |   |   | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-Fonte: Maria Marques, 2023
+Fonte: MARQUES,maria.2023.
 
 ## Entrega 3
 
@@ -67,8 +67,8 @@ A tabela 3 detalha as modificações e o que se manteve do cronograma planejado.
 | Especificação suplementar | 08/10   | 25/10    | 26/10   | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 | Gravação da apresentação |  26/10  |  26/10  |  26/10  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 | Correções após o feedback da apresentação |  01/11 |  03/11 |  04/11  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+Fonte: SIQUEIRA,mariiana. 2023.
 
-Fonte: Mariiana Siqueira, 2023
 
 ## Entrega 4
 
@@ -84,7 +84,8 @@ A tabela 4 detalha as modificações e o que se manteve do cronograma planejado.
 | Gravação da apresentação |  06/11  |  06/11  |  06/11  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 | Correções após o feedback da apresentação |  07/11 |  09/11 |  10/11  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-Fonte: Mariiana Siqueira, 2023
+Fonte: SIQUEIRA,mariiana. 2023.
+
 
 ### Entrega 5.1
 
@@ -103,7 +104,7 @@ A tabela 5 detalha as modificações e o que se manteve do cronograma planejado.
 | Gravação da apresentação | 13/11 | 13/11 | 13/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 | Correções após o feedback da apresentação | 14/11 | 16/11 | 17/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-Fonte: Mariiana Siqueira, 2023
+Fonte: SIQUEIRA,mariiana. 2023.
 
 ### Entrega 6
 
@@ -118,7 +119,7 @@ A tabela 6 detalha as modificações e o que se manteve do cronograma planejado.
 | Pós-Rastreabilidade - Gerência II: Matriz Geral | 19/11 |  20/11  |  20/11  | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | Gravação da apresentação | 20/11 | 20/11 | 20/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 | Correções após o feedback da apresentação |  21/11 |  23/11 | 24/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
-Fonte: Maria Marques, 2023
+Fonte: MARQUES,maria.2023.
 
 ### Entrega 5.2
 
@@ -128,14 +129,26 @@ A tabela 7 detalha as modificações e o que se manteve do cronograma planejado.
 
 |  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
 |  --- |  --- |  --- |  --- |  --- |  --- | 
-| Verificação e Validação - Grupo 4 - Artefatos:$100, First Things First, Three Level Scale, Léxicos e Matriz  |   |   |    |   [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
-| Verificação e Validação - Grupo 4 - Artefatos: Metodologia, Ferramentas, instropecção e casos de uso |   |    |  | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
-| Verificação e Validação - Grupo 4 - Artefatos: cronograma,perfil de usuário,personas,backlog e backward-from  |   |   |    | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-| Verificação e Validação - Grupo 4 - Artefatos: Escolha do aplicativo,Rich Picture, Especificação Suplementar e forward-from |   |  |   | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
-| Verificação e Validação - Grupo 4 - Artefatos: brainstorming,questionário, história de usuário e nfr framework |   |    |   | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
-| Verificação e Validação - Grupo 4 - Artefatos: apresentação, entrevista, storytelling e cenários |  |    |    | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
-| Gravação da apresentação |    |    |    |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
-| Correções após o feedback da apresentação |   |   |   | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
+| Verificação e Validação - Grupo 4 - Artefatos:$100, First Things First, Three Level Scale, Léxicos e Matriz  | 25/11  | 02/12  | 03/12|   [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| Verificação e Validação - Grupo 4 - Artefatos: Metodologia, Ferramentas, instropecção e casos de uso | 25/11  | 02/12  | 03/12 | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
+| Verificação e Validação - Grupo 4 - Artefatos: cronograma,perfil de usuário,personas,backlog e backward-from  | 25/11  | 02/12  | 03/12  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| Verificação e Validação - Grupo 4 - Artefatos: Escolha do aplicativo,Rich Picture, Especificação Suplementar e forward-from | 25/11  | 02/12  | 03/12 | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
+| Verificação e Validação - Grupo 4 - Artefatos: brainstorming,questionário, história de usuário e nfr framework |25/11  | 02/12  | 03/12| [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+| Verificação e Validação - Grupo 4 - Artefatos: apresentação, entrevista, storytelling e cenários | 25/11  | 02/12  | 03/12 | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+| Gravação da apresentação |  04/12  | 04/12   |  04/12  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
+
+Fonte: MARQUES,maria.2023.
+
+
+### Entrega 7
+A tabela 8 detalha as modificações e o que se manteve do cronograma planejado.
+
+**Tabela 8:** Cronograma detalhado da entrega 5.2
+
+|  Atividade |   Data do início   | Data do Fim | Data da Revisão |  Autor(es) |  Revisor(es) | 
+|  --- |  --- |  --- |  --- |  --- |  --- | 
+| Entrega do projeto final, correção dos artefatos|  26/11  |  05/12  |  05/12  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+| Gravação da apresentação |  06/12  |  06/12  |  06  /12  |   [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
 
 Fonte: MARQUES,maria.2023.
 
@@ -153,4 +166,4 @@ Fonte: MARQUES,maria.2023.
 | `1.1`  | 03/09/2023  | Realização do tópico da etapa 2  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
 | `1.2`  | 06/11/2023  | Realização do tópico da etapa 3 e etapa 4 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |[Mateus Orlando](https://github.com/MateusPy)|
 | `1.3`  | 20/11/2023  | Realização do tópico da etapa 5.1 e etapa 6 | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Mateus Orlando](https://github.com/MateusPy) |
-| `1.4`  | 03/12/2023  | Correções e adição da etapa 5.2  | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
+| `1.4`  | 03/12/2023  | Correções e adição da etapa 5.2 e 7 | [Maria Marques ](https://github.com/EduardaSMarques)  |[Mateus Orlando](https://github.com/MateusPy)|
