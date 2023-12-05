@@ -22,7 +22,7 @@ Na imagem 1, demonstra um print da mensagem enviada para o email: sgic@tse.jus.b
 
 **Imagem 1 - Imagem do email enviado.**
 
-<td><img src=./imgs/emaailEnviado.png></td> 
+<td><img src=../imgs/emaailEnviado.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -33,7 +33,7 @@ Na imagem 2, demonstra a resposta recebida do email: sgic@tse.jus.br.
 
 **Imagem 2 - Imagem do email recebido.**
 
-<td><img src=./imgs/emailRecebido.png></td> 
+<td><img src=../imgs/emailRecebido.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
