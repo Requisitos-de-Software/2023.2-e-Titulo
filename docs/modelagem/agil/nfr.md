@@ -208,7 +208,7 @@ A figura 8, se encontra o diagrama do SIG de usabilidade com impactos propagados
 
 Figura 8 - Diagrama do Sig de usabilidade com impactos propagados 
 
-![ComPropa](../../planejamento/img/usacomPropa.png)
+![ComPropa](../../planejamento/img/UsaImpacto.png)
 
 Fonte: MARQUES,maria. 2023.
   
@@ -235,7 +235,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Figura 10 - SIG de Confiabilidade com impactos.
 
-![confGrafoSIG2](../../planejamento/img/confiaComimpacto.png)
+![confGrafoSIG2](../../planejamento/img/confiaComImpacto.png)
 
 Fonte: MARQUES, maria. 2023.
 
