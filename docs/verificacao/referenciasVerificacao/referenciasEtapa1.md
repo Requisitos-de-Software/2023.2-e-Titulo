@@ -71,7 +71,6 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-(OBS: CASO TENHA MAIS DE UM "ID" É SÓ COPIAR A TABELA ACIMA)
 
 </center>
 
@@ -79,7 +78,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas da Escolha do Aplicativo.
+**Tabela 3** - Perguntas e Imagens para as perguntas da Escolha do Aplicativo.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -87,7 +86,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 Fonte: SOBRENOME, nome. 2023.
 
-**Imagem X - Imagem da pergunta "ID".**
+**Imagem 3 - Imagem da pergunta "ID".**
 
 <td><img src=./imgs/-></td> 
 
@@ -103,7 +102,7 @@ Fonte: SOBRENOME, nome. 2023.
 
 <center>
   
-**Tabela x** - Perguntas para as perguntas do Cronograma.
+**Tabela 2** - Perguntas para as perguntas do Cronograma.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -111,7 +110,7 @@ Fonte: SOBRENOME, nome. 2023.
  
 Fonte: BARBOSA, Maria. 2023.
 
-**Imagem X - Imagem da pergunta "CM10".** 
+**Imagem 2 - Imagem da pergunta "CM10".** 
 
 <td><img src=../imgs/cronogramRef1.png></td> 
 
@@ -123,7 +122,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas da Metodologia.
+**Tabela 3** - Perguntas e Imagens para as perguntas da Metodologia.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -138,7 +137,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-**Imagem X - Imagem das perguntas M1, M3, M4 e M5**
+**Imagem 3 - Imagem das perguntas M1, M3, M4 e M5**
 
 <td><img src=../imgs/a3.jpeg></td> 
 
@@ -151,7 +150,7 @@ Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúd
 
 <center>
 
-**Tabela x** - Perguntas e Imagens para as perguntas das Ferramentas.
+**Tabela 4** - Perguntas e Imagens para as perguntas das Ferramentas.
 
 | ID | Pergunta | 
 | ---| -------- |
@@ -167,7 +166,7 @@ Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúd
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
-**Imagem X - Imagem das perguntas F2, F4, F6, F7**
+**Imagem 4 - Imagem das perguntas F2, F4, F6, F7**
 
 <td><img src=../imgs/a2.jpeg></td> 
 
