@@ -170,23 +170,18 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
 
-
 ## Referência Bibliográfica do backward-from
 
 > <a id="REF1" href="#anchor_1">[1]</a> LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf. Acesso em: 24 Novembro. 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 24 Novembro. 2023.
 
-
-## Referência Bibliográfica matriz
-
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa6.md
-
+  
+## Referência Bibliográfica matriz
 
 > <a id="REF3" href="#anchor_3">[3]</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
-
-
 
 ## Histórico de Versões
 
