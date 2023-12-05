@@ -39,7 +39,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
-<td><img src=./imgs/referencias.avif></td> 
+<td><img src=../imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -66,7 +66,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 2 - Imagem das perguntas "H1, H2, H4, H6, H7 e H8".** 
 
-<td><img src=./imgs/US[1].png></td> 
+<td><img src=../imgs/US[1].png></td> 
 
 Fonte: BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/PlanejamentoVerificacaoEtapa4/). Acesso em: 24 nov, 2023.
 
@@ -81,7 +81,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 3 - Imagem da pergunta "H3 e H10".**
 
-<td><img src=./imgs/US[2].png></td> 
+<td><img src=../imgs/US[2].png></td> 
 
 Fonte: BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Acesso em: 24 nov, 2023.
 
@@ -113,25 +113,25 @@ Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 4 - Imagem da pergunta "BL5".** 
 
-<td><img src=./imgs/backlogRef1.png></td> 
+<td><img src=../imgs/backlogRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 5 - Imagem da pergunta "BL1".** 
 
-<td><img src=./imgs/backlogRef2.png></td> 
+<td><img src=../imgs/backlogRef2.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 6 - Imagem da pergunta "BL2".**
 
-<td><img src=./imgs/backlogRef3.png></td> 
+<td><img src=../imgs/backlogRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 7 - Imagem da pergunta "BL6".**
 
-<td><img src=./imgs/backlogRef4.png></td> 
+<td><img src=../imgs/backlogRef4.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -156,7 +156,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 8 - Imagem da pergunta "[3]".** 
 
-<td><img src=./imgs/NFR[3].png></td> 
+<td><img src=../imgs/NFR[3].png></td> 
 
 Fonte: MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/). Acesso em: 24 nov, 2023.
 

@@ -43,7 +43,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
-<td><img src=./imgs/referencias.avif></td> 
+<td><img src=../imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -113,7 +113,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 **Imagem X - Imagem da pergunta "CM10".** 
 
-<td><img src=./imgs/cronogramRef1.png></td> 
+<td><img src=../imgs/cronogramRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -140,7 +140,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 **Imagem X - Imagem das perguntas M1, M3, M4 e M5**
 
-<td><img src=./imgs/a3.jpeg></td> 
+<td><img src=../imgs/a3.jpeg></td> 
 
 Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/metodologias/)
 </center>
@@ -169,7 +169,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 **Imagem X - Imagem das perguntas F2, F4, F6, F7**
 
-<td><img src=./imgs/a2.jpeg></td> 
+<td><img src=../imgs/a2.jpeg></td> 
 
 Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/ferramentas/)
 </center>

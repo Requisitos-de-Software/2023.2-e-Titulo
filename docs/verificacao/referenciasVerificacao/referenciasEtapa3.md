@@ -42,7 +42,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
-<td><img src=./imgs/referencias.avif></td> 
+<td><img src=../imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -98,7 +98,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 **Imagem 3 - Imagem das perguntas C1 a C9**
 
-<td><img src=./imgs/a6.jpeg></td> 
+<td><img src=../imgs/a6.jpeg></td> 
 
 Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/)
 </center>
@@ -147,31 +147,31 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 **Imagem 5 - Imagem da pergunta L1 e L6.**
 
-<td><img src=./imgs/ref_lexicos3.PNG></td> 
+<td><img src=../imgs/ref_lexicos3.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 **Imagem 6 - Imagem da pergunta L3, L4, L5.** 
 
-<td><img src=./imgs/ref_lexicos2.PNG></td> 
+<td><img src=../imgs/ref_lexicos2.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 **Imagem 7 - Imagem da pergunta "L1".** 
 
-<td><img src=./imgs/1Lexico.png></td> 
+<td><img src=../imgs/1Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 8 - Imagem da pergunta "L2".**
 
-<td><img src=./imgs/2Lexico.png></td> 
+<td><img src=../imgs/2Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 9 - Imagem da pergunta "L3", "L4", "L5" e "L6".**
 
-<td><img src=./imgs/3Lexico.png></td> 
+<td><img src=../imgs/3Lexico.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 

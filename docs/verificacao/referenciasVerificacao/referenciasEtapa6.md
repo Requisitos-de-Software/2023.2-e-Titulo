@@ -40,7 +40,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 1 - Imagem da pergunta exemplo.**
 
-<td><img src=./imgs/referencias.avif></td> 
+<td><img src=../imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -67,31 +67,31 @@ Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 2 - Imagem da pergunta "B2". (Referência presente na página 38)**
 
-<td><img src=./imgs/backwardRef1.png></td> 
+<td><img src=../imgs/backwardRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 3 - Imagem da pergunta "B4".**
 
-<td><img src=./imgs/backwardRef2.png></td> 
+<td><img src=../imgs/backwardRef2.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 4 - Imagem da pergunta "B5".** 
 
-<td><img src=./imgs/backwardRef3.png></td> 
+<td><img src=../imgs/backwardRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 5 - Imagem da pergunta "B6".** 
 
-<td><img src=./imgs/backwardRef4.png></td> 
+<td><img src=../imgs/backwardRef4.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 6 - Imagem da pergunta "B9".** 
 
-<td><img src=./imgs/backwardRef5.png></td> 
+<td><img src=../imgs/backwardRef5.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -137,13 +137,13 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 8 - Imagem da pergunta "MTZ1" e "MTZ2".**
 
-<td><img src=./imgs/1Matriz.png></td> 
+<td><img src=../imgs/1Matriz.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 9 - Imagem da pergunta "MTZ3" e "MTZ4".** 
 
-<td><img src=./imgs/2Matriz.png></td> 
+<td><img src=../imgs/2Matriz.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 

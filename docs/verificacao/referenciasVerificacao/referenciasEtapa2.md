@@ -42,7 +42,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 Imagem 1 - Imagem da pergunta exemplo.
 
-<td><img src=./imgs/referencias.avif></td> 
+<td><img src=../imgs/referencias.avif></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -67,25 +67,25 @@ Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 2 - Imagem da pergunta "PU4".** 
 
-<td><img src= ./imgs/perfilUsuarioRef1.png></td> 
+<td><img src= ../imgs/perfilUsuarioRef1.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 3 - Imagem da pergunta "PU7". (referência presente na página 141)**
 
-<td><img src= ./imgs/perfilUsuarioRef2.jpeg></td> 
+<td><img src= ../imgs/perfilUsuarioRef2.jpeg></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 4 - Imagem da pergunta "PU9".** 
 
-<td><img src= ./imgs/perfilUsuarioRef3.png></td> 
+<td><img src= ../imgs/perfilUsuarioRef3.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
 **Imagem 5 - Imagem da pergunta "PU10".**
 
-<td><img src= ./imgs/perfilUsuarioRef4.png></td> 
+<td><img src= ../imgs/perfilUsuarioRef4.png></td> 
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -112,20 +112,20 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 6 - Imagem da pergunta "$1".**
 
-<td><img src=./imgs/1$100.png></td> 
+<td><img src=../imgs/1$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 7 - Imagem da pergunta "$3", "$4", "$5", "$6" e "$7".**
 
-<td><img src=./imgs/2$100.png></td> 
+<td><img src=../imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
 **Imagem 8 - Imagem da pergunta "$2" e "$8".** 
 
-<td><img src=./imgs/3$100.png></td> 
+<td><img src=../imgs/3$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -153,7 +153,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 9 - Imagem das perguntas "B1, B2, B3, B4, B5, B6, B7, B8 e B9".**
 
-<td><img src=./imgs/BS[4].png></td> 
+<td><img src=../imgs/BS[4].png></td> 
 
 Fonte: FERREIRA, Rafael. 2023.1-BilheteriaDigital. Verificação grupo - entrega 2 - verificacao-brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/entrega2/verificacao-brainstorming.md). Acesso em: 24 nov, 2023.
 
@@ -167,7 +167,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 10 - Imagem das pergunta "B11".**
 
-<td><img src=./imgs/BS[5].png></td> 
+<td><img src=../imgs/BS[5].png></td> 
 
 Fonte: 2023.1-Simplenote. GitHub. Verificacao-Grupo5 - elicitacao - brainstorming. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-Simplenote/blob/main/docs/analise/verificacao/verificacao-Grupo5/elicitacao/brainstorming.md). Acesso em: 24 nov, 2023.
 
@@ -219,7 +219,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 **Imagem 12 - Imagem da pergunta P1,2 e 5.**
 
-<td><img src=./imgs/ref_personas.PNG></td> 
+<td><img src=../imgs/ref_personas.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -243,9 +243,10 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 **Imagem 13 - Imagem das perguntas de I1 a I4.**
 
-<td><img src=./imgs/a5.jpeg></td> 
+<td><img src=../imgs/a5.jpeg></td> 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúdo. Disponível em: [link](https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/elicitacao/Introspec%C3%A7%C3%A3o/)
+</center>
 
 </center>
 
@@ -268,7 +269,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 14 - Imagem da pergunta "[7]".**
 
-<td><img src=./imgs/QST[6].png></td> 
+<td><img src=../imgs/QST[6].png></td> 
 
 Fonte: COSTA, João. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Questionário. Disponível em: [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/PlanejamentoVerificacaoEtapa2/). Acesso em: 24 nov, 2023.
 
@@ -284,7 +285,7 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 **Imagem 15 - Imagem da pergunta "[8]".** 
 
-<td><img src=./imgs/QST[7].png></td> 
+<td><img src=../imgs/QST[7].png></td> 
 
 Fonte: PENHA, Igor; GOBBI, Lucas. 2023.1-VLC. GitHub. Verificacao - entrega_2 - questionário. Disponível em: [link](https://github.com/Requisitos-de-Software/2023.1-VLC/blob/master/docs/verificacao/entrega_2/questionario.md). Acesso em: 24 nov, 2023.
 
@@ -317,7 +318,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy). 2023.
 
 **Imagem 16 - Imagem das pergunta ST1,2,3,4,5.** 
 
-<td><img src=./imgs/ref_storytelling.PNG></td> 
+<td><img src=../imgs/ref_storytelling.PNG></td> 
 
 Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
@@ -346,49 +347,49 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 17 - Imagem da pergunta "FTF1".**
 
-<td><img src=./imgs/1TLS.png></td> 
+<td><img src=../imgs/1TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 18 - Imagem da pergunta "FTF2".** 
 
-<td><img src=./imgs/3$100.png></td> 
+<td><img src=../imgs/3$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 19 - Imagem da pergunta "FTF3".**
 
-<td><img src=./imgs/3FTF.png></td> 
+<td><img src=../imgs/3FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 20 - Imagem da pergunta "FTF4".** 
 
-<td><img src=./imgs/4FTF.png></td> 
+<td><img src=../imgs/4FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 21 - Imagem da pergunta "FTF5".** 
 
-<td><img src=./imgs/5FTF.png></td> 
+<td><img src=../imgs/5FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 22 - Imagem da pergunta "FTF6" e "FTF7".** 
 
-<td><img src=./imgs/6FTF.png></td> 
+<td><img src=../imgs/6FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 23 - Imagem da pergunta "FTF8".** 
 
-<td><img src=./imgs/7FTF.png></td> 
+<td><img src=../imgs/7FTF.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 24 - Imagem da pergunta "FTF9".**
 
-<td><img src=./imgs/2$100.png></td> 
+<td><img src=../imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
@@ -414,25 +415,25 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 25 - Imagem da pergunta "TLS1".** 
 
-<td><img src=./imgs/1TLS.png></td> 
+<td><img src=../imgs/1TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 26 - Imagem da pergunta "TLS3", "TLS4" e "TLS6".** 
 
-<td><img src=./imgs/2TLS.png></td> 
+<td><img src=../imgs/2TLS.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 27 - Imagem da pergunta "TLS5".** 
 
-<td><img src=./imgs/2$100.png></td> 
+<td><img src=../imgs/2$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Imagem 28 - Imagem da pergunta "TLS2" e "TLS8".** 
 
-<td><img src=./imgs/3$100.png></td> 
+<td><img src=../imgs/3$100.png></td> 
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
