@@ -13,7 +13,7 @@ A rastreabilidade desempenha um papel crucial na engenharia de requisitos, contr
 
 A rastreabilidade, quando aplicada adequadamente, é uma ferramenta poderosa para aprimorar a qualidade do software. 
 
-## Objwtivo
+## Objetivo
 
 Existem dois tipos de rastreabilidade:
 
