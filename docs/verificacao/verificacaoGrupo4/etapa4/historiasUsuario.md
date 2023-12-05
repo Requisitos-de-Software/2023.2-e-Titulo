@@ -62,9 +62,11 @@ Abaixo está presente a gravação do vídeo de histórias de usuário feito em 
 
 Vídeo 1 - link do vídeo para a inspeção em dupla sobre histórias de usuário.
 
-- https://www.youtube.com/watch?v=kB8O8AzKIAM
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://www.youtube.com/watch?v=kB8O8AzKIAM)
 
-Fonte: SIQUEIRA, Mariiana e SENA, Esther.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB8O8AzKIAM?si=8sgmRm-3aOyD1JcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana e SENA, Esther.</p></font>
 
 ## Bibliografia
 
@@ -80,3 +82,4 @@ Fonte: SIQUEIRA, Mariiana e SENA, Esther.
 | `1.1`  | 24/11/2023 | Adição do conteúdo da inspeção das histórias de usuário. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
 | `1.2`  | 24/11/2023 | Preenchimento da inspeção das histórias de usuário e sugestão de melhorias. | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
 | `1.3`  | 25/11/2023 | Adição do vídeo de inspeção em dupla e revisor | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+| `1.4`  | 05/12/2023 | Correção link do vídeo para o pages | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |

@@ -6,7 +6,7 @@ A estratégia de planejamento adotada envolveu a verificação de cada artefato 
 
 ## Motivação e Objetivo
 
-O objetivo desta desse artefato é explicitar todas as técnicas utilizadas no artefato de verificação do Grupo 5 e do nosso próprio grupo. E além disso, também explicitar as técnicas utilizadas em validação.
+O objetivo desse artefato é explicitar todas as técnicas utilizadas no artefato de verificação do Grupo 5 e do nosso próprio grupo. E além disso, também explicitar as técnicas utilizadas em validação.
 
 ## Metodologia
 
@@ -25,6 +25,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 ## Verificação Grupo + 1
 
 <details>
+ <p> Tabela 1: Verificação entrega 1 do grupo 5 - Jitsi.</p>
   <summary>Entrega 1</summary>
 
   <p>
@@ -52,6 +53,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+<p> Tabela 2: Verificação entrega 2 do grupo 5 - Jitsi.</p>
   <summary>Entrega 2</summary>
 
   <p>
@@ -80,6 +82,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+<p> Tabela 3: Verificação entrega 3 do grupo 5 - Jitsi.</p>
   <summary>Entrega 3</summary>
 
   <p>
@@ -102,6 +105,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+<p> Tabela 4: Verificação entrega 4 do grupo 5 - Jitsi.</p>
   <summary>Entrega 4</summary>
 
   <p>
@@ -124,6 +128,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 ## Verificação Grupo 4
 
 <details>
+ <p> Tabela 5: Verificação entrega 1 do grupo 4 - e-Título.</p>
   <summary>Entrega 1</summary>
 
   <p>
@@ -147,6 +152,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+ <p> Tabela 6: Verificação entrega 2 do grupo 4 - e-Título.</p>
   <summary>Entrega 2</summary>
 
   <p>
@@ -175,6 +181,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+ <p> Tabela 7: Verificação entrega 3 do grupo 4 - e-Título.</p>
   <summary>Entrega 3</summary>
 
   <p>
@@ -197,6 +204,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
+ <p> Tabela 8: Verificação entrega 4 do grupo 4 - e-Título.</p>
   <summary>Entrega 4</summary>
 
   <p>
@@ -218,7 +226,8 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 <p style="text-align: justify"></p>
 
 <details>
-  <summary>Entrega 4</summary>
+ <p> Tabela 9: Verificação entrega 6 do grupo 4 - e-Título.</p>
+  <summary>Entrega 6</summary>
 
   <p>
 
@@ -242,4 +251,4 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
-| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | -- |
+| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Marques ](https://github.com/EduardaSMarques) |

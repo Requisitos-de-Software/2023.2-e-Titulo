@@ -41,8 +41,8 @@ Na tabela 2, estão contidos as atas de 1 a 14 feitas durante o semestre, e tamb
 
 | Reunião | Ata | Data | Hora | Paticipantes | Gravações | Local | 
 | :--: | :--: | :--:| :--: | :--: | :--: |  :--: | 
-| 1 | [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/atas/ata_reuniao_01/) | 06/09/2023  | 20:34 |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> | <iframe width="560" height="315" src="https://youtu.be/euIYHMQXNaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Google Meet |
-| 2 |  | xx/xx/2023  | xx:xx  |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> |  | Teams |
+| 1 | [link](https://requisitos-de-software.github.io/2023.2-e-Titulo/atas/ata_reuniao_01/) | 06/09/2023  | 20:34 |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> | <iframe width="560" height="315" src="https://youtu.be/euIYHMQXNaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | Google Meet |
+| 2 |  | xx/xx/2023  | xx:xx  | <br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> |  | Teams |
 | 3 |  | xx/xx/2023  |  xx:xx |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> |  | Teams |
 | 4 |  | xx/xx/2023  | xx:xx  |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> |  | Teams |
 | 5 |  | xx/xx/2023  |  xx:xx |<br> - João Costa <br> - Esther Sena  <br> - Maria Barbosa <br> - Maria Marques <br> - Mariiana Siqueira <br> - Mateus Orlando <br> |  | Teams |
@@ -64,4 +64,4 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
-| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | -- |
+| `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Mateus Orlando](https://github.com/MateusPy) |
