@@ -232,3 +232,4 @@ Fonte: VICTOR, João. 2023.
 | `1.3`  | 25/11/2023 | Adicionando o checklist Léxico e acrescentado referência bibliográficas e bibliografia da tabela Léxicos.  |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4` | 25/11/2023 | Atualizando referências |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
 | `1.5` | 25/11/2023 | Atualizando linkagem das referências | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Mateus Orlando](https://github.com/MateusPy) |
+| `1.6`  | 04/12/2023 | colocando link para as imagens de referência das tabela de Léxico. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
