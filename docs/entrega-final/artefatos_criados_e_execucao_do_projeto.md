@@ -112,7 +112,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 <p style="text-align: justify"></p>
 
 <details>
- <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+ <p> Tabela 5: Artefatos criados e execução do projeto etapa 5.1.</p>
   <summary>Etapa 5.1</summary>
 
   <p>
@@ -143,14 +143,9 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   | Verificação Grupo 5 | [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/cenarios/) |  checklist e inspeção |  [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta)  |
   | Verificação Grupo 5 | [Léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/lexicos/) |  checklist e inspeção | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)  |
   |Verificação Grupo 5 | [Planejamento da verificação da 4º etapa grupo 5](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/PlanejamentoVerificacaoEtapa4/) | -- | [Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-  | Verificação Grupo 5 | []() |  checklist e inspeção |  |  |
-
+  | Verificação Grupo 5 | [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/backlog/) |  checklist e inspeção |  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)   |
+  | Verificação Grupo 5 | [História de usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario/) |  checklist e inspeção | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta)  |
+  | Verificação Grupo 5 | [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/) |  checklist e inspeção |  [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena)  |
   
   </p>
   <div style="text-align: center">
@@ -161,48 +156,67 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 <p style="text-align: justify"></p>
 
 <details>
- <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+ <p> Tabela 6: Artefatos criados e execução do projeto etapa 5.2.</p>
   <summary>Etapa 5.2</summary>
 
-  <p>
+   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
-  | Verificação Grupo 5 | []() |   |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-
+  | Verificação Grupo 4 | [Planejamento da verificação da 1º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/PlanejamentoVerificacaoEtapa1/) | -- | [João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação Grupo 4 | [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/apresentacao/) | checklist e inspeção | [Mateus Orlando](https://github.com/MateusPy) | [João Victor](https://github.com/jvcostta) |
+  | Verificação Grupo 4 | [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/cronograma/) |  checklist e inspeção |  [Maria Barbosa](https://github.com/Madu01) |[Mariiana Siqueira](https://github.com/Maryyscreuza)|
+  | Verificação Grupo 4 | [Ferramentas](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/Ferramentas/) |  checklist e inspeção |  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
+  | Verificação Grupo 4 | [Escolha do aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/escolha-do-aplicativo/) |  checklist e inspeção |  [Maria Marques ](https://github.com/EduardaSMarques) |[Mariiana Siqueira](https://github.com/Maryyscreuza)  |
+  | Verificação Grupo 4 | [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/metodologia/) |  checklist e inspeção | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
+  | Verificação Grupo 4 | [Rich Picture](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/richPicture/) |  checklist e inspeção | [Maria Marques ](https://github.com/EduardaSMarques) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+  |  Verificação Grupo 4 | [Planejamento da verificação da 2º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/PlanejamentoVerificacaoEtapa2/) | -- | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação Grupo 4 | [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/personas/) |  checklist e inspeção | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta)  |
+  | Verificação Grupo 4 | [Perfil do usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/PerfilUsuario/) |  checklist e inspeção |[Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+  | Verificação Grupo 4 | [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/brainstorming/) |  checklist e inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+  | Verificação Grupo 4 | [Entrevista](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/entrevista/) |  checklist e inspeção |  [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)  |
+  | Verificação Grupo 4 | [Storytelling](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/storytelling/) |  checklist e inspeção |  [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+  | Verificação Grupo 4 | [Introspecção](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/Introspeccao/) |  checklist e inspeção |  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
+  | Verificação Grupo 4 | [Questionário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/questionario/) |  checklist e inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+  | Verificação Grupo 4 | [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/firstThingsFirst/) |  checklist e inspeção | [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza)  |
+ | Verificação Grupo 4 | [$100](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/%24100/) |  checklist e inspeção | [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+ | Verificação Grupo 4 | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/TLS/) |  checklist e inspeção | [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza)   |
+ |Verificação Grupo 4 | [Planejamento da verificação da 3º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/PlanejamentoVerificacaoEtapa3/) | -- | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Marques ](https://github.com/EduardaSMarques),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação Grupo 4 | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/especificacao-suplementar/) |  checklist e inspeção |   [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01)   |
+  | Verificação Grupo 4 | [Casos de uso](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/Casosdeuso/) |  checklist e inspeção |  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
+  | Verificação Grupo 4 | [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/cenarios/) |  checklist e inspeção |  [Mateus Orlando](https://github.com/MateusPy) | [João Victor](https://github.com/jvcostta)  |
+  | Verificação Grupo 4 | [Léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/lexicos/) |  checklist e inspeção |  [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+  |Verificação Grupo 4 | [Planejamento da verificação da 4º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa4/PlanejamentoVerificacaoEtapa4/) | -- | [Maria Barbosa](https://github.com/Madu01),[Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação Grupo 4 | [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa4/backlog/) |  checklist e inspeção |  [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta)    |
+  | Verificação Grupo 4 | [História de usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario/) |  checklist e inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+  | Verificação Grupo 4 | [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/) |  checklist e inspeção |  [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+   |Verificação Grupo 4 | [Planejamento da verificação da 6º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/PlanejamentoVerificacaoEtapa6/) | -- | [Maria Barbosa](https://github.com/Madu01),[Esther Sena](https://github.com/esmsena), [Maria Marques ](https://github.com/EduardaSMarques)|  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação Grupo 4 | [Backward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/backwardFrom/) |  checklist e inspeção |  [Maria Barbosa](https://github.com/Madu01) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+  | Verificação Grupo 4 | [Forward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/forwardFrom/) |  checklist e inspeção | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena)  |
+  | Verificação Grupo 4 | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/matriz/) |  checklist e inspeção | [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza)  |
+  
   </p>
   <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+    <p>Fonte: MARQUES,maria. 2023.</p>
   </div>
 </details>
 
 <p style="text-align: justify"></p>
 
 <details>
- <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
+ <p> Tabela 7: Artefatos criados e execução do projeto etapa 6.</p>
   <summary>Etapa 6</summary>
 
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
-  | Verificação Grupo 5 | []() |   |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-
+  | Pós rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/backwardFrom/) |-- |  [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |[João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
+  | Pós rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/forwardFrom/) |-- | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) |
+  | Pós rastreabilidade | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/matriz/) | -- |  [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
   </p>
   <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
+   <p>Fonte: MARQUES,maria. 2023.</p>
   </div>
 </details>
 
@@ -236,3 +250,5 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
 | `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.1`  | 06/12/2023  |Adição das tabelas das etapas 5.1, 5.2 e 6 |  [Maria Marques ](https://github.com/EduardaSMarques)  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+
