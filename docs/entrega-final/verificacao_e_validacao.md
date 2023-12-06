@@ -23,7 +23,7 @@ O grupo optou por fazer a divisão entre 4 artefatos para cada um desenvolver a 
 
 Para a parte da validação por meio de protótipo, cada membro do grupo fez um protótipo de alta fidelidade de algum requisito não implementado no aplicativo. Após a criação do protótipo, foram marcados entrevistas em duplas (ao todo foram 4 entrevistas, pois alguns membros optaram por fazerem sozinhos) para que fossem validados os protótipos.
 
-E para a parte de validação informal foi elaborado um texto e enviado aos desenvolvedores do e-Título, com o objetivo de obter o feedback da equipe que desenvolveu o aplicativo.
+E para a parte de validação informal foi elaborado um email e enviado aos desenvolvedores do e-Título, com o objetivo de obter o feedback da equipe que desenvolveu o aplicativo.
 
 ## Verificação Grupo + 1
 
@@ -245,7 +245,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 
   <p>
 
-  | Artefato | Autores | Responsável pela inspeção | Gravação de Inspeção | Responsável pela consolidação | Gravação de Consolidação |
+  | Artefato | Autores do artefato | Responsável pela inspeção | Gravação de Inspeção | Responsável pela consolidação | Gravação de Consolidação |
   | :--: | :--: | :--: | :--: | :--: | :--: |
   | [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/cronograma/) | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Maria Eduarda Barbosa](https://github.com/Madu01)| -- | [Maria Eduarda Barbosa](https://github.com/Madu01) | [Consolidação de Cronograma](https://www.youtube.com/embed/AOqdOFZLgiI?si=Ow2hll7sLYFO4O55) |
   | [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/escolha-do-aplicativo/) | [Maria Eduarda Barbosa](https://github.com/Madu01) | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Inspeção de Escolha do Aplicativo](https://www.youtube.com/embed/TBL4PqnKZeY?si=DRYcC6mJoSZPf_qw) | -- | -- |
@@ -295,7 +295,7 @@ E para a parte de validação informal foi elaborado um texto e enviado aos dese
 
 ### Validação Informal
 
-Na fase de validação por meio de comprovação informal, o grupo e-Título escreveu em um email pedindo a análise e validação de alguns ou todos artefatos criados durante todo o projeto. A mensagem foi enviada no dia 01 de dezembro de 2023, às 17h. A mensagens enviada pode ser visualiada na [página do artefato](https://requisitos-de-software.github.io/2023.2-e-Titulo/validacao/informal/).
+Na fase de validação por meio de comprovação informal, o grupo e-Título escreveu em um email pedindo a análise e validação de alguns ou todos artefatos criados durante todo o projeto. A mensagem foi enviada no dia 01 de dezembro de 2023, às 17h. A mensagem enviada pode ser visualizada na [página do artefato](https://requisitos-de-software.github.io/2023.2-e-Titulo/validacao/informal/).
 
 Apesar da abordagem de validação informal, o grupo recebeu apenas uma espécie de mensagem automática enviada pelo email na qual o grupo contatou.
 
