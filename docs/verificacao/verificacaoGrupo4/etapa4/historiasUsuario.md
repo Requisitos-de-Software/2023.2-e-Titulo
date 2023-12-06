@@ -64,7 +64,7 @@ Vídeo 1 - link do vídeo para a inspeção em dupla sobre histórias de usuári
 
 - Caso não consiga assistir dentro do gitPages, [Clique aqui](https://www.youtube.com/watch?v=kB8O8AzKIAM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kB8O8AzKIAM?si=8sgmRm-3aOyD1JcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB8O8AzKIAM?si=Y99_hA_NwXvxL_Im" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana e SENA, Esther.</p></font>
 
