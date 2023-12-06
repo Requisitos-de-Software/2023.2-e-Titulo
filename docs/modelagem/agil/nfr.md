@@ -390,7 +390,7 @@ Fonte: MARQUES,maria. 2023.
 
 Tabela X - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3**  <a id="REF1" href="#anchor_c1">(CONF01)</a>   <br> **Classificação:** Confiabilidade/Disponibilidade para uso  | |
+| **Nº Requisito: 7**  <a id="REF1" href="#anchor_c1">(CONF01)</a>   <br> **Classificação:** Confiabilidade/Disponibilidade para uso  | |
 | ------------------------ | --------- |
 | **Descrição:** | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |
 | **Justificativa:** | É utilizado esse requisito, pois durante os momentos de alta demanda, interrupções não programadas podem comprometer a transparência do aplicativo e prejudicar a confiança do público.  |
@@ -409,7 +409,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3**  <a id="REF2" href="#anchor_c2">(CONF02)</a>   <br> **Classificação:**  Confiabilidade/Tolerância a falhas | |
+| **Nº Requisito: 8**  <a id="REF2" href="#anchor_c2">(CONF02)</a>   <br> **Classificação:**  Confiabilidade/Tolerância a falhas | |
 | ------------------------ | --------- |
 | **Descrição:** | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
 | **Justificativa:** | É fundamental para garantir a preservação e a disponibilidade contínua dos dados, prevenindo perdas catastróficas e assegurando a rápida recuperação em casos de falhas ou eventos inesperados. |
@@ -428,7 +428,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3**  <a id="REF3" href="#anchor_d1">(DES01)</a>  <br> **Classificação:** Confiabilidade/Tempo de resposta  | |
+| **Nº Requisito: 9**  <a id="REF3" href="#anchor_d1">(DES01)</a>  <br> **Classificação:** Confiabilidade/Tempo de resposta  | |
 | ------------------------ | --------- |
 | **Descrição:** | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
 | **Justificativa:** | É essencial para garantir uma experiência de usuário ágil, favorecendo a interação contínua e minimizando a frustração com possíveis atrasos, mantendo uma confiabilidade no aplicativo. |
@@ -447,7 +447,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3**  <a id="REF4" href="#anchor_s3">(SUP03)</a> <br> **Classificação:** Confiabilidade/Suporte ao usuário  | |
+| **Nº Requisito: 10**  <a id="REF4" href="#anchor_s3">(SUP03)</a> <br> **Classificação:** Confiabilidade/Suporte ao usuário  | |
 | ------------------------ | --------- |
 | **Descrição:** | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
 | **Justificativa:** | Um plano de suporte eficaz fortalece a confiabilidade do sistema ao garantir respostas rápidas e soluções para problemas, assegurando a continuidade e a confiança dos usuários na plataforma. |
@@ -469,7 +469,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 3**  <a id="REF5" href="#anchor_c3">CONF03</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| **Nº Requisito: 11**  <a id="REF5" href="#anchor_c3">CONF03</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. |
 | **Justificativa:** | Ajuda na proteção dos dados do usuário, promovendo uma experiência mais segura e confiável no aplicativo. |
@@ -488,7 +488,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 3**  <a id="REF6" href="#anchor_c4">CONF04</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| **Nº Requisito: 12**  <a id="REF6" href="#anchor_c4">CONF04</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
 | ------------------------ | --------- |
 | **Descrição:** | O usuário deve poder alterar os seus dados pessoais caso desejar. |
 | **Justificativa:** | Permitir que o usuário altere seus dados pessoais promove autonomia, controle e conformidade com regulamentações de privacidade, garantindo uma experiência personalizada e transparente reforçando a confiabilidade no aplicativo. |
@@ -507,7 +507,7 @@ Fonte: BARBOSA, maria. 2023.
 
 Tabela X - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 3**  <a id="REF7" href="#anchor_c5">CONF05</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
+| **Nº Requisito: 13**  <a id="REF7" href="#anchor_c5">CONF05</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
 | **Justificativa:** | Assegurar a segurança dos dados presentes nos documentos do usuário é crucial para garantir a precisão, autenticidade e integridade das informações, fortalecendo a confiabilidade e a credibilidade do aplicativo. |
