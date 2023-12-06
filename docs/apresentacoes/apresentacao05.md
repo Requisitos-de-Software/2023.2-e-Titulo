@@ -6,7 +6,7 @@
 ## Vídeo
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/KW-HD_V2kEY)
 
-<iframe width="560" height="315" src="https://youtu.be/KW-HD_V2kEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KW-HD_V2kEY?si=08iptmW3o6jMWAg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
 
