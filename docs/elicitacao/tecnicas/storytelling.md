@@ -99,6 +99,8 @@ Sou a Maria Valdina e nunca passei por uma história fora do comum ao usar o apl
 
 ### Requisitos Funcionais
 
+<center>
+
 Tabela 1 - Requisitos Funcionais
 
 |  ID  |  Descrição  | Código | Implementado |  
@@ -109,10 +111,13 @@ Tabela 1 - Requisitos Funcionais
 |  ST4 | eu como usuário, quero poder visualizar as notificação de datas e horários das votações |  RF4 | sim |
 |  ST5 | eu como usuário, gostaria de realizar a quitação eleitoral |  RF5 | Sim |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
+</center>
 
 ### Requisitos Não-Funcionais
+
+<center>
 
 Tabela 2 - Requisitos Não Funcionais
 
@@ -121,7 +126,9 @@ Tabela 2 - Requisitos Não Funcionais
 | STNF1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
 | STNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
+
+</center>
 
 ## Bibliografia
 

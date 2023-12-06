@@ -19,7 +19,7 @@ A metodologia começou com a criação do modelo da tabela que será utilizada c
 | -- | --------- | ------------------------------- | -------------------------------- | ------------ |
 | número de identificação | a descrição do requisito | nome dos artefatos relacionados ao requisito | Códigos das elicitações relacionadas ao requisito da descrição | Se está implementado no aplicativo e-Título |
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
 </center>
 
@@ -120,8 +120,7 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 | RNF33 | Os dispositivos deverão ter acesso a internet para acessar o aplicativo. | Especificação Suplementar | [FIS02](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/) | Não |
 | RNF34 | O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior. | Especificação Suplementar | [FIS03](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/) | Não |
 
-
-Fonte: Maria Barbosa e Maria Marques, 2023.
+Fonte: BARBOSA, Maria; MARQUES, Maria. 2023.
 
 </center>
 
