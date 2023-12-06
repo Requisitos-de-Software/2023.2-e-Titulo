@@ -149,7 +149,7 @@ Inicialmente foram selecionados os requisitos não funcionais já elicitados e p
 
 <center>
 
-Tabela 9 - Requisitos Não-Funcionais 
+Tabela 3 - Requisitos Não-Funcionais 
 
 | ID | Descrição    | 
 | -- | --- | 
@@ -369,7 +369,7 @@ Fonte: MARQUES,maria. 2023.
 
 Tabela 8 - Cartão de especificação da Usabilidade
 
-| **Nº Requisito: 6** <a id="REF06" href="#anchor_a6">USAB06</a>  <br> **Classificação:** Usabilidade | |
+| **Nº Requisito: 6** <a id="REF06" href="#anchor_a6">(USAB06)</a>  <br> **Classificação:** Usabilidade | |
 | ------------------------ | --------- |
 | **Descrição:** | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários. |
 | **Justificativa:** | Assegurar uma interface intuitiva é essencial para proporcionar uma experiência de usuário acessível e satisfatória, promovendo a usabilidade do aplicativo.|
@@ -388,7 +388,7 @@ Fonte: MARQUES,maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Confiabilidade 
+Tabela 9 - Cartão de especificação de Confiabilidade 
 
 | **Nº Requisito: 7**  <a id="REF1" href="#anchor_c1">(CONF01)</a>   <br> **Classificação:** Confiabilidade/Disponibilidade para uso  | |
 | ------------------------ | --------- |
@@ -407,7 +407,7 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Confiabilidade 
+Tabela 10 - Cartão de especificação de Confiabilidade 
 
 | **Nº Requisito: 8**  <a id="REF2" href="#anchor_c2">(CONF02)</a>   <br> **Classificação:**  Confiabilidade/Tolerância a falhas | |
 | ------------------------ | --------- |
@@ -426,7 +426,7 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Confiabilidade 
+Tabela 11 - Cartão de especificação de Confiabilidade 
 
 | **Nº Requisito: 9**  <a id="REF3" href="#anchor_d1">(DES01)</a>  <br> **Classificação:** Confiabilidade/Tempo de resposta  | |
 | ------------------------ | --------- |
@@ -445,7 +445,7 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Confiabilidade 
+Tabela 12 - Cartão de especificação de Confiabilidade 
 
 | **Nº Requisito: 10**  <a id="REF4" href="#anchor_s3">(SUP03)</a> <br> **Classificação:** Confiabilidade/Suporte ao usuário  | |
 | ------------------------ | --------- |
@@ -467,9 +467,9 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Segurança 
+Tabela 13 - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 11**  <a id="REF5" href="#anchor_c3">CONF03</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| **Nº Requisito: 11**  <a id="REF5" href="#anchor_c3">(CONF03)</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. |
 | **Justificativa:** | Ajuda na proteção dos dados do usuário, promovendo uma experiência mais segura e confiável no aplicativo. |
@@ -486,9 +486,9 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Segurança 
+Tabela 14 - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 12**  <a id="REF6" href="#anchor_c4">CONF04</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| **Nº Requisito: 12**  <a id="REF6" href="#anchor_c4">(CONF04)</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
 | ------------------------ | --------- |
 | **Descrição:** | O usuário deve poder alterar os seus dados pessoais caso desejar. |
 | **Justificativa:** | Permitir que o usuário altere seus dados pessoais promove autonomia, controle e conformidade com regulamentações de privacidade, garantindo uma experiência personalizada e transparente reforçando a confiabilidade no aplicativo. |
@@ -505,9 +505,9 @@ Fonte: BARBOSA, maria. 2023.
 
 <center>
 
-Tabela X - Cartão de especificação de Segurança 
+Tabela 15 - Cartão de especificação de Segurança 
 
-| **Nº Requisito: 13**  <a id="REF7" href="#anchor_c5">CONF05</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
+| **Nº Requisito: 13**  <a id="REF7" href="#anchor_c5">(CONF05)</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
 | ------------------------ | --------- |
 | **Descrição:** | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
 | **Justificativa:** | Assegurar a segurança dos dados presentes nos documentos do usuário é crucial para garantir a precisão, autenticidade e integridade das informações, fortalecendo a confiabilidade e a credibilidade do aplicativo. |
