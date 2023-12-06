@@ -49,7 +49,7 @@ Nessa gravação 1, foi passado o resultado da história para os Storytellings s
 
 **Vídeo 1** - Gravação 1.
 
-<iframe width="560" height="315" src="https://youtu.be/4uvRdLP4QOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uvRdLP4QOA?si=wPFM3XSOkA6ncOpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -65,7 +65,7 @@ Nessa gravação 2, foi passado o resultado da história para o Storytelling **"
 
 **Vídeo 2** - Gravação 2.
 
-<iframe width="560" height="315" src="https://youtu.be/H079aM5646o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H079aM5646o?si=jj8EUotgEhx7W8JF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
