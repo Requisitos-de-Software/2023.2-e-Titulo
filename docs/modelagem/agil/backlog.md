@@ -138,7 +138,7 @@ Eu, como usuário, gostaria poder visualizar a autenticidade dos meus documentos
 
 Eu, como usuário, gostaria poder visualizar por meio de notificações, os horários disponíveis para votação.
 
-#### <a id=anchor_57 href="#RF57"> E09 - Etapas de segurança</a> 
+#### <a id=anchor_57 href="#RF57"> E09 - Segurança</a> 
 
 Eu, como usuário, gostaria que meus dados fossem protegidos por etapas de segurança.
 
@@ -198,7 +198,7 @@ Tabela 2: Backlog do produto
     </tr>
     <tr>
         <!-- Épico -->
-        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a ><a id="RF50" href="#anchor_50">E02</a> </a></td>
+        <td rowspan=4 style="vertical-align: middle; text-align: center"> <a ><a id="RF50" href="#anchor_50">E02</a> </a></td>
         <!-- Tema  -->
         <td rowspan=3 style="vertical-align: middle"> Documento </td>
         <!-- Histórias de Usuário (2) -->
@@ -218,7 +218,7 @@ Tabela 2: Backlog do produto
         <td>Alta</td>
         <td><a ><a id=anchor_20 href="#RF19">RF19</a> </td>
     </tr>
-            <tr>
+        <tr>
         <!-- Tema  -->
         <td rowspan=1 style="vertical-align: middle"> Funcionalidade </td>
         <!-- Histórias de Usuário (2) -->
@@ -230,26 +230,20 @@ Tabela 2: Backlog do produto
     </tr>
     <tr>
         <!-- Épico -->
-        <td rowspan=4 style="vertical-align: middle; text-align: center"> <a ><a id="RF51" href="#anchor_51">E03</a> </a></td>
+        <td rowspan=8 style="vertical-align: middle; text-align: center"> <a ><a id="RF51" href="#anchor_51">E03</a> </a></td>
         <!-- Tema  -->
-        <td rowspan=4 style="vertical-align: middle"> Funcionalidade </td>
+        <td rowspan=8 style="vertical-align: middle"> Funcionalidade </td>
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, gostaria de visualizar a localização do meu local de votação no aplicativo.</td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a ><a id=anchor_5 href="#RF04">RF04</a></td>
-    </tr>
-    <tr>
-        <td>Eu, como cidadão, desejo a capacidade de visualizar as rotas da minha localização atual até o meu local de votação pelo aplicativo. </td>
-        <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a > <a id=anchor_13 href="#RF12">RF12</a></td>
+        <td><a ><a id=anchor_5 href="#RF04">RF04</a> <a id=anchor_13 href="#RF12">RF12</a></td>
     </tr>
     <tr>
         <td>Eu, como cidadão, desejo a capacidade de visualizar meu documento do título eleitoral de forma fácil e acessível. </td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a > <a id=anchor_6 href="#RF05">RF05</a> </td>
+        <td><a > <a id=anchor_6 href="#RF05">RF05</a> <a id=anchor_15 href="#RF14">RF14</a> </td>
     </tr>
     <tr>
         <td>Eu, como cidadão, desejo a capacidade de visualizar todos os dados presentes no meu documento de título eleitoral diretamente no aplicativo, proporcionando-me acesso fácil e conveniente às informações relevantes. </td>
@@ -258,50 +252,56 @@ Tabela 2: Backlog do produto
         <td><a ><a id=anchor_12 href="#RF11">RF11</a> </td>
     </tr>
     <tr>
-        <td>Eu, como cidadão, desejo a capacidade de escolher visualizar informações sobre as documentações necessárias pelo aplicativo. </td>
-        <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a ><a id=anchor_15 href="#RF14">RF14</a> </td>
-    <tr>
-    <tr>
         <td>Eu, como cidadão, desejo a capacidade de visualizar a minha situação de quitação eleitoral pelo aplicativo. </td>
         <td><a >--</a></td>
         <td>Alta</td>
         <td><a ><a id=anchor_17 href="#RF16">RF16</a></td>
-    <tr>
+    </tr>
     <tr>
         <td>Eu, como cidadão, desejo a capacidade de visualizar dados referentes ao criminal eleitoral pelo aplicativo, </td>
         <td><a >--</a></td>
         <td>Alta</td>
         <td><a ><a id=anchor_18 href="#RF17">RF17</a> </td>
+    </tr>
     <tr>
+        <td>Eu, como cidadão, desejo a capacidade de visualizar tutoriais a respeito dos meus documentos no aplicativo. </td>
+        <td><a >--</a></td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_30 href="#RF29">RF29</a> </td>
+    </tr>
         <td>Eu, como cidadão, desejo a capacidade de acompanhar a apuração de votos no aplicativo. </td>
         <td><a >--</a></td>
-        <td>Média</td>
-        <td><a >RF21</td>
+        <td>Baixa</td>
+        <td><a ><a id=anchor_32 href="#RF31">RF31</a></td>
     </tr>
     <tr>
         <td>Eu, como cidadão, gostaria de visualizar de forma clara no aplicativo o candidato eleito referente ao ano da votação. </td>
         <td><a >--</a></td>
-        <td>Baixa</td>
-        <td><a >RF22</td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_34 href="#RF33">RF33</a></td>
     </tr>
      <tr>
         <!-- Épico -->
-        <td rowspan=1 style="vertical-align: middle; text-align: center"> <a ><a id="RF52" href="#anchor_52">E04</a> </a></td>
+        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a ><a id="RF52" href="#anchor_52">E04</a> </a></td>
         <!-- Tema  -->
-        <td rowspan=1 style="vertical-align: middle"> Funcionalidade </td>
+        <td rowspan=2 style="vertical-align: middle"> Funcionalidade </td>
         <!-- Histórias de Usuário (2) -->
-        <td>Eu, como cidadão, valorizo a facilidade de encontrar o termo de uso no aplicativo, com explicações claras sobre sua utilidade para evitar mal-entendidos. </td>
+        <td>Eu, como cidadão, valorizo a facilidade de encontrar o termo de uso no aplicativo. </td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a >RF07</td>
+        <td><a ><a id=anchor_35 href="#RF34">RF34</a> </td>
+    </tr>
+    <tr>
+        <td>Eu, como cidadão, desejo a capacidade de concordar ou não com os termos de uso no aplicativo. </td>
+        <td><a >--</a></td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_36 href="#RF35">RF35</a></td>
     </tr>
     <tr>
         <!-- Épico -->
-        <td rowspan=3 style="vertical-align: middle; text-align: center"> <a ><a id="RF53" href="#anchor_53">E05</a> </a></td>
+        <td rowspan=4 style="vertical-align: middle; text-align: center"> <a ><a id="RF53" href="#anchor_53">E05</a> </a></td>
         <!-- Tema  -->
-        <td rowspan=2 style="vertical-align: middle"> Segurança</td>
+        <td rowspan=3 style="vertical-align: middle"> Segurança</td>
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, espero a facilidade de recuperar minha senha no aplicativo quando necessário. </td>
         <td><a >--</a></td>
@@ -314,14 +314,11 @@ Tabela 2: Backlog do produto
         <td>Alta</td>
         <td><a ><a id=anchor_9 href="#RF08">RF08</a> </td>
     </tr>
-     <tr>
-        <!-- Tema  -->
-        <td rowspan=1 style="vertical-align: middle"> Documento </td>
-        <!-- Histórias de Usuário (2) -->
-        <td>Eu, como cidadão, espero a funcionalidade no aplicativo que me permita alterar a foto do documento do título eleitoral, garantindo a atualização de informações visuais.</td>
+    <tr>
+        <td>Eu, como cidadão, desejo a capacidade de alterar a foto do documento do título eleitoral pelo aplicativo.</td>
         <td><a >--</a></td>
-        <td>Baixa</td>
-        <td><a >RF18</td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_24 href="#RF23">RF23</a> </td>
     </tr>
      <tr>
         <!-- Tema  -->
@@ -333,12 +330,6 @@ Tabela 2: Backlog do produto
         <td><a ><a id=anchor_22 href="#RF21">RF21</a> </td>
     </tr>
     <tr>
-        <td>Eu, como cidadão, desejo a capacidade de alterar a foto do documento do título eleitoral pelo aplicativo.</td>
-        <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a ><a id=anchor_24 href="#RF23">RF23</a> </td>
-    </tr>
-    <tr>
         <!-- Épico -->
         <td rowspan=2 style="vertical-align: middle; text-align: center"> <a ><a id="RF54" href="#anchor_54">E06</a> </a></td>
         <!-- Tema  -->
@@ -347,7 +338,7 @@ Tabela 2: Backlog do produto
         <td>Eu, como cidadão, sugiro que o aplicativo permita o acesso apenas a usuários com 16 anos ou mais, considerando sua aptidão para votar. </td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a >RF12</td>
+        <td><a ><a id=anchor_40 href="#RF39">RF39</a></td>
     </tr>
     <tr>
         <!-- Tema  -->
@@ -355,25 +346,28 @@ Tabela 2: Backlog do produto
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, reconheço que o aplicativo requer acesso à internet no dispositivo para seu pleno funcionamento. </td>
         <td><a >--</a></td>
-        <td>Média</td>
-        <td><a >RF13</td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_41 href="#RF40">RF40</a></td>
     </tr>
      <tr>
         <!-- Épico -->
         <td rowspan=3 style="vertical-align: middle; text-align: center"> <a ><a id="RF55" href="#anchor_55">E07</a> </a></td>
         <!-- Tema  -->
-        <td rowspan=2 style="vertical-align: middle"> Documento</td>
+        <td rowspan=1 style="vertical-align: middle"> Funcionalidade</td>
         <!-- Histórias de Usuário (2) -->
-        <td>Eu, como cidadão, espero que o aplicativo me ofereça a possibilidade de realizar a quitação eleitoral de forma fácil e conveniente. </td>
-        <td><a >--</a></td>
-        <td>Média</td>
-        <td><a >RF14</td>
-    </tr>
-    <tr>
         <td>Eu, como cidadão, gostaria de poder informar minha justificativa diretamente no aplicativo, proporcionando uma forma conveniente de cumprir esse procedimento. </td>
         <td><a >--</a></td>
-        <td>Média</td>
-        <td><a >RF17</td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_19 href="#RF18">RF18</a></td>
+    </tr>
+     <tr>
+        <!-- Tema  -->
+        <td rowspan=1 style="vertical-align: middle"> Documento </td>
+        <!-- Histórias de Usuário (2) -->
+        <td>Eu, como cidadão, desejo a capacidade de receber comprovação de meus débitos pelo aplicativo,</td>
+        <td><a >--</a></td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_27 href="#RF26">RF26</a> </td>
     </tr>
      <tr>
         <!-- Tema  -->
@@ -381,37 +375,25 @@ Tabela 2: Backlog do produto
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, desejo que o aplicativo me forneça a visualização das autenticidades dos meus documentos, garantindo transparência e confiança. </td>
         <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a >RF19</td>
+        <td>Média</td>
+        <td><a ><a id=anchor_28 href="#RF27">RF27</a></td>
     </tr>
      <tr>
         <!-- Épico -->
-        <td rowspan=2 style="vertical-align: middle; text-align: center"> <a ><a id="RF56" href="#anchor_56">E08</a> </a>
+        <td rowspan=1 style="vertical-align: middle; text-align: center"> <a ><a id="RF56" href="#anchor_56">E08</a> </a>
         <!-- Tema  -->
-        <td rowspan=2 style="vertical-align: middle"> Funcionalidade</td>
+        <td rowspan=1 style="vertical-align: middle"> Funcionalidade</td>
         <!-- Histórias de Usuário (2) -->
-        <td>Eu, como cidadão, desejo a capacidade de visualizar notificações no aplicativo que me alertem sobre datas cruciais ou informações importantes, proporcionando-me uma maneira eficiente de estar ciente de eventos relevantes. </td>
+        <td>Eu, como cidadão, desejo a capacidade de visualizar notificações no aplicativo que me alertem sobre datas cruciais ou informações importantes.</td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a ><a id=anchor_7 href="#RF06">RF06</a></td>
-    </tr>
-    <tr>
-        <td>Eu, como cidadão, desejo receber notificações sobre atualizações eleitorais pelo aplicativo.</td>
-        <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a ><a id=anchor_25 href="#RF24">RF24</a> </td>
-    </tr>
-    <tr>
-        <td>Eu, como cidadão, desejo que o aplicativo me demonstre lembretes claros sobre a votação e quaisquer mudanças de local.</td>
-        <td><a >--</a></td>
-        <td>Alta</td>
-        <td><a ><a id=anchor_26 href="#RF25">RF25</a></td>
+        <td><a ><a id=anchor_7 href="#RF06">RF06</a> <a id=anchor_25 href="#RF24">RF24</a> <a id=anchor_26 href="#RF25">RF25</a> <a id=anchor_33 href="#RF32">RF32</a> </td>
     </tr>
      <tr>
         <!-- Épico -->
         <td rowspan=3 style="vertical-align: middle; text-align: center"> <a ><a id="RF57" href="#anchor_57">E09</a> </a>
         <!-- Tema  -->
-        <td rowspan=1 style="vertical-align: middle"> Funcionalidade </td>
+        <td rowspan=2 style="vertical-align: middle"> Funcionalidade </td>
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, desejo a presença da opção de sair ou realizar logoff no aplicativo, proporcionando-me o controle sobre a minha sessão e garantindo a segurança das minhas informações. </td>
         <td><a >--</a></td>
@@ -419,19 +401,19 @@ Tabela 2: Backlog do produto
         <td><a ><a id=anchor_8 href="#RF07">RF07</a></td>
     </tr>
     <tr>
-        <!-- Tema  -->
-        <td rowspan=2 style="vertical-align: middle"> Segurança </td>
-        <!-- Histórias de Usuário (2) -->
-        <td>Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas. </td>
+        <td>Eu, como cidadão, valorizo a presença de suporte no aplicativo para me auxiliar em eventuais dúvidas ou problemas, caso eu não entenda alguma coisa de sua utilidade. </td>
         <td><a >--</a></td>
-        <td>Média</td>
-        <td><a >RF16</td>
+        <td>Alta</td>
+        <td><a ><a id=anchor_31 href="#RF30">RF30</a> <a id=anchor_38 href="#RF37">RF37</a> <a id=anchor_39 href="#RF38">RF38</a> <a id=anchor_42 href="#RF41">RF41</a> </td>
     </tr>
     <tr>
+        <!-- Tema  -->
+        <td rowspan=1 style="vertical-align: middle"> Segurança</td>
+        <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, considero crucial que o aplicativo ofereça segurança robusta, protegendo meus dados por meio de etapas de segurança eficazes. </td>
         <td><a >--</a></td>
         <td>Alta</td>
-        <td><a >RF23</td>
+        <td><a ><a id=anchor_45 href="#RF44">RF44</a> <a id=anchor_44 href="#RF43">RF43</a> </td>
     </tr>
     <tr>
         <!-- Épico -->
@@ -442,16 +424,16 @@ Tabela 2: Backlog do produto
         <td>Eu, como cidadão, aprecio a integração do aplicativo com links para o site do TSE e outras funcionalidades externas, ampliando suas capacidades além do seu escopo próprio. </td>
         <td><a >--</a></td>
         <td>Baixa</td>
-        <td><a >RF15</td>
+        <td><a ><a id=anchor_47 href="#RF46">RF46</a> </td>
     </tr>
     <tr>
         <!-- Tema  -->
         <td rowspan=1 style="vertical-align: middle"> Documento </td>
         <!-- Histórias de Usuário (1) -->
-        <td> Eu, como cidadão, prefiro um aplicativo com design intuitivo, que utilize elementos padronizados como botões e menus, proporcionando uma experiência mais fácil e consistente. </td>
-        <td><a ></a></td>
+        <td> Eu, como cidadão, desejo que a navegação no aplicativo seja limpa e intuitiva, sem excesso de informações que possam causar confusão.</td>
+        <td><a >--</a></td>
         <td>Alta</td>
-        <td><a >RF24</td>
+        <td><a ><a id=anchor_46 href="#RF45">RF45</a> </td>
     </tr>
 
 </table>
@@ -479,4 +461,4 @@ Tabela 2: Backlog do produto
 |  `1.1` |  06/11/2023  | Adição de introdução e metodologia | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 |  `1.2` | 06/11/2023  | Adição do resto da documentação | [Esther Sena](https://github.com/esmsena) e  [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques)  |
 | `1.3` | 29/11/2023 |  Correção das tabelas deixando em formato ABNT, mudando objetivo, chamando referencia, corrigindo erros e linkagem e mudando a estrutura da tabela de backlog deixando ela mais compreenssivél. |[Esther Sena](https://github.com/esmsena)| [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
-| `1.4` | 05/12/2023 |  Adição dos requisitos corrigidos, linkagens de REF e Épicos e adicionando os novos requisitos a tabela de backlog, | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.4` | 05/12/2023 |  Adição dos requisitos corrigidos, linkagens de REF e Épicos na tabela de backlog e adicionando os novos requisitos a tabela de backlog, modificando os antigos | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
