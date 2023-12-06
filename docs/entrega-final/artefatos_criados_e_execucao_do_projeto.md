@@ -222,28 +222,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 
 <p style="text-align: justify"></p>
 
-<details>
- <p> Tabela X: Artefatos criados e execução do projeto etapa X.</p>
-  <summary>Etapa Final</summary>
 
-  <p>
-
-  | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-
-  </p>
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
-
-<p style="text-align: justify"></p>
 
 ## Histórico de Versões
 
