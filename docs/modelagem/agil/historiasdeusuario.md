@@ -205,7 +205,7 @@ Tabela 9 - Representação das Histórias de usuário
 | ID     |      US07                                                                  |
 | ------ | -------------------------------------------------------------------------- |
 | Título | documentos |
-| Rastreabilidade |                 INT15, INT16, INTNF9 e INT29                                           |
+| Rastreabilidade |                 INT15, INT16, INTNF3 e INT29                                           |
 | Descrição | Eu, como usuário, gostaria poder visualizar os dados e autenticidade dos meus documentos para conferir se são autenticos.   |
 | Situação Problema | Necessidade em saber se os documentos emitidos e adicionados são realmente autênticos. |
 | Critérios de Aceitação | 1. Os documentos só podem ser emitidos caso o cadastro do usuário esteja completo, com dados verificados. <br /> 2. Os documentos emitidos devem obter um código de autênticidade emitido pelo TSE. <br /> 3. Deve ter essa opção na aba de menu.|
