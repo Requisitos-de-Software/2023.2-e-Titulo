@@ -27,7 +27,7 @@ Tabela 1 - Representação do modelo das Histórias de usuário
 | Status | Se a história foi validada ou não pelo usuário.                       |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
@@ -46,7 +46,7 @@ A seguir está o quadro 1 do miro onde foi feita a dinâmica de histórias de us
 <div style="text-align: center">
 </div>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 ## Entrevista
 
@@ -61,14 +61,14 @@ Tabela 2 - Representação das Funções
 | [João Costa](https://github.com/jvcostta)     | Entrevistador  |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7mb23aTHkQ?si=a2fWPZUzIEMBuf2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 
 - Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
@@ -77,7 +77,7 @@ Tabela 2 - Representação das Funções
 
 ## Histórias de Usuário
 
-### US01
+### US01 - cadastro e login de usuário
 
 Tabela 3 - Representação das Histórias de usuário
 
@@ -91,14 +91,14 @@ Tabela 3 - Representação das Histórias de usuário
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US02
+### US02 - Título de eleitor
 
 Tabela 4 - Representação das Histórias de usuário
 
@@ -112,13 +112,13 @@ Tabela 4 - Representação das Histórias de usuário
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US03
+### US03 - Visualizar candidato eleito
 
 Tabela 5 - Representação das Histórias de usuário
 
@@ -132,13 +132,13 @@ Tabela 5 - Representação das Histórias de usuário
 | Status |  NÃO validada. <br />Explicação do P.O: - Ja vemos esse tipo de informação em emissoras, redes sociais e dia a dia.                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US04
+### US04 - Acessar termo de uso
 
 Tabela 6 - Representação das Histórias de usuário
 
@@ -152,13 +152,13 @@ Tabela 6 - Representação das Histórias de usuário
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US05
+### US05 - Recuperar senha
 
 Tabela 7 - Representação das Histórias de usuário
 
@@ -172,13 +172,13 @@ Tabela 7 - Representação das Histórias de usuário
 | Status |   Validada                                                         |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US06
+### US06 - Restrição abaixo dos 16 anos.
 
 Tabela 8 - Representação das Histórias de usuário
 
@@ -192,13 +192,13 @@ Tabela 8 - Representação das Histórias de usuário
 | Status |    Validada                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US07
+### US07 - Documentos
 
 Tabela 9 - Representação das Histórias de usuário
 
@@ -212,13 +212,13 @@ Tabela 9 - Representação das Histórias de usuário
 | Status |    Validada                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US08
+### US08 - Notificações
 
 Tabela 10 - Representação das Histórias de usuário
 
@@ -232,14 +232,14 @@ Tabela 10 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US09
+### US09 - QR code
 
 Tabela 11 - Representação das Histórias de usuário
 
@@ -253,13 +253,13 @@ Tabela 11 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US10
+### US10 - Locação votação
 
 Tabela 12 - Representação das Histórias de usuário
 
@@ -273,13 +273,13 @@ Tabela 12 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US11
+### US11 - Logoff
 
 Tabela 13 - Representação das Histórias de usuário
 
@@ -293,13 +293,13 @@ Tabela 13 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US12
+### US12 - Alterar dados
 
 Tabela 14 - Representação das Histórias de usuário
 
@@ -313,14 +313,14 @@ Tabela 14 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US13
+### US13 -  Realizar quitação eleitoral
 
 Tabela 15 - Representação das Histórias de usuário
 
@@ -334,14 +334,14 @@ Tabela 15 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US14
+### US14 - Suporte ao usuário
 
 Tabela 16 - Representação das Histórias de usuário
 
@@ -355,14 +355,14 @@ Tabela 16 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US15
+### US15 - Arquivo
 
 Tabela 17 - Representação das Histórias de usuário
 
@@ -375,14 +375,14 @@ Tabela 17 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US16
+### US16 - Justificativa
 
 Tabela 18 - Representação das Histórias de usuário
 
@@ -395,16 +395,16 @@ Tabela 18 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US16
+### US17 - Débitos
 
-Tabela 17 - Representação das Histórias de usuário
+Tabela 19 - Representação das Histórias de usuário
 
 | ID     |      US12                                                                 |
 | ------ | -------------------------------------------------------------------------- |
@@ -415,7 +415,7 @@ Tabela 17 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
