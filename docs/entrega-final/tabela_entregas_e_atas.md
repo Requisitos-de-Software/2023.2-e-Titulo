@@ -65,4 +65,4 @@ Fonte: ORLANDO, Mateus. 2023.
 | Versão |  Data  |   Descrição   |   Autor(es)   |   Revisor(es)  |
 | ------ | ------ | ------------- | ------------- | -------------- |
 | `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Mateus Orlando](https://github.com/MateusPy) |
-| `1.1`  | 06/12/2023  | Criação do documento e estrutura da tabela | [Mateus Orlando](https://github.com/MateusPy)  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.1`  | 06/12/2023  | Preenchimento das tabelas com as informações das reuniões e apresentações. | [Mateus Orlando](https://github.com/MateusPy)  | [Maria Barbosa](https://github.com/Madu01) |
