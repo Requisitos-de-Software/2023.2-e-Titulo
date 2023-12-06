@@ -105,15 +105,15 @@ A Tabela 2 contém a priorização dos requisitos elicitados utilizando a técni
 | [ENTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | Baixa |
 | [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | Alta |
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
+Fonte: SIQUEIRA, Mariiana e MARQUES, Maria Eduarda.
 
 ## Gravação da técnica Three Level Scale
 
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/urmH87KvPnM)
 
-<iframe width="560" height="315" src="https://youtu.be/urmH87KvPnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urmH87KvPnM?si=qoleHEUXHfW9yiGT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques).</p></font>
+<font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana e MARQUES, Maria Eduarda.</p></font>
 
 ## Bibliografia
 
@@ -131,5 +131,4 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria E
 | `1.1`  | 04/10/2023  | Finalizando o documento | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.2`  | 17/10/2023  | correção | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 17/10/2023  | correções pós inspeção, adicionando nova gravação e tabela em markdown | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
-
-
+| `1.5`  | 05/12/2023  | Ajuste nas fontes das tabelas e link do vídeo | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |

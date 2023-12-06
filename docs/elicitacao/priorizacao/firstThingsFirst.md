@@ -103,7 +103,7 @@ Na Tabela 1 estão registrados todos os requisitos elicitados durante o processo
 | <a id=anchor_47 href="#RF46">RF46</a> | Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele | [ENTNF4](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) |
 | <a id=anchor_48 href="#RF47">RF47</a> | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) |
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
+Fonte: Fonte: SIQUEIRA, Mariiana e MARQUES, Maria Eduarda. 2023.
 
 ## Resultados
 
@@ -162,8 +162,7 @@ Tabela 2: Priorização de requisitos utilizando a técnica First Things First.
  | <a id="RF47" href="#anchor_48">RF47</a> | 9 | 8 | 26 | 2,83% | 3	|3,09%	|4	|3,08%	|0,46|  
  | **Total** | 332 | 255 | 919 | 100% | 97 |100%	|130	|100%	|31,08|
 
-Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques). 2023.
-
+Fonte: Fonte: SIQUEIRA, Mariiana e MARQUES, Maria Eduarda. 2023.
 
 ## Gravação da técnica First Things First
 
@@ -173,7 +172,7 @@ Para a elaboração desta técnica, foram feitas duas gravações. A primeira, p
   
 **Vídeo 1** - elaboração da técnica com o cliente.
   
-<iframe width="560" height="315" src="https://youtu.be/A-0zXLsl0Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-0zXLsl0Mw?si=9MHxu1ojL78opd6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques).</p></font>
 
@@ -184,7 +183,7 @@ Para a elaboração desta técnica, foram feitas duas gravações. A primeira, p
   
 <iframe width="560" height="315" src="https://youtu.be/3XISq-vDI6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) e [MARQUES, Maria Eduarda](https://github.com/EduardaSMarques).</p></font>
+<font size="3"><p style="text-align: center">Fonte: SIQUEIRA, Mariiana e MARQUES, Maria Eduarda.</p></font>
 
 
 ## Bibliografia
@@ -205,3 +204,4 @@ Para a elaboração desta técnica, foram feitas duas gravações. A primeira, p
 | `1.3`  | 01/12/2023  | Adição dos novos requisitos elicitados | [Maria Marques ](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 02/12/2023  | Adição na tabela dos resultados obtidos com a persona  | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
 | `1.5`  | 03/12/2023  | Add o resultado com o desenvolvedor e add os vídeos da técnica | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
+| `1.6`  | 05/12/2023  | Ajuste nas fontes das tabelas e link do vídeo | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) e [Maria Barbosa](https://github.com/Madu01) |
