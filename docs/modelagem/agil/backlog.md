@@ -350,7 +350,7 @@ Tabela 2: Backlog do produto
         <td rowspan=1 style="vertical-align: middle"> Segurança </td>
         <!-- Histórias de Usuário (2) -->
         <td>Eu, como cidadão, desejo que o aplicativo me forneça a visualização das autenticidades dos meus documentos, garantindo transparência e confiança. </td>
-        <td><a >02</a></td>
+        <td><a >US07</a></td>
         <td>Média</td>
         <td><a ><a id="RF27" href="#anchor_28">RF27</a> </td>
     </tr>
