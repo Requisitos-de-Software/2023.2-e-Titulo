@@ -2,7 +2,11 @@
 
 ## Introdução
 
+No projeto da matéria Requisitos de Software, o grupo 4 realizou diversas atividades, para se obter requisitos do aplicativo e-Título. Durante esse tempo foram feitas 6 etapas com entregas que se iniciou desde a escolha do aplicativo até a validação dos protótipos. Esse artefato busca falar a motivação e objetivo, resultado, facilidade e dificuldade encontradas pelo grupo 4.
+
 ## Motivação e Objetivo
+
+Observando que 
 
 ## Objetivo do Projeto
 
