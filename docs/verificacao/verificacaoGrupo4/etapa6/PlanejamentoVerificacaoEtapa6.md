@@ -120,7 +120,7 @@ Fonte: Maria Barbosa, 2023.
 | B6 |  Os tipos de elos utilizados são: Satisfação, Recurso, Responsabilidade, Representação, Alocação e Agregação? <a id=anchor_231110048 href="#REF2">[2]</a> |   |   |
 | B7 |  Existe legendas para ajudar na leitura do artefato? |  |  |
 | B8 |  A Legenda está de acordo com os símbolos presentes no artefato? |   |  |
-| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_1 href="#REF1">[1]</a> |  |  |
+| B9 |  Os elos informam a Categoria, Elementos Rastreáveis e o tipo de Elo? <a id=anchor_1 href="#REF1">[2]</a> |  |  |
 
 Fonte: Maria Barbosa, 2023.
 
@@ -169,13 +169,20 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
-## Referência Bibliográfica
+
+## Referência Bibliográfica do backward-from
 
 > <a id="REF1" href="#anchor_1">[1]</a> LOPES, Pedro. RAISE - UM METAMODELO DE INFORMAÇÃO DE RASTREABILIDADE Backward From. Disponível em: https://repositorio.ufmg.br/bitstream/1843/SLSS-8HTLX6/1/pedrolopesrochalealjr.pdf. Acesso em: 24 Novembro. 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> SERRANO, Milene e SERRANO, Maurício. Slide Requisitos. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 24 Novembro. 2023.
 
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa6.md
+  
+## Referência Bibliográfica matriz
+
 > <a id="REF3" href="#anchor_3">[3]</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
 ## Histórico de Versões
 
@@ -186,5 +193,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 | `1.2`  | 24/11/2023 | Adicionando o checklist e Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.3`  | 25/11/2023 | Atualizando participantes da etapa, Objetos de Verificação e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.4`  | 25/11/2023 | Criando tabela matriz, adicionando o checklist e acrescentado referência bibliográficas e bibliografia da tabela matriz. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.5`  | 03/11/2023 | Alterando os itens do cheklist de backward-from e colocando link para referência de imagens em Referência Bibliográfica do backward-from | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
+| `1.6`  | 04/12/2023 | colocando link para as imagens de referência das tabela de matriz. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
 
 

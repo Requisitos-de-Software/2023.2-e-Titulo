@@ -134,9 +134,9 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?|  |  |
-| EA2 | O artefato possui o Termo de Uso? |  |  |
-| EA3 | O artefato disponibiliza o link para o Termo de Uso? |  |  |
+| EA1 | O artefato possui a Motivação e os Critérios para a escolha do App?<a id="REF49" href="#anchor_49">49</a>|  |  |
+| EA2 | O artefato possui o Termo de Uso?<a id="REF49" href="#anchor_49">49</a> |  |  |
+| EA3 | O artefato disponibiliza o link para o Termo de Uso?<a id="REF49" href="#anchor_49">49</a> |  |  |
 | EA4 | O artefato mostra se o aplicativo é do governo ou de código aberto? <a id=anchor_39 href="#REF39">[39]</a> |  |  |
 | EA5 | O artefato explica aplicativo se os usuários do app são acessíveis para o projeto ? <a id=anchor_34 href="#REF34">[34]</a> |  |  |
 
@@ -151,7 +151,7 @@ Fonte: [Maria Marques](https://github.com/EduardaSMarques) , 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| CM1 | Existe o cronograma planejado e executado no projeto? |  |  |
+| CM1 | Existe o cronograma planejado e o cronograma executado no projeto? |  |  |
 | CM2 | O cronograma de planejamento possue um cronograma geral? |  |  |
 | CM3 | O cronograma geral presente no artefato de cronograma de planejamento contém na tabela as seguintes informações: **Número da identificação da entrega, nome da atividade, a descrição dessa atividade e o período de entrega e da apresentação**? |  |  |
 | CM4 | O cronograma de planejamento e de executado possuem todas as atividades de todas as etapas, especeficando de forma detalhadamente, ou seja, possuindo atividades que não necessáriamente são artefatos do cronograma geral? |  |  |
@@ -196,12 +196,12 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? |  |  |
 | F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? <a id="REF54" href="#anchor_54">54</a> |  |  |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de vídeos? |  |  |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
-| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
-| F10 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
-| F11 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
+| F4 | Foi escolhida uma ferramenta adequada para reuniões? <a id="REF54" href="#anchor_54">54</a> |  |  |
+| F5 | Foi escolhida uma ferramenta adequada para criação do questionário? |  |  |
+| F6 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F7 | Foi escolhida uma ferramenta adequada para criação de diagramas? <a id="REF51" href="#anchor_51">51</a> |  |  |
+| F8 | Foi escolhida uma ferramenta adequada para gerar um site estático? |  |  |
+| F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
 
 
 Fonte: [João Costa.](https://github.com/jvcostta), 2023.
@@ -214,14 +214,14 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| RP1 | O artefato possui a ferramenta utilizada? |  |  |
-| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? |  |  |
-| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes? |  |  |
-| RP4 | O artefato uma legenda de explicação dos componentes? |  |  |
-| RP5 | A legenda fornece informações suficientes para entender os elementos visuais? |  |  |
-| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo? |  |  |
+| RP1 | O artefato possui a ferramenta utilizada?<a id="REF81" href="#anchor_81">81</a> |  |  |
+| RP2 | O artefato possui os 5 componentes necessários para um Rich Picture, sendo eles atores, operações, dados, fluxo e limite? <a id="REF81" href="#anchor_81">81</a>|  |  |
+| RP3 | Os elementos visuais (atores, fluxo, dados, etc.) são compreensíveis e consistentes?<a id="REF81" href="#anchor_81">81</a> |  ||
+| RP4 | O artefato uma legenda de explicação dos componentes? <a id="REF81" href="#anchor_81">81</a>|  |  |
+| RP5 | A legenda fornece informações suficientes para entender os elementos visuais?<a id="REF81" href="#anchor_81">81</a> |  |  |
+| RP6 | O Rich Picture foi projetado levando em consideração o conhecimento e o contexto do público-alvo?<a id="REF81" href="#anchor_81">81</a> |  |  |
 
-Fonte: SIQUEIRA, Mariiana. 2023.
+Fonte: MARQUES, Maria. 2023.
 
 ## Bibliografia
 
@@ -229,19 +229,28 @@ Fonte: SIQUEIRA, Mariiana. 2023.
 S
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
+### Referência Bibliográfica do cronograma
+
+> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa1.md
+
 ## Referência Bibliográfica 
+
+> <a id="REF81" href="#anchor_81">[81].</a> SIQUEIRA, Mariiana. 2023.2-e-Título. Verificação grupo + 1 - RichPicture. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/. Acesso em: 03 de dezembro de 2023.
+
+> > <a id="REF49" href="#anchor_49">[49].</a> SENA, Esther. 2023.2-e-Título. Verificação grupo + 1 - EscolhaDoAplicativo. Disponível em:https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/. Acesso em: 03 de dezembro de 2023.
 
 > <a id=anchor_39 href="#REF39">[39]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
 > <a id=anchor_34 href="#REF34">[34]</a> SALES, André. Requisitos de Software - Informações do projeto Parte , 2021. Disponível em: https://www.youtube.com/watch?v=kDkasvAZtRY. Acesso em: 24/11/2023.
 
-> <a id="REF1" href="#anchor_11">[1]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
 
 > <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
 
 > <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
 
-> <a id="anchor_53" href="#REF53">53.</a>2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
+> <a id="anchor_53" href="#REF53">53.2023.1-Grasshopper. GitHub Pages. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/analise-de-requisitos/verificacao/modelo-padrao/. Acesso em: 24 de novembro de 2023.
 
 > <a id="anchor_54" href="#REF54">54.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-grupo6/planejamento/ferramentas/. Acesso em: 24 de novembro de 2023.
 
@@ -255,6 +264,6 @@ S
 | `1.1`  | 21/11/2023 | Refazendo o checklist do cronograma. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.2 `  | 24/11/2023 | Acrescentado mais tópicos ao checklist do app escolhido. | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
-
+| `1.5`  | 03/11/2023 | Alterando os itens do cronograma e colocando link para referência de imagens em Referência Bibliográfica do cronograma | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
 
 

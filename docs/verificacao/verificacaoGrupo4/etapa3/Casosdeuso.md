@@ -9,8 +9,8 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| G1  | O artefato possui Introdução? | Sim | Não possui o tópico, mas há o tópico de "conceito" que faz a introdução |
-| G2  | O artefato possui Objetivo? | Sim | Não possui o tópico, mas o objetivo está distribuido em "conceito" e "metodologia |
+| G1  | O artefato possui Introdução? | Incompleto | Não possui o tópico, mas há o tópico de "conceito" que faz a introdução. Fora da padronização da metodologia. |
+| G2  | O artefato possui Objetivo? | Incompleto | Não possui o tópico, mas o objetivo está distribuido em "conceito" e "metodologia". Fora da padronização da metodologia. |
 | G3  | O artefato possui uma metodologia definida? | Sim | -- |
 | G4  | O artefato contém bibliográfia/referência seguindo as normas da ABNT? | Sim | -- |
 | G5  | O artefato possui o histórico de versões contendo a Versão, Data, Descrição, Autor(es) e Revisor(es)? | Sim | -- |
@@ -25,7 +25,7 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | C7 | Os casos de uso possuem especificações? | Sim | -- |
 | C8 | Os casos de uso possuem rastreabilidade? | Sim | -- |
 | C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? | Sim | -- |
-| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | Não | -- |
+| C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | Não | Descrição logo abaixo |
 
 **Tabela 1** - Checklist para os Itens dos casos de uso.
 
@@ -34,7 +34,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 </center>
 
 ## Conclusão/Sugestões
-Artefato bem desenvolvido, estruturado e referenciado. Poderia apenas por as tabelas na norma ABNT adicionando data. Poderia tambem adicionar uma explicação sobre as comunicações e relações do sistema.
+Artefato bem desenvolvido, estruturado e referenciado. Poderia por as tabelas na norma ABNT adicionando data, adicionar uma explicação sobre as comunicações e relações do sistema e por fim deixar a estrutura padronizada, com "introdução", "objetivo" e "metodologia".
 
 ## Bibliografia
 
@@ -51,3 +51,4 @@ Artefato bem desenvolvido, estruturado e referenciado. Poderia apenas por as tab
 |--------|------------|:-----------------------------|---------------|-------------|
 | 1.0    | 24/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
 | 1.1    | 25/11/2023 | preenchendo tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |
+| 1.2    | 28/11/2023 | Ajustando tabela |  [João Costa](https://github.com/jvcostta)   |  [Mateus Orlando](https://github.com/MateusPy) |

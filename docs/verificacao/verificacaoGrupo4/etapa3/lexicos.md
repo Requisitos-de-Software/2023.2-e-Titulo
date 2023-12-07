@@ -43,20 +43,6 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 </center>
 
-<center>
-
-**Vídeo 1** - Vídeo da inspeção.
-
-
-<iframe width="560" height="315" src="https://youtu.be/k6jzMemoMNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Fonte: [SENA, Esther](https://github.com/esmsena).  e [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) 2023.
-
- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/k6jzMemoMNY)
-
-
-
-</center>
 
 ## Sugestões e melhorias
 

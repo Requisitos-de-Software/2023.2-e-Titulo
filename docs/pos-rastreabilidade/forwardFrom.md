@@ -53,7 +53,10 @@ bom entendimento dos tópicos abaixo:
   | UC | Casos de Uso |
   | US | Histórias de usuário |
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+
   
 </center>
 
@@ -72,7 +75,13 @@ Tabela 2
 | Casos de Uso          | UC          |
 | Funcionalidade        | Representação em imagem/video + Implementado/ Não implementado      |
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+</center>
+
+A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
+
 
 </center>
 
@@ -121,13 +130,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C01</a></td>
       </tr>
       <tr>
+
         <td>Funcionalidade</td><td>Implementado</td>
         <td><img src=../imgs/cadastro.jpg></td>
+
       </tr>
     </tbody>
   </table>
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -183,7 +195,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -239,7 +253,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -292,7 +308,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -353,6 +371,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
+
 </details>
 
 <details>
@@ -401,14 +420,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
+
         <td>"https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" </td>
+
       </tr>
     </tbody>
   </table>
 
 
   <p>Fonte Protótipo: SENA, Esther Martins - Figma, 2023.</td>
+
   <p>Fonte tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -466,6 +489,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
+
 </details>
 
 <details>
@@ -516,7 +540,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -570,7 +596,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -622,7 +650,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -672,7 +702,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -727,7 +759,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -778,7 +812,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -832,12 +868,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary> RF15 - Download da justificativa no app</summary>
+
 <p>Tabela 17: Requisito funcional 15.</p>
   <table>
     <thead>
@@ -882,7 +922,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -928,12 +970,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementada</td>
+
         <td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design </td>
+
       </tr>
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -984,7 +1030,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1035,7 +1083,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1086,8 +1136,10 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
+
   <td>Fonte Prototipação: João Víctor COSTA Andrade, Figma -2023</td>
   <p>Fonte Tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1133,14 +1185,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
+
          <td>"https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"
+
         <td></td>
       </tr>
     </tbody>
   </table>
 
   <p>Fonte Prototipação: MARQUES, Maria Eduarda - Figma, 2023.</p>
+
   <p>Fonte Tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1187,7 +1243,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
+
          	<td>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing"</td>
+
         <td>
   </td>
       </tr>
@@ -1196,7 +1254,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 
   <p>Fonte Prototipação: Maria Barbosa - Figma, 2023.</p> 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1243,14 +1303,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
+
         <td>"https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link"</td>
+
       </tr>
     </tbody>
   </table>
 
 
   <p>Fonte Prototipação: NERIS, Mariiana Siqueira - Figma, 2023.</p>
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1267,7 +1331,9 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão da
 | Especificação Suplementar   | USAB, CONF, DES, SUP ou FIS |
 | NFR   Framework             | NFR      |
 
+
 <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 ### Legenda
 
@@ -1289,8 +1355,10 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão da
 
 A seguir será apresentado os requisitos não funcionais presentes nas tabelas 30 a 48.
 
+
 <details>
   <summary>RNF01 - O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. </summary>
+
 <p>Tabela 30: Requisito não funcional 01.</p>
   <table>
     <thead>
@@ -1312,12 +1380,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
+
   <table>
     <thead>
       <tr>
@@ -1338,12 +1410,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
+
   <table>
     <thead>
       <tr>
@@ -1364,12 +1440,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF04 - O aplicativo deve ser confiável para o usuário. </summary>
+
 <p>Tabela 33: Requisito não funcional 04.</p>
   <table>
     <thead>
@@ -1391,12 +1471,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF05 - Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet.</summary>
+
 <p>Tabela 34: Requisito não funcional 05.</p>
   <table>
     <thead>
@@ -1418,12 +1502,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF06 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.</summary>
+
 <p>Tabela 35: Requisito não funcional 06.</p>
   <table>
     <thead>
@@ -1445,12 +1533,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
+
   <table>
     <thead>
       <tr>
@@ -1471,12 +1563,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
+
   <table>
     <thead>
       <tr>
@@ -1497,12 +1593,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF09 - Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele.</summary>
+
 <p>Tabela 38: Requisito não funcional 09.</p>
   <table>
     <thead>
@@ -1524,12 +1624,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+
 
 </details>
 
-<details>
+
   <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
+
 <p>Tabela 39: Requisito não funcional 10.</p>
   <table>
     <thead>
@@ -1553,10 +1657,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
+
 </details>
 
 <details>
+
   <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
+
   <table>
     <thead>
       <tr>
@@ -1571,19 +1678,24 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
+
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF12 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.</summary>
 <p>Tabela 41: Requisito não funcional 12.</p>
+
   <table>
     <thead>
       <tr>
@@ -1604,13 +1716,17 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
+
   <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
 <p>Tabela 41: Requisito não funcional 13.</p>
+
   <table>
     <thead>
       <tr>
@@ -1631,12 +1747,14 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
+
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
 </details>
 
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 ## Bibliografia e Referências
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
@@ -1659,4 +1777,3 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 | `1.4`  | 30/11/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.5`  | 01/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.5`  | 04/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
-

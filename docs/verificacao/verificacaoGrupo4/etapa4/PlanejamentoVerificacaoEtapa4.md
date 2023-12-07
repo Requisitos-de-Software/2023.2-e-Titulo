@@ -115,13 +115,13 @@ Fonte: Maria Barbosa, 2023.
 | H2 | As histórias possuem um ID? <a id=anchor_1 href="#REF1">[1]</a>  | | |
 | H3 | Os títulos das histórias de usuário são auto-explicativos? <a id=anchor_2 href="#REF2">[2]</a> | | |
 | H4 | Para validar as histórias foi utilizado o próprio usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? | | |
+| H5 | O artefato possui a ferramenta utilizada para validação da história de usuário com o usuário? <a id=anchor_3 href="#REF3">[3]</a>  | | |
 | H6 | Existe o vídeo da reunião da validação com esse usuário do e-Título? <a id=anchor_1 href="#REF1">[1]</a>  | | |
 | H7 | É informado as funções a respeito dos participante? (Ex.: Product Owner = Fulano) <a id=anchor_1 href="#REF1">[1]</a> | | |
 | H8 | Existe a utilização do "quem", "o que" e o "por que" na história de usuário? <a id=anchor_1 href="#REF1">[1]</a> | | |
-| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) | | |
+| H9 | O nome do documento possui nomeclatura de acordo com padrão definido? (Eu, como ___, gostaria ___ para ___) <a id=anchor_3 href="#REF3">[3]</a>  | | |
 | H10 | Todas as histórias de usuários podem ser testadas? <a id=anchor_2 href="#REF2">[2]</a> | | |
-| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? | | |
+| H11 | As histórias de usuário abrangem variedade de requisitos (alta prioridade, média prioridade e baixa prioridade)? <a id=anchor_3 href="#REF3">[3]</a> | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
@@ -133,12 +133,12 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| BL1 | No artefato há a participação do cliente para a validação do backlog? |  |  |
-| BL2 | O artefato possui épicos e temas bem definidos e descritos? |  |  |
-| BL3 | No artefato os itens do backlog estão priorizados com base em critérios claros? |  |  |
-| BL4 | No artefato há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
+| BL1 | No Backlog há a participação do cliente e/ou persona na elicitação de requisitos? <a  id=anchor_5 href="#REF4">[5]</a> |  |  |
+| BL2 | O Backlog possui épicos e temas bem definidos e descritos? <a  id=anchor_5 href="#REF4">[5]</a>  |  |  |
+| BL3 | No Backlog os itens do backlog estão priorizados com base em critérios claros? |  |  |
+| BL4 | No Backlog há uma rastreabilidade clara entre os itens do backlog e os requisitos? |  |  |
 | BL5 | Os épicos do backlog têm um tamanho adequado (nem muito grandes nem muito pequenos)? <a  id=anchor_4 href="#REF4">[4]</a> |  |  |
-| BL6 | Existe a linkagem para o artefato de histórias de usuário? |  |  |
+| BL6 | Existe a linkagem para o artefato de histórias de usuário? <a  id=anchor_5 href="#REF4">[5]</a>  |  |  |
 | BL7 | Os Épicos e História de Usuário estão de acordo com o tema relacionado a eles? |  |  |
 
 Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
@@ -151,20 +151,18 @@ Fonte: SIQUEIRA, Mariiana; BARBOSA, Maria. 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? | | |
-| NF3 | O artefato possui cartão de especificação do RNF? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF4 | Os softgoals condizem com o contexto? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_3 href="#REF3">[3]</a> | | |
-| NF8 | O histórico de versões está padronizado? | | |
+| NF1 | A definição do RNF e as fontes de evidência na literatura? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF2 | No artefato possui uma legendas explicando os símbolos utilizados? <a id=anchor_6 href="#REF6">[6]</a> | | |
+| NF3 | O artefato possui cartão de especificação do RNF? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF4 | Os softgoals condizem com o contexto? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF5 | Estabelece uma ligação com o documento Especificação Suplementar? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF6 | Os cartões de especificação representam requisitos não-funcionais verificáveis? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF7 | Foram feitos SIG's com e sem propagação de impacto? <a id=anchor_5 href="#REF5">[5]</a> | | |
+| NF8 | O histórico de versões está padronizado? <a id=anchor_6 href="#REF6">[6]</a>  | | |
 
 Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 </center>
-
-
 
 ## Bibliografia
 
@@ -174,15 +172,29 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 
 > SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 12 de novembro de 2023.
 
-## Referência Bibliográfica
+## Referências de Histórias de Usuário
 
 > <a id="REF1" href="#anchor_1">[1]</a> BARBOSA, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de Histórias de usuário. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/historiasUsuario.md. Acesso em: 24 nov, 2023.
 
 > <a id="REF2" href="#anchor_2">[2]</a> BARROS, André - Requisitos de software. Plano de ensino. Entrega 4. Disponível em: https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf. Acesso em 13 de novembro de 2023.
 
-> <a id="REF3" href="#anchor_3">[3]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
+> <a id="REF3" href="#anchor_3">[3]</a> Referência baseada em aulas na sala de aula.
+
+* Para visualizar as imagens de referências do artefato acesse aqui:  https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
+
+## Referência Bibliográfica do Backlog
 
 > <a id="REF4" href="#anchor_4">[4]</a> BRBMobilidade. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-BRBMobilidade/Verifica%C3%A7%C3%A3o/grupo%20%2B%201/entrega%2002/Perfildeusuario/#perfil-de-usuario. Acesso em: 23 de novembro de 2023.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md
+
+## Referências de NFR Framework
+
+> <a id="REF5" href="#anchor_5">[5]</a> MARQUES, Maria. 2023.2-e-Título. Verificação grupo + 1 - Checklist de NFR Framework. Disponível em: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework.md. Acesso em: 24 nov, 2023.
+
+> <a id="REF6" href="#anchor_6">[6]</a> Referência baseada em aulas na sala de aula.
+
+- Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa4.md   
 
 ## Histórico de Versões
 
@@ -190,3 +202,5 @@ Fonte: [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza). 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) e alterando informações referentes ao grupo 5 para o grupo 4. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
+| `1.2`  | 25/11/2023 | Adicionando itens na tabela de histórias de usuário e NFR Framework e acrescentando referências bibliográficas e bibliografia das tabelas. | [Mariiana Siqueira](https://github.com/Maryyscreuza) |  [Maria Marques](https://github.com/EduardaSMarques) |
+| `1.3`  | 03/11/2023 | Alterando os itens do cheklist de Backlog e colocando link para referência de imagens em Referência Bibliográfica do Backlog | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
