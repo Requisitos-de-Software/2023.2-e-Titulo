@@ -56,10 +56,10 @@ nav:
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/lexico
-  - Modelagem Ágil:
-    - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
-    - Backlog: modelagem/agil/backlog.md
-    - NFR Framework: modelagem/agil/nfr.md
+    - Modelagem Ágil:
+      - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
+      - Backlog: modelagem/agil/backlog.md
+      - NFR Framework: modelagem/agil/nfr.md
   - Verificação:
     - Referências:
       - Etapa 1: verificacao/referenciasVerificacao/referenciasEtapa1.md
