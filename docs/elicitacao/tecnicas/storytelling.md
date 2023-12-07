@@ -43,11 +43,13 @@ No Vídeo 1, contém duas histórias e consequentemente resultou em dois Storyte
 
 Nessa gravação 1, foi passado o resultado da história para os Storytellings seguintes: **"Primeira votação"** e **"Em busca da aprovação do emprego"**. 
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/4uvRdLP4QOA).
+
 <center>
 
 **Vídeo 1** - Gravação 1.
 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/4uvRdLP4QOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -57,11 +59,13 @@ Fonte: BARBOSA, Maria. 2023.
 
 Nessa gravação 2, foi passado o resultado da história para o Storytelling **"Período das votações"**. 
 
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/H079aM5646o).
+
 <center>
 
 **Vídeo 2** - Gravação 2.
 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/H079aM5646o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -134,4 +138,4 @@ Fonte: Autoria própria, 2023.
 | 1.1 | 03/09/2023 | Adicionando Motivação e Objetivo | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
 | 1.2 | 04/09/2023 | Adicionando conteúdos nos tópicos metodologia, Storytelling e requisitos | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
 | 1.3 | 19/11/2023 | mudando o ID de requisitos não-funcionais | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Esther Sena](https://github.com/esmsena) | 
-| 1.4 | 30/11/2023 | Correção em metodologia, adicionando videos e alterando os Storytellings |  [João Costa ](https://github.com/jvcostta)  |
+| 1.4 | 30/11/2023 | Correção em metodologia, adicionando videos e alterando os Storytellings |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |

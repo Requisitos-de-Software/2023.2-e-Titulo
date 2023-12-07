@@ -364,9 +364,9 @@ Fonte: BARBOSA, Maria. 2023.
 
 | Versão | Data       | Descrição                               | Autor(es)   | Revisor(es) |
 | ------ | ---------- | --------------------------------------- | ----------- | ----------- |
-| 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | Mateus Orlando e João Victor Costa |
-| 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | Mateus Orlando e João Victor Costa |
-| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) e João Victor Costa |
-| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  |  [João Costa ](https://github.com/jvcostta)  |
+| 1.0 | 26/09/2023 | Motagenm de estrutura com os tópicos a serem abordados durante a documentação| [Esther Sena](https://github.com/esmsena) | [Mateus Orlando](https://github.com/MateusPy) e [João Costa ](https://github.com/jvcostta) |
+| 1.1 | 01/10/2023 | Adicionando perguntas e roteiro | [Esther Sena](https://github.com/esmsena) | [Mateus Orlando](https://github.com/MateusPy) e [João Costa ](https://github.com/jvcostta) |
+| 1.2 | 02/10/2023 | alteração em perguntas, adicionando conteúdo nos tópicos introdução, Metodologia, Roteiro da entrevista e Dados Demográficos  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) e [João Costa ](https://github.com/jvcostta) |
+| 1.3 | 03/10/2023 | Adicionando resposta do entrevistado 2 | [Esther Sena](https://github.com/esmsena) | [Mateus Orlando](https://github.com/MateusPy) e [João Costa ](https://github.com/jvcostta) |
+| 1.4 | 03/10/2023 | Adicionando resposta da entrevista 1 e o conteúdo nos tópicos de Requisitos elicitados (funcionais e não funcionais) e Motivação e Objetivo   | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) e [João Costa ](https://github.com/jvcostta) |
+| 1.5 | 29/11/2023 | Correção em fontes das tabelas e nos vídeos, colocando uma alternativa de linkagem para o vídeo e a norma ABNT nele  | [Maria Barbosa](https://github.com/Madu01) | [João Costa ](https://github.com/jvcostta)  |
