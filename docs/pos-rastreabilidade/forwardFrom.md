@@ -1306,7 +1306,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 
 ## Requisitos Não funcionais
-A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 29:
+A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 25:
 
 <p>Tabela 25: Modelo para os requisitos não funcionais.</p>
 
@@ -1371,16 +1371,11 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-<<<<<<< HEAD
 
   <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</summary>
 
-<p>Tabela 31: Requisito não funcional 02.</p>
-=======
-  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
-
 <p>Tabela 27: Requisito não funcional 02.</p>
->>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
+
   <table>
     <thead>
       <tr>
@@ -1412,12 +1407,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários.  </summary>
 
-<p>Tabela 32: Requisito não funcional 03.</p>
-=======
-  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
-
-  <p>Tabela 28: Requisito não funcional 03.</p>
->>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
+<p>Tabela 28: Requisito não funcional 03.</p>
   <table>
     <thead>
       <tr>
