@@ -1231,7 +1231,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
-         	<td><a href="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing">Clique aqui</a></td>
+         	<td><a href="https://youtu.be/44QXphzjPKU">Clique aqui</a></td>
         <td>
   </td>
       </tr>
@@ -1306,7 +1306,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 
 ## Requisitos Não funcionais
-A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 29:
+A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 25:
 
 <p>Tabela 25: Modelo para os requisitos não funcionais.</p>
 
@@ -1371,7 +1371,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
+  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</summary>
 
 <p>Tabela 27: Requisito não funcional 02.</p>
   <table>
@@ -1401,9 +1401,10 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
 
-  <p>Tabela 28: Requisito não funcional 03.</p>
+  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários.  </summary>
+
+<p>Tabela 28: Requisito não funcional 03.</p>
   <table>
     <thead>
       <tr>
@@ -1520,10 +1521,18 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 </details>
 
+
 <details>
+<<<<<<< HEAD
+
+  <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</summary>
+
+<p>Tabela 37: Requisito não funcional 08.</p>
+=======
   <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
 
 <p>Tabela 32: Requisito não funcional 07.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1547,13 +1556,19 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
-
 </details>
 
 <details>
+<<<<<<< HEAD
+
+  <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</summary>
+
+<p>Tabela 37: Requisito não funcional 08.</p>
+=======
   <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
 
 <p>Tabela 33: Requisito não funcional 08.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1576,7 +1591,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
-
 
 </details>
 
@@ -1607,12 +1621,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
-
-
 </details>
-  <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
+<<<<<<< HEAD
 
-<p>Tabela 39: Requisito não funcional 10.</p>
+<details>
+
+=======
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
+  <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
+<p>Tabela 39: Requisito não funcional 12.</p>
+
   <table>
     <thead>
       <tr>
@@ -1627,11 +1645,12 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
     </tbody>
   </table>
+
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
@@ -1639,7 +1658,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
+<<<<<<< HEAD
+
+  <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</summary>
+<p>Tabela 40: Requisito não funcional 12.</p>
+=======
   <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
 
   <table>
     <thead>
@@ -1655,7 +1680,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
@@ -1700,7 +1724,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 <details>
   <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
-<p>Tabela 41: Requisito não funcional 13.</p>
+<p>Tabela 42: Requisito não funcional 13.</p>
 
   <table>
     <thead>
