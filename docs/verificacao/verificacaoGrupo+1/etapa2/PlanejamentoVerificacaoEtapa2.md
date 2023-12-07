@@ -218,8 +218,7 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 **Tabela 2** - Checklist para os Itens da Introspecção.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
-
+Fonte: COSTA, João 2023.
 </center>
 
 ### Checklist de Questionário
@@ -243,7 +242,7 @@ Fonte: [João Costa.](https://github.com/jvcostta)
 
 **Tabela 2** - Checklist para os Itens do Questionário.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 

@@ -51,7 +51,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? | Sim | -- |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? | Sim | -- |
 
-Fonte: [João Victor](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 </center>
 

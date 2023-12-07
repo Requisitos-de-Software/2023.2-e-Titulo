@@ -9,7 +9,7 @@ São usadas para comunicar necessidades do cliente e funcionalidades desejadas �
 
 ## Metodologia
 
-A elaboração das histórias de usuário foi baseada na técnica de priorização [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/threeLevelScale/), pegando assim os requisitos de alta prioridade (exceto a US03) para elaborar de forma mais concisa e acertiva, as histórias de usuário. Além disso, elas vão seguir o seguinte modelo estrutural:
+A elaboração das histórias de usuário foi baseada na técnica de priorização [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/threeLevelScale/), pegando assim os requisitos de alta prioridade para elaborar de forma mais concisa e acertiva, as histórias de usuário. Além disso, elas vão seguir o seguinte modelo estrutural:
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
@@ -27,7 +27,7 @@ Tabela 1 - Representação do modelo das Histórias de usuário
 | Status | Se a história foi validada ou não pelo usuário.                       |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
@@ -46,7 +46,7 @@ A seguir está o quadro 1 do miro onde foi feita a dinâmica de histórias de us
 <div style="text-align: center">
 </div>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 ## Entrevista
 
@@ -61,14 +61,14 @@ Tabela 2 - Representação das Funções
 | [João Costa](https://github.com/jvcostta)     | Entrevistador  |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7mb23aTHkQ?si=a2fWPZUzIEMBuf2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 
 - Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
@@ -77,88 +77,88 @@ Tabela 2 - Representação das Funções
 
 ## Histórias de Usuário
 
-### US01
+### US01 - cadastro e login de usuário
 
 Tabela 3 - Representação das Histórias de usuário
 
 | ID     |      US01                                                                  |
 | ------ | -------------------------------------------------------------------------- |
 | Título | cadastro e login de usuário |
-| Rastreabilidade |  BS1 e BS2                                                        |
-| Descrição |  Eu, como cidadão, gostaria de realizar o cadastro e login de usuáio para usar no app.    |
+| Rastreabilidade |  BS1, BS2 e INT2                                                         |
+| Descrição |  Eu, como cidadão, gostaria de realizar o cadastro de usuáio e biometria para realizar login por senha ou biometria no app.    |
 | Situação Problema |   Possibilidade de acessar minha conta e prosseguir com as tarefas.                      |
 | Critérios de Aceitação | 1. Deve ter um botão para cadastro e outro para login <br /> 2. Deve ser possível cadastrar na aplicação apenas se os campos “Nome do eleitor”, “Data de nascimento”, “Número de inscrição (título de eleitor)”, “Nome da mãe” e “Nome do pai” forem válidos. <br /> 3. Deve ser possível fazer o login apenas se os campos de usuário e senha forem válidos. <br /> 4. Só deve ser possível se a versão do dispositivo for compatível com a aplicação
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
 
-### US02
+### US02 - Título de eleitor
 
 Tabela 4 - Representação das Histórias de usuário
 
 | ID     |      US02                                                                   |
 | ------ | --------------------------------------------------------------------------- |
-| Título | emitir título. |
-| Rastreabilidade |                 BS3                                                |
-| Descrição |    Eu, como cidadão, gostaria de realizar a emissão do meu título de eleitor no apicativo para apresentar-me apto a votar.   |
+| Título | Título de eleitor. |
+| Rastreabilidade |       INT5, INT9, INT11 e INT24                                                 |
+| Descrição |    Eu, como cidadão, gostaria de ter acesso ao meu título de eleitor no apicativo para visualizar o título, os dados, fazer download e alterar foto.   |
 | Situação Problema |   Burocracia com impressão de papeis e esquecimento do documento no dia da eleição. |
 | Critérios de Aceitação |   1. Deve ser possivel emitir o título apenas se o usuário estiver com todos os documentos adicionados no aplicativo já autênticados. <br /> 2. Deve ser possivel emitir o título apenas se o usuário estiver com a quitação eleitoral em dias. <br /> 3. Deve ter essa opção na aba de menu.   |
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US03
+### US03 - Visualizar candidato eleito
 
 Tabela 5 - Representação das Histórias de usuário
 
 | ID     |      US03                                                                   |
 | ------ | --------------------------------------------------------------------------- |
 | Título | visualizar candidato eleito |
-| Rastreabilidade |                 ENT9                                               |
-| Descrição |  Eu, como cidadão, gostaria de visualizar o candidato eleito referente ao ano da votação para manter-me informado.       |
+| Rastreabilidade |                 ENT5, ENT9 e INTNF2                                              |
+| Descrição |  Eu, como cidadão, gostaria de visualizar o candidato eleito com transparencias em suas informações, incluindo criminal eleitora, referente ao ano da votação para manter-me informado.       |
 | Situação Problema |  Dificuldade do cidadão de acessar a informação.                      |
 | Critérios de Aceitação |  1. Deve ser possivel visualizar o candidato eleito apenas após a finalização das votações e resultado das eleições (consultado através do site TSE). <br /> 2. Deve ter essa opção na aba de menu.|
 | Status |  NÃO validada. <br />Explicação do P.O: - Ja vemos esse tipo de informação em emissoras, redes sociais e dia a dia.                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US04
+### US04 - Acessar termo de uso
 
 Tabela 6 - Representação das Histórias de usuário
 
 | ID     |      US04                                                                  |
 | ------ | -------------------------------------------------------------------------- |
 | Título | acessar termo de uso |
-| Rastreabilidade |                 ENTFNF1                                           |
-| Descrição |  Eu, como usuário, gostaria de acessar o termo de uso de forma fácil para leitura do mesmo.|
+| Rastreabilidade |                 BS7 e BS8                                           |
+| Descrição |  Eu, como usuário, gostaria de acessar e concordar com o termo de uso de forma fácil para leitura do mesmo.|
 | Situação Problema | Dificuldade do usuário de entender as condições de uso, principalmente relacionados a segurança das informações privadas. |
 | Critérios de Aceitação | 1. O termo de uso estará disponível na aplicação na página de conclusão na realização do cadastro. <br />2. o termo deve está disponível dentro da aplicação em qualquer situação que o usuário se encontre. <br /> 3. Deve ter essa opção na aba de menu.  |
 | Status |  Validada                                                          |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US05
+### US05 - Recuperar senha
 
 Tabela 7 - Representação das Histórias de usuário
 
@@ -172,13 +172,13 @@ Tabela 7 - Representação das Histórias de usuário
 | Status |   Validada                                                         |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US06
+### US06 - Restrição abaixo dos 16 anos.
 
 Tabela 8 - Representação das Histórias de usuário
 
@@ -192,95 +192,94 @@ Tabela 8 - Representação das Histórias de usuário
 | Status |    Validada                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US07
+### US07 - Documentos
 
 Tabela 9 - Representação das Histórias de usuário
 
 | ID     |      US07                                                                  |
 | ------ | -------------------------------------------------------------------------- |
-| Título | autenticidade de documentos |
-| Rastreabilidade |                 INTNF9                                            |
-| Descrição | Eu, como usuário, gostaria poder visualizar a autenticidade dos meus documentos para conferir se são autenticos.   |
+| Título | documentos |
+| Rastreabilidade |                 INT15, INT16, INTNF3 e INT29                                           |
+| Descrição | Eu, como usuário, gostaria poder visualizar os dados e autenticidade dos meus documentos para conferir se são autenticos.   |
 | Situação Problema | Necessidade em saber se os documentos emitidos e adicionados são realmente autênticos. |
 | Critérios de Aceitação | 1. Os documentos só podem ser emitidos caso o cadastro do usuário esteja completo, com dados verificados. <br /> 2. Os documentos emitidos devem obter um código de autênticidade emitido pelo TSE. <br /> 3. Deve ter essa opção na aba de menu.|
 | Status |    Validada                                   |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US08
+### US08 - Notificações
 
 Tabela 10 - Representação das Histórias de usuário
 
 | ID     |      US08                                                                  |
 | ------ | -------------------------------------------------------------------------- |
 | Título | notificações |
-| Rastreabilidade |                 ENT7                                              |
-| Descrição | Eu, como usuário, gostaria poder visualizar por meio de notificações, os horários disponíveis para votação para progamar-me no dia da votação. |
+| Rastreabilidade |                 INT6, INT26, INT27 e ENT7                                              |
+| Descrição | Eu, como usuário, gostaria poder ser notificado sobre alertas de datas, atualizações eleitorais e horário de votação, pelo app para me manter informado e progamar-me no dia da votação. |
 | Situação Problema | Dificuldade do cidadão em saber os horários de votação das instituiçôes, que podem mudar devido imprevistos. |
 | Critérios de Aceitação | 1. As notificações começam aparecer 1 semana antes do início das votações. <br /> 2. Os horários disponíveis devem aparecer em relação a localização do usuário, mostrando os horários das regiões de votação mais próximas (com endereço). <br /> 3. Deve notificar o usuário após o login.  |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-<center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US09
+### US09 - QR code
 
 Tabela 11 - Representação das Histórias de usuário
 
 | ID     |      US09                                                                 |
 | ------ | -------------------------------------------------------------------------- |
 | Título | QR code |
-| Rastreabilidade |                 BS4                                              |
+| Rastreabilidade |                 INT30                                              |
 | Descrição | Eu, como usuário, gostaria poder visualizar por meio do app, o QR code para a leitura do meu título. |
 | Situação Problema | Leitura feita por um humano sugeita a erros. |
 | Critérios de Aceitação | 1. O QR code deve ser gerado automaticamente após o usuário concluir o cadastro com sucesso. <br /> 2. O QR code deve aparecer na tela inicial após login.  |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US10
+### US10 - Locação votação
 
 Tabela 12 - Representação das Histórias de usuário
 
 | ID     |      US10                                                                |
 | ------ | -------------------------------------------------------------------------- |
 | Título | Local de votação|
-| Rastreabilidade |                 BS6                                              |
-| Descrição | Eu, como usuário, gostaria poder visualizar por meio do app, o local de votação para planejar meu dia de votação melhor. |
+| Rastreabilidade |                 ST1, INT13, INT14 e QSTNF1                                             |
+| Descrição | Eu, como usuário, gostaria poder visualizar por meio do app, o local de votação para planejar o local de partida e ver as rotas para o local de votação. |
 | Situação Problema | Ter que pesquisar os locais de votação disponiveis. |
 | Critérios de Aceitação | 1. O app deve fornecer um mapa da região onde o usuário se encontra. <br /> 2. ao clicar em uma instituição de votação o app fornece um trajeto como sugestão para o usuário.  |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US11
+### US11 - Logoff
 
 Tabela 13 - Representação das Histórias de usuário
 
@@ -294,97 +293,132 @@ Tabela 13 - Representação das Histórias de usuário
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US12
+### US12 - Alterar dados
 
 Tabela 14 - Representação das Histórias de usuário
 
 | ID     |      US12                                                                 |
 | ------ | -------------------------------------------------------------------------- |
 | Título | Alterar dados |
-| Rastreabilidade |                 INT8                                              |
-| Descrição | Eu, como usuário, gostaria poder alterar meus dados cadastrais para mudar algum dado que cadastrei errado. |
+| Rastreabilidade |                 INT8 e INT21                                            |
+| Descrição | Eu, como usuário, gostaria poder alterar e apagar meus dados pessoais e cadastrais para mudar algum dado que cadastrei errado. |
 | Situação Problema | digitar algum dado errado. |
 | Critérios de Aceitação | 1. Deve haver um botão que permite alterar os dados cadastrais. <br /> 2. ao finalizar as alterações o app deve emitir um banner pedindo para que o usuário confira os dados novamente para ter certeza. |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-<center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US13
+### US13 -  Realizar quitação eleitoral
 
 Tabela 15 - Representação das Histórias de usuário
 
 | ID     |      US13                                                                 |
 | ------ | -------------------------------------------------------------------------- |
 | Título | Realizar quitação eleitoral |
-| Rastreabilidade |                 ENT4                                             |
+| Rastreabilidade |                 ENT5                                             |
 | Descrição | Eu, como usuário, gostaria poder realizar a quitação eleitoral para ficar apto a votar. |
 | Situação Problema | Ter que se deslocar para realizar quitação eleitoral |
 | Critérios de Aceitação | 1. Deve haver um botão que permite realizar quitação eleitoral. <br /> 2. Só deve ser possível se os cados cadastrais estiverem todos corretos. |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-<center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US14
+### US14 - Suporte ao usuário
 
 Tabela 16 - Representação das Histórias de usuário
 
 | ID     |      US14                                                                 |
 | ------ | -------------------------------------------------------------------------- |
 | Título | Suporte ao usuário |
-| Rastreabilidade |                 ENT5                                              |
-| Descrição | Eu, como usuário, gostaria poder receber suporte do app para situação em que me encontre com dúvidas. |
+| Rastreabilidade |                 BS12, BS14, INT31 e INT32, INTNF1                                              |
+| Descrição | Eu, como usuário, gostaria poder receber suporte do app, incluindo tutoriais, para situação em que eu me encontre com dúvidas. |
 | Situação Problema | duvidas sobre o app. |
 | Critérios de Aceitação | 1. Deve haver um botão que permite entrar em contato com o suporte. <br /> 2. Deve abrir um banner sugerindo acessar a área de perguntas frequentes. |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-<center style="max-width: 500px; margin: auto; align-items: center;">
 
-### US15
+### US15 - Arquivo
 
 Tabela 17 - Representação das Histórias de usuário
 
-| ID     |      US12                                                                 |
+| ID     |      US15                                                                 |
 | ------ | -------------------------------------------------------------------------- |
-| Título | Apuração de votos |
-| Rastreabilidade |                 ENT8                                              |
-| Descrição | Eu, como usuário, gostaria poder acompanhar a apuração de votos para que eu fique informado de qualquer lugar em que eu consiga acessar o aplicativo. |
-| Situação Problema | Acompanhamento pelas emissoras de TV. |
-| Critérios de Aceitação | 1. Deve haver um botão que permite acessar e acompanhar a apuração. <br /> 2. Deve informar qual candidato está ganhando e ocm quantos %. |
+| Título | Arquivo |
+| Rastreabilidade |                 INT10 e INT20                                             |
+| Descrição | Eu, como usuário, gostaria poder escolher o formato do arquivo quando fizer o download, para selecionar entre pdf ou doc. |
+| Critérios de Aceitação | 1.Deve haver um botão de download. <br /> 2.Após clicar no botão de download deve ter as opções de pdf ou doc como escolha . |
 | Status |  Validada                                    |
 
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa e </a><a href="https://github.com/MateusPy">Mateus Orlando</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
 
 </center>
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
+
+
+### US16 - Justificativa
+
+Tabela 18 - Representação das Histórias de usuário
+
+| ID     |      US16                                                                 |
+| ------ | -------------------------------------------------------------------------- |
+| Título | Justificativa  |
+| Rastreabilidade |                 INT19                                            |
+| Descrição | Eu, como usuário, gostaria poder informar minha justificativa diretamente no aplicativo, para proporcionar uma forma conveniente de cumprir esse procedimento. |
+| Critérios de Aceitação | 1.Deve haver um botão de acesso a área de justificativa . <br /> 2.Deve haver um pequeno texto falando sobre o processo de justificativa. |
+| Status |  Validada                                    |
+
+
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
+
+</center>
+
+<center style="max-width: 500px; margin: auto; align-items: center;">
+
+
+### US17 - Débitos
+
+Tabela 19 - Representação das Histórias de usuário
+
+| ID     |      US12                                                                 |
+| ------ | -------------------------------------------------------------------------- |
+| Título | Débitos  |
+| Rastreabilidade |                 INT28                                             |
+| Descrição | Eu, como usuário, gostaria poder ter a capacidade de receber comprovação de meus débitos pelo aplicativo para quita-los. |
+| Critérios de Aceitação | 1.Deve haver um botão de acesso a área de Débitos . <br /> 2.Deve haver um pequeno texto falando sobre o processo de débitos, incluindo como quita-los. |
+| Status |  Validada                                    |
+
+
+<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
+
+</center>
+
 
 
 ## Bibliografia
@@ -402,7 +436,7 @@ Tabela 17 - Representação das Histórias de usuário
 | `1.1`    | 02/11/2023 | Início das Histórias de Usuário | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | `1.2`    | 03/11/2023 | Finalizando Histórias de Usuário | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | `1.3`    | 06/11/2023 | Adicionando videos e links | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| `1.3`    | 06/11/2023 | Adicionando videos e links | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| `1.4`    | 30/11/2023 | corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-
+| `1.4`    | 06/11/2023 | Adicionando videos e links | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| `1.5`    | 30/11/2023 | corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| `1.6`    | 06/12/2023 | corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 

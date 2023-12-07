@@ -181,8 +181,7 @@ Fonte: Maria Barbosa, 2023.
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? |  |  |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |  |  |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
-
+Fonte: COSTA, João 2023.
 </center>
 
 ### Checklist da Verificação das Ferramentas
@@ -204,7 +203,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 | F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 </center>
 
@@ -265,5 +264,6 @@ S
 | `1.2 `  | 24/11/2023 | Acrescentado mais tópicos ao checklist do app escolhido. | [Maria Marques ](https://github.com/EduardaSMarques) | [Maria Barbosa](https://github.com/Madu01) |
 | `1.4`  | 25/11/2023 | Atualizando participantes da etapa e o cronograma das Atividades. | [Maria Barbosa](https://github.com/Madu01) |  [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.5`  | 03/11/2023 | Alterando os itens do cronograma e colocando link para referência de imagens em Referência Bibliográfica do cronograma | [Maria Barbosa](https://github.com/Madu01) |  [Mateus Orlando](https://github.com/MateusPy) |
+| `1.6`    | /11/2023 | adicionando | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 
 

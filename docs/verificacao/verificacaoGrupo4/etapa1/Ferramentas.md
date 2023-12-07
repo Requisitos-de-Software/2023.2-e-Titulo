@@ -30,7 +30,7 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | -- |
 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 </center>
 
