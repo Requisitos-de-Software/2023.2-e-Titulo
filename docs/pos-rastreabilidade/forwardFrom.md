@@ -80,10 +80,6 @@ Tabela 2
 
 </center>
 
-A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
-
-
-</center>
 
 A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
 
@@ -1312,7 +1308,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 ## Requisitos Não funcionais
 A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 29:
 
-<p>Tabela 29: Modelo para os requisitos não funcionais.</p>
+<p>Tabela 25: Modelo para os requisitos não funcionais.</p>
 
 | Tópico                | Referência |
 | :--                   | :--        |
@@ -1347,7 +1343,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 <details>
   <summary>RNF01 - O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. </summary>
 
-<p>Tabela 30: Requisito não funcional 01.</p>
+<p>Tabela 26: Requisito não funcional 01.</p>
   <table>
     <thead>
       <tr>
@@ -1375,9 +1371,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
 
+<p>Tabela 27: Requisito não funcional 02.</p>
   <table>
     <thead>
       <tr>
@@ -1405,9 +1401,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
 
+  <p>Tabela 28: Requisito não funcional 03.</p>
   <table>
     <thead>
       <tr>
@@ -1435,10 +1431,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF04 - O aplicativo deve ser confiável para o usuário. </summary>
 
-<p>Tabela 33: Requisito não funcional 04.</p>
+<p>Tabela 29: Requisito não funcional 04.</p>
   <table>
     <thead>
       <tr>
@@ -1466,10 +1461,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF05 - Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet.</summary>
 
-<p>Tabela 34: Requisito não funcional 05.</p>
+<p>Tabela 30: Requisito não funcional 05.</p>
   <table>
     <thead>
       <tr>
@@ -1497,10 +1491,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF06 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.</summary>
 
-<p>Tabela 35: Requisito não funcional 06.</p>
+<p>Tabela 31: Requisito não funcional 06.</p>
   <table>
     <thead>
       <tr>
@@ -1528,9 +1521,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
 
+<p>Tabela 32: Requisito não funcional 07.</p>
   <table>
     <thead>
       <tr>
@@ -1558,9 +1551,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
 
+<p>Tabela 33: Requisito não funcional 08.</p>
   <table>
     <thead>
       <tr>
@@ -1588,7 +1581,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF09 - Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele.</summary>
 
 <p>Tabela 38: Requisito não funcional 09.</p>
@@ -1618,8 +1610,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 
 </details>
-
-
   <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
 
 <p>Tabela 39: Requisito não funcional 10.</p>
@@ -1649,7 +1639,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
 
   <table>
@@ -1680,7 +1669,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF12 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.</summary>
 <p>Tabela 41: Requisito não funcional 12.</p>
 
@@ -1711,7 +1699,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
 <p>Tabela 41: Requisito não funcional 13.</p>
 
@@ -1745,13 +1732,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 ## Bibliografia e Referências
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
+> 2023.1-SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
 
-> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
+> 2023.2-POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
 
-> Ana, Beatriz e Kauã. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/. Acesso em: 16 nov. 2023.
+> 2023.3-Ana, Beatriz e Kauã. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/. Acesso em: 16 nov. 2023.
 
-> Bosi, Rafael. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from. Acesso em: 17 nov. 2023.
+> 2023.4-Bosi, Rafael. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from. Acesso em: 17 nov. 2023.
 
 
 ## Histório de Versão
