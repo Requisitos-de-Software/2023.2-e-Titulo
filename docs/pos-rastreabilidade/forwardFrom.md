@@ -133,7 +133,6 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
         <td>Funcionalidade</td><td>Implementado</td>
         <td><img src=../imgs/cadastro.jpg></td>
-
       </tr>
     </tbody>
   </table>
@@ -1388,8 +1387,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 <details>
 
-  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
+  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</summary>
 
+<p>Tabela 31: Requisito não funcional 02.</p>
   <table>
     <thead>
       <tr>
@@ -1418,8 +1418,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 <details>
 
-  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
+  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários.  </summary>
 
+<p>Tabela 32: Requisito não funcional 03.</p>
   <table>
     <thead>
       <tr>
@@ -1539,10 +1540,12 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 </details>
 
+
 <details>
 
-  <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
+  <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</summary>
 
+<p>Tabela 37: Requisito não funcional 08.</p>
   <table>
     <thead>
       <tr>
@@ -1566,13 +1569,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
-
 </details>
 
 <details>
 
-  <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
+  <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</summary>
 
+<p>Tabela 37: Requisito não funcional 08.</p>
   <table>
     <thead>
       <tr>
@@ -1595,7 +1598,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
-
 
 </details>
 
@@ -1627,14 +1629,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
-
-
 </details>
 
+<details>
 
   <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
+<p>Tabela 39: Requisito não funcional 12.</p>
 
-<p>Tabela 39: Requisito não funcional 10.</p>
   <table>
     <thead>
       <tr>
@@ -1649,11 +1650,12 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
     </tbody>
   </table>
+
 
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
@@ -1662,7 +1664,8 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 <details>
 
-  <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
+  <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</summary>
+<p>Tabela 40: Requisito não funcional 12.</p>
 
   <table>
     <thead>
@@ -1678,7 +1681,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
@@ -1725,7 +1727,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 <details>
 
   <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
-<p>Tabela 41: Requisito não funcional 13.</p>
+<p>Tabela 42: Requisito não funcional 13.</p>
 
   <table>
     <thead>
