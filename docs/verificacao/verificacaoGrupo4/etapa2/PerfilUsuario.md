@@ -20,7 +20,7 @@ No Vídeo 1, demonstra a inspeção no artefato do Perfil do Usuário, realizado
 
 **Vídeo 1** - Vídeo da inspeção em pares.
 
-<iframe width="560" height="315" src="https://youtu.be/EHCf1ixrfyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHCf1ixrfyE?si=qQciFFoGUjAfRvZj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: Maria Barbosa e Maria Marques, 2023.
 

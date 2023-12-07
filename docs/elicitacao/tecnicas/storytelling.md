@@ -49,7 +49,7 @@ Nessa gravação 1, foi passado o resultado da história para os Storytellings s
 
 **Vídeo 1** - Gravação 1.
 
-<iframe width="560" height="315" src="https://youtu.be/4uvRdLP4QOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4uvRdLP4QOA?si=wPFM3XSOkA6ncOpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -65,7 +65,7 @@ Nessa gravação 2, foi passado o resultado da história para o Storytelling **"
 
 **Vídeo 2** - Gravação 2.
 
-<iframe width="560" height="315" src="https://youtu.be/H079aM5646o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H079aM5646o?si=jj8EUotgEhx7W8JF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria. 2023.
 
@@ -99,6 +99,8 @@ Sou a Maria Valdina e nunca passei por uma história fora do comum ao usar o apl
 
 ### Requisitos Funcionais
 
+<center>
+
 Tabela 1 - Requisitos Funcionais
 
 |  ID  |  Descrição  | Código | Implementado |  
@@ -109,10 +111,13 @@ Tabela 1 - Requisitos Funcionais
 |  ST4 | eu como usuário, quero poder visualizar as notificação de datas e horários das votações |  RF4 | sim |
 |  ST5 | eu como usuário, gostaria de realizar a quitação eleitoral |  RF5 | Sim |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
 
+</center>
 
 ### Requisitos Não-Funcionais
+
+<center>
 
 Tabela 2 - Requisitos Não Funcionais
 
@@ -121,7 +126,9 @@ Tabela 2 - Requisitos Não Funcionais
 | STNF1 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário | RNF1 | Sim |
 | STNF2 | O aplicativo deve trazer a segurança para os usuários com etapas de verificações | RNF2 | Sim |
 
-Fonte: Autoria própria, 2023.
+Fonte: BARBOSA, Maria. 2023.
+
+</center>
 
 ## Bibliografia
 

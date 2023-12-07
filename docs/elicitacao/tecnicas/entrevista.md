@@ -282,7 +282,7 @@ Conforme foi abordado no termo de consentimento, A tabela 4 demonstra os dados d
 
 **Vídeo 1** - Entrevista 1.
 
-<iframe width="560" height="315" src="https://youtu.be/Plv7-4JBWgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Plv7-4JBWgo?si=DtsD5E-3hA-w_EjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
@@ -296,7 +296,7 @@ Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 
 **Vídeo 2** - Entrevista 2.
 
-<iframe width="560" height="315" src="https://youtu.be/WXOG8QaRswY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WXOG8QaRswY?si=BwLlk7s6SH93FqZy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: BARBOSA, Maria; SENA, Esther. 2023.
 

@@ -22,7 +22,7 @@ Sobre as funções para a reunião, o participante irá resolver as atividades p
 
 Imagem 1 - Apresentação do miro
 
-![imagem_miro](../../../docs/assets/imgMiro.png)
+![imagem_miro](../../../docs/elicitacao/imgs/imgMiro.png)
 
 <div style="text-align: center">
 <p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
