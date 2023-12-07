@@ -130,10 +130,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C01</a></td>
       </tr>
       <tr>
-
         <td>Funcionalidade</td><td>Implementado</td>
         <td><img src=../imgs/cadastro.jpg></td>
-
       </tr>
     </tbody>
   </table>
@@ -420,9 +418,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-        <td>"https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" </td>
-
+        <td><a href="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk">Clique aqui</a></td>
       </tr>
     </tbody>
   </table>
@@ -970,9 +966,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementada</td>
-
-        <td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design </td>
-
+        <!--<td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design</td> -->
       </tr>
     </tbody>
   </table>
@@ -1185,9 +1179,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-         <td>"https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"
-
+         <td><a href="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view">Clique aqui</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1243,9 +1235,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
-
-         	<td>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing"</td>
-
+         	<td><a href="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing">Clique aqui</a></td>
         <td>
   </td>
       </tr>
@@ -1776,4 +1766,5 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 | `1.3`  | 20/11/2023 | Concertando rotas das imagens e dos protótipos | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.4`  | 30/11/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.5`  | 01/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
-| `1.5`  | 04/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.6`  | 04/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.7`  | 06/12/2023 | Corrigindo erros de linkagem de prototipo | [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |

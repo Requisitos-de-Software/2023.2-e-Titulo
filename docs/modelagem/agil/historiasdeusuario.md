@@ -67,11 +67,9 @@ Tabela 2 - Representação das Funções
 
 <center style="max-width: 500px; margin: auto; align-items: center;">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7mb23aTHkQ?si=a2fWPZUzIEMBuf2x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQaGBCykqTM?si=oqZp7iprVDeCnkBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/Q7mb23aTHkQ?si=DYe2QTmMCXfWrvCK)
+- Caso não consiga assistir dentro da gitPages [Clique aqui](https://www.youtube.com/embed/aQaGBCykqTM?si=oqZp7iprVDeCnkBg)
 
 
 
@@ -85,7 +83,7 @@ Tabela 3 - Representação das Histórias de usuário
 | ------ | -------------------------------------------------------------------------- |
 | Título | cadastro e login de usuário |
 | Rastreabilidade |  BS1, BS2 e INT2                                                         |
-| Descrição |  Eu, como cidadão, gostaria de realizar o cadastro de usuáio e biometria para realizar login por senha ou biometria no app.    |
+| Descrição |  Eu, como usuário, gostaria de realizar o cadastro de usuáio e biometria para realizar login por senha ou biometria no app.    |
 | Situação Problema |   Possibilidade de acessar minha conta e prosseguir com as tarefas.                      |
 | Critérios de Aceitação | 1. Deve ter um botão para cadastro e outro para login <br /> 2. Deve ser possível cadastrar na aplicação apenas se os campos “Nome do eleitor”, “Data de nascimento”, “Número de inscrição (título de eleitor)”, “Nome da mãe” e “Nome do pai” forem válidos. <br /> 3. Deve ser possível fazer o login apenas se os campos de usuário e senha forem válidos. <br /> 4. Só deve ser possível se a versão do dispositivo for compatível com a aplicação
 | Status |  Validada                                                          |
@@ -106,7 +104,7 @@ Tabela 4 - Representação das Histórias de usuário
 | ------ | --------------------------------------------------------------------------- |
 | Título | Título de eleitor. |
 | Rastreabilidade |       INT5, INT9, INT11 e INT24                                                 |
-| Descrição |    Eu, como cidadão, gostaria de ter acesso ao meu título de eleitor no apicativo para visualizar o título, os dados, fazer download e alterar foto.   |
+| Descrição |    Eu, como usuário, gostaria de ter acesso ao meu título de eleitor no apicativo para visualizar o título, os dados, fazer download e alterar foto.   |
 | Situação Problema |   Burocracia com impressão de papeis e esquecimento do documento no dia da eleição. |
 | Critérios de Aceitação |   1. Deve ser possivel emitir o título apenas se o usuário estiver com todos os documentos adicionados no aplicativo já autênticados. <br /> 2. Deve ser possivel emitir o título apenas se o usuário estiver com a quitação eleitoral em dias. <br /> 3. Deve ter essa opção na aba de menu.   |
 | Status |  Validada                                                          |
@@ -126,10 +124,10 @@ Tabela 5 - Representação das Histórias de usuário
 | ------ | --------------------------------------------------------------------------- |
 | Título | visualizar candidato eleito |
 | Rastreabilidade |                 ENT5, ENT9 e INTNF2                                              |
-| Descrição |  Eu, como cidadão, gostaria de visualizar o candidato eleito com transparencias em suas informações, incluindo criminal eleitora, referente ao ano da votação para manter-me informado.       |
+| Descrição |  Eu, como usuário, gostaria de visualizar o candidato eleito com transparencias em suas informações, incluindo criminal eleitora, referente ao ano da votação para manter-me informado.       |
 | Situação Problema |  Dificuldade do cidadão de acessar a informação.                      |
 | Critérios de Aceitação |  1. Deve ser possivel visualizar o candidato eleito apenas após a finalização das votações e resultado das eleições (consultado através do site TSE). <br /> 2. Deve ter essa opção na aba de menu.|
-| Status |  NÃO validada. <br />Explicação do P.O: - Ja vemos esse tipo de informação em emissoras, redes sociais e dia a dia.                                   |
+| Status |  Validada.                                 |
 
 
 <font size="2"><p style="text-align: center"><b>Fonte: Costa, João e Orlando, Mateus 2023</b></p></font>
@@ -439,4 +437,7 @@ Tabela 19 - Representação das Histórias de usuário
 | `1.4`    | 06/11/2023 | Adicionando videos e links | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | `1.5`    | 30/11/2023 | corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
 | `1.6`    | 06/12/2023 | corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy) e [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| `1.7`    | 07/12/2023 | mudando link da entrevista | [João Costa](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+
+
 
