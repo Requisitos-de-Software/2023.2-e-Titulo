@@ -36,7 +36,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 **Tabela 1** - Checklist para os Itens do Questionário.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 

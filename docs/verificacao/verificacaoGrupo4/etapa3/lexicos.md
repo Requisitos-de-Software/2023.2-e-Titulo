@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato verifica os léxicos utilizdas pelo grupo 4, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main), para a disciplina, apresentando um Checklist da Verificação dessas Personas indicando sugestões e melhorias. 
+Este artefato verifica os [léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/) utilizdas pelo grupo 4, para a descrição de termos expecíficos que envolvem o aplicativo escolhido [e-Titulo](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/tree/main), para a disciplina, apresentando um Checklist da Verificação e indicando sugestões e melhorias. 
 
 ## Metodologia
 
@@ -39,22 +39,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | L10 | O artefato mostram os léxicos relacionados entre si? | Incompleto | Descrição abaixo |
 | L11 | No artefato os léxicos estão relacionados alfabeticamente? | Não | Descrição abaixo |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-</center>
-
-<center>
-
-**Vídeo 1** - Vídeo da inspeção.
-
-
-<iframe width="560" height="315" src="https://youtu.be/k6jzMemoMNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Fonte: [SENA, Esther](https://github.com/esmsena).  e [SIQUEIRA, Mariiana](https://github.com/Maryyscreuza) 2023.
-
- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/k6jzMemoMNY)
-
-
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -65,6 +50,18 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 - L9 - O histórico de versão não esta seguindo o padrão conforme planejado para o projeto, sendo utilizado "0.1", "0.2",... ao invés de "1,0" "1.1", ...  
 - L10 - Seria interessante adicionar uma linkagem entre os léxicos relacionados.
 - L11 - Seria interessante realocar os léxicos de forma alfabética.
+
+## Vídeo da inspeção
+
+Abaixo está presente a gravação do vídeo de Léxicos feito em dupla por [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza).
+
+Vídeo 1 - link do vídeo para a inspeção em dupla sobre Léxicos.
+
+- Caso não consiga assistir dentro do gitPages, [Clique aqui](https://youtu.be/k6jzMemoMNY?si=tNJRn5Cv7ZkzyWdV).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6jzMemoMNY?si=GpU_mQd7XhfDmMhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: SENA, Esther. e SIQUEIRA, Mariiana. </p></font>
 
 ## Bibliografia
 
@@ -80,6 +77,6 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
-| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) |  |
-| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, retirando o tópico modelo, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) |  |
-| `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) |  |
+| `1.0`  | 21/11/2023 | Adicionando a cópia da estrutura com o conteúdo já realizados pelos integrantes do grupo 4 referente a verificação do grupo+1 (grupo 5) | [Maria Barbosa](https://github.com/Madu01) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.1`  | 23/11/2023 | Alterando informações referentes ao grupo 5 para o grupo 4, retirando o tópico modelo, além de apagar os resultados da inspeção anterior e adicionar o local para o vídeo. |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |
+| `1.2`  | 23/11/2023 | Adicionando respostas do checklist de inspeção, e adicionando sugestões |  [Esther Sena](https://github.com/esmsena) | [Maria Barbosa](https://github.com/Madu01) |

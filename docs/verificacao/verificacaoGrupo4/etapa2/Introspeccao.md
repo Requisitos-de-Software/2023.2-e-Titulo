@@ -26,7 +26,7 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 **Tabela 1** - Inspeção para os Itens das Instrospecção.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 

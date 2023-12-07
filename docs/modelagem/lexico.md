@@ -59,7 +59,7 @@ Fonte: BARBOSA, Maria. 2023.
 
 ### L01: Usuário <a id=anchor_11 href="#REF1"></a>
 
-No primeiro léxico(tabela 3), a funcionalidade utilizada é o usuário precisa ter acima de 16 anos ([BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)), estando essa funcionalidade implementada no aplicativo.
+No primeiro léxico, que está na tabela 3, a funcionalidade utilizada é o usuário precisa ter acima de 16 anos (<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a>), estando essa funcionalidade implementada no aplicativo.
 
 #### Funcionalidades
 
@@ -71,9 +71,9 @@ Para acessar todas as funcionalidades presentes podem serem acessadas na pasta d
 
 | **L01** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | A pessoa que fará uso do aplicativo. <br> Possui mais de 16 anos([BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)). |
+| Noção | A pessoa que fará uso do aplicativo. <br> Possui mais de 16 anos(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a>). |
 | Classificação | Objeto |
-| Impacto(s) |Se encaixa no critério de ter mais de 16 anos ([BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)). <br> O usuário possui acesso  as [funcionalidades](#funcionalidades) do aplicativo. |
+| Impacto(s) |Se encaixa no critério de ter mais de 16 anos (<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF1</a>). <br> O usuário possui acesso  as [funcionalidades](#funcionalidades) do aplicativo. |
 | Sinônimo(s) | Cliente e consumidor. |
 
 Fonte: MARQUES, Maria. 2023.
@@ -82,60 +82,60 @@ Fonte: MARQUES, Maria. 2023.
 
 ### L02: Dispositivo
 
-Neste segundo léxico(Tabela 04), apresenta a funcionalidade o dispositivo que mantém ele instalado deve precisar ter acesso a internet([BSNF4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)), a funcionalidade está implementada no aplicativo.
+Neste segundo léxico, presente na tabela 4, apresenta a funcionalidade o dispositivo que mantém ele instalado deve precisar ter acesso a internet(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a>), a funcionalidade está implementada no aplicativo.
 
 Tabela 4 - exemplo
 
 | **L02** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O dispositivo se conecta à internet([BSNF4](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)).  |
+| Noção | O dispositivo se conecta à internet(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BSNF4</a>).  |
 | Classificação | Objeto |
-| Impacto(s) | O [usuário](#usuário) instala o aplicativo. <br> O usuário consegue ter acesso as [funcionalidades](#funcionalidades) do aplicativo. |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> instala o aplicativo. <br> O usuário consegue ter acesso as [funcionalidades](#funcionalidades) do aplicativo. |
 | Sinônimo(s) | Aparelho e equipamento. |
 
 Fonte: MARQUES, Maria. 2023.
 
 ### L03: Cadastrar 
 
-Já neste léxico(tabela 5) as funcionalidades usadas foram  realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG([INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)) e usuário cadastrar sua biometria durante o processo de cadastro([INT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)),ambas as funcionalidades foram implementadas.
+Já neste léxico, na tabela 5, as funcionalidades usadas foram  realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>) e usuário cadastrar sua biometria durante o processo de cadastro([INT2](<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a>)),ambas as funcionalidades foram implementadas.
 
 Tabela 5 - exemplo
 
 | **L03** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | Ocorre no primeiro acesso do usuário com aplicativo. <br> O usuário informa seus dados pessoais quando se cadastra([INT1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)). <br> O usuário cadastra sua biometria ao se cadatrar([INT2](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)).  |
+| Noção | Ocorre no primeiro acesso do <a id="REF1" href="#anchor_11">usuário</a> com aplicativo. <br> O <a id="REF1" href="#anchor_11">usuário</a> informa seus dados pessoais quando se cadastra(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT1</a>). <br> O <a id="REF1" href="#anchor_11">usuário</a> cadastra sua biometria ao se cadatrar(<a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT2</a>).  |
 | Classificação | Verbo |
-| Impacto(s) | O usuário tem acesso as funcionalidades do aplicativo. <br> O usuário armazena suas informações no aplicativo. <br> O usuário tem um acesso mais rápido as funcionalidades do sistema com a biometria. |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> tem acesso as funcionalidades do aplicativo. <br> O <a id="REF1" href="#anchor_11">usuário</a> armazena suas informações no aplicativo. <br> O <a id="REF1" href="#anchor_11">usuário</a> tem um acesso mais rápido as funcionalidades do sistema com a biometria. |
 | Sinônimo(s) | Registrar e inscrever.|
 
 Fonte: MARQUES, Maria. 2023.
 
 ### L04: Visualizar documento
 
-O quarto léxico(tabela 6), mostra as funcionalidades  visualizar no aplicativo todos os dados presentes em um documento de título eleitoral, escolher visualizar sobre as documentações nescessárias e conseguir vizualizar os dados documentais, sendo seus id's [INT11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados), [INT15](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT16](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) respectivamente. Essas funcionalidades foram implementadas no aplicativo.
+O quarto léxico, presente na tabela 6, mostra as funcionalidades  visualizar no aplicativo todos os dados presentes em um documento de título eleitoral, escolher visualizar sobre as documentações nescessárias e conseguir vizualizar os dados documentais, sendo seus id's <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT11</a>, <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT15</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT16</a> respectivamente. Essas funcionalidades foram implementadas no aplicativo.
 
 Tabela  6 - exemplo
 
 | **L04** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O usuário consegue visualizar as funcionalidades [INT11](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados), [INT15](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) e [INT16](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) ao fazer login no aplicativo.|
+| Noção | O <a id="REF1" href="#anchor_11">usuário</a> consegue visualizar as funcionalidades <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT11</a>, <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT15</a> e <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT16</a> ao fazer login no aplicativo.|
 | Classificação | Verbo |
-| Impacto(s) | O usuário consegue ver os dados de seu interesse no documento. |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> consegue ver os dados de seu interesse no documento. |
 | Sinônimo(s) | Ver, observar, contemplar, constatar e verificar. |
 
 Fonte: MARQUES, Maria. 2023.
 
 ### L05: Visualizar local
 
-No léxico 5(tabela 7), as funcionalidades mostradas foram, deve ser possível o usuário vizualizar a localização do Local de Votação([BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)) e deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo([INT13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)), apenas a primeira funcionalidade citada foi implementada.
+No léxico 5, presente na tabela 7, as funcionalidades mostradas foram, deve ser possível o usuário vizualizar a localização do Local de Votação( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a>) e deve ser possível o usuário visualizar as rotas de sua localização atual até o seu local de votação pelo aplicativo( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT13</a>), apenas a primeira funcionalidade citada foi implementada.
 
 Tabela 7 - exemplo
 
 | **L05** | **descrição** |
 | --------------------------- | ------------- |
-| Noção | O usuário consegue visualizar o local da votação quando acessa a funcionalidade no aplicativo([BS6](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados)). <br> O usuário consegue traçar uma rota do seu local atual até o local da realizaçao da votação([INT13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados)). |
+| Noção | O <a id="REF1" href="#anchor_11">usuário</a> consegue visualizar o local da votação quando acessa a funcionalidade no aplicativo( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/">BS6</a>). <br> O <a id="REF1" href="#anchor_11">usuário</a> consegue traçar uma rota do seu local atual até o local da realizaçao da votação( <a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/">INT13</a>). |
 | Classificação | Verbo |
-| Impacto(s) | O usuário visualiza local da votação. <br> O usuário encontra a melhor rota para chegar ao local. |
+| Impacto(s) | O <a id="REF1" href="#anchor_11">usuário</a> visualiza local da votação. <br> O <a id="REF1" href="#anchor_11">usuário</a> encontra a melhor rota para chegar ao local. |
 | Sinônimo(s) | Ver, observar, contemplar, constatar e verificar. |
 
 Fonte: MARQUES, Maria. 2023.
@@ -262,5 +262,6 @@ Fonte: BARBOSA, Maria. 2023.
 | `1.5` | 20/10/2023  |  Adicionando conteúdo da motivação e objetivo | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `1.6` | 20/10/2023  |  Adicionando léxico L01 à L05 | [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 | `1.7` | 21/10/2023  | Chamando tabelas no texto| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
-| `1.8`  | 01/11/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos L06 até L10| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.8`  | 01/12/2023  |  Correção no histórico de versão, ABNT nas tabelas e linkagens dos léxicos L06 até L10| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+| `1.9` | 03/12/2023  | Correção nas linkagens dos léxicos L01 até L05| [Maria Marques ](https://github.com/EduardaSMarques) | [João Victor](https://github.com/jvcostta) |
 

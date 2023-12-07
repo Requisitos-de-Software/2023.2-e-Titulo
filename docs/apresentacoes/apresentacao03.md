@@ -6,7 +6,7 @@
 ## Vídeo
 - Caso não consiga assistir dentro da gitPages, [Clique aqui](https://www.youtube.com/watch?v=I8bxe4TJWwI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I8bxe4TJWwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I8bxe4TJWwI?si=gJD4yOqwqFT8MT1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: Grupo 4.</p></font>
 
@@ -50,3 +50,4 @@ A git page possui?  | Sim/Não/Incompleto
 | Versão |     Data    |          Descrição             |              Autor(es)                    |               Revisor(es)                            |
 | ------ | ----------- | ------------------------------ | ----------------------------------------- | ---------------------------------------------------- |
 | `1.0`  | 25/10/2023  | documentação das apresentações | [Mateus Orlando](https://github.com/MateusPy)| [João Costa](https://github.com/jvcostta) |
+| `1.1`  | 06/12/2023 | Correção do link da reunião. | [Mateus Orlando](https://github.com/MateusPy) | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |

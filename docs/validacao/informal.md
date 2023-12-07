@@ -14,16 +14,29 @@ O objetivo ao utilizar essa forma de validação é obter o feedback da equipe q
 
 Na comprovação informal, utilizamos o e-mail, para pedir aos desenvolvedores do e-Título um feedback a respeito dos requisitos elicitados e artefatos gerados nesse projeto.
 
-Foi solicitado o pedido do feedback para o email: XXXX. A respostas que obteremos ficará no resultado deste artefato.  
+Foi solicitado o pedido do feedback para o email: sgic@tse.jus.br. A respostas que obteremos ficará no resultado deste artefato.  
 
 ## e-mail
 
-Na imagem 1, demonstra um print da mensagem enviada para o email: XXXX. 
+Na imagem 1, demonstra um print da mensagem enviada para o email: sgic@tse.jus.br. 
+
+**Imagem 1 - Imagem do email enviado.**
+
+<td><img src=../imgs/emaailEnviado.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 
 ## Resultado
 
-O resultado que obtemos foi.......
+Na imagem 2, demonstra a resposta recebida do email: sgic@tse.jus.br. 
+
+**Imagem 2 - Imagem do email recebido.**
+
+<td><img src=../imgs/emailRecebido.png></td> 
+
+Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+
 
 ## Bibliografia
 
@@ -34,3 +47,4 @@ O resultado que obtemos foi.......
 | Versão | Data       | Descrição   | Autor(es)   | Revisor(es) |
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 27/11/2023 | Adicionando a estrutura e o conteúdo nos tópicos Introdução, Metodologia e Motivação e Objetivo, além de uma pequena intro para os tópicos e-mail e Resultado. | [Maria Barbosa](https://github.com/Madu01) |  [Esther Sena](https://github.com/esmsena) |
+| `1.1`  | 27/11/2023 | Adicionando imagem 1 e 2 com envio do email e resposta recebida.|  [Esther Sena](https://github.com/esmsena)  |  [Maria Barbosa](https://github.com/Madu01)|

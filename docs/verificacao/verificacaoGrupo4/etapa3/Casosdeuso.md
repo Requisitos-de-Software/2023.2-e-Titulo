@@ -29,7 +29,7 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 **Tabela 1** - Checklist para os Itens dos casos de uso.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 

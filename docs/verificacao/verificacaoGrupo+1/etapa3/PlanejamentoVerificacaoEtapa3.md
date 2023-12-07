@@ -137,24 +137,24 @@ Fonte: Maria Barbosa, 2023.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| C1 | O diagrama de caso de uso possui atores?|  |  |
-| C2 | O ator principal está do lado esquerdo do sistema? |  |  |
-| C3 | Os atores estão fora da fronteira do sistema? | | |
-| C4 | Os atores interagem com os Casos de Uso corretamente? |  |  |
-| C5 | Há algum nome associado ao(s) usuário(s) do sistema? |  |  |
-| C6 | Existe limite do sistema? |  |  |
-| C7 | Os casos de uso possuem especificações? |  |  |
-| C8 | Os casos de uso possuem rastreabilidade? |  |  |
-| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? |  |  |
+| C1 | O diagrama de caso de uso possui atores? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C2 | O ator principal está do lado esquerdo do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C3 | Os atores estão fora da fronteira do sistema? <a id="REF53" href="#anchor_53">53</a>| | |
+| C4 | Os atores interagem com os Casos de Uso corretamente? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C5 | Há algum nome associado ao(s) usuário(s) do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C6 | Existe limite do sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C7 | Os casos de uso possuem especificações? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C8 | Os casos de uso possuem rastreabilidade? <a id="REF53" href="#anchor_53">53</a>|  |  |
+| C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 </center>
 
 ### Checklist da Verificação da Especificação Suplementar
 
 <center>
 
-**Tabela 1** - Checklist para os Itens da Especificação Suplementar.
+**Tabela 2** - Checklist para os Itens da Especificação Suplementar.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
@@ -189,16 +189,16 @@ Fonte: [Esther Sena](https://github.com/esmsena), 2023.
 
 <center>
 
-**Tabela 7** - Checklist para os Itens dos léxicos.
+**Tabela 3** - Checklist para os Itens dos léxicos.
 
 | ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
-| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? |  |  |
+| L1 | O artefato indica o modelo básico utilizado para a criação dos léxicos ? <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 | L2 | O artefato indica o motivo que levou a equipe a utilizá-lo na modelagem ? |  |  |
-| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) |  |  |
-| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) |  |  |
-| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
-| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) |  |  |
+| L3 | O artefato possui uma breve explicação de maneira concisa acerca dos tipos de de léxicos ? (**Verbo, Objeto e Estado**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L4 | O artefato possui pelo menos um tipo de cada léxico ? (**Verbo, Objeto e Estado**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L5 | No artefato os léxicos possuem a estrutura padrão ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**) <a id="REF04" href="#anchor_04">[04]</a> |  |  |
+| L6 | No artefato os léxicos explicam de maneira concisa cada estrutura do léxico ? (**Noção, Classificação, Impacto(s) e Sinônimo(s)**)  <a id="REF03" href="#anchor_03">[03]</a> |  |  |
 | L7 | No artefato a noção e o impacto(s) dos léxicos possuem coerência ? |  |  |
 | L8 | No artefato os léxicos possuem e seguem ua ordenação númerica ? |  |  |
 
@@ -211,19 +211,18 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 > <a id="REF4" href="#anchor_4">4.</a> . MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES- Especificação Suplementar-Versão 1.0.  Disponível em: https://aprender3.unb.br/pluginfile.php/2754631/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf. Acesso em: 12 de novembro de 2023.
 
 
-## Bibliografia
-
-> <a id="anchor_50" href="#REF50">50.2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 10 de novembro de 2023.
-
-> <a id="anchor_51" href="#REF51">51.2023.2-Jitsi. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-Jitsi/. Acesso em: 10 de novembro de 2023.
-
-> <a id="anchor_52" href="#REF52">52.SERRANO, Milene. Requisitos – Aula 23. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692856/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 10 de novembro de 2023.
-
 ## Referência Bibliográfica
+
+
+> <a id="anchor_53" href="#REF53">53.2023.4-Simplenote. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/modelagem/CasosDeUso/. Acesso em: 24 de novembro de 2023.
 
 > <a id="REF000001" href="#anchor_000001">[000001]</a> BilheteriaDigital. GitHub, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/cenarios/. Acesso em: 10 de novembro de 2023.
 
 > <a id="REF00000122" href="#anchor_00000122">[00000122]</a> SERRANO, Milene. Requisitos – Aula 10. Disponivél em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023.
+
+> <a id="REF03" href="#anchor_03">[03]</a>03.2023.1-VLC. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/personas . Acesso em: 24 de novembro de 2023.
+
+> <a id="REF04" href="#anchor_04">[04]</a>03.2023.1-BilheteriaDigital. GitHub. Disponível em: > https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega3/lexicos/ . Acesso em: 24 de novembro de 2023.
 
 ## Hitórico de versão
 
@@ -231,4 +230,6 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | ------ | ---------- | ----------- | ------------ | ---------- |
 | `1.0`  | 10/11/2023 | Criação do documento e Adição do conteúdo nos tópicos introdução, motivação, metodologia, Participantes, Objetos de Verificação, Cronograma, Checklists, Checklist Geral e Checklist da Verificação de Cenários  | [Maria Barbosa](https://github.com/Madu01) | [Mateus Orlando](https://github.com/MateusPy) |
 | `1.1`  | 12/11/2023 |  Checklist Geral e Checklist Verificação de Especificação Suplementar.  | [Esther Sena](https://github.com/esmsena) |  [Mariiana Siqueira](https://github.com/Maryyscreuza) |
+| `1.2`  | 12/11/2023 | Adição do Checklist de Léxicos. | [Mateus Orlando](https://github.com/MateusPy) |  [Esther Sena](https://github.com/esmsena) |
+| `1.3`  | 24/11/2023 | Adição das referências do Checklist de Léxicos. | [Mateus Orlando](https://github.com/MateusPy) | -- |
 

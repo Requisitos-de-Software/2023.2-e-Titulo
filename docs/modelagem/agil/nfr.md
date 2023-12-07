@@ -167,8 +167,8 @@ Tabela 3 - Requisitos Não-Funcionais
 | <a id=anchor_c4 href="#REF6">CONF04</a> | O usuário deve poder alterar os seus dados pessoais caso desejar. |
 | <a id=anchor_c5 href="#REF7">CONF05</a> | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
 
-
 Fonte: BARBOSA, maria;MARQUES,maria. 2023.  
+
 
 </center>
 
@@ -182,29 +182,31 @@ Figura 6 - Diagrama Geral do Sig
 
 ![geral](../../planejamento/img/DiagramaGeralSig.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
 
 ### NFR01 - Usabilidade
+
 Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados da especificação suplementar, <a id="REF01" href="#anchor_a1">USAB01</a>, <a id="REF02" href="#anchor_a2">USAB02</a>,<a id="REF03" href="#anchor_a3">USAB03</a>,<a id="REF04" href="#anchor_a4">USAB04</a>,<a id="REF05" href="#anchor_a5">USAB05</a> e <a id="REF06" href="#anchor_a6">USAB06</a>.
 
+
 #### Sem impactos propagados
-A figura 7, se encontra o diagrama do SIG sem impactos propagados 
+A figura 7, se encontra o diagrama do SIG de usabilidade sem impactos propagados 
 
-Figura 7 - Diagrama do Sig sem impactos propagados
+Figura 7 - Diagrama do Sig de usabilidade sem impactos propagados
 
-![semPropa](../../planejamento/img/DiagramaSig1.png)
+![semPropa](../../planejamento/img/usasempropa.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES, maria. 2023.
 
 #### Com impactos propagados
 
-A figura 8, se encontra o diagrama do SIG com impactos propagados
+A figura 8, se encontra o diagrama do SIG de usabilidade com impactos propagados
 
-Figura 8 - Diagrama do Sig com impactos propagados 
+Figura 8 - Diagrama do Sig de usabilidade com impactos propagados 
 
-![ComPropa](../../planejamento/img/DiagramaPropaErro.png)
+![ComPropa](../../planejamento/img/UsaImpacto.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
   
 ### NFR02 - Confiabilidade
 
@@ -217,7 +219,7 @@ Foi utilizados os requisitos <a id="REF1" href="#anchor_c1">CONF01</a>, <a id="R
 
 Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
 
-![confGrafoSIG1](../../planejamento/img/confGrafoSIG1.png)
+![confGrafoSIG1](../../planejamento/img/confiaSem.png)
 
 Fonte: BARBOSA, maria. 2023.
 
@@ -230,9 +232,9 @@ Fonte: BARBOSA, maria. 2023.
 
 Figura 10 - SIG de Confiabilidade com impactos.
 
-![confGrafoSIG2](../../planejamento/img/confGrafoSIG2.png)
+![confGrafoSIG2](../../planejamento/img/confiaComImpacto.png)
 
-Fonte: BARBOSA, maria. 2023.
+Fonte: MARQUES, maria. 2023.
 
 </center>
 
@@ -401,6 +403,7 @@ Tabela 9 - Cartão de especificação de Confiabilidade
 | **Conflitos:** | Nenhum |
 | **História:** | 05/11/2023 |
 
+
 Fonte: BARBOSA, maria. 2023.
 
 </center>
@@ -548,3 +551,4 @@ Fonte: BARBOSA, maria. 2023.
 | 1.9  | 03/12/2023  | Corrigindo sig de usabilidade e de confiabilidade com impacto | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) |
 | 2.0 | 05/12/2023 | Correção em cartões de especificação de confiabilidade e segurança e correção na imagem do SIG sem impacto de confiabilidade |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
 | 2.1  | 05/12/2023  | Adição dos cartões da usabilidade | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) |
+

@@ -8,6 +8,8 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 
 <center>
 
+**Tabela 1** - Inspeção para os Itens das Ferramentas.
+
  ID | Descrição | Avaliação | Observações |
 | ---| -------- | --------- | ------------ |
 | G1  | O artefato possui Introdução? | Sim | -- |
@@ -20,16 +22,15 @@ A tabela 1 a seguir descreve os critérios gerais afim de verificar se o artefat
 | F1 | Foi escolhida uma ferramenta adequada para manter o código fonte do projeto? | Sim | -- |
 | F2 | Foi escolhida uma ferramenta adequada para manter a comunicação? | Sim | -- |
 | F3 | Foi escolhida uma ferramenta adequada para compartilhamento de videos? | Sim | -- |
-| F5 | Foi escolhida uma ferramenta adequada para reuniões? | Sim | -- |
-| F6 | Foi escolhida uma ferramenta adequada para criação do questionário? | Sim | -- |
-| F7 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? | Sim| -- |
-| F8 | Foi escolhida uma ferramenta adequada para criação de diagramas? | Sim | -- |
-| F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? | Sim | -- |
-| F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | -- |
+| F4 | Foi escolhida uma ferramenta adequada para reuniões? | Sim | -- |
+| F5 | Foi escolhida uma ferramenta adequada para criação do questionário? | Sim | -- |
+| F6 | Foi escolhida uma ferramenta adequada para criação dos arquivos de documentação? | Sim| -- |
+| F7 | Foi escolhida uma ferramenta adequada para criação de diagramas? | Sim | -- |
+| F8 | Foi escolhida uma ferramenta adequada para gerar um site estático? | Sim | -- |
+| F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? | Sim | -- |
 
-**Tabela 1** - Inspeção para os Itens das Ferramentas.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 
