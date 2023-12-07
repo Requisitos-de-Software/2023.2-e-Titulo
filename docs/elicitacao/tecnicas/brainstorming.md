@@ -663,11 +663,8 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 <div style="text-align: center">
 <p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
 
-
-## Referências Bibliográficas
-
-
 ## Bibliografia
+
 > Técnicas de Elicitação de Requisitos. Disponivel em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 27 de setembro de 2023.
 
 > EDUARDO, Carlos. Engenharia de Requisitos. Disponivel em: https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf Acesso em: 27 de setembro de 2023.
