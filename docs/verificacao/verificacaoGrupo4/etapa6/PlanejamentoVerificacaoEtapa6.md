@@ -181,6 +181,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 ## Referência Bibliográfica matriz
 
 > <a id="REF3" href="#anchor_3">[3]</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2692882/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 de novembro de 2023.
+
 - Para visualizar as imagens de referências do artefato acesse aqui: https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/verificacao/referenciasVerificacao/referenciasEtapa2.md
 
 ## Histórico de Versões

@@ -142,7 +142,28 @@ Fonte: Adaptado de (ROBERTSON; ROBERTSON, 2012).
 
 ## Metodologia
 
-Inicialmente foram selecionados os requisitos não funcionais já elicitados para que os softgoals principais sejam definidos, esses foram utilizados no NFR00 - Geral, e logo após foram criados os NFRs com base no geral, além dos impactos deles e no final de cada NFR foram criados os Cartões de especificação. No desenvolvimento dos NFRs envolveu a criação do gráfico de interdependência de softgoal conhecido como "Softgoal Interdependency Graph (SIG)" por meio da ferramenta Draw.io.
+Inicialmente foram selecionados os requisitos não funcionais já elicitados e presentes no artefato Especificação Suplementar, para que os softgoals principais sejam definidos, esses foram utilizados no NFR00 - Geral, e logo após foram criados os NFRs com base no geral, além dos impactos deles e no final foram criados os Cartões de especificação. No desenvolvimento dos NFRs envolveu a criação do gráfico de interdependência de softgoal conhecido como "Softgoal Interdependency Graph (SIG)" por meio da ferramenta Draw.io.
+
+## Requisitos Não-Funcionais utilizados
+
+
+<center>
+
+Tabela 9 - Requisitos Não-Funcionais 
+
+| ID | Descrição    | 
+| -- | --- | 
+| CONF01 |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
+| CONF02 | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+| DES01 | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+| SUP03 | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
+| CONF03 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. | 
+| CONF04 | O usuário deve poder alterar os seus dados pessoais caso desejar. |
+| CONF05 | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+
+Fonte: BARBOSA, maria;MARQUES,maria. 2023. 
+
+</center>
 
 ## NFRs Definidas
 
@@ -154,70 +175,98 @@ Figura 6 - Diagrama Geral do Sig
 
 ![geral](../../planejamento/img/DiagramaGeralSig.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
 
 ### NFR01 - Usabilidade
-Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados das entrevistas realizadas pelo grupo na parte de elicitação.
+Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados da especificação suplementar.
 
-- ENTNF1: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo
-
-- ENTNF2: O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados
+- USAB01: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.
+- USAB02: O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.     
+- USAB03: Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.  
+- USAB04: O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.       
+- USAB05: As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. 
+- USAB06: A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.    
 
 #### Sem impactos propagados
-A figura 7, se encontra o diagrama do SIG sem impactos propagados 
+A figura 7, se encontra o diagrama do SIG de usabilidade sem impactos propagados 
 
-Figura 7 - Diagrama do Sig sem impactos propagados
+Figura 7 - Diagrama do Sig de usabilidade sem impactos propagados
 
-![semPropa](../../planejamento/img/DiagramaSig1.png)
+![semPropa](../../planejamento/img/usasempropa.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES, maria. 2023.
 
 #### Com impactos propagados
 
-A figura 8, se encontra o diagrama do SIG com impactos propagados
+A figura 8, se encontra o diagrama do SIG de usabilidade com impactos propagados
 
-Figura 8 - Diagrama do Sig com impactos propagados 
+Figura 8 - Diagrama do Sig de usabilidade com impactos propagados 
 
-![ComPropa](../../planejamento/img/DiagramaPropaErro.png)
+![ComPropa](../../planejamento/img/UsaImpacto.png)
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
   
 ### NFR02 - Confiabilidade
+
+Foi utilizados os requisitos , para a realização do SIG.
+
 #### Sem impactos propagados
 
-Figura 9 - SIG de Confiabilidade sem impactos.
+<center>
 
-![confGrafoSIG1](../../planejamento/img/confGrafoSIG1.png)
+Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
 
-Fonte: maria barbosa, 2023.
+![confGrafoSIG1](../../planejamento/img/confiaSem.png)
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
 
 #### Com impactos propagados
+
+<center>
 
 Figura 10 - SIG de Confiabilidade com impactos.
 
-![confGrafoSIG2](../../planejamento/img/confGrafoSIG2.png)
+![confGrafoSIG2](../../planejamento/img/confiaComImpacto.png)
 
-Fonte: maria barbosa, 2023.
+Fonte: MARQUES, maria. 2023.
+
+</center>
 
 
 ### NFR03 - Segurança
+
+Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
+
 #### Sem impactos propagados
+
+<center>
 
 Figura 11 - SIG de Segurança sem impactos.
 
 ![seguGrafoSIG1](../../planejamento/img/seguGrafoSIG1.png)
 
-Fonte: maria barbosa, 2023.
+Fonte: BARBOSA, maria. 2023.
+
+</center>
 
 #### Com impactos propagados
+
+<center>
 
 Figura 12 - SIG de Segurança com impactos.
 
 ![seguGrafoSIG2](../../planejamento/img/seguGrafoSIG2.png)
 
-Fonte: maria barbosa, 2023.
+Fonte: BARBOSA, maria. 2023.
+
+</center>
 
 ## Cartões de especificação Definidos
+
+<center>
 
 Tabela 3 - Cartão de especificação da Usabilidade
 
@@ -232,7 +281,11 @@ Tabela 3 - Cartão de especificação da Usabilidade
 | **Conflitos:** | nenhum |
 | **História:** | 06/11/2023 |
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+<center>
 
 Tabela 4 - Cartão de especificação da Usabilidade
 
@@ -247,81 +300,29 @@ Tabela 4 - Cartão de especificação da Usabilidade
 | **Conflitos:** | Nenhum |
 | **História:** | 06/11/2023 |
 
-Fonte: Maria Eduarda Marques. 2023.
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+<center>
 
 Tabela 5 - Cartão de especificação de Confiabilidade 
 
-| **Nº Requisito: 3** ( [ENTNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/entrevista.md#requisitos-elicitados) )  <br> **Classificação:**  Confiabilidade/Guia/Tolerância a falhas/Informações de fácil acesso/Coletar feedback | |
+| **Nº Requisito: 3** (  )  <br> **Classificação:**   | |
 | ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo. |
-| **Justificativa:** | É importante pois fornece informações claras e acessíveis aos usuários, garantindo que eles compreendam os termos e condições do serviço, bem como os direitos e responsabilidades. Além disso, atende às expectativas de regulamentações de privacidade e proteção de dados, tornando o aplicativo mais confiável. |
-| **Origem:** | Projetista de Software |
-| **Critério de aceitação:** | A aceitação dos termos de uso  |
+| **Descrição:** |  |
+| **Justificativa:** | |
+| **Origem:** |  |
+| **Critério de aceitação:** | |
 | **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
+| **Prioridade:** |  |
 | **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
+| **História:** | /11/2023 |
 
-Fonte: maria barbosa, 2023.
+Fonte: BARBOSA, maria. 2023.
 
-Tabela 6 - Cartão de especificação de Segurança 
+</center>
 
-| **Nº Requisito: 4** ( [INTNF9](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Autenticidade dos documentos | |
-| ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. |
-| **Justificativa:** | Mostrar ao usuário as autenticidades de seus documentos é justificada pela necessidade de promover a transparência, confiança e segurança no sistema. Isso permite que os usuários validem a autenticidade de seus documentos, evitando fraudes, falsificações e erros.  |
-| **Origem:** | Projetista de Software |
-| **Critério de aceitação:** | Deve ser possível acessar facilmente as autenticidades, e elas devem estar em conformidade com as regulamentações legais aplicáveis. |
-| **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
-| **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
-
-Fonte: maria barbosa, 2023.
-
-Tabela 7 - Cartão de especificação de Segurança  
-
-| **Nº Requisito: 5** ( [INTNF14](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Proteção dos dados/Etapas de segurança ao realizar cadastro ou login/ Implementação de Criptografia | |
-| ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. |
-| **Justificativa:** | A utilização desse requisito é pela necessidade de proteger a privacidade e a integridade dos dados dos usuários. Isso não apenas atende às regulamentações legais, mas também previne ataques cibernéticos, vazamentos de dados e a perda de segurança dos usuários. |
-| **Origem:** | Projetista de Software |
-| **Critério de aceitação:** | O deve aplicativo implementar medidas de segurança eficazes para proteger os dados dos usuários. Isso inclui a criptografia adequada e autenticação segura. |
-| **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
-| **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
-
-Fonte: maria barbosa, 2023.
-
-Tabela 8 - Cartão de especificação de Segurança  
-
-| **Nº Requisito: 6** ( [BSNF1](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md#requisitos-elicitados) )  <br> **Classificação:** Segurança/Limites/Cadastro para usuários acima da idade mínima  | |
-| ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar. |
-| **Justificativa:** | A utilização desse requisito é para cumprir as leis e regulamentações que estabelecem a idade mínima para votar. Além disso, essa restrição contribui para a responsabilidade e a segurança, uma vez que impede que indivíduos não aptos a votar influenciem o processo eleitoral. |
-| **Origem:** | Projetista de Software |
-| **Critério de aceitação:** | A verificação da idade do usuário durante o cadastro no aplicativo |
-| **Dependência:** | Nenhum |
-| **Prioridade:** | 10 |
-| **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
-
-Fonte: maria barbosa, 2023.
-
-
-## Requisitos Não-Funcionais utilizados
-
-Tabela 9 - Requisitos Não-Funcionais 
-
-| ID | Descrição    | Implementado |
-| -- | --- | --- |
-| ENTNF1 | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo | Não |
-| INTN9 | O aplicativo deve mostrar ao usuário as autenticidades de seus documento. | Sim |
-| INT14 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança. | Sim |
-| BSNF1  | O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar | Sim  |
-
-Fonte: maria barbosa, 2023.
 
 ## Bibliografia
 
@@ -336,11 +337,12 @@ Fonte: maria barbosa, 2023.
 
 | Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
 | ------ | ----------- | ----------- | --------- | ----------- |
-| `0.1`  | 03/11/2023  | adição do esqueleto do artefato | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.2`  | 04/11/2023  | adição do conteúdo no tópico Motivação e Objetivo e melhoramento do esqueleto do artefato | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.3`  | 05/11/2023  | adição da introdução e do SIG | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.4`  | 06/11/2023  | acrescentando outros tópicos do SIG até refinamentos | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.5`  | 06/11/2023  | Adicionando conteúdos nos tópicos Contribuições, Procedimento de avaliação, Cartão de especificação e Metodologia e atualização no tópico NFR Definidas | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.6`  | 06/11/2023  | Adicionando diagramas geral e de usabilidade e cartões | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.7`  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
-| `0.8`  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | - |
+| 1.0  | 03/11/2023  | adição do esqueleto do artefato | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.1  | 04/11/2023  | adição do conteúdo no tópico Motivação e Objetivo e melhoramento do esqueleto do artefato | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.2  | 05/11/2023  | adição da introdução e do SIG | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.3  | 06/11/2023  | acrescentando outros tópicos do SIG até refinamentos | [Maria Marques ](https//github.com/EduardaSMarques) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.4  | 06/11/2023  | Adicionando conteúdos nos tópicos Contribuições, Procedimento de avaliação, Cartão de especificação e Metodologia e atualização no tópico NFR Definidas | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.5  | 06/11/2023  | Adicionando diagramas geral e de usabilidade e cartões | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.6  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
+| 1.7  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) |
+| 1.8 | 02/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |

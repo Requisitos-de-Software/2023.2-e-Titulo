@@ -269,7 +269,7 @@ Tabela 3 - Elos de rastreabilidade.
 
 * Elementos Rastreáveis: 
     * <a id="RF11" href="#anchor_12">RF11</a> :
-        * Introspecção: [INT](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
+        * Introspecção: [INT8](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)
         * Brainstorming: [BS11](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/)
         
 * Elos:
