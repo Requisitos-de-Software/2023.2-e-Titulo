@@ -1303,9 +1303,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-        <td>"https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link"</td>
-
+        <td><a href="https://youtube.com/shorts/OoPy48TFiac?si=JFCpIPgKnAZx0Kv7">Clique aqui</a></td>
       </tr>
     </tbody>
   </table>
