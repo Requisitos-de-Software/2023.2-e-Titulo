@@ -641,9 +641,11 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | BS13   | O aplicativo deve disponibilizar ao usuário a função de acessar o site do TSE para conseguir relatar feedbacks e problemas do aplicativo  | RF13    |    Sim      | 
 | BSF14 |  O aplicativo deve oferecer um meio de ajuda para os usuários que não entenderam alguma coisa de sua utilidade | RF14  |     Sim     |
 
+Fonte: SENA. Esther; BARBOSA. Maria. 2023.
+
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p></font>
+
 
 
 <font size="3"><p style="text-align: center">**Tabela 18 - requisitos não funcionais** </p></font>
@@ -657,11 +659,9 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | BSNF3 |  O aplicativo deve ser confiável para o usuário | RNF3   |    Sim      |
 | BSNF4   | Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet | RNF4   |      Sim    |
 
+Fonte: SENA. Esther; BARBOSA. Maria. 2023.
 
 </center>
-
-<div style="text-align: center">
-<p> Fonte: SENA. Esther; BARBOSA. Maria. 2023.</p>
 
 ## Bibliografia
 
@@ -675,7 +675,7 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 
 | Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| 1.0 | 26/09/2023 | Motagem de estrutura | [Esther Sena](https://github.com/esmsena) |[João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| 1.0 | 26/09/2023 | Motagem de estrutura | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.1 | 27/09/2023 | Adicionando perguntas e introdução | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.2 | 29/09/2023 | Adicionando uma pergunta e o conteúdo em Motivação e Objetivo, alterando introdução, metodologia e funções, inserindo o miro  | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.3 | 29/09/2023 | Alterando estrutura das respostas no documento | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
@@ -684,4 +684,4 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
 | 1.6 | 30/09/2023 | Adicionando elicitações funcionais e não funcionais no documento | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.7 | 01/09/2023 | Modificando e adicionando as elicitações funcionais e não funcionais no documento | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
 | 1.8 | 03/09/2023 | Correção nos requisitos não funcionais e adicionando se os reuisitos foram ou não implementados | [Maria Barbosa](https://github.com/Madu01) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
-| 1.9 | 29/11/2023 |  Correção em fontes das tabelas e nos requisitos funcionais e não funcionais |[Esther Sena](https://github.com/esmsena)| [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
+| 1.9 | 29/11/2023 |  Correção em fontes das tabelas e nos requisitos funcionais e não funcionais | [Esther Sena](https://github.com/esmsena) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
