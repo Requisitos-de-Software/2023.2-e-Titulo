@@ -134,7 +134,7 @@ Tabela 2 - Exemplo de modelo do Cartão de especificação
 | **Origem:** | Origem do requisito |
 | **Critério de aceitação:** | métrica do requisito que possa ser testada e satisfeita |
 | **Dependência:** | Requisitos relacionados ao especificado |
-| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros, em uma escala de 0 a 10 seguindo o que foi realizado no artefato conforme o artefato [Three Level Scale](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md#three-level-scale) |
+| **Prioridade:** | É um número que decide o nível de importância do requisito em relaçaõ aos outros, em uma escala seguindo o que foi realizado no artefato conforme o artefato [Three Level Scale](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/priorizacao/threeLevelScale.md#three-level-scale) |
 | **Conflitos:** | Requisitos conflitantes ao requisito especificado |
 | **História:** | Data da criação e de modificações |
 
@@ -149,19 +149,26 @@ Inicialmente foram selecionados os requisitos não funcionais já elicitados e p
 
 <center>
 
-Tabela 9 - Requisitos Não-Funcionais 
+Tabela 3 - Requisitos Não-Funcionais 
 
 | ID | Descrição    | 
 | -- | --- | 
-| CONF01 |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
-| CONF02 | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
-| DES01 | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
-| SUP03 | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
-| CONF03 | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. | 
-| CONF04 | O usuário deve poder alterar os seus dados pessoais caso desejar. |
-| CONF05 | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+| <a id=anchor_a1 href="#REF01">USAB01</a>   | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo    |    
+| <a id=anchor_a2 href="#REF02">USAB02</a>  | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.  |    
+|  <a id=anchor_a3 href="#REF03">USAB03</a> | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.|  
+|  <a id=anchor_a4 href="#REF04">USAB04</a>   | O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.   |    
+|  <a id=anchor_a5 href="#REF05">USAB05</a>  | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. | 
+| <a id=anchor_a6 href="#REF06">USAB06</a> | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.  |    
+| <a id=anchor_c1 href="#REF1">CONF01</a> |  Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.| 
+| <a id=anchor_c2 href="#REF2">CONF02</a> | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+| <a id=anchor_d1 href="#REF3">DES01</a> | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+| <a id=anchor_s3 href="#REF4">SUP03</a> | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
+| <a id=anchor_c3 href="#REF5">CONF03</a> | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. | 
+| <a id=anchor_c4 href="#REF6">CONF04</a> | O usuário deve poder alterar os seus dados pessoais caso desejar. |
+| <a id=anchor_c5 href="#REF7">CONF05</a> | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
 
-Fonte: BARBOSA, maria;MARQUES,maria. 2023. 
+Fonte: BARBOSA, maria;MARQUES,maria. 2023.  
+
 
 </center>
 
@@ -178,14 +185,9 @@ Figura 6 - Diagrama Geral do Sig
 Fonte: MARQUES,maria. 2023.
 
 ### NFR01 - Usabilidade
-Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados da especificação suplementar.
 
-- USAB01: O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.
-- USAB02: O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.     
-- USAB03: Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.  
-- USAB04: O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.       
-- USAB05: As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida. 
-- USAB06: A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.    
+Para elaboração do SIG da usabilidade, se encaixaram com usabilidade os seguintes requisitos não funcionais, retirados da especificação suplementar, <a id="REF01" href="#anchor_a1">USAB01</a>, <a id="REF02" href="#anchor_a2">USAB02</a>,<a id="REF03" href="#anchor_a3">USAB03</a>,<a id="REF04" href="#anchor_a4">USAB04</a>,<a id="REF05" href="#anchor_a5">USAB05</a> e <a id="REF06" href="#anchor_a6">USAB06</a>.
+
 
 #### Sem impactos propagados
 A figura 7, se encontra o diagrama do SIG de usabilidade sem impactos propagados 
@@ -208,7 +210,8 @@ Fonte: MARQUES,maria. 2023.
   
 ### NFR02 - Confiabilidade
 
-Foi utilizados os requisitos , para a realização do SIG.
+Foi utilizados os requisitos <a id="REF1" href="#anchor_c1">CONF01</a>, <a id="REF2" href="#anchor_c2">CONF02</a>, <a id="REF3" href="#anchor_d1">DES01</a> e <a id="REF4" href="#anchor_s3">SUP03</a>, para a realização do SIG de confiabilidade com e sem impactos.
+
 
 #### Sem impactos propagados
 
@@ -238,7 +241,8 @@ Fonte: MARQUES, maria. 2023.
 
 ### NFR03 - Segurança
 
-Figura 9 - SIG de Confiabilidade sem impactos. E representado sem e com impactos.
+Foi utilizado os requisitos <a id="REF5" href="#anchor_c3">CONF03</a>, <a id="REF6" href="#anchor_c4">CONF04</a> e <a id="REF7" href="#anchor_c5">CONF05</a>  para a criação do SIG de segurança com e sem impactos.
+
 
 #### Sem impactos propagados
 
@@ -265,21 +269,23 @@ Fonte: BARBOSA, maria. 2023.
 </center>
 
 ## Cartões de especificação Definidos
+ <a id="REF01" href="#anchor_a1">USAB01</a>, <a id="REF02" href="#anchor_a2">USAB02</a>,<a id="REF03" href="#anchor_a3">USAB03</a>,<a id="REF04" href="#anchor_a4">USAB04</a>,<a id="REF05" href="#anchor_a5">USAB05</a> e <a id="REF06" href="#anchor_a6">USAB06</a>.
+### Cartões de especificação do NFR01 - Usabilidade
 
 <center>
 
 Tabela 3 - Cartão de especificação da Usabilidade
 
-| **Nº Requisito: 1** (ENTNF1)  <br> **Classificação:** Usabilidade | |
+| **Nº Requisito: 1** <a id="REF01" href="#anchor_a1">(USAB01)</a>  <br> **Classificação:** Usabilidade/Suporte | |
 | ------------------------ | --------- |
-| **Descrição:** | O e-título deve ser fácil de ser encontrado e ter informações relevantes para o usuário não ficar perdido|
-| **Justificativa:** | O aplicativo é voltado para a visualiazação do e-título e por isso o documento precisa ser fácil de ser achado e o app precisa ser de fácil compreensão.|
-| **Origem:** | Projetista de software |
+| **Descrição:** | O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo |
+| **Justificativa:** | Disponibilizar um termo de uso acessível e explicar a utilidade do aplicativo de maneira clara promove transparência, constrói confiança com os usuários e evita mal-entendidos.|
+| **Origem:** | Especificação Suplementar |
 | **Critério de aceitação:** | O aplicativo deve ter o termo de uso facilmente acessível e explicar sua utilidade de forma clara para evitar problemas de entendimento. |
 | **Dependência:** | Precisa que o usuário acesse o aplicativo |
 | **Prioridade:** | Alta |
 | **Conflitos:** | nenhum |
-| **História:** | 06/11/2023 |
+| **História:** | 05/12/2023 |
 
 Fonte: MARQUES,maria. 2023.
 
@@ -289,16 +295,16 @@ Fonte: MARQUES,maria. 2023.
 
 Tabela 4 - Cartão de especificação da Usabilidade
 
-| **Nº Requisito: 2** (ENTNF2)  <br> **Classificação:** Usabilidade | |
+| **Nº Requisito: 2** <a id="REF02" href="#anchor_a2">(USAB02)</a>  <br> **Classificação:** Usabilidade/Consistência | |
 | ------------------------ | --------- |
-| **Descrição:** | O aplicativo deve ter um design intuitivo com elementos padronizados, como botões e menus, para facilitar a navegação do usuário.|
-| **Justificativa:** | visa melhorar a usabilidade do aplicativo, tornando-o mais intuitivo e fácil de usar para os usuários. |
-| **Origem:** | Projetista de software |
-| **Critério de aceitação:** |  a presença de botões e menus padronizados em todo o aplicativo, garantindo uma aparência consistente e uma experiência de navegação intuitiva. |
-| **Dependência:** | Do desenvolvimento |
+| **Descrição:** | O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.|
+| **Justificativa:** |Garantir uma navegação eficiente e clara é essencial para a satisfação do usuário, promovendo uma experiência positiva e facilitando a localização de funcionalidades. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | O design deve organizar elementos de maneira lógica, oferecer menus e botões intuitivos e manter consistência na navegação.|
+| **Dependência:** | Depende da avaliação contínua dos usuários e atualizações periódicas para atender às evoluções nas necessidades e tecnologias. |
 | **Prioridade:** | Alta |
-| **Conflitos:** | Nenhum |
-| **História:** | 06/11/2023 |
+| **Conflitos:** | nenhum |
+| **História:** | 05/12/2023 |
 
 Fonte: MARQUES,maria. 2023.
 
@@ -306,18 +312,214 @@ Fonte: MARQUES,maria. 2023.
 
 <center>
 
-Tabela 5 - Cartão de especificação de Confiabilidade 
+Tabela 5 - Cartão de especificação da Usabilidade
 
-| **Nº Requisito: 3** (  )  <br> **Classificação:**   | |
+| **Nº Requisito: 3** <a id="REF03" href="#anchor_a3">(USAB03)</a>  <br> **Classificação:** Usabilidade/Consistência | |
 | ------------------------ | --------- |
-| **Descrição:** |  |
-| **Justificativa:** | |
-| **Origem:** |  |
-| **Critério de aceitação:** | |
+| **Descrição:** | Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.|
+| **Justificativa:** | É crucial para orientação imediata, melhorando a experiência ao manter os usuários informados sobre suas ações e o estado do sistema.|
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Garantir feedback visual imediato, como animações ou ícones, e, quando apropriado, feedback auditivo, mantendo clareza, consistência e relevância na experiência do usuário. |
+| **Dependência:** | Testar regularmente a eficácia com avaliações de usuários, adaptar a necessidades específicas. |
+| **Prioridade:** | Alta |
+| **Conflitos:** | nenhum |
+| **História:** | 05/12/2023 |
+
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 6 - Cartão de especificação da Usabilidade
+
+| **Nº Requisito: 4** <a id="REF04" href="#anchor_a4">(USAB04)</a>  <br> **Classificação:** Usabilidade/Suporte | |
+| ------------------------ | --------- |
+| **Descrição:** |  O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes. |
+| **Justificativa:** | Garantir acessibilidade no aplicativo é essencial para promover inclusão, proporcionando uma experiência equitativa para usuários com diferentes habilidades. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | O aplicativo deve seguir diretrizes de acessibilidade, ser compatível com tecnologias assistivas, oferecer contraste adequado, navegação simplificada e alternativas para mídia. |
+| **Dependência:** | Realizar testes com usuários diversos e manter atualizações conforme mudanças nas diretrizes e tecnologias de acessibilidade. |
+| **Prioridade:** | Alta |
+| **Conflitos:** | nenhum |
+| **História:** | 05/12/2023 |
+
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 7 - Cartão de especificação da Usabilidade
+
+| **Nº Requisito: 5** <a id="REF05" href="#anchor_a5">(USAB05)</a>  <br> **Classificação:** Usabilidade/Consistência | |
+| ------------------------ | --------- |
+| **Descrição:** | As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida.|
+| **Justificativa:** | É essencial para preservar a fluidez da experiência do usuário, proporcionando um ambiente de uso agradável.|
+| **Origem:** | Especificação Suplementar  |
+| **Critério de aceitação:** | Apresentar atualizações de forma discreta, oferecer opções de personalização, evitar interrupções excessivas e fornecer feedback oportuno. |
+| **Dependência:** | Realizar testes com usuários e manter feedback contínuo para ajustar as notificações com base nas preferências e experiências dos usuários. |
+| **Prioridade:** | Alta |
+| **Conflitos:** | nenhum |
+| **História:** | 05/12/2023 |
+
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 8 - Cartão de especificação da Usabilidade
+
+| **Nº Requisito: 6** <a id="REF06" href="#anchor_a6">(USAB06)</a>  <br> **Classificação:** Usabilidade | |
+| ------------------------ | --------- |
+| **Descrição:** | A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários. |
+| **Justificativa:** | Assegurar uma interface intuitiva é essencial para proporcionar uma experiência de usuário acessível e satisfatória, promovendo a usabilidade do aplicativo.|
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Garantir uma navegação lógica, uso de ícones e rótulos claros, feedback imediato, apresentação clara de informações e realizar testes de usabilidade. |
+| **Dependência:** | Manter feedback contínuo dos usuários para ajustar a interface conforme necessário e realizar avaliações com uma diversidade de usuários para garantir acessibilidade universal. |
+| **Prioridade:** | Alta |
+| **Conflitos:** | nenhum |
+| **História:** | 05/12/2023 |
+
+Fonte: MARQUES,maria. 2023.
+
+</center>
+
+### Cartões de especificação do NFR02 - Confiabilidade
+
+<center>
+
+Tabela 9 - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 7**  <a id="REF1" href="#anchor_c1">(CONF01)</a>   <br> **Classificação:** Confiabilidade/Disponibilidade para uso  | |
+| ------------------------ | --------- |
+| **Descrição:** | Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas. |
+| **Justificativa:** | É utilizado esse requisito, pois durante os momentos de alta demanda, interrupções não programadas podem comprometer a transparência do aplicativo e prejudicar a confiança do público.  |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Durante testes, o sistema deve demonstrar uma disponibilidade mínima de 99,9% durante períodos simulados de alta demanda, como os observados em períodos eleitorais. |
 | **Dependência:** | Nenhum |
-| **Prioridade:** |  |
+| **Prioridade:** | Alta |
 | **Conflitos:** | Nenhum |
-| **História:** | /11/2023 |
+| **História:** | 05/11/2023 |
+
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 10 - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 8**  <a id="REF2" href="#anchor_c2">(CONF02)</a>   <br> **Classificação:**  Confiabilidade/Tolerância a falhas | |
+| ------------------------ | --------- |
+| **Descrição:** | Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas. |
+| **Justificativa:** | É fundamental para garantir a preservação e a disponibilidade contínua dos dados, prevenindo perdas catastróficas e assegurando a rápida recuperação em casos de falhas ou eventos inesperados. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** |  O sistema do aplicativo deve ser capaz de recuperar dados a partir de backups recentes em um tempo estabelecido. <br> Os backups devem ser realizados automaticamente em intervalos regulares conforme definido na política de backup, garantindo a retenção de dados |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 11 - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 9**  <a id="REF3" href="#anchor_d1">(DES01)</a>  <br> **Classificação:** Confiabilidade/Tempo de resposta  | |
+| ------------------------ | --------- |
+| **Descrição:** | Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. |
+| **Justificativa:** | É essencial para garantir uma experiência de usuário ágil, favorecendo a interação contínua e minimizando a frustração com possíveis atrasos, mantendo uma confiabilidade no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve demonstrar um tempo de resposta médio para interações do usuário inferior a 2 segundos, assegurando uma experiência fluida. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 12 - Cartão de especificação de Confiabilidade 
+
+| **Nº Requisito: 10**  <a id="REF4" href="#anchor_s3">(SUP03)</a> <br> **Classificação:** Confiabilidade/Suporte ao usuário  | |
+| ------------------------ | --------- |
+| **Descrição:** | No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz. |
+| **Justificativa:** | Um plano de suporte eficaz fortalece a confiabilidade do sistema ao garantir respostas rápidas e soluções para problemas, assegurando a continuidade e a confiança dos usuários na plataforma. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | As consultas e problemas reportados pelos usuários devem ser respondidos e resolvidos, garantindo um plano de suporte eficaz. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+
+## Cartões de especificação do NFR03 - Segurança
+
+<center>
+
+Tabela 13 - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 11**  <a id="REF5" href="#anchor_c3">(CONF03)</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo: login por meio da biometria digital. |
+| **Justificativa:** | Ajuda na proteção dos dados do usuário, promovendo uma experiência mais segura e confiável no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve garantir a autenticação, atestando a proteção dos dados do usuário contra acessos não autorizados. <br> Deve haver etapas de segurança.|
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 14 - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 12**  <a id="REF6" href="#anchor_c4">(CONF04)</a> <br> **Classificação:** Segurança/Proteção dos dados  | |
+| ------------------------ | --------- |
+| **Descrição:** | O usuário deve poder alterar os seus dados pessoais caso desejar. |
+| **Justificativa:** | Permitir que o usuário altere seus dados pessoais promove autonomia, controle e conformidade com regulamentações de privacidade, garantindo uma experiência personalizada e transparente reforçando a confiabilidade no aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | deve permitir que o usuário modifique suas informações pessoais de forma intuitiva e segura, refletindo as atualizações realizadas. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
+
+Fonte: BARBOSA, maria. 2023.
+
+</center>
+
+<center>
+
+Tabela 15 - Cartão de especificação de Segurança 
+
+| **Nº Requisito: 13**  <a id="REF7" href="#anchor_c5">(CONF05)</a> <br> **Classificação:** Segurança/Autenticidade dos documentos  | |
+| ------------------------ | --------- |
+| **Descrição:** | O aplicativo deve oferecer segurança ao usuário, em relação aos dados emitidos nos documentos, certificando e garantindo que estão corretos. |
+| **Justificativa:** | Assegurar a segurança dos dados presentes nos documentos do usuário é crucial para garantir a precisão, autenticidade e integridade das informações, fortalecendo a confiabilidade e a credibilidade do aplicativo. |
+| **Origem:** | Especificação Suplementar |
+| **Critério de aceitação:** | Deve ser verificável e precisamente certificar a exatidão dos dados presentes nos documentos dos usuários, mantendo sua integridade e assegurando proteção contra manipulações não autorizadas. |
+| **Dependência:** | Nenhum |
+| **Prioridade:** | Alta |
+| **Conflitos:** | Nenhum |
+| **História:** | 05/11/2023 |
 
 Fonte: BARBOSA, maria. 2023.
 
@@ -346,3 +548,7 @@ Fonte: BARBOSA, maria. 2023.
 | 1.6  | 06/11/2023  | Adicionando conteúdos nos tópicos contidos nos NFRs de Confiabilidade e segurança além do tópico de requisitos utilizados | [Maria Barbosa](https//github.com/Madu01) | [João Victor](https//github.com/jvcostta) e [Mateus Orlando](https//github.com/MateusPy) |
 | 1.7  | 06/11/2023  | Arrumando rotas das imagens | [Mateus Orlando](https//github.com/MateusPy) e [João Victor](https//github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) |
 | 1.8 | 02/11/2023 | Correção em metodologia, adicionando novas imagens em NFR02(sem impactos) e NFR03(sem impactos e com impactos), atualização em requisitos não funcionais utilizados |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
+| 1.9  | 03/12/2023  | Corrigindo sig de usabilidade e de confiabilidade com impacto | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) |
+| 2.0 | 05/12/2023 | Correção em cartões de especificação de confiabilidade e segurança e correção na imagem do SIG sem impacto de confiabilidade |  [Maria Barbosa](https://github.com/Madu01)  | [João Costa ](https://github.com/jvcostta) |
+| 2.1  | 05/12/2023  | Adição dos cartões da usabilidade | [Maria Marques ](https//github.com/EduardaSMarques)  | [João Victor](https//github.com/jvcostta) |
+
