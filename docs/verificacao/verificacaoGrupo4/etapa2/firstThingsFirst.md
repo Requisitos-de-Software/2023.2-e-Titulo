@@ -44,7 +44,7 @@ Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 
 **Vídeo 1** - Vídeo da inspeção.
 
-<iframe width="560" height="315" src="https://youtu.be/WSjIfYGxbGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSjIfYGxbGc?si=uEaUbMByLMtgnBq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
 

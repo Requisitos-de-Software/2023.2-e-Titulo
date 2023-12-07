@@ -48,6 +48,7 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 
 **Tabela 2** - Matriz geral.
 
+
 | ID | Descrição | Artefatos relacionados (Origem) | Pré-Rastreabilidade | Elo | Implementado | 
 | -- | --------- | ------------------------------- | -------------------|-------------------------------- | ------------ |
 |  <a id=anchor_2 href="#RF01">RF01</a> | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG | [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) , [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/) | Sim |
@@ -117,13 +118,7 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 | RNF22| O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital. | Especificação Suplementar e NFR Framework | [CONF03](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/), [NFR02](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/)| --| Sim |
 | RNF23|  Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil. | Especificação Suplementar | [DES01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/)| --| Sim |
 
-
-
-
-
 Fonte: BARBOSA,maria;MARQUES,maria .2023.
-
-</center>
 
 ## Bibliografia
 

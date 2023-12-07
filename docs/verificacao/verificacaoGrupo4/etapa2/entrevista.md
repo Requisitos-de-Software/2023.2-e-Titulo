@@ -80,7 +80,7 @@ Obs: para ter acesso à lista, [clique aqui](https://requisitos-de-software.gith
 
 Segue abiaxo o vídeo gravado pelo [Mateus Orlando](https://github.com/MateusPy) e pelo [João Costa ](https://github.com/jvcostta) realizando a inspeção do artefato de Entrevista do grupo 4 [e-Título](https://requisitos-de-software.github.io/2023.2-e-Titulo/):
 
-<iframe width="560" height="315" src="https://youtu.be/pjqblVBTV9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjqblVBTV9M?si=YIFdt00pXG7PAaxL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Vídeo da inspeção do artefato de Entrevista. Fonte: Orlando, Mateus.2023</p></font>
 Caso não consiga assitir ao vídeo, [Clique aqui](https://youtu.be/pjqblVBTV9M).

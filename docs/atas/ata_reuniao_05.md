@@ -37,7 +37,7 @@ Tabela 1: Ações pendentes
 Fonte: cronograma; MARQUES, Maria 2023.
 
 ## Link da gravação
-*  https://youtu.be/TRVH1qp5T4o
+*  [https://youtu.be/TRVH1qp5T4o](https://youtu.be/TRVH1qp5T4o)
 
 ## Próxima Reunião
 * **Data da Próxima Reunião:** 30/09/2023 (Gravação do brainstorm)
@@ -48,3 +48,4 @@ Fonte: cronograma; MARQUES, Maria 2023.
 | Versão | Data       | Descrição               | Autor(es)     | Revisor(es) |
 |--------|------------|-------------------------|---------------|-------------|
 | 1.0    | 29/09/2023 | Criação da documentação | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [João Victor Costa de Andrade](https://github.com/jvcostta) |
+| 1.1    | 06/12/2023 | Correção do link da reunião. | [Mateus Orlando](https://github.com/MateusPy) | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |
