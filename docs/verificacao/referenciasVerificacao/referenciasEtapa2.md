@@ -241,7 +241,7 @@ Fonte: [Mateus Orlando](https://github.com/MateusPy), 2023.
 | I4 | A pessoa que fez a introspeção estudou o aplicativo primeiro? |  
 | I5 | Algum usuário participou dessa técnica além dos integrantes do grupo? |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 **Imagem 13 - Imagem das perguntas de I1 a I4.**
 

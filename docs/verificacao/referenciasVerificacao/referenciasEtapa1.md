@@ -135,7 +135,7 @@ Fonte: BARBOSA, Maria. 2023.
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 **Imagem 3 - Imagem das perguntas M1, M3, M4 e M5**
 
@@ -164,7 +164,7 @@ Fonte: 2023.2-Simplenote. Verificação grupo Simplenote - Checklist do conteúd
 | F9 | Foi escolhida uma ferramenta adequada para gerar um site estático? |
 | F10 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 **Imagem 4 - Imagem das perguntas F2, F4, F6, F7**
 

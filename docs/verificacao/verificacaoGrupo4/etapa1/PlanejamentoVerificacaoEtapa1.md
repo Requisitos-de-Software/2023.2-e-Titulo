@@ -181,8 +181,7 @@ Fonte: Maria Barbosa, 2023.
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? |  |  |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? |  |  |
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
-
+Fonte: COSTA, João 2023.
 </center>
 
 ### Checklist da Verificação das Ferramentas
@@ -204,7 +203,7 @@ Fonte: [João Costa.](https://github.com/jvcostta), 2023.
 | F9 | Foi escolhida uma ferramenta adequada para gerenciamento de projeto? |  |  |
 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 </center>
 

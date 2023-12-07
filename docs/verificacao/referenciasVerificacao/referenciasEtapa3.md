@@ -91,7 +91,7 @@ Fonte: SOBRENOME, nome. 2023.
 | C10 | Há uma explicação sobre as comunicações entre atores, sistema, casos de uso e as relações? Como os "extends" e/ou "includes"? | 
 
 
-Fonte: [João Costa.](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 **Imagem 3 - Imagem das perguntas C1 a C9**
 

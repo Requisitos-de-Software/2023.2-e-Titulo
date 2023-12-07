@@ -309,14 +309,13 @@ Nas tabelas 11 e 12 estão os cronogramas planejado e executado da entrega 5.2.
 
   | Atividade | Data de Início | Data de Fim | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
-  | Verificação e Validação - Grupo 4 - Artefatos: Escolha do aplicativo, Brainstorming, Entrevista, Especificação Suplementar |  11/11  |   13/11 |   [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza), |
-  | Verificação e Validação - Grupo 4 - Artefatos: - Ferramentas, Introspecção, Questionário, Casos de Uso |  11/11  | 13/11 |  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
-  | Verificação e Validação - Grupo 4 - Artefatos: Apresentações, Perfil do Usuário, Cenários, Histórias de Usuário |  11/11  | 13/11  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-  | Verificação e Validação - Grupo 4 - Artefatos: Cronograma, First Things First, NFR Framework |  11/11  | 13/11 | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
-  | Verificação e Validação - Grupo 4 - Artefatos: Rich Picture, Three Level Scale, MoSCoW, Backlog |  11/11  | 13/11 | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
-  | Verificação e Validação - Grupo 4 - Artefatos: Metodologia, Personas, Léxicos |  11/11  | 13/11 | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
-  | Gravação da apresentação | 13/11 | 13/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
-  | Correções após o feedback da apresentação | 14/11 | 16/11 | 17/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
+  | Verificação e Validação - Grupo 4 - Artefatos:$100, First Things First, Three Level Scale, Léxicos e Matriz  | 25/11  | 02/12  | [Esther Sena](https://github.com/esmsena) |[Mariiana Siqueira](https://github.com/Maryyscreuza) |
+  | Verificação e Validação - Grupo 4 - Artefatos: Metodologia, Ferramentas, instropecção e casos de uso | 25/11  | 02/12  | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |
+  | Verificação e Validação - Grupo 4 - Artefatos: cronograma,perfil de usuário,personas,backlog e backward-from  | 25/11  | 02/12  | [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
+  | Verificação e Validação - Grupo 4 - Artefatos: Escolha do aplicativo,Rich Picture, Especificação Suplementar e forward-from | 25/11  | 02/12  | [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
+  | Verificação e Validação - Grupo 4 - Artefatos: brainstorming,questionário, história de usuário e nfr framework |25/11  | 02/12  | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
+  | Verificação e Validação - Grupo 4 - Artefatos: apresentação, entrevista, storytelling e cenários | 25/11  | 02/12  | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
+  | Gravação da apresentação |  04/12  | 04/12   |  04/12  |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)|
 
 
   </p>
@@ -352,12 +351,12 @@ Nas tabelas 13 e 14 estão os cronogramas planejado e executado da entrega 6.
 </details>
 
 <p style="text-align: justify"></p>
-<!--
+
 <details>
   <summary>Tabela 14: Cronograma Executado</summary>
-<!--
+
   <p>
-<!->
+
   | Atividade | Data de Início | Data de Fim | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
   | Pós-Rastreabilidade - Gerência II: Backward-from | 17/11 |  19/11  |  20/11  |  [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |[João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
@@ -366,13 +365,12 @@ Nas tabelas 13 e 14 estão os cronogramas planejado e executado da entrega 6.
   | Gravação da apresentação | 20/11 | 20/11 | 20/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
   | Correções após o feedback da apresentação |  21/11 |  23/11 | 24/11 | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)  |
 
-<!--
+
   </p>
   <div style="text-align: center">
     <p>Fonte: COSTA, João. 2023.</p>
   </div>
 </details>
--->
 <p style="text-align: justify"></p>
 
 ### Etapa Final
@@ -404,7 +402,12 @@ Nas tabelas 15 e 16 estão os cronogramas planejado e executado da entrega X.
 
   | Atividade | Data de Início | Data de Fim | Autores | Revisores |
   | :--: | :--: | :--: | :--: | :--: |
-  |  | xx/xx/2023 | xx/xx/2023 |  |  |
+  |  Verificação e validação |  05/12  |  06/12  | [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+  | App selecionado e ferramentas utilizadas |  05/12  |  06/12  | [Esther Sena](https://github.com/esmsena) |
+  | Cronograma planejado e cronograma executado |  05/12  |  06/12  | [João Victor](https://github.com/jvcostta) |
+  | Artefatos criados e execução do projeto |  05/12  |  06/12  |  [Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques) |
+  | Atas e apresentações |  05/12  |  06/12  | [Mateus Orlando](https://github.com/MateusPy) |
+  
 
   </p>
   <div style="text-align: center">

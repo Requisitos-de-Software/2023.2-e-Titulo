@@ -157,7 +157,7 @@ Caso nao consiga assistir, [Clique aqui](https://www.youtube.com/embed/uwswuKFMb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwswuKFMba4?si=LM_Spc9hYktuyqeb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: COSTA, João e ORLANDO, Mateus. 2023.</p></font>
+<font size="3"><p style="text-align: center">Fonte: COSTA, João 2023.</p></font>
 
 * Em primeira análise, o artefato não possui tópicos de "introdução" e "objetivo" assim como deveria ser de acordo com a metodologia citada no projeto. Porém essas informações estão contidas nos tópicos de "conceito" e "metodologia. Foi abordado também o fato de que as fontes das tabelas não possuem data, saindo assim da norma ABNT. Por fim pode-se concluir que o artefato foi bem desenvolvido, faltando apenas detalhes para uma melhor entrega.
 

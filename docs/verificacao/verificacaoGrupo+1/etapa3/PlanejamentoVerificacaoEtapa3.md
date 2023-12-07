@@ -147,7 +147,7 @@ Fonte: Maria Barbosa, 2023.
 | C8 | Os casos de uso possuem rastreabilidade? <a id="REF53" href="#anchor_53">53</a>|  |  |
 | C9 | Ator é uma pessoa, organização ou sistema externo que interage com seu aplicativo ou sistema? <a id="REF53" href="#anchor_53">53</a>|  |  |
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 </center>
 
 ### Checklist da Verificação da Especificação Suplementar
