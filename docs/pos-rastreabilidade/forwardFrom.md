@@ -53,9 +53,10 @@ bom entendimento dos tópicos abaixo:
   | UC | Casos de Uso |
   | US | Histórias de usuário |
 
-  ></iframe>
-<font size="3"><p style="text-align: center">Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
-</figure>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+
   
 </center>
 
@@ -74,9 +75,13 @@ Tabela 2
 | Casos de Uso          | UC          |
 | Funcionalidade        | Representação em imagem/video + Implementado/ Não implementado      |
 
-></iframe>
-<font size="3"><p>Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
-</figure>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+</center>
+
+A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
+
 
 </center>
 
@@ -125,13 +130,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C01</a></td>
       </tr>
       <tr>
-        <td>Funcionalidade</td>
-        <td><img src=../imgs/cadastro.jpg></td><td>Implementado</td>
+
+        <td>Funcionalidade</td><td>Implementado</td>
+        <td><img src=../imgs/cadastro.jpg></td>
+
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -187,7 +195,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -243,7 +253,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -296,7 +308,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -355,7 +369,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -405,15 +420,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-        <td><iframe src="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" width="640" height="480"></iframe>
-</td>
+
+        <td>"https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" </td>
+
       </tr>
     </tbody>
   </table>
 
 
   <p>Fonte Protótipo: SENA, Esther Martins - Figma, 2023.</td>
-  <p>Fonte tabela: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -469,7 +487,8 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -521,7 +540,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -575,7 +596,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
   </table>
 
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -627,7 +650,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -677,7 +702,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -732,7 +759,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -783,7 +812,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -837,12 +868,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary> RF15 - Justificativa no app</summary>
+
+  <summary> RF15 - Download da justificativa no app</summary>
+
 <p>Tabela 17: Requisito funcional 15.</p>
   <table>
     <thead>
@@ -887,7 +922,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -933,11 +970,16 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementada</td>
+
+        <td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design </td>
+
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -988,7 +1030,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1039,7 +1083,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1090,8 +1136,10 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
     </tbody>
   </table>
 
-  <td>Fonte Prototipação: João Víctor Costa Andrade, Figma -2023</td>
-  <p>Fonte Tabela: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <td>Fonte Prototipação: João Víctor COSTA Andrade, Figma -2023</td>
+  <p>Fonte Tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1137,14 +1185,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-         <td><iframe src="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"></iframe>
+
+         <td>"https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"
+
         <td></td>
       </tr>
     </tbody>
   </table>
 
   <p>Fonte Prototipação: MARQUES, Maria Eduarda - Figma, 2023.</p>
-  <p>Fonte Tabela: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte Tabela: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1191,7 +1243,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
-         	<td><iframe src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing" width="640" height="480"></iframe> </td>
+
+         	<td>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing"</td>
+
         <td>
   </td>
       </tr>
@@ -1200,7 +1254,9 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 
 
   <p>Fonte Prototipação: Maria Barbosa - Figma, 2023.</p> 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1247,15 +1303,18 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-        <td><iframe src="https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link" width="640" height="480"></iframe>
-</td>
+
+        <td>"https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link"</td>
+
       </tr>
     </tbody>
   </table>
 
 
   <p>Fonte Prototipação: NERIS, Mariiana Siqueira - Figma, 2023.</p>
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
@@ -1272,7 +1331,9 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão da
 | Especificação Suplementar   | USAB, CONF, DES, SUP ou FIS |
 | NFR   Framework             | NFR      |
 
-<p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+<p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 ### Legenda
 
@@ -1293,8 +1354,11 @@ A representação dos requisitos não funcionais seguirão o seguinte padrão da
 ### Tabela dos Requisitos
 
 A seguir será apresentado os requisitos não funcionais presentes nas tabelas 30 a 48.
+
+
 <details>
-  <summary>RNF01 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo</summary>
+  <summary>RNF01 - O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. </summary>
+
 <p>Tabela 30: Requisito não funcional 01.</p>
   <table>
     <thead>
@@ -1316,13 +1380,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF02 - O design deve garantir uma navegação clara e eficiente, facilitando a localização de funcionalidades pelos usuários.</summary>
-<p>Tabela 31: Requisito não funcional 02.</p>
+
+  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
+
   <table>
     <thead>
       <tr>
@@ -1343,13 +1410,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF03 - Todas as interações do usuário devem ser acompanhadas por feedback visual ou auditivo para fornecer orientação imediata.</summary>
-<p>Tabela 32: Requisito não funcional 03.</p>
+
+  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
+
   <table>
     <thead>
       <tr>
@@ -1364,18 +1434,22 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF04 - O aplicativo deve ser acessível a usuários com deficiências, seguindo as diretrizes de acessibilidade relevantes.</summary>
+
+  <summary>RNF04 - O aplicativo deve ser confiável para o usuário. </summary>
+
 <p>Tabela 33: Requisito não funcional 04.</p>
   <table>
     <thead>
@@ -1391,18 +1465,22 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF05 - As atualizações de status ou notificações devem ser apresentadas de maneira não intrusiva, mantendo a experiência do usuário fluida.</summary>
+
+  <summary>RNF05 - Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet.</summary>
+
 <p>Tabela 34: Requisito não funcional 05.</p>
   <table>
     <thead>
@@ -1424,12 +1502,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF06 - A interface do aplicativo deve ser intuitiva, proporcionando uma experiência fácil para todos os usuários.</summary>
+
+  <summary>RNF06 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.</summary>
+
 <p>Tabela 35: Requisito não funcional 06.</p>
   <table>
     <thead>
@@ -1451,13 +1533,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF07 - Garantir 99,9% de disponibilidade de tempo, principalmente durante períodos eleitorais, evitando interrupções não programadas.</summary>
-<p>Tabela 36: Requisito não funcional 07.</p>
+
+  <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
+
   <table>
     <thead>
       <tr>
@@ -1478,13 +1563,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF08 - Implementar backups regulares e procedimentos de recuperação eficazes para evitar perda significativa de dados em falhas inesperadas.</summary>
- <p>Tabela 37: Requisito não funcional 08.</p>
+
+  <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
+
   <table>
     <thead>
       <tr>
@@ -1499,18 +1587,22 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF09 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança, como por exemplo; login por meio da biometria digital.</summary>
+
+  <summary>RNF09 - Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele.</summary>
+
 <p>Tabela 38: Requisito não funcional 09.</p>
   <table>
     <thead>
@@ -1526,18 +1618,22 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR02</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
+
 
 </details>
 
-<details>
-  <summary>RNF10 - Manter um tempo de resposta inferior a 2 segundos para interações do usuário, assegurando uma experiência ágil.</summary>
+
+  <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
+
 <p>Tabela 39: Requisito não funcional 10.</p>
   <table>
     <thead>
@@ -1559,13 +1655,15 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF11 - O sistema deve ser capaz de lidar com um aumento de 50% no tráfego de usuários simultâneos durante o período eleitoral.</summary>
-<p>Tabela 40: Requisito não funcional 11.</p>
+
+  <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
+
   <table>
     <thead>
       <tr>
@@ -1580,19 +1678,24 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
+
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF12 - O sistema deve ser compatível com versões anteriores, garantindo que os usuários possam migrar para novas versões sem problemas.</summary>
+
+  <summary>RNF12 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.</summary>
 <p>Tabela 41: Requisito não funcional 12.</p>
+
   <table>
     <thead>
       <tr>
@@ -1607,19 +1710,23 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
+
 
 </details>
 
 <details>
-  <summary>RNF13 - O sistema deve ser projetado para permitir a adição de novos recursos ou funcionalidades sem alterações significativas no código existente.</summary>
-<p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
+<p>Tabela 41: Requisito não funcional 13.</p>
+
   <table>
     <thead>
       <tr>
@@ -1634,181 +1741,19 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
       </tr>
       <tr>
         <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
+        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR01</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
+
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
 </details>
 
-<details>
-  <summary>RNF14 - O sistema deve ser compatível com padrões de segurança reconhecidos, como o ISO 27001.</summary>
-<p>Tabela 43: Requisito não funcional 14.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP03</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary>RNF15 - O sistema deve haver um plano de backup e recuperação bem definido para proteger os dados e garantir a recuperação em caso de falhas.</summary>
-<p>Tabela 44: Requisito não funcional 15.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP04</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">NFR03</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary>RNF16 - No sistema deve haver um plano de suporte ao usuário para responder a dúvidas e problemas de forma eficaz.</summary>
-<p>Tabela 45: Requisito não funcional 16.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">SUP05</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary>RNF17 - O aplicativo deve ser otimizado para funcionar em dispositivos com configurações de hardware mínimas, assegurando uma ampla base de usuários.</summary>
-<p>Tabela 46: Requisito não funcional 17.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS01</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary>RNF18 - Os dispositivos deverão ter acesso a internet para acessar o aplicativo.</summary>
-<p>Tabela 47: Requisito não funcional 18.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS02</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-<details>
-  <summary>RNF19 - O software necessário para a compatibilidade é Android 6.0 ou superior, e a versão do IOS 3.0 ou superior.</summary>
-<p>Tabela 48: Requisito não funcional 19.</p>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Especificação Suplementar</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/">FIS03</a></td>
-      </tr>
-      <tr>
-        <td>NFR Framework</td>
-        <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/">--</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <p>Fonte: Orlando, Mateus e Costa, João. 2023.</p>
-
-</details>
-
-></iframe>
-<font size="3"><p>Fonte: [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy).</p></font>
-</figure>
+  <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
 ## Bibliografia e Referências
 
