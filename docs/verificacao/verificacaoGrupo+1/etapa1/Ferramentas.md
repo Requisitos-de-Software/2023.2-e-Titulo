@@ -34,7 +34,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 
 **Tabela 2** - Checklist para os Itens das Ferramentas.
 
-Fonte: [João Costa.](https://github.com/jvcostta)
+Fonte: COSTA, João 2023.
 
 </center>
 

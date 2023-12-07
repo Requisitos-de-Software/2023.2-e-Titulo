@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist da técnica First Things First, indicando sugestões e melhorias.
+Este documento verifica o artefato de priorização realizado pelo grupo 4 apresentando um Checklist da técnica [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/priorizacao/firstThingsFirst/), indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -36,20 +36,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | FTF6 | Os indentificadores possuem likagem de rastreabilidade? | Não | observação abaixo  |
 | FTF7 | O artefato possui link para as ferramentas utilizadas? | Sim |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
-</center>
-
-<center>
-
-**Vídeo 1** - Vídeo da inspeção.
-
-<iframe width="560" height="315" src="https://youtu.be/WSjIfYGxbGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
-
- Caso não consiga assistir dentro da gitPages [Clique aqui](https://youtu.be/WSjIfYGxbGc)
-
+Fonte: SENA, Esther. 2023.
 
 </center>
 
@@ -61,6 +48,18 @@ O documento da técnica ficou muito bom no geral, abaixo são feitas algumas sug
 - FTF3 - Por não possuir uma dinâmica com a participação dos clientes ou personas, não teria como ter o benefício relativo e a penalidade relativa estimado  de acordo com os mesmos.
 - FTF5 - A tecnica terá de ser corrigida juntamente com as demais , pois há registro de requisitos funcionais elicitados como não funcionais. Erros vindo das tecnicas de elicitação.
 - FTF6 - A tabela demonstrada é em formato de imagem, o que torna de difícil vizualização e de impossivél rastreabilidade do IDs listados na tabelas.
+
+## Vídeo da inspeção
+
+Abaixo está presente a gravação do vídeo de First Things First feito  por [Esther Sena](https://github.com/esmsena) .
+
+Vídeo 1 - link do vídeo para a inspeção sobre First Things First.
+
+-  Caso não consiga assistir dentro da gitPages, [Clique aqui](https://youtu.be/WSjIfYGxbGc).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSjIfYGxbGc?si=uEaUbMByLMtgnBq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: SENA, Esther. 2023 </p></font>
 
 ## Bibliografia
 

@@ -51,7 +51,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | M7 | O artefato apresenta a política e estrutura para a criação de issues ? | Sim | -- |
 | M8 | O artefato apresenta a política e estrutura para a criação de Pull requests ? | Sim | -- |
 
-Fonte: [João Victor](https://github.com/jvcostta), 2023.
+Fonte: COSTA, João 2023.
 
 </center>
 
@@ -78,7 +78,7 @@ Adicionar fonte as estruturas.
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 24 de novembro de 2023.
 
-> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/. Acesso em: 24 de novembro de 2023.
+> 2023.1-VLC. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_1/verificacao_metodologias. Acesso em: 24 de novembro de 2023.
 
 > 2023.1-E-titulo. GitHub. Disponível em: https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/metodologia/. Acesso em: 24 de novembro de 2023.
 

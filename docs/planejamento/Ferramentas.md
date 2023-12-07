@@ -8,6 +8,12 @@ A seguir,na Tabela 1, está a lista de ferramentas que o grupo, de maneira conse
 
 Os objetivos e motivações que levaram à utilização de ferramentas no desenvolvimento do projeto, foi visando otimizar o processo, melhorar a qualidade do trabalho, aumentar a colaboração, facilitar a comunicação e permitir uma gestão mais eficaz, resultando em um projeto bem-sucedido e eficiente.
 
+## Metodologia
+
+Para a apresentação das ferramentas, que serão utilizadas no decorrer do desenvolvimento da disciplina, foi utilizada uma tabela que segue o seguinte modelo:
+| Logo | Ferramenta | Finalidade |
+| :--  |   :--      |    :--     |
+| Logo da Ferramenta | Nome da Ferramenta| A motivação e o objetivo da utilização da respectiva ferramenta no projeto|
 ## Ferramentas
 
 |                                                                                                                      Logo      |        Ferramenta         |                             Finalidade                               |
@@ -58,3 +64,4 @@ Os objetivos e motivações que levaram à utilização de ferramentas no desenv
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |  `1.0`  | 18/09/2023 |            Criação da página de ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
 |  `1.1`  | 29/09/2023 |            Adiçãod de mais ferramentas.            | [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) |
+|  `1.2`  | 27/11/2023 |           Adição da metodologia adotada para representar as ferramentas conforme sugerido na Verificação do grupo 4.           | [Mateus Orlando](https://github.com/MateusPy) | -- |

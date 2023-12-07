@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist da técnica [matriz](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-VerificacaoEsther/docs/verificacao/verificacaoGrupo4/etapa2/%24100.md), indicando sugestões e melhorias.
+Este documento verifica as apresentações realizadas pelo grupo 4 apresentando um Checklist da técnica [matriz](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/matriz/), indicando sugestões e melhorias.
 
 ## Metodologia
 
@@ -33,7 +33,7 @@ O Checklist segue o modelo especificado em Planejamento da Verificação da Etap
 | MTZ3 | Os requisitos listados como não funcionais, são realmente não testaveis? | Incompleto | observação abaixo |
 | MTZ4 | O artefato possui legenda ? | Sim |  |
 
-Fonte: [SENA, Esther](https://github.com/esmsena). 2023.
+Fonte: SENA, Esther. 2023.
 
 </center>
 

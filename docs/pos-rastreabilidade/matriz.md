@@ -49,8 +49,8 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 
 **Tabela 2** - Matriz geral.
 
-| ID | Descrição | Artefatos relacionados (Origem) | Pré-Rastreabilidade | Elos | Implementado | 
-| -- | --------- | ------------------------------- | -------------------------------- | ------------ | ----- |
+| ID | Descrição | Artefatos relacionados (Origem) | Pré-Rastreabilidade | Elo | Implementado | 
+| -- | --------- | ------------------------------- | -------------------|-------------------------------- | ------------ |
 | RF01 | No aplicativo deve ser possível realizar o cadastro do usuário com o uso de dados pessoais como senha, endereço, CPF e RG.  | Introspecção, Brainstorming, Entrevista, Épico, História de Usuário, Léxico e Cenário | [INT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/) , [BS1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) , [ENT1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/entrevista/), [E01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro), [US01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/), [L03](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/lexico/) e [C01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/) | [EF01](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/backwardFrom/) | Sim |
 | RF02 | Deve ser possível o usuário cadastrar sua biometria durante o processo de cadastro.  | Introspecção |  [INT2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/)  | -- | Sim |
 | RF03 | O usuário deve poder escolher a forma de realizar o login.  | Questionário | [QST2](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) |  -- | Sim |
@@ -108,11 +108,8 @@ A Matriz Geral está presente na Tabela 2, demonstrando informações a respeito
 | RNF12| O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.| Introspecção, brainstorming, questionário, storytelling, épico, historiasde usuário, cenários, Especificação Suplementar e NFR Framework | [INTNF13](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/introspeccao.md),  [BSNF03](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/main/docs/elicitacao/tecnicas/brainstorming.md) , [QSTNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/questionario.md) , [STNF02](https://github.com/Requisitos-de-Software/2023.2-e-Titulo/blob/feature-backward/docs/elicitacao/tecnicas/storytelling.md), [E09](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/#e01-cadastro), [US09](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/), [INT7](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/introspeccao/), [C08](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/), [SUP01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/) e [NFR03](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/) | Sim |
 | RNF13 | O aplicativo deve manter a atualização das informações do local da votação de cada usuário.|Questionário,storytelling, Especificação Suplementar e NFR Framework | [QSTNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/questionario/) , [STNF1](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/storytelling/), [SUP02](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/) e [NFR01](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/)  |[ENF04](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/backwardFrom/) | Sim |
 
-
 Fonte: BARBOSA, Maria; MARQUES, Maria. 2023.
-
-</center>
-
+  
 ## Bibliografia
 
 > 2023.1-BilheteriaDigital. GitHub. Disponível em: https//requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/. Acesso em: 19 de novembro de 2023.

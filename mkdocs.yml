@@ -19,7 +19,9 @@ nav:
     - Ata 09: atas/ata_reuniao_09.md
     - Ata 10: atas/ata_reuniao_10.md
     - Ata 11: atas/ata_reuniao_11.md   
-    - Ata 12: atas/ata_reuniao_12.md   
+    - Ata 12: atas/ata_reuniao_12.md
+    - Ata 13: atas/ata_reuniao_13.md 
+    - Ata 14: atas/ata_reuniao_14.md 
   - Apresentações: 
     - Apresentação 01: apresentacoes/apresentacao01.md
     - Apresentação 02: apresentacoes/apresentacao02.md
@@ -54,11 +56,17 @@ nav:
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/lexico
-  - Modelagem Ágil:
-    - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
-    - Backlog: modelagem/agil/backlog.md
-    - NFR Framework: modelagem/agil/nfr.md
+    - Modelagem Ágil:
+      - Histórias de Usuário: modelagem/agil/historiasdeusuario.md
+      - Backlog: modelagem/agil/backlog.md
+      - NFR Framework: modelagem/agil/nfr.md
   - Verificação:
+    - Referências:
+      - Etapa 1: verificacao/referenciasVerificacao/referenciasEtapa1.md
+      - Etapa 2: verificacao/referenciasVerificacao/referenciasEtapa2.md
+      - Etapa 3: verificacao/referenciasVerificacao/referenciasEtapa3.md
+      - Etapa 4: verificacao/referenciasVerificacao/referenciasEtapa4.md
+      - Etapa 6: verificacao/referenciasVerificacao/referenciasEtapa6.md
     - Verificação grupo 5:
       - Entrega 1:
         - Planejamento da Verificação da Primeira Entrega: verificacao/verificacaoGrupo+1/etapa1/PlanejamentoVerificacaoEtapa1.md
@@ -128,15 +136,25 @@ nav:
         - Histórias de Usuário: verificacao/verificacaoGrupo4/etapa4/historiasUsuario.md
         - NFR Framework: verificacao/verificacaoGrupo4/etapa4/nfrFramework.md
       - Entrega 6:
-        - Planejamenti da Verificação da Sexta Entrega: verificacao/verificacaoGrupo4/etapa6/PlanejamentoVerificacaoEtapa6.md
+        - Planejamento da Verificação da Sexta Entrega: verificacao/verificacaoGrupo4/etapa6/PlanejamentoVerificacaoEtapa6.md
         - Backward-from: verificacao/verificacaoGrupo4/etapa6/backwardFrom.md
         - Forward-from: verificacao/verificacaoGrupo4/etapa6/forwardFrom.md
         - Matriz de Rastreabilidade: verificacao/verificacaoGrupo4/etapa6/matriz.md
-
   - Pós Rastreabilidade:
     - Backward-from: pos-rastreabilidade/backwardFrom.md
     - Forward-from: pos-rastreabilidade/forwardFrom.md
     - Matriz de Rastreabilidade: pos-rastreabilidade/matriz.md
+  - Validação:
+    - Consolidações: validacao/consolidacoes.md
+    - Informal: validacao/informal.md
+    - Validação do protótipo: validacao/validacaoPrototipo.md
+  - Entrega final:
+    - App selecionando e ferramentas utilizadas: entrega-final/app_selecionado_e_ferramentas_utilizadas.md
+    - Artefatos criados e execução do projeto: entrega-final/artefatos_criados_e_execucao_do_projeto.md
+    - Planejamento: entrega-final/planejamento_de_recursos_e_entregas.md
+    - Resultados alçados: entrega-final/resultados_alcancados.md
+    - Entregas e reuniões: entrega-final/tabela_entregas_e_atas.md
+    - Verificação e Validação: entrega-final/verificacao_e_validacao.md
 
 plugins:
   - search:
@@ -164,4 +182,12 @@ theme:
         icon: material/circle-half-full
         name: claro  
 
-#Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences

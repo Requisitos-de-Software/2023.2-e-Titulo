@@ -23,7 +23,7 @@ A metodologia usada será representada por tabelas, nas quais serão representad
 
 Tabela 1 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
 
 
 </center>
@@ -46,7 +46,7 @@ A seguir, as tabelas de 2 a 11 representarão os cenários referentes aos requis
 
 Tabela 2 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
 
 </center>
 
@@ -65,7 +65,8 @@ Tabela 2 - Representação dos cenários
 
 Tabela 3 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -84,7 +85,8 @@ Tabela 3 - Representação dos cenários
 
 Tabela 4 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -103,7 +105,8 @@ Tabela 4 - Representação dos cenários
 
 Tabela 5 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -122,7 +125,8 @@ Tabela 5 - Representação dos cenários
 
 Tabela 6 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -141,7 +145,8 @@ Tabela 6 - Representação dos cenários
 
 Tabela 7 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -160,7 +165,8 @@ Tabela 7 - Representação dos cenários
 
 Tabela 8 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -179,7 +185,8 @@ Tabela 8 - Representação dos cenários
 
 Tabela 9 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -198,7 +205,8 @@ Tabela 9 - Representação dos cenários
 
 Tabela 10 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
@@ -217,7 +225,8 @@ Tabela 10 - Representação dos cenários
 
 Tabela 11 - Representação dos cenários
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/jvcostta">João Costa</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Fonte: COSTA, João 2023</a></b></p></font>
+
 
 </center>
 
