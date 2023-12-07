@@ -17,7 +17,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Planejamento | [Git Pages](https://requisitos-de-software.github.io/2023.2-e-Titulo/) | -- | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Esther Sena](https://github.com/esmsena), [Mariiana Siqueira](https://github.com/Maryyscreuza), [Maria Barbosa](https://github.com/Madu01), [Maria Marques](https://github.com/EduardaSMarques), [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
   | Planejamento | [Escolha do Aplicativo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/aplicativoescolhido/) | Rich Picture | [Maria Barbosa](https://github.com/Madu01) | [Maria Marques](https://github.com/EduardaSMarques) e [João Victor](https://github.com/jvcostta) |
   | Planejamento | [Termos de Uso do app E-titulo](https://requisitos-de-software.github.io/2023.2-e-Titulo/planejamento/copiatermos/)  | -- | [João Victor](https://github.com/jvcostta) | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
@@ -43,7 +43,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | --  | [Perfil do Usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/perfilDoUsuario/) | Questionário | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
   | --  | [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/Personas/) | Personas | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  | [Maria Marques](https://github.com/EduardaSMarques) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
   | Técnica de Elicitação | [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/elicitacao/tecnicas/brainstorming/) | Brainstorming | [Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena) | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) |
@@ -71,7 +71,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Modelagem  | [Casos de Uso](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/casosdeuso/) | Casos de Uso | [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) e [Esther Sena](https://github.com/esmsena) |
   | Modelagem  | [Especificação suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/especificacao-suplementar/) | Especificação suplementar | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques](https://github.com/EduardaSMarques) |
   | Modelagem  | [Cenários](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/) | Cenários | [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy) |  
@@ -92,7 +92,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Modelagem Ágil  | [Histórias de Usuário]() | Histórias de Usuário | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) |
   | Modelagem Ágil  | [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/) | Backlog do Produto | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques](https://github.com/EduardaSMarques) |
   | Modelagem Ágil  | [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/nfr/) | NFR Framework | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques](https://github.com/EduardaSMarques) | [Mateus Orlando](https://github.com/MateusPy) e [João Victor](https://github.com/jvcostta) |
@@ -112,7 +112,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Verificação Grupo 5 | [Planejamento da verificação da 1º etapa grupo 5](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/PlanejamentoVerificacaoEtapa1/) | -- | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
   | Verificação Grupo 5 | [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/apresentacao/) | inspeção do Fagan| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
   | Verificação Grupo 5 | [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/cronograma/) |  inspeção do Fagan|  [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
@@ -128,7 +128,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   | Verificação Grupo 5 | [Observação](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/observacao/) |  inspeção do Fagan|  [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
   | Verificação Grupo 5 | [Introspecção](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/Introspeccao/) |  inspeção do Fagan|  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
   | Verificação Grupo 5 | [Questionário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/questionario/) |  inspeção do Fagan| [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
-  | Verificação Grupo 5 | [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/firstThingsFirst/) |  inspeção do Fagan| [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena)  |
+  | Verificação Grupo 5 | [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/firstThingsFirst/) |  inspeção do Fagan| [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
   | Verificação Grupo 5 | [MoSCoW](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/MoSCoW/) |  inspeção do Fagan| [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
   | Verificação Grupo 5 | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/TLS/) |  inspeção do Fagan| [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
   |Verificação Grupo 5 | [Planejamento da verificação da 3º etapa grupo 5](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/PlanejamentoVerificacaoEtapa3/) | -- | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
@@ -156,7 +156,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
    <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Verificação Grupo 4 | [Planejamento da verificação da 1º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/PlanejamentoVerificacaoEtapa1/) | -- | [João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
   | Verificação Grupo 4 | [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/apresentacao/) | inspeção do Fagan| [Mateus Orlando](https://github.com/MateusPy) | [João Victor](https://github.com/jvcostta) |
   | Verificação Grupo 4 | [Cronograma](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/cronograma/) |  inspeção do Fagan|  [Maria Barbosa](https://github.com/Madu01) |[Mariiana Siqueira](https://github.com/Maryyscreuza)|
@@ -167,7 +167,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   |  Verificação Grupo 4 | [Planejamento da verificação da 2º etapa Grupo 4](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/PlanejamentoVerificacaoEtapa2/) | -- | [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy)   |  [Esther Sena](https://github.com/esmsena),[João Victor](https://github.com/jvcostta),[Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques),[Mariiana Siqueira](https://github.com/Maryyscreuza),[Mateus Orlando](https://github.com/MateusPy) |
   | Verificação Grupo 4 | [Personas](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/personas/) |  inspeção do Fagan| [Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta)  |
   | Verificação Grupo 4 | [Perfil do usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/PerfilUsuario/) |  inspeção do Fagan|[Maria Barbosa](https://github.com/Madu01) | [João Victor](https://github.com/jvcostta) |
-  | Verificação Grupo 4 | [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/brainstorming/) |  inspeção do Fagan| [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques)  |
+  | Verificação Grupo 4 | [Brainstorming](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/brainstorming/) |  inspeção do Fagan| [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Marques ](https://github.com/EduardaSMarques) |
   | Verificação Grupo 4 | [Entrevista](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/entrevista/) |  inspeção do Fagan|  [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)  |
   | Verificação Grupo 4 | [Storytelling](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/storytelling/) |  inspeção do Fagan|  [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01) |
   | Verificação Grupo 4 | [Introspecção](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/Introspeccao/) |  inspeção do Fagan|  [João Victor](https://github.com/jvcostta) |[Mateus Orlando](https://github.com/MateusPy)  |
@@ -207,7 +207,7 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
   <p>
 
   | Ponto de controle | Artefato | Técnicas | Autores | Revisores |
-  | :--: | :--: | :--: | :--: | :--: |
+  | -- | -- | -- | -- | -- |
   | Pós rastreabilidade | [Backward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/backwardFrom/) |-- |  [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |[João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy)  |
   | Pós rastreabilidade | [Forward-from](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/forwardFrom/) |-- | [João Victor](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) |
   | Pós rastreabilidade | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/matriz/) | -- |  [Maria Barbosa](https://github.com/Madu01)e [Maria Marques ](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
@@ -228,4 +228,5 @@ O objetivo desse artefato é explicitar todos os artefatos criados e a execuçã
 | `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Barbosa](https://github.com/Madu01) e [Maria Marques ](https://github.com/EduardaSMarques) |
 | `1.1`  | 06/12/2023  | Adição das tabelas das etapas 5.1, 5.2 e 6 |  [Maria Marques ](https://github.com/EduardaSMarques)  | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
 | `1.2`  | 06/12/2023  | Adição dos conteúdos nas tabelas da etapa 1 até etapa 4 | [Maria Barbosa](https://github.com/Madu01)  | [Mateus Orlando](https://github.com/MateusPy) |
+| `1.3`  | 06/12/2023  | correção nas tabelas | [Maria Barbosa](https://github.com/Madu01)  | [Mateus Orlando](https://github.com/MateusPy) |
 

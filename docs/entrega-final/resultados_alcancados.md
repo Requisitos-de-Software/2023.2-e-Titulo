@@ -13,11 +13,11 @@ Ao longo da jornada do projeto, foi particularmente enriquecedor contar com uma 
 
 ## Resultados Obtidos
 
-Ao final do projeto foi realizado 121 artefatos realizados, sendo eles:
+Ao final do projeto foi realizado 126 artefatos realizados, sendo eles:
 
 - 1 do aplicativo;
 - 14 atas de reunião;
-- 7 de apresentação;
+- 8 de apresentação;
 - 10 de planejamento;
 - 8 técnicas de elicitação;
 - 3 técnicas de priorização;
@@ -27,7 +27,7 @@ Ao final do projeto foi realizado 121 artefatos realizados, sendo eles:
 - 58 de verificação;
 - 3 de validação;
 - 5 de referências;
-- 2 na entrega final.
+- 6 na entrega final.
 
 Ao longo do projeto, aplicaram-se os conhecimentos adquiridos nas fases de planejamento, elicitação, modelagem, análise (verificação e validação) e rastreabilidade. Durante essas atividades, algumas demandaram maior complexidade nos conteúdos, enquanto outras envolveram interações diretas com os usuários do aplicativo.
 

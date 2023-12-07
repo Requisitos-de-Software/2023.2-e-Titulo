@@ -27,11 +27,9 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
 
 ## Verificação Grupo + 1
 
-<details>
- <p> Tabela 1: Verificação entrega 1 do grupo 5 - Jitsi.</p>
-  <summary>Entrega 1</summary>
+### Entrega 1
 
-  <p>
+Tabela 1: Verificação entrega 1 do grupo 5 - Jitsi.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -42,20 +40,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/metodologia/) | Lista de Verificação e Inspeção | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
   | [Rich Picture](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa1/richPicture/) | Lista de Verificação e Inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
-  </p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 2
 
-<p style="text-align: justify"></p>
-
-<details>
-<p> Tabela 2: Verificação entrega 2 do grupo 5 - Jitsi.</p>
-  <summary>Entrega 2</summary>
-
-  <p>
+Tabela 2: Verificação entrega 2 do grupo 5 - Jitsi.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -70,20 +59,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [MoSCoW](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/MoSCoW/) | Lista de Verificação e Inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
   | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa2/TLS/) | Lista de Verificação e Inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
-  </p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 3
 
-<p style="text-align: justify"></p>
-
-<details>
-<p> Tabela 3: Verificação entrega 3 do grupo 5 - Jitsi.</p>
-  <summary>Entrega 3</summary>
-
-  <p>
+Tabela 3: Verificação entrega 3 do grupo 5 - Jitsi.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -92,20 +72,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/especificacao-suplementar/) | Lista de Verificação e Inspeção | [Esther Sena](https://github.com/esmsena) | [Mariiana Siqueira](https://github.com/Maryyscreuza) |
   | [Léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa3/lexicos/) | Lista de Verificação e Inspeção | [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 
-  </p>
+ Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 4
 
-<p style="text-align: justify"></p>
-
-<details>
-<p> Tabela 4: Verificação entrega 4 do grupo 5 - Jitsi.</p>
-  <summary>Entrega 4</summary>
-
-  <p>
+Tabela 4: Verificação entrega 4 do grupo 5 - Jitsi.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -113,22 +84,14 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/backlog/) | Lista de Verificação e Inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
   | [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo%2B1/etapa4/nfrFramework/) | Lista de Verificação e Inspeção | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Esther Sena](https://github.com/esmsena) |
 
-  </p>
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
-
-<p style="text-align: justify"></p>
-
+Fonte: SIQUEIRA, Mariiana. 2023.
+   
 ## Verificação Grupo 4
 
-<details>
- <p> Tabela 5: Verificação entrega 1 do grupo 4 - e-Título.</p>
-  <summary>Entrega 1</summary>
+### Entrega 1
 
-  <p>
-
+Tabela 5: Verificação entrega 1 do grupo 4 - e-Título.
+  
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
   | [Apresentação](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/apresentacao/) | Lista de Verificação e Inspeção | [Mateus Orlando](https://github.com/MateusPy) | [João Costa](https://github.com/jvcostta) | 
@@ -138,21 +101,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Metodologia](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/metodologia/) | Lista de Verificação e Inspeção | [João Costa](https://github.com/jvcostta) | [Mateus Orlando](https://github.com/MateusPy) |
   | [Rich Picture](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa1/richPicture/) | Lista de Verificação e Inspeção | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
 
-  </p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 2
 
-<p style="text-align: justify"></p>
-
-<details>
-
- <p> Tabela 6: Verificação entrega 2 do grupo 4 - e-Título.</p>
-  <summary>Entrega 2</summary>
-
-  <p>
+Tabela 6: Verificação entrega 2 do grupo 4 - e-Título.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -167,20 +120,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [First Things First](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/firstThingsFirst/) | Lista de Verificação e Inspeção |  [Esther Sena](https://github.com/esmsena) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
   | [Three Level Scale](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa2/TLS/) | Lista de Verificação e Inspeção |  [Esther Sena](https://github.com/esmsena) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 
-  </p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 3
 
-<p style="text-align: justify"></p>
-
-<details>
- <p> Tabela 7: Verificação entrega 3 do grupo 4 - e-Título.</p>
-  <summary>Entrega 3</summary>
-
-  <p>
+Tabela 7: Verificação entrega 3 do grupo 4 - e-Título.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -189,20 +133,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Especificação Suplementar](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/especificacao-suplementar/) | Lista de Verificação e Inspeção | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
   | [Léxicos](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa3/lexicos/) | Lista de Verificação e Inspeção | [Esther Sena](https://github.com/esmsena) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 
-  </p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+### Entrega 4
 
-<p style="text-align: justify"></p>
-
-<details>
- <p> Tabela 8: Verificação entrega 4 do grupo 4 - e-Título.</p>
-  <summary>Entrega 4</summary>
-
-  <p>
+Tabela 8: Verificação entrega 4 do grupo 4 - e-Título.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -210,19 +145,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa4/backlog/) | Lista de Verificação e Inspeção | [Maria Eduarda Barbosa](https://github.com/Madu01) | [Mariiana Siqueira](https://github.com/Maryyscreuza)  |
   | [NFR Framework](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa4/nfrFramework/) | Lista de Verificação e Inspeção | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Maria Eduarda Marques](https://github.com/EduardaSMarques) |
 
-  </p>
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-<p style="text-align: justify"></p>
+### Etapa 5
 
-<details>
- <p> Tabela 9: Verificação entrega 6 do grupo 4 - e-Título.</p>
-  <summary>Entrega 6</summary>
-
-  <p>
+Tabela 9: Verificação entrega 6 do grupo 4 - e-Título.
 
   | Artefatos | Técnicas | Autores | Revisores |
   | :--: | :--: | :--: | :--: |
@@ -230,20 +157,11 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Forward-From](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/forwardFrom/) | Lista de Verificação e Inspeção | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
   | [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-e-Titulo/verificacao/verificacaoGrupo4/etapa6/matriz/) | Lista de Verificação e Inspeção |  [Esther Sena](https://github.com/esmsena) | [Maria Eduarda Barbosa](https://github.com/Madu01) |
 
-  </p>
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
-<p style="text-align: justify"></p>
+### Gravação - Inspeção e Consolidação
 
-<details>
-
-<p> Tabela 10: Gravações Inspeções e Consolidações.</p>
-  <summary>Gravação - Inspeção e Consolidação</summary>
-
-  <p>
+Tabela 10: Gravações Inspeções e Consolidações.
 
   | Artefato | Autores do artefato | Responsável pela inspeção | Gravação de Inspeção | Responsável pela consolidação | Gravação de Consolidação |
   | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -258,22 +176,13 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Histórias de Usuário](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/historiasdeusuario/) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Esther Sena](https://github.com/esmsena) e [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Inspeção de Histórias de Usuário](https://www.youtube.com/embed/kB8O8AzKIAM?si=PYfcalploUcFGL3Z) | [Mariiana Siqueira](https://github.com/Maryyscreuza) | [Consolidação de Histórias de Usuário](https://www.youtube.com/embed/r6xJlf87K-A?si=df2aRPJZu8Befg2o) |
   | [Forward-From](https://requisitos-de-software.github.io/2023.2-e-Titulo/pos-rastreabilidade/forwardFrom/) | [João Costa](https://github.com/jvcostta) e [Mateus Orlando](https://github.com/MateusPy) | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | -- | [Maria Eduarda Marques](https://github.com/EduardaSMarques) | [Consolidação de Forward-From](https://www.youtube.com/embed/9seMT4oUxr4?si=Nm1_MvJBVLg99lfb) |
 
-  </p>
-
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Validação
 
 ### Validação Protótipo
 
-<details>
- <p> Tabela 11: Validação protótipo grupo 4.</p>
-  <summary>Validação Protótipo</summary>
-
-  <p>
+Tabela 11: Validação protótipo grupo 4.
 
   | Protótipo | Responsável | Entrevistado | Data | Entrevista |
   | ----------- | -------- | -------- | -------- | -------- | 
@@ -284,14 +193,7 @@ E para a parte de validação informal foi elaborado um email e enviado aos dese
   | [Protótipo 5](https://www.figma.com/proto/yCXfHJkukhJwlLwr9Rbx6t/Untitled?type=design&node-id=28-119&t=Z9SK8k4KBmMHdsfH-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A2) | [João Costa](https://github.com/jvcostta) | Gustavo Marocolo | 30/11/2023 | [Entrevista com Gustavo](https://www.youtube.com/embed/hRX2EdqhShI?si=yhvHH0fHhtIQ6GhP) |  
   | [Protótipo 6](https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?page-id=0%3A1&type=design&node-id=5-161&viewport=622%2C77%2C0.61&t=BW6HKlhSmCx6HGaD-1&scaling=min-zoom&starting-point-node-id=5%3A161&mode=design) | [Mateus Orlando](https://github.com/MateusPy) | Winniver Castro | 28/11/2023 | [Entrevista com Winniver](https://www.youtube.com/embed/_B4fk8remwM?si=QnDX44NioYY4fXCn) |  
 
-  </p>
-
-  <div style="text-align: center">
-    <p>Fonte: SIQUEIRA, Mariiana. 2023.</p>
-  </div>
-</details>
-
-<p style="text-align: justify"></p>
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ### Validação Informal
 
@@ -305,3 +207,4 @@ Apesar da abordagem de validação informal, o grupo recebeu apenas uma espécie
 | ------ | ------ | ------------- | ------------- | -------------- |
 | `1.0`  | 04/12/2023  | Criação do documento e estrutura da tabela. | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Esther Sena](https://github.com/esmsena) |
 | `1.1`  | 05/12/2023  | Preenchendo o documento com a verificação do grupo + 1, verificação do grupo 4 e validação do grupo 4. | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Esther Sena](https://github.com/esmsena) |
+| `1.2`  | 06/12/2023  | Arrumando as tabelas para o git pages | [Mariiana Siqueira](https://github.com/Maryyscreuza)  | [Esther Sena](https://github.com/esmsena) |

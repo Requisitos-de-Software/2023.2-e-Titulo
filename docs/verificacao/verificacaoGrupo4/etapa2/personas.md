@@ -20,9 +20,9 @@ No Vídeo 1, demonstra a inspeção individual no artefato de Personas, realizad
 
 **Vídeo 1** - Vídeo da inspeção individual.
 
-<iframe width="560" height="315" src="https://youtu.be/HmbARagdXkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HmbARagdXkw?si=vCM1N1ZhZZ7UXPdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Fonte: Maria Barbosa, 2023.
+Fonte: BARBOSA, Maria, 2023.
 
 </center>
 

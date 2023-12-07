@@ -80,10 +80,6 @@ Tabela 2
 
 </center>
 
-A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
-
-
-</center>
 
 A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acordo com o [backlog](https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/agil/backlog/)
 
@@ -130,7 +126,6 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
         <td><a href="https://requisitos-de-software.github.io/2023.2-e-Titulo/modelagem/Cenarios/">C01</a></td>
       </tr>
       <tr>
-
         <td>Funcionalidade</td><td>Implementado</td>
         <td><img src=../imgs/cadastro.jpg></td>
       </tr>
@@ -419,9 +414,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-        <td>"https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk" </td>
-
+        <td><a href="https://drive.google.com/file/d/1zh9v94_KrINMAaaX4W4KMmaNkz_JLMUo/view?usp=drivesdk">Clique aqui</a></td>
       </tr>
     </tbody>
   </table>
@@ -969,9 +962,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementada</td>
-
-        <td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design </td>
-
+        <!--<td>https://www.figma.com/proto/Hxi8RVk99MX0bfKlV916Qs/Untitled?type=design&node-id=5-161&t=nNNxUCSPsshiHrWz-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A161&mode=design</td> -->
       </tr>
     </tbody>
   </table>
@@ -1184,9 +1175,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-         <td>"https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view" width="640" height="480"
-
+         <td><a href="https://drive.google.com/file/d/1TIH55jd4XUJxzC_jXfzOp_Co5Xn987p-/view">Clique aqui</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1242,9 +1231,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não Implementado</td>
-
-         	<td>src="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing"</td>
-
+         	<td><a href="https://drive.google.com/file/d/1P5Q_XO7-ju6cvlYcgPOuPlxFqiZjzU1f/view?usp=sharing">Clique aqui</a></td>
         <td>
   </td>
       </tr>
@@ -1302,9 +1289,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
       </tr>
       <tr>
         <td>Funcionalidade</td><td>Não implementado</td>
-
-        <td>"https://drive.google.com/file/d/1U1UttUA0461fHh5noAEw4TzeKkeWM62g/view?usp=drive_link"</td>
-
+        <td><a href="https://youtube.com/shorts/OoPy48TFiac?si=JFCpIPgKnAZx0Kv7">Clique aqui</a></td>
       </tr>
     </tbody>
   </table>
@@ -1323,7 +1308,7 @@ A seguir estarão presentes nas tabelas 3 a 28 os requisitos funcionais de acord
 ## Requisitos Não funcionais
 A representação dos requisitos não funcionais seguirão o seguinte padrão da tabela 29:
 
-<p>Tabela 29: Modelo para os requisitos não funcionais.</p>
+<p>Tabela 25: Modelo para os requisitos não funcionais.</p>
 
 | Tópico                | Referência |
 | :--                   | :--        |
@@ -1358,7 +1343,7 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 <details>
   <summary>RNF01 - O aplicativo deve possuir um forúm para a retirada de dúvidas dos usuários. </summary>
 
-<p>Tabela 30: Requisito não funcional 01.</p>
+<p>Tabela 26: Requisito não funcional 01.</p>
   <table>
     <thead>
       <tr>
@@ -1386,10 +1371,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
+<<<<<<< HEAD
 
   <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</summary>
 
 <p>Tabela 31: Requisito não funcional 02.</p>
+=======
+  <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</p>
+
+<p>Tabela 27: Requisito não funcional 02.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1417,10 +1408,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
+<<<<<<< HEAD
 
   <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários.  </summary>
 
 <p>Tabela 32: Requisito não funcional 03.</p>
+=======
+  <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários. </p>
+
+  <p>Tabela 28: Requisito não funcional 03.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1448,10 +1445,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF04 - O aplicativo deve ser confiável para o usuário. </summary>
 
-<p>Tabela 33: Requisito não funcional 04.</p>
+<p>Tabela 29: Requisito não funcional 04.</p>
   <table>
     <thead>
       <tr>
@@ -1479,10 +1475,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF05 - Para o aplicativo ser utilizado, o dispositivo que mantém ele instalado deve precisar ter acesso a internet.</summary>
 
-<p>Tabela 34: Requisito não funcional 05.</p>
+<p>Tabela 30: Requisito não funcional 05.</p>
   <table>
     <thead>
       <tr>
@@ -1510,10 +1505,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF06 - O aplicativo deve oferecer o termo de uso de forma fácil de ser encontrado, além de explicar ao usuário a sua utilidade de modo a evitar problemas de entendimento a respeito de informações do aplicativo.</summary>
 
-<p>Tabela 35: Requisito não funcional 06.</p>
+<p>Tabela 31: Requisito não funcional 06.</p>
   <table>
     <thead>
       <tr>
@@ -1542,10 +1536,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 
 <details>
+<<<<<<< HEAD
 
   <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</summary>
 
 <p>Tabela 37: Requisito não funcional 08.</p>
+=======
+  <summary>RNF07 - O aplicativo deve possuir um design intuitivo com elementos como botão e menu padronizados.</p>
+
+<p>Tabela 32: Requisito não funcional 07.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1572,10 +1572,16 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
+<<<<<<< HEAD
 
   <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</summary>
 
 <p>Tabela 37: Requisito não funcional 08.</p>
+=======
+  <summary>RNF08 - A navegação do aplicativo não deve ser poluída, como excesso de informações que podem confundir os usuários.</p>
+
+<p>Tabela 33: Requisito não funcional 08.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <table>
     <thead>
       <tr>
@@ -1602,7 +1608,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF09 - Na navegação do aplicativo deve possuir linkagem com o site do TSE ou outros aplicativos externos, assim o aplicativo possui algumas funcionalidades não sendo pertencentes a ele, mas de fora dele.</summary>
 
 <p>Tabela 38: Requisito não funcional 09.</p>
@@ -1630,9 +1635,12 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
   <p>Fonte: ORLANDO, Mateus e COSTA, João. 2023.</p>
 
 </details>
+<<<<<<< HEAD
 
 <details>
 
+=======
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
   <summary>RNF10 - O aplicativo deve oferecer suporte ao usuário.</summary>
 <p>Tabela 39: Requisito não funcional 12.</p>
 
@@ -1663,9 +1671,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
+<<<<<<< HEAD
 
   <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</summary>
 <p>Tabela 40: Requisito não funcional 12.</p>
+=======
+  <summary>RNF11 - O aplicativo deve manter sigilo nos dados do usuário a respeito de sua justificativa, permitindo a proteção dos dados, apenas os responsáveis o vê.</p>
+>>>>>>> 35583aa14b4e3dff6fc9d4ca17140b6365e26167
 
   <table>
     <thead>
@@ -1694,7 +1706,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF12 - O aplicativo deve oferecer segurança ao usuário, com a proteção nos dados, utilizando etapas de segurança.</summary>
 <p>Tabela 41: Requisito não funcional 12.</p>
 
@@ -1725,7 +1736,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF13 - O aplicativo deve manter a atualização das informações do local da votação de cada usuário.</summary>
 <p>Tabela 42: Requisito não funcional 13.</p>
 
@@ -1759,13 +1769,13 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 
 ## Bibliografia e Referências
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
+> 2023.1-SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. 2019. Acesso em: 18 nov. 2023.
 
-> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
+> 2023.2-POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamental.. Acesso em: 18 nov. 2023.
 
-> Ana, Beatriz e Kauã. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/. Acesso em: 16 nov. 2023.
+> 2023.3-Ana, Beatriz e Kauã. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-Simplenote/pos-rastreabilidade/Forward-From/. Acesso em: 16 nov. 2023.
 
-> Bosi, Rafael. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from. Acesso em: 17 nov. 2023.
+> 2023.4-Bosi, Rafael. Forward-from. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-VLC/#/pos_rastreabilidade/forward_from. Acesso em: 17 nov. 2023.
 
 
 ## Histório de Versão
@@ -1778,4 +1788,5 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 | `1.3`  | 20/11/2023 | Concertando rotas das imagens e dos protótipos | [Mateus Orlando](https://github.com/MateusPy)  |  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.4`  | 30/11/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
 | `1.5`  | 01/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
-| `1.5`  | 04/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.6`  | 04/12/2023 | Corrigindo erros da inspeção | [Mateus Orlando](https://github.com/MateusPy)  e  [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
+| `1.7`  | 06/12/2023 | Corrigindo erros de linkagem de prototipo | [João Victor](https://github.com/jvcostta) | [Maria Marques](https://github.com/EduardaSMarques) e [Maria Barbosa](https//github.com/Madu01) |
