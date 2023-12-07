@@ -20,7 +20,7 @@ Imagem 1: Rich Picture
 
 ![RichPicture](docs/../img/rich-picture.png)
 
-Fonte: [NERIS, Mariiana](https://github.com/Maryyscreuza). 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Legenda
 
@@ -37,7 +37,7 @@ Tabela 1: Legenda do Rich Picture
 | ![Fluxo](docs/../img/fluxo.png)| Fluxo | A direção do fluxo de dados (ou informações) do sistema. |
 | ![Limite](docs/../img/limite.png)| Limite | O sistema deve realizar tudo o que está dentro do limite do sistema e você pode ignorar o que está lá fora. |
 
-Fonte: [NERIS, Mariiana](https://github.com/Maryyscreuza). 2023.
+Fonte: SIQUEIRA, Mariiana. 2023.
 
 ## Bibliografia
 
@@ -53,4 +53,5 @@ Fonte: [NERIS, Mariiana](https://github.com/Maryyscreuza). 2023.
 |--------|------------|------------------------------------|---------------|-------------|
 | 1.0    | 18/09/2023 | Criação do RichPicture             | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01) |
 | 1.1    | 29/09/2023 | Adição de metodologia e ferramenta | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Esther Sena Martins](https://github.com/esmsena) |
-| 1.2    | 29/09/2023 | Correção pós inspeção | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) |  |
+| 1.2    | 30/11/2023 | Correção pós inspeção | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01)  |
+| 1.3    | 05/12/2023 | Correção fonte | [Mariiana Siqueira Neris](https://github.com/Maryyscreuza) | [Maria Eduarda Barbosa Santos](https://github.com/Madu01)  |
