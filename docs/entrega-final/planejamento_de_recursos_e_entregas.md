@@ -292,11 +292,11 @@ Nas tabelas 15 e 16 estão os cronogramas planejado e executado da entrega X.
 
 | Atividade | Data de Início | Data de Fim | Autores | Revisores |
 | :--: | :--: | :--: | :--: | :--: |
-|  Verificação e validação |  05/12  |  06/12  | [Mariiana Siqueira](https://github.com/Maryyscreuza)|
-| App selecionado e ferramentas utilizadas |  05/12  |  06/12  | [Esther Sena](https://github.com/esmsena) |
-| Cronograma planejado e cronograma executado |  05/12  |  06/12  | [João Victor](https://github.com/jvcostta) |
-| Artefatos criados e execução do projeto |  05/12  |  06/12  |  [Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques) |
-| Atas e apresentações |  05/12  |  06/12  | [Mateus Orlando](https://github.com/MateusPy) |
+|  Verificação e validação |  05/12  |  06/12  | [Mariiana Siqueira](https://github.com/Maryyscreuza)|[Esther Sena](https://github.com/esmsena) |
+| App selecionado e ferramentas utilizadas |  05/12  |  06/12  | [Esther Sena](https://github.com/esmsena) | [Mariiana Siqueira](https://github.com/Maryyscreuza)|
+| Cronograma planejado e cronograma executado |  05/12  |  06/12  | [João Victor](https://github.com/jvcostta) | [Mateus Orlando](https://github.com/MateusPy) |
+| Artefatos criados e execução do projeto |  05/12  |  06/12  |  [Maria Barbosa](https://github.com/Madu01),[Maria Marques ](https://github.com/EduardaSMarques) |[João Victor](https://github.com/jvcostta) |
+| Atas e apresentações |  05/12  |  06/12  | [Mateus Orlando](https://github.com/MateusPy) | [João Victor](https://github.com/jvcostta) |
 
 
 Fonte: COSTA, João. 2023.
