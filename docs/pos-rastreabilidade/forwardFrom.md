@@ -1371,11 +1371,9 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-
   <summary>RNF02 - O aplicativo deve permitir apenas usuários acima de 16 anos, por serem aptos a votar.</summary>
 
 <p>Tabela 27: Requisito não funcional 02.</p>
-
   <table>
     <thead>
       <tr>
@@ -1403,7 +1401,6 @@ A seguir será apresentado os requisitos não funcionais presentes nas tabelas 3
 </details>
 
 <details>
-<<<<<<< HEAD
 
   <summary>RNF03 - O aplicativo deve contribuir para a transparência e Eficiência das Eleições com os dados das eleições sendo disponíveis para os usuários.  </summary>
 
